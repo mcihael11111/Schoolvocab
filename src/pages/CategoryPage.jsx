@@ -1,16 +1,21 @@
 import { useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { ALL_WORDS } from "../data/words.js";
+import { getWordsForCategory } from "../utils/termLookup.js";
 import { CATEGORIES } from "../data/categories.js";
-import { findCategoryById } from "../utils/slugs.js";
+import { findCategoryById, findCategoryByYearAndSlug } from "../utils/slugs.js";
+import { findSubjectBySlug } from "../data/subjects.js";
 import { Badge } from "../components/ui/Badge.jsx";
 import { Breadcrumbs } from "../components/ui/Breadcrumbs.jsx";
 import { SEOHead } from "../components/ui/SEOHead.jsx";
 import { ArrowRight } from "lucide-react";
 
 export function CategoryPage({ completedTerms = new Set(), user, onOpenDrawer }) {
-  const { categorySlug } = useParams();
-  const cat = findCategoryById(CATEGORIES, categorySlug);
+  const { categorySlug, year, subjectSlug } = useParams();
+  const yearNum = year ? parseInt(year, 10) : null;
+  const cat = yearNum
+    ? findCategoryByYearAndSlug(CATEGORIES, yearNum, categorySlug)
+    : findCategoryById(CATEGORIES, categorySlug);
+  const subject = subjectSlug ? findSubjectBySlug(subjectSlug) : null;
 
   if (!cat) {
     return (
@@ -23,7 +28,7 @@ export function CategoryPage({ completedTerms = new Set(), user, onOpenDrawer })
     );
   }
 
-  const words = ALL_WORDS.filter(w => w.category === cat.name);
+  const words = getWordsForCategory(cat);
   const completedCount = words.filter(w => completedTerms.has(w.term)).length;
 
   return (
@@ -33,7 +38,12 @@ export function CategoryPage({ completedTerms = new Set(), user, onOpenDrawer })
         description={`Learn ${words.length} ${cat.name.toLowerCase()} terms: ${cat.description}. Definitions, examples, and real-world scenarios.`}
       />
 
-      <Breadcrumbs items={[
+      <Breadcrumbs items={yearNum ? [
+        { label: "Home", to: "/" },
+        { label: `Year ${yearNum}`, to: `/year/${yearNum}` },
+        { label: subject?.name || cat.domain, to: `/year/${yearNum}/${subjectSlug}` },
+        { label: cat.name },
+      ] : [
         { label: "Home", to: "/" },
         { label: "Categories", to: "/categories" },
         { label: cat.name },

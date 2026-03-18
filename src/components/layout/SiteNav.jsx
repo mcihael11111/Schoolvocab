@@ -4,8 +4,9 @@ import { Link, useNavigate, useLocation } from "react-router-dom";
 import { useWindowSize } from "../../hooks/useWindowSize.js";
 import { ALL_WORDS } from "../../data/words.js";
 
+import { YEARS } from "../../data/subjects.js";
+
 const ANCHOR_LINKS = [
-  ["Categories", "/categories"],
   ["Flashcards",  "/#flashcards"],
 ];
 
@@ -144,9 +145,9 @@ export function SiteNav({ user, onOpenLogin, onOpenProgress, onSignOut, signingO
       {/* Logo */}
       <Link to="/" style={{ display: "flex", alignItems: "center", gap: 8, textDecoration: "none", color: "inherit" }}>
         <div style={{ width: 28, height: 28, background: "#1A1A2E", borderRadius: 8, display: "flex", alignItems: "center", justifyContent: "center" }}>
-          <span style={{ color: "#fff", fontSize: 14, fontWeight: 700, fontFamily: "serif" }}>H</span>
+          <span style={{ color: "#fff", fontSize: 14, fontWeight: 700, fontFamily: "serif" }}>S</span>
         </div>
-        <span style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-0.02em" }}>HSCVocab</span>
+        <span style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-0.02em" }}>SchoolVocab</span>
       </Link>
 
       {isMobile ? (
@@ -192,8 +193,22 @@ export function SiteNav({ user, onOpenLogin, onOpenProgress, onSignOut, signingO
                   <div style={{ width: 40, height: 4, borderRadius: 99, background: "#CBD5E1" }}/>
                 </div>
 
-                {/* Nav links */}
-                <div style={{ padding: "0 20px 16px" }}>
+                {/* Year grid */}
+                <div style={{ padding: "0 20px 12px" }}>
+                  <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", color: "#94A3B8", margin: "0 0 10px 4px" }}>Browse by year</p>
+                  <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 8, marginBottom: 12 }}>
+                    {YEARS.map(y => (
+                      <Link
+                        key={y}
+                        to={`/year/${y}`}
+                        onClick={() => setMenuOpen(false)}
+                        style={{ display: "flex", alignItems: "center", justifyContent: "center", padding: "12px 8px", borderRadius: 10, background: "#F8FAFC", border: "1.5px solid #E2E8F0", fontSize: 15, fontWeight: 700, color: "#1A1A2E", textDecoration: "none" }}
+                      >
+                        Year {y}
+                      </Link>
+                    ))}
+                  </div>
+                  <div style={{ height: 1, background: "#F1F5F9", margin: "4px 0" }} />
                   {ANCHOR_LINKS.map(([label, href]) => (
                     <Link
                       key={label} to={href}
@@ -263,6 +278,9 @@ export function SiteNav({ user, onOpenLogin, onOpenProgress, onSignOut, signingO
       ) : (
         /* Desktop nav */
         <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+          {/* Years dropdown */}
+          <YearsDropdown navigate={navigate} onClose={() => {}} />
+
           {ANCHOR_LINKS.map(([item, href]) => (
             <Link
               key={item} to={href}
@@ -297,5 +315,40 @@ export function SiteNav({ user, onOpenLogin, onOpenProgress, onSignOut, signingO
         </div>
       )}
     </nav>
+  );
+}
+
+function YearsDropdown({ navigate }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <div style={{ position: "relative" }}>
+      <button
+        onClick={() => setOpen(o => !o)}
+        style={{ display: "flex", alignItems: "center", gap: 4, padding: "6px 12px", borderRadius: 8, fontSize: 14, fontWeight: 500, color: "#64748B", background: "none", border: "none", cursor: "pointer", transition: "all 0.15s" }}
+        onMouseEnter={e => { e.currentTarget.style.background = "#F8FAFC"; e.currentTarget.style.color = "#1A1A2E"; }}
+        onMouseLeave={e => { if (!open) { e.currentTarget.style.background = "none"; e.currentTarget.style.color = "#64748B"; } }}
+      >
+        Years
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" style={{ transition: "transform 0.2s", transform: open ? "rotate(180deg)" : "none" }}><path d="M6 9l6 6 6-6"/></svg>
+      </button>
+      {open && (
+        <>
+          <div onClick={() => setOpen(false)} style={{ position: "fixed", inset: 0, zIndex: 200 }} />
+          <div style={{ position: "absolute", top: "calc(100% + 6px)", left: "50%", transform: "translateX(-50%)", background: "#fff", border: "1.5px solid #E2E8F0", borderRadius: 12, padding: 8, boxShadow: "0 8px 32px rgba(0,0,0,0.12)", zIndex: 201, display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 4, minWidth: 200 }}>
+            {YEARS.map(y => (
+              <button
+                key={y}
+                onClick={() => { setOpen(false); navigate(`/year/${y}`); }}
+                style={{ padding: "10px 16px", borderRadius: 8, background: "none", border: "none", cursor: "pointer", fontSize: 14, fontWeight: 600, color: "#1A1A2E", textAlign: "center", transition: "background 0.15s", whiteSpace: "nowrap" }}
+                onMouseEnter={e => e.currentTarget.style.background = "#F8FAFC"}
+                onMouseLeave={e => e.currentTarget.style.background = "none"}
+              >
+                Year {y}
+              </button>
+            ))}
+          </div>
+        </>
+      )}
+    </div>
   );
 }

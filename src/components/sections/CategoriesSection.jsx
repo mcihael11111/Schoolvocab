@@ -4,7 +4,7 @@ import { FilterPills } from "../ui/FilterPills.jsx";
 import { DOMAINS } from "../../data/domains.js";
 import { filterCategories } from "../../utils/filterUtils.js";
 import { CATEGORIES } from "../../data/categories.js";
-import { ALL_WORDS } from "../../data/words.js";
+import { getWordsForCategory } from "../../utils/termLookup.js";
 
 // Category grid section with domain filter pills and search-driven heading.
 export function CategoriesSection({ search, activeDomain, onDomainChange, onOpenDrawer, completedTerms = new Set(), user }) {
@@ -30,7 +30,7 @@ export function CategoriesSection({ search, activeDomain, onDomainChange, onOpen
       </div>
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(min(220px, 100%), 1fr))", gap: 14, alignItems: "start" }}>
         {filteredCats.map((cat) => {
-          const catWords = user ? ALL_WORDS.filter(w => w.category === cat.name) : [];
+          const catWords = user ? getWordsForCategory(cat) : [];
           const completedCount = user ? catWords.filter(w => completedTerms.has(w.term)).length : undefined;
           const totalCount     = user ? catWords.length : undefined;
           return (

@@ -4,7 +4,7 @@ import { Badge }        from "../ui/Badge.jsx";
 import { RelatedChip }  from "../ui/RelatedChip.jsx";
 import { CAT_MAP, findTermByName } from "../../utils/termLookup.js";
 import { useWindowSize } from "../../hooks/useWindowSize.js";
-import { ALL_WORDS }    from "../../data/words.js";
+import { getWordsForCategory } from "../../utils/termLookup.js";
 import { BookOpen }     from "lucide-react";
 
 // TermPanel — category list (screen 1) + flashcard detail (screen 2).
@@ -16,7 +16,7 @@ export function TermPanel({
   isViewLimitReached = false, onView,
   user, completedTerms = new Set(), onToggleComplete, onUpgrade,
 }) {
-  const words    = ALL_WORDS.filter(w => w.category === cat.name);
+  const words    = getWordsForCategory(cat);
   const isMobile = useWindowSize() < 768;
 
   const [view,             setView]             = useState(startIndex !== null ? "detail" : "list");
@@ -218,7 +218,7 @@ export function TermPanel({
   }
 
   const isDone  = word && completedTerms.has(word.term);
-  const wordCat = (word && CAT_MAP[word.category]) || { accent: cat.accent, color: cat.color, icon: BookOpen };
+  const wordCat = (word && CAT_MAP[`${word.year}::${word.category}`]) || { accent: cat.accent, color: cat.color, icon: BookOpen };
 
   // ── Panel shell ───────────────────────────────────────────────────────────
   const panelStyle = {

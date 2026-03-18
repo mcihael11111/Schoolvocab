@@ -6,6 +6,7 @@ const ART_WORDS = [
   // ── Art Criticism & History (15) ─────────────────────────────────────────
   {
     term: "Art Movement",
+    year: 12,
     category: "Art Criticism & History",
     level: "Beginner",
     definition: "A period of artistic production unified by shared aesthetic goals, techniques, and ideological concerns, often identified retrospectively by critics and historians.",
@@ -16,6 +17,7 @@ const ART_WORDS = [
   },
   {
     term: "Modernism",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "A broad cultural and artistic movement from roughly 1860–1970 characterised by experimentation, rejection of tradition, abstraction, and faith in progress and innovation.",
@@ -26,6 +28,7 @@ const ART_WORDS = [
   },
   {
     term: "Postmodernism",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "A cultural condition and artistic mode emerging from the 1970s characterised by scepticism toward grand narratives, irony, pastiche, appropriation, and the blurring of high and popular culture.",
@@ -36,6 +39,7 @@ const ART_WORDS = [
   },
   {
     term: "Formalism",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "A critical approach that evaluates artworks primarily through their formal properties — line, shape, colour, texture, composition — rather than narrative content or social context.",
@@ -46,6 +50,7 @@ const ART_WORDS = [
   },
   {
     term: "Curation",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The process of selecting, organising, interpreting, and presenting artworks within a gallery, museum, or exhibition context, which shapes how audiences receive meaning.",
@@ -56,6 +61,7 @@ const ART_WORDS = [
   },
   {
     term: "Iconography",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The study and interpretation of the visual symbols, images, and motifs in artworks, and their conventional meanings within specific cultural and historical traditions.",
@@ -66,6 +72,7 @@ const ART_WORDS = [
   },
   {
     term: "Provenance",
+    year: 12,
     category: "Art Criticism & History",
     level: "Advanced",
     definition: "The documented history of an artwork's ownership and location from its creation to the present, which authenticates the work and raises ethical questions around repatriation.",
@@ -76,6 +83,7 @@ const ART_WORDS = [
   },
   {
     term: "Aesthetics",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The philosophical study of beauty, taste, and the nature of art, addressing questions like 'What makes something art?' and 'How do we evaluate aesthetic experience?'",
@@ -86,6 +94,7 @@ const ART_WORDS = [
   },
   {
     term: "Canon",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The body of artworks and artists considered authoritative, significant, or exemplary within a tradition — typically historically dominated by Western European male artists.",
@@ -96,6 +105,7 @@ const ART_WORDS = [
   },
   {
     term: "Patronage",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The financial and social support of artists by individuals, institutions, or states — historically shaping what art was made, for whom, and what it depicted.",
@@ -106,6 +116,7 @@ const ART_WORDS = [
   },
   {
     term: "Art Criticism",
+    year: 12,
     category: "Art Criticism & History",
     level: "Beginner",
     definition: "The practice of describing, interpreting, and evaluating artworks using critical frameworks and specialist vocabulary, often with the aim of constructing arguments about meaning and value.",
@@ -116,6 +127,7 @@ const ART_WORDS = [
   },
   {
     term: "Avant-garde",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "Artists and artworks at the experimental forefront of their time, pushing against convention, challenging audiences, and anticipating cultural directions not yet accepted.",
@@ -126,6 +138,7 @@ const ART_WORDS = [
   },
   {
     term: "Institutional Framework",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The institutions — galleries, museums, biennales, art schools, critics — that confer legitimacy on artworks and artists, thereby shaping what is recognised as art.",
@@ -136,6 +149,7 @@ const ART_WORDS = [
   },
   {
     term: "Indigenous Art",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "Visual art made by and for Indigenous communities, carrying deep cultural, spiritual, and ecological knowledge, and existing within living traditions that predate colonisation.",
@@ -146,6 +160,7 @@ const ART_WORDS = [
   },
   {
     term: "Photography as Art",
+    year: 12,
     category: "Art Criticism & History",
     level: "Intermediate",
     definition: "The contested status of photography as a fine art medium, raising questions about authorship, mechanical reproduction, and the relationship between lens-based and hand-made art.",
@@ -158,6 +173,7 @@ const ART_WORDS = [
   // ── Conceptual Framework (15) ─────────────────────────────────────────────
   {
     term: "The Four Frames",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "The HSC Visual Arts framework for understanding and making artworks — Structural, Cultural, Postmodern, and Subjective — each offering a different lens for meaning-making.",
@@ -168,6 +184,7 @@ const ART_WORDS = [
   },
   {
     term: "Subjective Frame",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "A critical framework that centres the viewer's personal, emotional, and sensory response to an artwork, acknowledging that meaning is co-created between artwork and audience.",
@@ -178,6 +195,7 @@ const ART_WORDS = [
   },
   {
     term: "Cultural Frame",
+    year: 12,
     category: "Conceptual Framework",
     level: "Intermediate",
     definition: "A critical framework that interprets artworks in relation to the cultural, historical, social, and political conditions that produced them and the values they reflect or challenge.",
@@ -188,6 +206,7 @@ const ART_WORDS = [
   },
   {
     term: "Postmodern Frame",
+    year: 12,
     category: "Conceptual Framework",
     level: "Intermediate",
     definition: "A critical framework that examines how artworks challenge originality, authorship, fixed meaning, and the boundaries between high and popular culture through strategies like appropriation, parody, and pastiche.",
@@ -198,6 +217,7 @@ const ART_WORDS = [
   },
   {
     term: "Artist",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "One of the four relationships in the conceptual framework — the maker of an artwork, whose intentions, biography, cultural position, and choices shape the work produced.",
@@ -208,6 +228,7 @@ const ART_WORDS = [
   },
   {
     term: "Artwork",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "One of the four relationships in the conceptual framework — the physical object, performance, or image produced, examined through its formal properties, materials, and construction.",
@@ -218,6 +239,7 @@ const ART_WORDS = [
   },
   {
     term: "World",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "One of the four relationships in the conceptual framework — the social, cultural, historical, and political context in which an artwork is created and received.",
@@ -228,6 +250,7 @@ const ART_WORDS = [
   },
   {
     term: "Audience",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "One of the four relationships in the conceptual framework — the viewer(s) who receive, interpret, and assign meaning to an artwork, bringing their own experiences and cultural frameworks.",
@@ -238,6 +261,7 @@ const ART_WORDS = [
   },
   {
     term: "Practice",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "The sustained process of making artworks — including developing a body of work, experimenting with media, refining ideas, and reflecting on the relationship between making and meaning.",
@@ -248,6 +272,7 @@ const ART_WORDS = [
   },
   {
     term: "Critical Study",
+    year: 12,
     category: "Conceptual Framework",
     level: "Intermediate",
     definition: "The component of HSC Visual Arts assessment that requires students to analyse, interpret, and evaluate artworks from art history and contemporary practice using the Four Frames and critical vocabulary.",
@@ -258,6 +283,7 @@ const ART_WORDS = [
   },
   {
     term: "Meaning-making",
+    year: 12,
     category: "Conceptual Framework",
     level: "Intermediate",
     definition: "The active process through which artists and viewers construct understanding and interpretation from artworks — recognising that meaning is produced, not simply received.",
@@ -268,6 +294,7 @@ const ART_WORDS = [
   },
   {
     term: "Artist Statement",
+    year: 12,
     category: "Conceptual Framework",
     level: "Intermediate",
     definition: "A written document in which an artist articulates the conceptual intentions, influences, processes, and meanings of their practice or a specific body of work.",
@@ -278,6 +305,7 @@ const ART_WORDS = [
   },
   {
     term: "Influence",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "The effect of one artist, artwork, movement, or cultural force on another, shaping choices of subject matter, style, technique, or concept.",
@@ -288,6 +316,7 @@ const ART_WORDS = [
   },
   {
     term: "Concept",
+    year: 12,
     category: "Conceptual Framework",
     level: "Beginner",
     definition: "The central idea, question, or concern that an artwork or body of work explores — the 'why' behind the visual choices, processes, and materials selected.",
@@ -298,6 +327,7 @@ const ART_WORDS = [
   },
   {
     term: "Intention",
+    year: 12,
     category: "Conceptual Framework",
     level: "Intermediate",
     definition: "The artist's stated or implied purposes in making a work — the effects they sought to produce, the ideas they aimed to explore, or the responses they wished to elicit.",
@@ -310,6 +340,7 @@ const ART_WORDS = [
   // ── Structural Frame (15) ────────────────────────────────────────────────
   {
     term: "Composition",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The arrangement of visual elements within a work — including line, shape, colour, texture, and space — to create unity, balance, tension, and visual flow.",
@@ -320,6 +351,7 @@ const ART_WORDS = [
   },
   {
     term: "Colour Theory",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The principles governing how colours relate to one another — including primary, secondary, and tertiary colours, warm and cool hues, complementary and analogous palettes, and the emotional associations of colour.",
@@ -330,6 +362,7 @@ const ART_WORDS = [
   },
   {
     term: "Line",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "A mark with length and direction — one of the fundamental elements of art — which can describe form, create movement, establish division, or express emotion.",
@@ -340,6 +373,7 @@ const ART_WORDS = [
   },
   {
     term: "Texture",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The surface quality of an artwork — either actual (physically tactile) or implied (visually suggested) — which activates haptic memory and contributes to meaning.",
@@ -350,6 +384,7 @@ const ART_WORDS = [
   },
   {
     term: "Space",
+    year: 12,
     category: "Structural Frame",
     level: "Intermediate",
     definition: "The illusion of depth or flatness in a two-dimensional work, or the actual three-dimensional area occupied by or surrounding a sculptural or installation work.",
@@ -360,6 +395,7 @@ const ART_WORDS = [
   },
   {
     term: "Form",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The three-dimensional quality of shape — whether actual (in sculpture) or implied through shading, foreshortening, and modelling in two-dimensional work.",
@@ -370,6 +406,7 @@ const ART_WORDS = [
   },
   {
     term: "Focal Point",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The area of an artwork that first attracts and holds the viewer's attention, created through contrast, colour, line, placement, or detail.",
@@ -380,6 +417,7 @@ const ART_WORDS = [
   },
   {
     term: "Scale and Proportion",
+    year: 12,
     category: "Structural Frame",
     level: "Intermediate",
     definition: "Scale refers to the size of an artwork or element relative to a standard or viewer; proportion describes the size relationship between parts within a work.",
@@ -390,6 +428,7 @@ const ART_WORDS = [
   },
   {
     term: "Contrast",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The juxtaposition of opposing visual elements — light and dark, rough and smooth, complementary colours — to create visual dynamism, emphasis, or expressive tension.",
@@ -400,6 +439,7 @@ const ART_WORDS = [
   },
   {
     term: "Visual Rhythm",
+    year: 12,
     category: "Structural Frame",
     level: "Intermediate",
     definition: "The repetition and variation of visual elements — shape, colour, line, texture — creating a sense of movement or pattern through a composition.",
@@ -410,6 +450,7 @@ const ART_WORDS = [
   },
   {
     term: "Negative Space",
+    year: 12,
     category: "Structural Frame",
     level: "Intermediate",
     definition: "The empty or unoccupied area surrounding the subject of a work — which actively shapes the composition and can carry as much expressive weight as the positive form.",
@@ -420,6 +461,7 @@ const ART_WORDS = [
   },
   {
     term: "Tonal Value",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The lightness or darkness of a colour, independent of its hue — ranging from white through grey to black — used to create the illusion of form, depth, and atmosphere.",
@@ -430,6 +472,7 @@ const ART_WORDS = [
   },
   {
     term: "Perspective",
+    year: 12,
     category: "Structural Frame",
     level: "Intermediate",
     definition: "A system for representing three-dimensional space on a two-dimensional surface, including linear perspective (vanishing points), aerial perspective (colour/tone shifts with distance), and isometric perspective.",
@@ -440,6 +483,7 @@ const ART_WORDS = [
   },
   {
     term: "Unity and Variety",
+    year: 12,
     category: "Structural Frame",
     level: "Intermediate",
     definition: "Two complementary compositional principles: unity refers to the sense of wholeness and coherence; variety introduces difference and contrast to prevent monotony and sustain visual interest.",
@@ -450,6 +494,7 @@ const ART_WORDS = [
   },
   {
     term: "Elements of Art",
+    year: 12,
     category: "Structural Frame",
     level: "Beginner",
     definition: "The fundamental visual building blocks of artworks: line, shape, form, space, colour, texture, and tonal value — the 'vocabulary' of visual language.",
@@ -462,6 +507,7 @@ const ART_WORDS = [
   // ── Art Making (15) ──────────────────────────────────────────────────────
   {
     term: "Body of Work",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "The resolved artworks submitted by an HSC student for assessment — a cohesive series of works developed through sustained studio practice that explores a central concept.",
@@ -472,6 +518,7 @@ const ART_WORDS = [
   },
   {
     term: "Process",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "The sequence of actions, decisions, experiments, and revisions an artist undertakes in developing an artwork — valued in HSC as evidence of sustained investigation.",
@@ -482,6 +529,7 @@ const ART_WORDS = [
   },
   {
     term: "Medium",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "The material or materials used to create an artwork — such as oil paint, charcoal, bronze, video, or found objects — whose specific qualities shape meaning.",
@@ -492,6 +540,7 @@ const ART_WORDS = [
   },
   {
     term: "Materiality",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "The physical, sensory, and conceptual properties of the materials used in an artwork — their texture, weight, smell, cultural associations, and transformation through artistic process.",
@@ -502,6 +551,7 @@ const ART_WORDS = [
   },
   {
     term: "Installation Art",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "An art form that creates an immersive, three-dimensional environment or experience within a specific space, often requiring audience participation or movement through the work.",
@@ -512,6 +562,7 @@ const ART_WORDS = [
   },
   {
     term: "Found Objects",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "Pre-existing, everyday objects incorporated into artworks, either unmodified (readymades) or transformed through new context, combination, or alteration.",
@@ -522,6 +573,7 @@ const ART_WORDS = [
   },
   {
     term: "Printmaking",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "A process in which an image is created on a matrix (woodblock, metal plate, screen, or stone) and transferred to a surface, typically paper, enabling multiple impressions.",
@@ -532,6 +584,7 @@ const ART_WORDS = [
   },
   {
     term: "Mixed Media",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "The use of two or more different materials, media, or art forms within a single artwork, combining their distinct properties to create layered meaning.",
@@ -542,6 +595,7 @@ const ART_WORDS = [
   },
   {
     term: "Site-specific Art",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "An artwork conceived and created for a particular location, whose meaning is inseparable from that specific place — its physical, social, and historical characteristics.",
@@ -552,6 +606,7 @@ const ART_WORDS = [
   },
   {
     term: "Gestural Painting",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "A painting approach that emphasises the physical act of mark-making — brushwork, pouring, dripping, scraping — as expressive in itself, associated with Abstract Expressionism.",
@@ -562,6 +617,7 @@ const ART_WORDS = [
   },
   {
     term: "Photography in Practice",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "The use of photography as an art-making medium, encompassing decisions about framing, lighting, depth of field, digital or darkroom processing, and the relationship between the photographic image and its subject.",
@@ -572,6 +628,7 @@ const ART_WORDS = [
   },
   {
     term: "Colour in Making",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "The practical and expressive use of colour in art-making — including mixing, layering, glazing, and the application of colour theory to achieve specific emotional or compositional effects.",
@@ -582,6 +639,7 @@ const ART_WORDS = [
   },
   {
     term: "Relief and Sculpture",
+    year: 12,
     category: "Art Making",
     level: "Intermediate",
     definition: "Three-dimensional art forms: relief projects from a flat background surface; sculpture occupies real three-dimensional space through carving, casting, modelling, or construction.",
@@ -592,6 +650,7 @@ const ART_WORDS = [
   },
   {
     term: "Drawing",
+    year: 12,
     category: "Art Making",
     level: "Beginner",
     definition: "The practice of making marks on a surface to represent, explore, or express — using pencil, charcoal, ink, pastel, or other media — foundational to all art-making.",
@@ -602,6 +661,7 @@ const ART_WORDS = [
   },
   {
     term: "Conceptual Art",
+    year: 12,
     category: "Art Making",
     level: "Advanced",
     definition: "Art in which the concept or idea is the primary driver, with the visual form serving the idea rather than existing for its own aesthetic sake — often dematerialising the object entirely.",

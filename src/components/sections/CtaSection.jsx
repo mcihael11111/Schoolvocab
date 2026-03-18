@@ -19,7 +19,7 @@ export function CtaSection({ onOpenLogin }) {
             <span style={{ fontStyle: "italic", color: "#94A3B8" }}>are the marks you'll earn tomorrow.</span>
           </h2>
           <p style={{ fontSize: 15, color: "#64748B", maxWidth: 460, lineHeight: 1.6 }}>
-            Built for Year 12 students studying Biology, Physics, Chemistry, Maths, English, and Visual Arts — every term explained clearly, in context.
+            Built for students in Years 7 to 12 — every subject, every term explained clearly, in context.
           </p>
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 12, minWidth: 200 }}>

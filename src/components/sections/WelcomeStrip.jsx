@@ -1,6 +1,7 @@
 // WelcomeStrip — shown between Hero and Ticker when a user is logged in.
 // Surfaces their overall progress and a "Resume" CTA.
 import { ALL_WORDS } from "../../data/words.js";
+import { CAT_MAP, getWordsForCategory } from "../../utils/termLookup.js";
 
 export function WelcomeStrip({ user, completedTerms, onResume }) {
   const total     = ALL_WORDS.length;
@@ -13,7 +14,8 @@ export function WelcomeStrip({ user, completedTerms, onResume }) {
 
   const handleResume = () => {
     if (!nextWord) return;
-    const wordsInCat = ALL_WORDS.filter(w => w.category === nextWord.category);
+    const cat = CAT_MAP[`${nextWord.year}::${nextWord.category}`];
+    const wordsInCat = cat ? getWordsForCategory(cat) : ALL_WORDS.filter(w => w.category === nextWord.category && w.year === nextWord.year);
     const idx        = wordsInCat.findIndex(w => w.term === nextWord.term);
     onResume(wordsInCat, idx >= 0 ? idx : 0);
   };

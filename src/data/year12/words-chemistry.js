@@ -8,6 +8,7 @@ export const CHEMISTRY_WORDS = [
 
   {
     term: "Ionic Bond",
+    year: 12,
     category: "Chemical Bonding",
     level: "Beginner",
     definition: "An ionic bond is a strong electrostatic attraction between oppositely charged ions formed when one atom transfers one or more electrons to another. Metal atoms lose electrons to form positive cations; non-metal atoms gain electrons to form negative anions. Ionic compounds typically form crystalline lattice structures with high melting points.",
@@ -18,6 +19,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Covalent Bond",
+    year: 12,
     category: "Chemical Bonding",
     level: "Beginner",
     definition: "A covalent bond is formed when two atoms share one or more pairs of electrons. Both atoms contribute electrons to the shared pair, which is attracted to both nuclei simultaneously — holding the atoms together. Covalent bonds form predominantly between non-metal atoms. Bonds can be single (one shared pair), double (two pairs), or triple (three pairs).",
@@ -28,6 +30,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Metallic Bond",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "A metallic bond is the electrostatic attraction between a lattice of positive metal ions (cations) and a 'sea' of delocalised valence electrons that move freely throughout the structure. This electron sea model explains the characteristic properties of metals: electrical and thermal conductivity, malleability, ductility, and metallic lustre.",
@@ -38,6 +41,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Electronegativity",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Electronegativity is a measure of an atom's ability to attract shared electrons toward itself in a covalent bond. It increases across a period (left to right) and decreases down a group in the periodic table. Fluorine has the highest electronegativity (4.0 on the Pauling scale). Large electronegativity differences between bonding atoms indicate ionic character; small differences indicate covalent character.",
@@ -48,6 +52,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Polarity",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Polarity refers to the unequal distribution of electron density in a molecule due to electronegativity differences. A polar covalent bond has a partial positive (δ+) end and a partial negative (δ–) end. A polar molecule has a net dipole moment — the bond dipoles do not cancel. Water (bent shape) is polar; carbon dioxide (linear) is non-polar despite having polar bonds.",
@@ -58,6 +63,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Intermolecular Forces",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Intermolecular forces are attractive forces between molecules (distinct from intramolecular bonds within molecules). They include dispersion forces (London forces, present in all molecules), dipole-dipole interactions (between polar molecules), and hydrogen bonds (between H and F, O, or N). Stronger intermolecular forces lead to higher boiling and melting points.",
@@ -68,6 +74,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Hydrogen Bond",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "A hydrogen bond is a strong type of intermolecular (or intramolecular) dipole-dipole interaction between a hydrogen atom covalently bonded to a highly electronegative atom (F, O, or N) and another electronegative atom. Hydrogen bonds are stronger than regular dipole-dipole forces but weaker than covalent bonds. They give water and biological molecules their remarkable properties.",
@@ -78,6 +85,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Van der Waals Forces",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Van der Waals forces are weak, short-range intermolecular forces including dispersion (London) forces and permanent dipole-dipole interactions. Dispersion forces arise from temporary fluctuations in electron density, creating instantaneous dipoles that induce dipoles in neighbouring molecules. They are present in all molecules and are the only forces acting between non-polar molecules.",
@@ -88,6 +96,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Lewis Structure",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "A Lewis structure (electron dot diagram) is a two-dimensional representation of a molecule showing all valence electrons as dots or lines. Bonding pairs are shown as lines between atoms; lone pairs remain on individual atoms. Lewis structures follow the octet rule (most atoms strive for 8 valence electrons) and help determine molecular geometry.",
@@ -98,6 +107,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "VSEPR Theory",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Valence Shell Electron Pair Repulsion (VSEPR) theory predicts molecular geometry by assuming that electron pairs around a central atom arrange themselves to minimise repulsion. Lone pairs repel more strongly than bonding pairs, causing bond angles to deviate from ideal values. It correctly predicts shapes like linear, trigonal planar, tetrahedral, bent, and pyramidal.",
@@ -108,6 +118,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Lattice Structure",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "A lattice structure is a regular, repeating three-dimensional arrangement of atoms, ions, or molecules. Ionic lattices consist of alternating positive and negative ions held by electrostatic forces. Metallic lattices consist of positive ions in a sea of electrons. Covalent network lattices (like diamond) consist of atoms joined by covalent bonds throughout the entire structure.",
@@ -118,6 +129,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Allotropy",
+    year: 12,
     category: "Chemical Bonding",
     level: "Advanced",
     definition: "Allotropy is the existence of two or more different structural forms (allotropes) of the same element in the same physical state. Allotropes differ in the arrangement of atoms or the type of bonds between them. Carbon has multiple allotropes: diamond (tetrahedral covalent network), graphite (hexagonal layers), and fullerene (spherical carbon cages like C₆₀).",
@@ -128,6 +140,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Valence Electrons",
+    year: 12,
     category: "Chemical Bonding",
     level: "Beginner",
     definition: "Valence electrons are the electrons in the outermost electron shell of an atom. They are the electrons involved in forming chemical bonds and determining an element's reactivity. The number of valence electrons equals the group number for main group elements (e.g., oxygen in Group 16 has 6 valence electrons).",
@@ -138,6 +151,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Electron Configuration",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Electron configuration describes how electrons are distributed in an atom's electron shells (energy levels) and subshells. The configuration is written as a series of notations, e.g., 1s² 2s² 2p⁶ for neon. Electron configuration determines an element's chemical properties, including its valence electrons, reactivity, and bonding behaviour.",
@@ -148,6 +162,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Atomic Radius",
+    year: 12,
     category: "Chemical Bonding",
     level: "Intermediate",
     definition: "Atomic radius is a measure of the size of an atom, typically defined as half the distance between the nuclei of two bonded identical atoms. It decreases across a period (increasing nuclear charge draws electrons closer) and increases down a group (additional electron shells increase distance from nucleus). Atomic radius influences reactivity and bond length.",
@@ -161,6 +176,7 @@ export const CHEMISTRY_WORDS = [
 
   {
     term: "Chemical Equilibrium",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Intermediate",
     definition: "Chemical equilibrium is a dynamic state in a reversible reaction where the rate of the forward reaction equals the rate of the reverse reaction, and the concentrations of reactants and products remain constant. Equilibrium does not mean equal concentrations — the equilibrium position may favour reactants or products.",
@@ -171,6 +187,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Le Chatelier's Principle",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Intermediate",
     definition: "Le Chatelier's Principle states that if a system at equilibrium is subjected to a stress (change in concentration, pressure, or temperature), the equilibrium will shift in the direction that partially counteracts that stress and establishes a new equilibrium. Adding a reactant shifts equilibrium toward products; raising temperature shifts equilibrium toward the endothermic direction.",
@@ -181,6 +198,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Equilibrium Constant",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Advanced",
     definition: "The equilibrium constant (K) expresses the ratio of product concentrations to reactant concentrations at equilibrium, with each concentration raised to the power of its stoichiometric coefficient. K > 1 indicates the equilibrium position favours products; K < 1 favours reactants. K is constant at constant temperature but changes with temperature.",
@@ -191,6 +209,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Acid",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Beginner",
     definition: "In the Brønsted-Lowry definition, an acid is a substance that donates a proton (H⁺) to another substance. In the Arrhenius definition, an acid produces H⁺ ions in aqueous solution. Strong acids fully dissociate in water (e.g., HCl, H₂SO₄, HNO₃); weak acids only partially dissociate (e.g., acetic acid, carbonic acid).",
@@ -201,6 +220,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Base",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Beginner",
     definition: "In the Brønsted-Lowry definition, a base is a substance that accepts a proton (H⁺). In the Arrhenius definition, a base produces OH⁻ ions in aqueous solution. Strong bases fully dissociate (e.g., NaOH, KOH); weak bases only partially dissociate (e.g., ammonia). Bases have pH > 7 in aqueous solution and react with acids in neutralisation reactions.",
@@ -211,6 +231,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "pH",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Beginner",
     definition: "pH is a logarithmic scale measuring the concentration of H⁺ (or H₃O⁺) ions in a solution: pH = -log₁₀[H⁺]. It ranges from 0 to 14 under standard conditions. pH below 7 is acidic, pH 7 is neutral, pH above 7 is basic. Each unit change in pH represents a tenfold change in H⁺ concentration.",
@@ -221,6 +242,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Buffer",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Advanced",
     definition: "A buffer is a solution that resists significant changes in pH when small amounts of acid or base are added. It typically consists of a weak acid and its conjugate base (or a weak base and its conjugate acid). Biological buffers maintain the pH of blood (approximately 7.4) within the narrow range required for enzyme function.",
@@ -231,6 +253,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Conjugate Acid-Base Pair",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Intermediate",
     definition: "A conjugate acid-base pair consists of two species related by the transfer of a single proton. When an acid donates a proton, it forms its conjugate base. When a base accepts a proton, it forms its conjugate acid. For example, in CH₃COOH ⇌ CH₃COO⁻ + H⁺, acetic acid and acetate are a conjugate pair.",
@@ -241,6 +264,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Titration",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Intermediate",
     definition: "Titration is a quantitative analytical technique in which a solution of known concentration (the titrant) is carefully added to a solution of unknown concentration until the reaction reaches its equivalence point — detected by an indicator or pH meter. The volume of titrant used, combined with the known concentration, allows calculation of the unknown concentration.",
@@ -251,6 +275,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Indicator",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Beginner",
     definition: "An acid-base indicator is a substance that changes colour depending on the pH of the solution. Indicators are themselves weak acids or bases whose conjugate forms have different colours. Common examples include phenolphthalein (colourless below pH 8.3, pink above), litmus (red in acid, blue in base), and methyl orange (red below pH 3.1, yellow above pH 4.4).",
@@ -261,6 +286,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Brønsted-Lowry Theory",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Intermediate",
     definition: "The Brønsted-Lowry theory defines acids as proton donors and bases as proton acceptors. It is broader than Arrhenius theory because it applies to non-aqueous systems and accounts for species like NH₃ (acts as a base by accepting H⁺) and HCO₃⁻ (amphoteric — can donate or accept H⁺). Acid-base reactions involve simultaneous proton transfer.",
@@ -271,6 +297,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Strong Acid",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Beginner",
     definition: "A strong acid is an acid that completely (essentially 100%) dissociates in aqueous solution, producing the maximum possible concentration of H⁺ ions. The six common strong acids are hydrochloric acid (HCl), hydrobromic acid (HBr), hydroiodic acid (HI), nitric acid (HNO₃), sulfuric acid (H₂SO₄), and perchloric acid (HClO₄).",
@@ -281,6 +308,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Weak Acid",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Intermediate",
     definition: "A weak acid is an acid that only partially dissociates in aqueous solution, establishing an equilibrium between the undissociated acid and its ions. The extent of dissociation is characterised by the acid dissociation constant (Ka). The lower the Ka, the weaker the acid. Examples include acetic acid, carbonic acid, and hydrogen fluoride.",
@@ -291,6 +319,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Neutralisation",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Beginner",
     definition: "Neutralisation is the reaction between an acid and a base to produce a salt and water. The H⁺ ions from the acid combine with the OH⁻ ions from the base to form water. The resulting solution may be neutral (pH 7), acidic, or basic depending on the relative strengths of the acid and base. Net ionic equation: H⁺ + OH⁻ → H₂O.",
@@ -301,6 +330,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Solubility Product",
+    year: 12,
     category: "Equilibrium & Acid-Base",
     level: "Advanced",
     definition: "The solubility product constant (Ksp) is the equilibrium constant for the dissolution of a sparingly soluble ionic compound in water. It equals the product of ion concentrations, each raised to the power of its stoichiometric coefficient. If the ion product (Q) exceeds Ksp, precipitation occurs; if Q < Ksp, the solution is unsaturated and more solid can dissolve.",
@@ -314,6 +344,7 @@ export const CHEMISTRY_WORDS = [
 
   {
     term: "Organic Compound",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "An organic compound is a chemical compound whose molecules contain carbon atoms covalently bonded to other elements, primarily hydrogen, oxygen, nitrogen, sulfur, and halogens. Organic compounds include all living-matter molecules (carbohydrates, lipids, proteins, DNA) as well as synthetic materials such as plastics, pharmaceuticals, and fuels.",
@@ -324,6 +355,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Hydrocarbon",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "A hydrocarbon is an organic compound composed exclusively of carbon and hydrogen atoms. Hydrocarbons are classified as saturated (alkanes — only C-C single bonds), unsaturated (alkenes — C=C double bonds; alkynes — C≡C triple bonds), or aromatic (benzene ring structures). They are the main components of fossil fuels.",
@@ -334,6 +366,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Alkane",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "Alkanes are saturated hydrocarbons with the general formula CₙH₂ₙ₊₂. They contain only single C-C and C-H bonds arranged in chains or rings. The simplest is methane (CH₄). Alkanes undergo combustion reactions readily but are relatively unreactive toward other reagents due to the strength and non-polarity of their bonds.",
@@ -344,6 +377,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Alkene",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "Alkenes are unsaturated hydrocarbons containing at least one C=C double bond, with the general formula CₙH₂ₙ for straight-chain structures. The simplest alkene is ethene (C₂H₄). The double bond makes alkenes more reactive than alkanes — they readily undergo addition reactions with hydrogen, halogens, hydrogen halides, and water.",
@@ -354,6 +388,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Alcohol",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "Alcohols are organic compounds containing one or more hydroxyl (-OH) groups bonded to a carbon atom. The general formula for monohydric alcohols is CₙH₂ₙ₊₁OH. They are named with the suffix '-ol'. Alcohols can be primary, secondary, or tertiary depending on how many carbon atoms are attached to the carbon bearing the -OH group. Ethanol (C₂H₅OH) is the most familiar.",
@@ -364,6 +399,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Carboxylic Acid",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "Carboxylic acids are organic compounds containing a carboxyl group (-COOH) — a combination of a carbonyl (C=O) and a hydroxyl (-OH) on the same carbon. They have the general formula CₙH₂ₙ₊₁COOH and are named with the suffix '-anoic acid'. They are weak acids that partially ionise in water and react with alcohols to form esters.",
@@ -374,6 +410,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Ester",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "An ester is an organic compound formed by the reaction of a carboxylic acid with an alcohol (esterification), releasing water as a by-product. Esters have the general formula RCOOR' and are named by identifying the alkyl group from the alcohol (first) and the acyl group from the acid (second, with '-anoate' suffix). They typically have pleasant fruity aromas and are found in natural flavours.",
@@ -384,6 +421,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Polymer",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "A polymer is a large molecule made up of many repeating smaller units (monomers) covalently bonded in a chain or network. Addition polymers form when monomers with double bonds link without losing atoms (e.g., polyethylene from ethene). Condensation polymers form when monomers join with loss of small molecules such as water (e.g., polyesters, proteins).",
@@ -394,6 +432,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Addition Reaction",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "An addition reaction is a reaction in which atoms or groups of atoms are added across a double or triple bond, converting it to a single bond. The substrate is an unsaturated compound (alkene or alkyne). Common addition reactions include hydrogenation (add H₂), halogenation (add Br₂ or Cl₂), hydrohalogenation (add HX), and hydration (add H₂O).",
@@ -404,6 +443,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Substitution Reaction",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "A substitution reaction is a reaction in which one atom or group in a molecule is replaced by another atom or group. In organic chemistry, alkanes undergo free radical substitution with halogens (e.g., CH₄ + Cl₂ → CH₃Cl + HCl in UV light). Aromatic compounds undergo electrophilic aromatic substitution. Nucleophilic substitution is common in alkyl halides.",
@@ -414,6 +454,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Condensation Reaction",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "A condensation reaction is a reaction in which two molecules combine to form a larger molecule, with the loss of a small molecule — usually water (or occasionally hydrogen chloride or methanol). Esterification (acid + alcohol → ester + water) and polyamide formation (amino acids linking to form proteins) are both condensation reactions.",
@@ -424,6 +465,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Functional Group",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "A functional group is a specific atom or group of atoms within a molecule that is responsible for the molecule's characteristic chemical reactions. Each functional group confers predictable reactivity — regardless of the carbon chain it is attached to. Key functional groups include hydroxyl (-OH), carboxyl (-COOH), carbonyl (C=O), amino (-NH₂), and halide (-X).",
@@ -434,6 +476,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Isomer",
+    year: 12,
     category: "Organic Chemistry",
     level: "Intermediate",
     definition: "Isomers are compounds with the same molecular formula but different structural arrangements or spatial configurations. Structural (constitutional) isomers differ in the connectivity of atoms. Stereoisomers (including geometric/cis-trans and optical isomers) have the same connectivity but different spatial arrangements. Isomers often have significantly different physical and biological properties.",
@@ -444,6 +487,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Homologous Series",
+    year: 12,
     category: "Organic Chemistry",
     level: "Beginner",
     definition: "A homologous series is a family of organic compounds with the same general formula and functional group, where successive members differ by a -CH₂- unit. Members of a homologous series show a gradual trend in physical properties (boiling point, viscosity) and similar chemical properties. Alkanes, alkenes, and alcohols are each homologous series.",
@@ -454,6 +498,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Saponification",
+    year: 12,
     category: "Organic Chemistry",
     level: "Advanced",
     definition: "Saponification is the alkaline hydrolysis of an ester to produce an alcohol and the salt of a carboxylic acid (a soap). The reaction is: RCOOR' + NaOH → RCOONa + R'OH. It is the chemical basis of soap making and is distinct from acid hydrolysis in that the products include the carboxylate salt rather than the free carboxylic acid.",
@@ -467,6 +512,7 @@ export const CHEMISTRY_WORDS = [
 
   {
     term: "Qualitative Analysis",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Beginner",
     definition: "Qualitative analysis identifies what substances are present in a sample without measuring the amount. It uses observations such as colour changes, precipitation, gas evolution, or flame test colours to determine the identity of ions or compounds. Results are reported as present/absent rather than as measured quantities.",
@@ -477,6 +523,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Quantitative Analysis",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Beginner",
     definition: "Quantitative analysis determines the amount or concentration of a substance in a sample. It includes techniques such as gravimetric analysis (measuring mass), volumetric analysis (measuring volume in titrations), and spectroscopic methods (measuring light absorption). Results are expressed as numerical values with units.",
@@ -487,6 +534,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Gravimetric Analysis",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "Gravimetric analysis is a quantitative technique that determines the amount of an analyte by measuring mass. The analyte is converted to a pure, stable, and weighable solid (precipitate or dried product). Common examples include precipitating an ion as an insoluble compound, filtering, drying, and weighing to calculate the original amount present.",
@@ -497,6 +545,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Volumetric Analysis",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "Volumetric analysis (titrimetry) is a quantitative technique based on measuring the volume of a solution of known concentration (titrant) needed to react completely with a measured volume of sample solution. The key relationship is n = cV (moles = concentration × volume). It is the basis of acid-base, redox, and complexometric titrations.",
@@ -507,6 +556,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Spectroscopy",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Advanced",
     definition: "Spectroscopy is a broad analytical technique based on the interaction of electromagnetic radiation with matter. Different types include UV-visible spectroscopy (measuring light absorption to determine concentration), infrared spectroscopy (identifying functional groups from bond vibrations), and nuclear magnetic resonance spectroscopy (determining molecular structure from nuclear spin transitions).",
@@ -517,6 +567,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Mass Spectrometry",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Advanced",
     definition: "Mass spectrometry is an analytical technique that separates ions according to their mass-to-charge ratio (m/z). A sample is ionised, accelerated through a magnetic field, and detected based on the deflection of different mass ions. It provides a mass spectrum showing the molecular mass, isotope patterns, and fragmentation pattern of the compound — allowing identification.",
@@ -527,6 +578,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Chromatography",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "Chromatography is a separation technique in which components of a mixture distribute themselves between a stationary phase and a moving mobile phase. Components separate based on their relative affinity for each phase. Types include thin-layer chromatography (TLC), paper chromatography, column chromatography, gas chromatography (GC), and high-performance liquid chromatography (HPLC).",
@@ -537,6 +589,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Flame Test",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Beginner",
     definition: "A flame test is a qualitative technique used to identify metal cations in a sample. The sample is introduced into a flame; excited electrons emit characteristic colours of light as they return to ground state. Sodium emits bright yellow; potassium emits lilac; copper emits blue-green; lithium emits crimson; calcium emits orange-red.",
@@ -547,6 +600,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Calibration",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "Calibration is the process of establishing the relationship between a measuring instrument's output and known standard values. In chemistry, a calibration curve is constructed by plotting instrument response (e.g., absorbance) against known concentrations. Unknown samples are then compared to the curve to determine their concentration.",
@@ -557,6 +611,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Accuracy",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Beginner",
     definition: "Accuracy is how close a measured value is to the true or accepted value. High accuracy means the measurement closely reflects reality. Accuracy can be improved by calibrating instruments, minimising systematic error, and using appropriate measurement techniques. It is distinct from precision.",
@@ -567,6 +622,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Precision",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Beginner",
     definition: "Precision refers to the consistency or reproducibility of repeated measurements — how closely multiple measurements of the same quantity agree with each other. High precision means results cluster tightly together, regardless of whether they are close to the true value. Precision is affected by random errors in the measurement process.",
@@ -577,6 +633,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Reliability",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Beginner",
     definition: "Reliability refers to the degree to which an experiment produces consistent results when repeated under the same conditions. A reliable experiment can be reproduced by the same researcher or by independent researchers. Reliability is improved by repeating trials, using consistent procedures, and controlling all variables except the independent variable.",
@@ -587,6 +644,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Validity",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "Validity refers to whether an experiment actually measures what it claims to measure and whether the conclusions drawn are supported by the data. An experiment is valid if it has a controlled design, an appropriate method, and if the dependent variable genuinely measures the effect of the independent variable. Validity requires identifying and controlling all confounding variables.",
@@ -597,6 +655,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Systematic Error",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "A systematic error is a consistent, predictable error that affects all measurements in the same direction — always too high or always too low. It is caused by flaws in the experimental design, instrument calibration, or procedure. Systematic errors affect accuracy but not precision. They cannot be reduced by repeating the experiment; the source must be identified and eliminated.",
@@ -607,6 +666,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Random Error",
+    year: 12,
     category: "Chemical Monitoring",
     level: "Intermediate",
     definition: "A random error is an unpredictable variation in measurements caused by inherent limitations in the measurement process, environmental fluctuations, or human inconsistency. Random errors scatter results above and below the true value without a systematic bias. They affect precision but can be reduced by increasing the number of trials and averaging results.",
@@ -620,6 +680,7 @@ export const CHEMISTRY_WORDS = [
 
   {
     term: "Corrosion",
+    year: 12,
     category: "Applying Chemistry",
     level: "Beginner",
     definition: "Corrosion is the gradual degradation of a material (usually a metal) through chemical reactions with its environment. The most common form is rust — the oxidation of iron in the presence of oxygen and water to form hydrated iron(III) oxide. Corrosion is an electrochemical process involving oxidation at an anode and reduction at a cathode.",
@@ -630,6 +691,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Galvanic Cell",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "A galvanic (voltaic) cell converts chemical energy into electrical energy through a spontaneous redox reaction. It consists of two half-cells connected by an external circuit (for electrons) and a salt bridge (for ions). Oxidation occurs at the anode (negative terminal); reduction at the cathode (positive terminal). Cell voltage is determined by the electrochemical series.",
@@ -640,6 +702,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Electrolysis",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "Electrolysis uses an external electrical current to drive a non-spontaneous chemical reaction. Ions in a molten or dissolved electrolyte migrate to electrodes: cations to the cathode (where reduction occurs) and anions to the anode (where oxidation occurs). Key applications include metal electroplating, aluminium smelting, chlor-alkali production, and electrorefining.",
@@ -650,6 +713,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Oxidation",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "Oxidation is a chemical process involving loss of electrons (OIL — Oxidation Is Loss). In terms of oxidation state, oxidation is an increase in oxidation number. In organic chemistry, oxidation corresponds to gain of oxygen or loss of hydrogen. The species being oxidised is the reducing agent — it loses electrons to enable the reduction of another species.",
@@ -660,6 +724,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Reduction",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "Reduction is a chemical process involving gain of electrons (RIG — Reduction Is Gain). In terms of oxidation state, reduction is a decrease in oxidation number. In organic chemistry, reduction corresponds to loss of oxygen or gain of hydrogen. The species being reduced is the oxidising agent — it gains electrons to enable the oxidation of another species.",
@@ -670,6 +735,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Redox Reaction",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "A redox (reduction-oxidation) reaction is any reaction involving the transfer of electrons from one species to another. Oxidation and reduction always occur simultaneously — one species loses electrons (is oxidised) while another gains them (is reduced). The overall equation is obtained by combining two half-equations with electron transfer balanced.",
@@ -680,6 +746,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Electrochemical Series",
+    year: 12,
     category: "Applying Chemistry",
     level: "Advanced",
     definition: "The electrochemical series (standard reduction potential table) lists half-cell reactions in order of their standard reduction potential (E°, measured in volts under standard conditions). Species at the top are the strongest oxidising agents (highest tendency to be reduced); those at the bottom are the strongest reducing agents. It is used to predict the spontaneity of redox reactions and calculate cell voltages.",
@@ -690,6 +757,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Sacrificial Anode",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "A sacrificial anode is a more reactive metal (higher in the electrochemical series) placed in electrical contact with a less reactive metal to protect it from corrosion. The more reactive metal is preferentially oxidised (corrodes instead of the protected metal), acting as the anode in a galvanic corrosion cell. Common examples include zinc anodes protecting steel ships, pipelines, and offshore structures.",
@@ -700,6 +768,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Fuel Cell",
+    year: 12,
     category: "Applying Chemistry",
     level: "Advanced",
     definition: "A fuel cell is an electrochemical device that converts chemical energy directly into electrical energy through the controlled oxidation of a fuel (usually hydrogen or methanol). Unlike a battery, a fuel cell is not consumed — it produces electricity continuously as long as fuel is supplied. The hydrogen fuel cell produces water and heat as the only by-products.",
@@ -710,6 +779,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Industrial Chemistry",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "Industrial chemistry refers to the application of chemical principles to the large-scale production of commercially important chemicals, materials, and energy. Key considerations include yield optimisation (via Le Chatelier's Principle), catalyst development, energy efficiency, cost minimisation, safety, and environmental impact. Major processes include the Haber, Contact, and Solvay processes.",
@@ -720,6 +790,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Haber Process",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "The Haber process is the industrial synthesis of ammonia from nitrogen and hydrogen gases: N₂ + 3H₂ ⇌ 2NH₃ (ΔH = -92 kJ/mol). Operating conditions are approximately 450°C, 200 atm pressure, using an iron catalyst. Ammonia produced is used primarily for fertiliser manufacture, enabling modern agriculture to feed billions of people.",
@@ -730,6 +801,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Contact Process",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "The Contact process is the industrial method for producing sulfuric acid (H₂SO₄). Key steps include combustion of sulfur to SO₂, catalytic oxidation of SO₂ to SO₃ over vanadium(V) oxide catalyst at approximately 450°C, absorption of SO₃ in concentrated sulfuric acid to form oleum, and dilution with water. Sulfuric acid is the world's most produced industrial chemical.",
@@ -740,6 +812,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Solvay Process",
+    year: 12,
     category: "Applying Chemistry",
     level: "Advanced",
     definition: "The Solvay process is the major industrial method for producing sodium carbonate (Na₂CO₃, soda ash) from salt (NaCl), ammonia, and carbon dioxide. The process is highly efficient because most reactants are recycled internally. Sodium carbonate is used in glass manufacturing, paper making, and water treatment.",
@@ -750,6 +823,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Green Chemistry",
+    year: 12,
     category: "Applying Chemistry",
     level: "Intermediate",
     definition: "Green chemistry is an approach to chemical design that seeks to reduce or eliminate the use and generation of hazardous substances. It is guided by 12 principles including atom economy (maximising the proportion of starting materials incorporated into the desired product), designing safer chemicals, using renewable feedstocks, and minimising waste and energy consumption.",
@@ -760,6 +834,7 @@ export const CHEMISTRY_WORDS = [
   },
   {
     term: "Chemical Safety",
+    year: 12,
     category: "Applying Chemistry",
     level: "Beginner",
     definition: "Chemical safety encompasses the practices, procedures, and regulations designed to prevent harm from chemical hazards in laboratory, industrial, and everyday environments. It includes reading and interpreting Safety Data Sheets (SDS), understanding hazard classifications (flammable, corrosive, toxic, oxidising), using appropriate personal protective equipment (PPE), and following safe disposal procedures.",

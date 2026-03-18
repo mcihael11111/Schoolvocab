@@ -7,7 +7,7 @@ import { CAT_MAP } from "../../utils/termLookup.js";
 export function GridCard({ word, onOpen, isDone = false }) {
   const [hov, setHov] = useState(false);
   const [pressed, setPressed] = useState(false);
-  const cat = CAT_MAP[word.category] || { accent: "#1A1A2E", color: "#F8FAFC" };
+  const cat = CAT_MAP[`${word.year}::${word.category}`] || { accent: "#1A1A2E", color: "#F8FAFC" };
 
   const scale = pressed ? "scale(0.97)" : hov ? "translateY(-3px)" : "none";
   const shadow = pressed

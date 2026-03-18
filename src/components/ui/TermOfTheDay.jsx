@@ -2,7 +2,7 @@
 // Picks one term per calendar day deterministically — no backend needed.
 // Category accent, icon, and name update daily with the term.
 import { ALL_WORDS } from "../../data/words.js";
-import { CAT_MAP } from "../../utils/termLookup.js";
+import { CAT_MAP, getWordsForCategory } from "../../utils/termLookup.js";
 import { BookOpen } from "lucide-react";
 
 function getDailyTerm() {
@@ -12,11 +12,11 @@ function getDailyTerm() {
 
 export function TermOfTheDay({ completedTerms, onOpen }) {
   const term   = getDailyTerm();
-  const cat    = CAT_MAP[term.category] || { accent: "#6366F1", color: "#EEF2FF", icon: BookOpen, name: term.category };
+  const cat    = CAT_MAP[`${term.year}::${term.category}`] || { accent: "#6366F1", color: "#EEF2FF", icon: BookOpen, name: term.category, year: term.year };
   const isDone = completedTerms.has(term.term);
 
   const handleOpen = () => {
-    const wordsInCat = ALL_WORDS.filter(w => w.category === term.category);
+    const wordsInCat = getWordsForCategory(cat);
     const idx        = wordsInCat.findIndex(w => w.term === term.term);
     onOpen(wordsInCat, idx >= 0 ? idx : 0);
   };

@@ -20,12 +20,16 @@ import { useDrawerState }     from "./hooks/useDrawerState.js";
 import { useProgress }        from "./hooks/useProgress.js";
 import { useAuth }            from "./context/AuthContext.jsx";
 import { ALL_WORDS }          from "./data/words.js";
+import { getWordsForCategory } from "./utils/termLookup.js";
 import { CATEGORIES }         from "./data/categories.js";
 import { AdSlot }             from "./components/ui/AdSlot.jsx";
 import { TermOfTheDay }       from "./components/ui/TermOfTheDay.jsx";
+import { YearSelector }       from "./components/sections/YearSelector.jsx";
 import { CategoryPage }       from "./pages/CategoryPage.jsx";
 import { CategoriesIndexPage } from "./pages/CategoriesIndexPage.jsx";
 import { NotFoundPage }       from "./pages/NotFoundPage.jsx";
+import { YearPage }           from "./pages/YearPage.jsx";
+import { SubjectPage }        from "./pages/SubjectPage.jsx";
 
 // Daily term is always unlocked regardless of view limit
 const DAILY_TERM_NAME = ALL_WORDS[Math.floor(Date.now() / 86400000) % ALL_WORDS.length]?.term;
@@ -85,7 +89,7 @@ export default function App() {
     if (!user || prevCompletedRef.current === null) { prevCompletedRef.current = completedTerms; return; }
     const prev = prevCompletedRef.current;
     for (const cat of CATEGORIES) {
-      const words = ALL_WORDS.filter(w => w.category === cat.name);
+      const words = getWordsForCategory(cat);
       if (words.length === 0) continue;
       if (words.every(w => completedTerms.has(w.term)) && !words.every(w => prev.has(w.term))) {
         showToast({ message: `${cat.name} mastered! All terms complete.` });
@@ -144,7 +148,7 @@ export default function App() {
         {/* Home */}
         <Route path="/" element={
           <>
-            <SEOHead title={null} description="Master Year 12 HSC vocabulary across Biology, Physics, Chemistry, Mathematics, English, and Visual Arts — one term at a time." />
+            <SEOHead title={null} description="Master school vocabulary from Year 7 to Year 12 — across every subject, one term at a time." />
             <HeroSection/>
             <TermOfTheDay completedTerms={completedTerms} onOpen={openModal}/>
             {user && (
@@ -155,6 +159,7 @@ export default function App() {
               />
             )}
             <Ticker/>
+            <YearSelector/>
             <CategoriesSection
               search={search}
               activeDomain={activeDomain}
@@ -209,6 +214,17 @@ export default function App() {
 
         {/* Single category */}
         <Route path="/categories/:categorySlug" element={
+          <CategoryPage completedTerms={completedTerms} user={user} onOpenDrawer={openDrawer}/>
+        }/>
+
+        {/* Year-based routes */}
+        <Route path="/year/:year" element={
+          <YearPage completedTerms={completedTerms} user={user}/>
+        }/>
+        <Route path="/year/:year/:subjectSlug" element={
+          <SubjectPage completedTerms={completedTerms} user={user}/>
+        }/>
+        <Route path="/year/:year/:subjectSlug/:categorySlug" element={
           <CategoryPage completedTerms={completedTerms} user={user} onOpenDrawer={openDrawer}/>
         }/>
 

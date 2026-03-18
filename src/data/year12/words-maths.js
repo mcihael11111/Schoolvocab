@@ -6,6 +6,7 @@ const MATHS_WORDS = [
   // ── Functions & Graphs (15) ───────────────────────────────────────────────
   {
     term: "Function",
+    year: 12,
     category: "Functions & Graphs",
     level: "Beginner",
     definition: "A relation in which every input value (x) produces exactly one output value (y), written as f(x).",
@@ -16,6 +17,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Domain",
+    year: 12,
     category: "Functions & Graphs",
     level: "Beginner",
     definition: "The complete set of allowable input values (x-values) for which a function is defined.",
@@ -26,6 +28,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Range",
+    year: 12,
     category: "Functions & Graphs",
     level: "Beginner",
     definition: "The complete set of output values (y-values) produced by a function for all inputs in its domain.",
@@ -36,6 +39,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Vertical Line Test",
+    year: 12,
     category: "Functions & Graphs",
     level: "Beginner",
     definition: "A graphical check in which a vertical line is swept across a curve; if it intersects the curve at more than one point, the relation is not a function.",
@@ -46,6 +50,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Inverse Function",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "A function f⁻¹(x) that reverses the mapping of f(x), so that f⁻¹(f(x)) = x for all x in the domain.",
@@ -56,6 +61,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Transformation",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "An operation that maps a function to a new position or shape, including translations, reflections, dilations, and rotations.",
@@ -66,6 +72,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Asymptote",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "A line that a curve approaches but never reaches as x or y tends to infinity or a specific value.",
@@ -76,6 +83,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Composite Function",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "A function formed by applying one function to the output of another, written f(g(x)) or (f ∘ g)(x).",
@@ -86,6 +94,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Polynomial",
+    year: 12,
     category: "Functions & Graphs",
     level: "Beginner",
     definition: "An expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + … + a₁x + a₀ where all exponents are non-negative integers.",
@@ -96,6 +105,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Logarithm",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "The exponent to which a base must be raised to produce a given number; log_b(x) = y means bʸ = x.",
@@ -106,6 +116,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Exponential Function",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "A function of the form f(x) = aˣ where a > 0 and a ≠ 1, characterised by a constant percentage rate of growth or decay.",
@@ -116,6 +127,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Odd and Even Functions",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "An even function satisfies f(−x) = f(x) and is symmetric about the y-axis; an odd function satisfies f(−x) = −f(x) and has rotational symmetry about the origin.",
@@ -126,6 +138,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Absolute Value Function",
+    year: 12,
     category: "Functions & Graphs",
     level: "Beginner",
     definition: "The function |x| that returns the non-negative magnitude of x, with |x| = x for x ≥ 0 and |x| = −x for x < 0.",
@@ -136,6 +149,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Hyperbola",
+    year: 12,
     category: "Functions & Graphs",
     level: "Intermediate",
     definition: "A curve of the form y = k/x or (x²/a²) − (y²/b²) = 1, characterised by two branches and two asymptotes.",
@@ -146,6 +160,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Piecewise Function",
+    year: 12,
     category: "Functions & Graphs",
     level: "Advanced",
     definition: "A function defined by different expressions over different sub-intervals of its domain.",
@@ -158,6 +173,7 @@ const MATHS_WORDS = [
   // ── Calculus (15) ────────────────────────────────────────────────────────
   {
     term: "Derivative",
+    year: 12,
     category: "Calculus",
     level: "Beginner",
     definition: "The instantaneous rate of change of a function with respect to its variable, defined as the limit of the difference quotient as the interval approaches zero.",
@@ -168,6 +184,7 @@ const MATHS_WORDS = [
   },
   {
     term: "First Principles",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "Deriving a derivative directly from the definition f'(x) = lim_{h→0} [f(x+h) − f(x)] / h, without using shortcut rules.",
@@ -178,6 +195,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Chain Rule",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "A rule for differentiating composite functions: if y = f(g(x)), then dy/dx = f'(g(x)) · g'(x).",
@@ -188,6 +206,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Product Rule",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "If y = u(x)·v(x), then dy/dx = u'v + uv', used when differentiating the product of two functions.",
@@ -198,6 +217,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Stationary Point",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "A point on a curve where the derivative equals zero, indicating a potential maximum, minimum, or point of inflection.",
@@ -208,6 +228,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Second Derivative Test",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "Using f''(x) to classify stationary points: if f''(x) > 0 the point is a local minimum; if f''(x) < 0 it is a local maximum.",
@@ -218,6 +239,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Indefinite Integral",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "The antiderivative of a function, written ∫f(x)dx = F(x) + C, where F'(x) = f(x) and C is the constant of integration.",
@@ -228,6 +250,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Definite Integral",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "The integral of a function between two limits a and b, written ∫_a^b f(x)dx, representing the net signed area between the curve and the x-axis.",
@@ -238,6 +261,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Fundamental Theorem of Calculus",
+    year: 12,
     category: "Calculus",
     level: "Advanced",
     definition: "States that differentiation and integration are inverse operations: if F'(x) = f(x), then ∫_a^b f(x)dx = F(b) − F(a).",
@@ -248,6 +272,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Concavity",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "The direction in which a curve bends: concave up (bowl-shaped, f''(x) > 0) or concave down (arch-shaped, f''(x) < 0).",
@@ -258,6 +283,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Point of Inflection",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "A point where the concavity of a curve changes, identified where f''(x) = 0 and f'' changes sign.",
@@ -268,6 +294,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Area Between Curves",
+    year: 12,
     category: "Calculus",
     level: "Advanced",
     definition: "The definite integral of the difference between two functions over an interval: Area = ∫_a^b [f(x) − g(x)] dx, where f(x) ≥ g(x).",
@@ -278,6 +305,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Optimisation",
+    year: 12,
     category: "Calculus",
     level: "Advanced",
     definition: "The process of finding maximum or minimum values of a function using calculus, typically by locating stationary points and testing endpoints.",
@@ -288,6 +316,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Velocity and Acceleration",
+    year: 12,
     category: "Calculus",
     level: "Intermediate",
     definition: "Velocity is the derivative of position with respect to time (v = ds/dt); acceleration is the derivative of velocity (a = dv/dt = d²s/dt²).",
@@ -298,6 +327,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Integration by Substitution",
+    year: 12,
     category: "Calculus",
     level: "Advanced",
     definition: "A technique that simplifies integrals by substituting u = g(x), replacing the integrand and dx to create a simpler integral in terms of u.",
@@ -310,6 +340,7 @@ const MATHS_WORDS = [
   // ── Probability & Statistics (15) ────────────────────────────────────────
   {
     term: "Random Variable",
+    year: 12,
     category: "Probability & Statistics",
     level: "Beginner",
     definition: "A variable whose value is determined by the outcome of a random experiment; can be discrete (countable values) or continuous (any value in an interval).",
@@ -320,6 +351,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Probability Distribution",
+    year: 12,
     category: "Probability & Statistics",
     level: "Beginner",
     definition: "A function or table listing all possible values of a random variable and their associated probabilities, with all probabilities summing to 1.",
@@ -330,6 +362,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Expected Value",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "The long-run average value of a random variable, calculated as E(X) = Σ[x · P(X = x)] for discrete variables.",
@@ -340,6 +373,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Variance",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "A measure of the spread of a probability distribution, defined as Var(X) = E[(X − μ)²] = E(X²) − [E(X)]².",
@@ -350,6 +384,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Normal Distribution",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "A continuous, symmetric, bell-shaped probability distribution fully described by its mean μ and standard deviation σ, where 68% of data lie within one σ of μ.",
@@ -360,6 +395,7 @@ const MATHS_WORDS = [
   },
   {
     term: "z-score",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "The number of standard deviations a data value lies above or below the mean, calculated as z = (x − μ) / σ.",
@@ -370,6 +406,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Binomial Distribution",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "A discrete distribution for the number of successes in n independent Bernoulli trials each with probability p: P(X = k) = C(n,k)pᵏ(1−p)^(n−k).",
@@ -380,6 +417,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Sample Mean",
+    year: 12,
     category: "Probability & Statistics",
     level: "Beginner",
     definition: "The arithmetic average of a sample, calculated as x̄ = (Σxᵢ)/n, used as an estimate of the population mean μ.",
@@ -390,6 +428,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Correlation Coefficient",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "Pearson's r, a value between −1 and 1 that measures the strength and direction of the linear relationship between two variables.",
@@ -400,6 +439,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Regression Line",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "The line of best fit ŷ = a + bx that minimises the sum of squared residuals between observed and predicted y-values.",
@@ -410,6 +450,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Hypothesis Testing",
+    year: 12,
     category: "Probability & Statistics",
     level: "Advanced",
     definition: "A formal procedure for deciding, based on sample evidence, whether to reject a null hypothesis H₀ in favour of an alternative hypothesis H₁.",
@@ -420,6 +461,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Confidence Interval",
+    year: 12,
     category: "Probability & Statistics",
     level: "Advanced",
     definition: "A range of values, calculated from sample data, that is expected to contain the true population parameter a specified percentage of the time (e.g., 95%).",
@@ -430,6 +472,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Conditional Probability",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "The probability of event A given that event B has already occurred: P(A|B) = P(A ∩ B) / P(B).",
@@ -440,6 +483,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Standard Deviation",
+    year: 12,
     category: "Probability & Statistics",
     level: "Beginner",
     definition: "The square root of the variance; a measure of how spread out data values are around the mean, in the same units as the original data.",
@@ -450,6 +494,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Permutations and Combinations",
+    year: 12,
     category: "Probability & Statistics",
     level: "Intermediate",
     definition: "Permutations nPr = n!/(n−r)! count ordered arrangements; combinations nCr = n!/[r!(n−r)!] count unordered selections.",
@@ -462,6 +507,7 @@ const MATHS_WORDS = [
   // ── Trigonometry (15) ────────────────────────────────────────────────────
   {
     term: "Radian",
+    year: 12,
     category: "Trigonometry",
     level: "Beginner",
     definition: "A unit of angle measurement where one radian is the angle subtended at the centre of a circle by an arc equal in length to the radius; π radians = 180°.",
@@ -472,6 +518,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Unit Circle",
+    year: 12,
     category: "Trigonometry",
     level: "Beginner",
     definition: "A circle of radius 1 centred at the origin on which every point (x, y) satisfies x = cos θ and y = sin θ for angle θ measured from the positive x-axis.",
@@ -482,6 +529,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Sine Rule",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "In any triangle, a/sin A = b/sin B = c/sin C, relating each side to the sine of the opposite angle.",
@@ -492,6 +540,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Cosine Rule",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "In any triangle, c² = a² + b² − 2ab cos C, used when two sides and the included angle (SAS) or all three sides (SSS) are known.",
@@ -502,6 +551,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Trigonometric Identities",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "Equations involving trigonometric functions that are true for all values of the variable, such as sin²θ + cos²θ = 1 and tan θ = sin θ / cos θ.",
@@ -512,6 +562,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Double Angle Formula",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "Identities expressing trig functions of 2θ in terms of θ: sin(2θ) = 2sinθcosθ; cos(2θ) = cos²θ − sin²θ = 1 − 2sin²θ = 2cos²θ − 1.",
@@ -522,6 +573,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Periodic Function",
+    year: 12,
     category: "Trigonometry",
     level: "Beginner",
     definition: "A function that repeats its values at regular intervals called the period T, satisfying f(x + T) = f(x) for all x.",
@@ -532,6 +584,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Amplitude",
+    year: 12,
     category: "Trigonometry",
     level: "Beginner",
     definition: "The maximum displacement of a periodic function from its equilibrium (midline), equal to half the vertical distance between the maximum and minimum values.",
@@ -542,6 +595,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Phase Shift",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "A horizontal translation of a trigonometric graph, occurring when the argument contains a constant added to or subtracted from x.",
@@ -552,6 +606,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Trigonometric Equations",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "Equations involving trigonometric functions solved by finding all angles in a given domain that satisfy the equation, using exact values, ASTC, and symmetry.",
@@ -562,6 +617,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Inverse Trigonometric Functions",
+    year: 12,
     category: "Trigonometry",
     level: "Advanced",
     definition: "Functions arcsin, arccos, and arctan that return the angle corresponding to a given trigonometric value, with restricted domains to ensure uniqueness.",
@@ -572,6 +628,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Arc Length and Sector Area",
+    year: 12,
     category: "Trigonometry",
     level: "Intermediate",
     definition: "For a circle of radius r and central angle θ (in radians): arc length l = rθ and sector area A = ½r²θ.",
@@ -582,6 +639,7 @@ const MATHS_WORDS = [
   },
   {
     term: "ASTC Rule",
+    year: 12,
     category: "Trigonometry",
     level: "Beginner",
     definition: "A memory device indicating which trig ratios are positive in each quadrant: All (Q1), Sine (Q2), Tangent (Q3), Cosine (Q4).",
@@ -592,6 +650,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Sum and Difference Formulas",
+    year: 12,
     category: "Trigonometry",
     level: "Advanced",
     definition: "Identities for trig functions of A ± B: sin(A ± B) = sinA cosB ± cosA sinB; cos(A ± B) = cosA cosB ∓ sinA sinB.",
@@ -602,6 +661,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Trigonometric Modelling",
+    year: 12,
     category: "Trigonometry",
     level: "Advanced",
     definition: "Using functions of the form y = A sin(Bx + C) + D or y = A cos(Bx + C) + D to model periodic real-world phenomena.",
@@ -614,6 +674,7 @@ const MATHS_WORDS = [
   // ── Proof & Vectors (15) ─────────────────────────────────────────────────
   {
     term: "Mathematical Induction",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "A proof technique with two steps: (1) base case — show the statement holds for n = 1; (2) inductive step — assume true for n = k and prove for n = k + 1.",
@@ -624,6 +685,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Direct Proof",
+    year: 12,
     category: "Proof & Vectors",
     level: "Beginner",
     definition: "A proof that establishes the truth of a statement by logically deriving the conclusion from the hypotheses step by step, with each step following from the previous one.",
@@ -634,6 +696,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Proof by Contradiction",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "A proof technique that assumes the negation of the statement and derives a logical contradiction, thereby confirming the original statement must be true.",
@@ -644,6 +707,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Counterexample",
+    year: 12,
     category: "Proof & Vectors",
     level: "Beginner",
     definition: "A single specific example that demonstrates a universal statement is false, disproving it without further argument.",
@@ -654,6 +718,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Vector",
+    year: 12,
     category: "Proof & Vectors",
     level: "Beginner",
     definition: "A mathematical object with both magnitude and direction, represented as an ordered pair or triple of components, or as an arrow in space.",
@@ -664,6 +729,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Scalar",
+    year: 12,
     category: "Proof & Vectors",
     level: "Beginner",
     definition: "A quantity described by magnitude only, with no direction, such as speed, temperature, or mass.",
@@ -674,6 +740,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Dot Product",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "The scalar result of multiplying corresponding components of two vectors and summing: a · b = a₁b₁ + a₂b₂, or |a||b|cos θ, where θ is the angle between them.",
@@ -684,6 +751,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Perpendicular Vectors",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "Two vectors are perpendicular (orthogonal) if and only if their dot product equals zero: a · b = 0.",
@@ -694,6 +762,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Position Vector",
+    year: 12,
     category: "Proof & Vectors",
     level: "Beginner",
     definition: "A vector that describes the location of a point relative to the origin, written as OP⃗ where P has coordinates (x, y) or (x, y, z).",
@@ -704,6 +773,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Vector Equation of a Line",
+    year: 12,
     category: "Proof & Vectors",
     level: "Advanced",
     definition: "A line passing through point A with direction vector d is described by r = a + td, where t is a scalar parameter ranging over all real numbers.",
@@ -714,6 +784,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Parametric Equations",
+    year: 12,
     category: "Proof & Vectors",
     level: "Advanced",
     definition: "A set of equations that express coordinates x and y (or x, y, z) separately as functions of a third variable (parameter), commonly t.",
@@ -724,6 +795,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Proof of Inequality",
+    year: 12,
     category: "Proof & Vectors",
     level: "Advanced",
     definition: "A rigorous argument establishing that one quantity is always greater than or less than another, often using AM-GM inequality, squares being non-negative, or algebraic manipulation.",
@@ -734,6 +806,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Logical Connectives",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "Symbols linking mathematical statements: 'and' (∧), 'or' (∨), 'implies' (⟹), 'if and only if' (⟺), and 'not' (¬).",
@@ -744,6 +817,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Contrapositive",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "The logically equivalent statement formed by negating both the hypothesis and conclusion and reversing them: the contrapositive of 'P ⟹ Q' is '¬Q ⟹ ¬P'.",
@@ -754,6 +828,7 @@ const MATHS_WORDS = [
   },
   {
     term: "Geometric Proof",
+    year: 12,
     category: "Proof & Vectors",
     level: "Intermediate",
     definition: "A deductive argument establishing a geometric result using axioms, theorems (circle theorems, congruence, similarity), and logical reasoning.",

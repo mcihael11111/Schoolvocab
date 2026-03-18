@@ -8,6 +8,7 @@ export const PHYSICS_WORDS = [
 
   {
     term: "Displacement",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "Displacement is the change in position of an object, defined as the straight-line distance from the starting point to the final point, along with the direction. It is a vector quantity, meaning direction matters — a displacement of 5 m east is different from 5 m west. Displacement differs from distance, which counts the total path length regardless of direction.",
@@ -18,6 +19,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Velocity",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "Velocity is the rate of change of displacement with respect to time. It is a vector quantity — both magnitude (speed) and direction must be specified. Average velocity is calculated as displacement divided by time. Instantaneous velocity is the velocity at a specific moment in time.",
@@ -28,6 +30,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Acceleration",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "Acceleration is the rate of change of velocity with respect to time. It is a vector quantity — it can be positive (speeding up in the positive direction), negative (decelerating or speeding up in the negative direction), or directed at an angle. Average acceleration equals the change in velocity divided by the time taken.",
@@ -38,6 +41,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Scalar",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "A scalar quantity is one that is completely described by a magnitude (number and unit) alone — it has no directional component. Examples of scalars in physics include distance, speed, mass, time, temperature, and energy. Scalars can be added and subtracted using ordinary arithmetic.",
@@ -48,6 +52,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Vector",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "A vector quantity has both magnitude and direction. Examples include displacement, velocity, acceleration, force, and momentum. Vectors are typically represented with arrows and must be combined using vector addition (not simple arithmetic). Components of vectors can be resolved horizontally and vertically using trigonometry.",
@@ -58,6 +63,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Uniform Motion",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "Uniform motion describes an object moving with constant velocity — equal displacement in equal time intervals and zero acceleration. On a distance-time graph, uniform motion appears as a straight line with constant gradient. On a velocity-time graph, it appears as a horizontal line.",
@@ -68,6 +74,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Non-uniform Motion",
+    year: 12,
     category: "Kinematics",
     level: "Intermediate",
     definition: "Non-uniform motion describes an object whose velocity is changing — either in magnitude, direction, or both. This means the object is accelerating. On a distance-time graph, non-uniform motion produces a curve. On a velocity-time graph, it produces a line with non-zero gradient or a curve.",
@@ -78,6 +85,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Projectile Motion",
+    year: 12,
     category: "Kinematics",
     level: "Intermediate",
     definition: "Projectile motion is the curved path followed by an object launched into the air under the influence of gravity alone (ignoring air resistance). The motion can be resolved into independent horizontal (constant velocity) and vertical (constant downward acceleration of 9.8 m/s²) components. The trajectory is a parabola.",
@@ -88,6 +96,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Free Fall",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "Free fall is the motion of an object under the influence of gravity alone, with no other forces acting (i.e., ignoring air resistance). Near Earth's surface, all objects in free fall accelerate downward at approximately 9.8 m/s² (g), regardless of their mass. This was first demonstrated by Galileo.",
@@ -98,6 +107,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Relative Motion",
+    year: 12,
     category: "Kinematics",
     level: "Intermediate",
     definition: "Relative motion describes the velocity of an object as observed from a particular reference frame. The velocity of an object relative to an observer depends on the observer's own motion. To find relative velocity, the velocity of the observer's frame is subtracted from the object's velocity.",
@@ -108,6 +118,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Distance-Time Graph",
+    year: 12,
     category: "Kinematics",
     level: "Beginner",
     definition: "A distance-time graph plots distance (or position) on the y-axis against time on the x-axis. The gradient (slope) of the graph at any point gives the object's speed (or velocity, if position is used). A straight line indicates constant speed; a curve indicates changing speed. A horizontal line indicates the object is stationary.",
@@ -118,6 +129,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Velocity-Time Graph",
+    year: 12,
     category: "Kinematics",
     level: "Intermediate",
     definition: "A velocity-time graph plots velocity on the y-axis against time on the x-axis. The gradient gives acceleration, while the area under the graph gives displacement. A horizontal line indicates uniform motion; a sloped line indicates constant acceleration; a curve indicates changing acceleration.",
@@ -128,6 +140,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Equations of Motion",
+    year: 12,
     category: "Kinematics",
     level: "Intermediate",
     definition: "The equations of motion (also called kinematic equations or SUVAT equations) describe the relationships between displacement (s), initial velocity (u), final velocity (v), acceleration (a), and time (t) for uniform acceleration. The four equations are: v = u + at; s = ut + ½at²; v² = u² + 2as; s = (u + v)/2 × t.",
@@ -138,6 +151,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Terminal Velocity",
+    year: 12,
     category: "Kinematics",
     level: "Intermediate",
     definition: "Terminal velocity is the constant maximum velocity reached by a falling object when the drag force (air resistance) acting upward equals the gravitational force acting downward, resulting in zero net force and zero acceleration. It depends on the object's mass, cross-sectional area, and the drag properties of the medium.",
@@ -148,6 +162,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Frame of Reference",
+    year: 12,
     category: "Kinematics",
     level: "Advanced",
     definition: "A frame of reference is a coordinate system used by an observer to describe the position and motion of objects. Motion is always described relative to a chosen frame of reference. An inertial frame of reference is one moving at constant velocity (not accelerating). Einstein's special relativity arose from resolving the inconsistency in how electromagnetic waves behave in different inertial frames.",
@@ -161,6 +176,7 @@ export const PHYSICS_WORDS = [
 
   {
     term: "Force",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "A force is a push or pull on an object, capable of changing its state of motion — either its speed or its direction. Force is a vector quantity measured in newtons (N). Forces can be contact forces (friction, normal force, tension) or field forces (gravity, electrostatic, magnetic).",
@@ -171,6 +187,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Newton's First Law",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Newton's First Law of Motion states that an object remains at rest or in uniform motion (constant velocity) unless acted upon by a net external force. This principle is also called the Law of Inertia. It describes the natural tendency of objects to resist changes in their state of motion.",
@@ -181,6 +198,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Newton's Second Law",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Newton's Second Law states that the net force on an object is equal to the product of its mass and acceleration: F_net = ma. The direction of acceleration is the same as the direction of the net force. This law quantitatively connects force, mass, and motion.",
@@ -191,6 +209,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Newton's Third Law",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Newton's Third Law states that for every action, there is an equal and opposite reaction. When object A exerts a force on object B, object B simultaneously exerts an equal force on object A in the opposite direction. These action-reaction pairs always act on different objects.",
@@ -201,6 +220,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Friction",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Friction is a contact force that opposes the relative motion or tendency for motion between two surfaces in contact. Static friction acts on objects that are not yet moving, up to a maximum value. Kinetic friction acts on objects already in motion and is generally less than maximum static friction. Friction depends on the surfaces and the normal force.",
@@ -211,6 +231,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Normal Force",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "The normal force is the contact force exerted by a surface on an object perpendicular to the surface. It prevents objects from passing through surfaces and balances the component of gravity perpendicular to the surface. The normal force is not always equal to weight — on inclined planes and in circular motion, it differs.",
@@ -221,6 +242,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Weight",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Weight is the force exerted on an object due to gravity. It is calculated as W = mg, where m is mass (in kg) and g is the gravitational field strength (approximately 9.8 N/kg near Earth's surface). Weight is a force (a vector, measured in newtons) and should not be confused with mass (a scalar, measured in kilograms).",
@@ -231,6 +253,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Momentum",
+    year: 12,
     category: "Dynamics",
     level: "Intermediate",
     definition: "Momentum (p) is the product of an object's mass and velocity: p = mv. It is a vector quantity — direction is the same as the direction of velocity. Momentum is a measure of how difficult it is to stop a moving object. The total momentum of a closed system is conserved (Newton's third law basis).",
@@ -241,6 +264,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Impulse",
+    year: 12,
     category: "Dynamics",
     level: "Intermediate",
     definition: "Impulse is the product of force and the time over which it acts: J = Ft. It is also equal to the change in momentum of the object: J = Δp = m(v - u). Impulse is a vector measured in N·s or kg·m/s. Impulse explains why extending the time of a collision reduces peak force — a key principle in safety design.",
@@ -251,6 +275,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Conservation of Momentum",
+    year: 12,
     category: "Dynamics",
     level: "Intermediate",
     definition: "The law of conservation of momentum states that the total momentum of a closed system remains constant before and after any interaction, provided no external net force acts. It applies to all collisions and explosions. It can be derived directly from Newton's second and third laws.",
@@ -261,6 +286,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Work",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Work is done when a force moves an object through a displacement in the direction of the force. It is calculated as W = Fs cos θ, where F is force, s is displacement, and θ is the angle between force and displacement. Work is a scalar quantity measured in joules (J). Work done by a net force changes the kinetic energy of an object.",
@@ -271,6 +297,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Energy",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Energy is the capacity to do work. It exists in many forms — kinetic, potential (gravitational, elastic), thermal, chemical, electrical, nuclear, and radiant. Energy can be transformed from one form to another, but the total energy in a closed system is always conserved (law of conservation of energy). Energy is a scalar measured in joules (J).",
@@ -281,6 +308,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Kinetic Energy",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Kinetic energy (KE) is the energy an object possesses due to its motion. It is calculated as KE = ½mv², where m is mass (kg) and v is velocity (m/s). Kinetic energy is a scalar quantity and is always positive (or zero). It is proportional to the square of speed, meaning doubling speed quadruples kinetic energy.",
@@ -291,6 +319,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Potential Energy",
+    year: 12,
     category: "Dynamics",
     level: "Beginner",
     definition: "Potential energy is stored energy an object has due to its position or state. Gravitational potential energy (GPE) is stored due to height above a reference point: GPE = mgh. Elastic potential energy is stored in compressed or stretched springs. Other forms include chemical, electrical, and nuclear potential energy.",
@@ -301,6 +330,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Conservation of Energy",
+    year: 12,
     category: "Dynamics",
     level: "Intermediate",
     definition: "The law of conservation of energy states that energy cannot be created or destroyed — only converted from one form to another. The total energy of a closed system remains constant. In mechanics, this means the sum of kinetic and potential energy is constant for a conservative system (no friction/air resistance).",
@@ -314,6 +344,7 @@ export const PHYSICS_WORDS = [
 
   {
     term: "Wave",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "A wave is a disturbance that transfers energy through a medium (or through space, in the case of electromagnetic waves) without permanently displacing the matter of the medium. Waves are characterised by wavelength, frequency, amplitude, and wave speed. They can be transverse, longitudinal, or a combination.",
@@ -324,6 +355,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Transverse Wave",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "In a transverse wave, particles of the medium oscillate perpendicular to the direction of energy transfer. Examples include light waves, electromagnetic waves, and waves on a string. The high points are called crests and the low points are troughs.",
@@ -334,6 +366,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Longitudinal Wave",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "In a longitudinal wave, particles of the medium oscillate parallel to (along) the direction of energy transfer. This creates alternating regions of compression (particles close together) and rarefaction (particles spread apart). Sound waves in air are the primary example of longitudinal waves.",
@@ -344,6 +377,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Frequency",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "Frequency (f) is the number of complete wave cycles (oscillations) that pass a point per second. It is measured in hertz (Hz), where 1 Hz = 1 cycle per second. Frequency is inversely related to the period (T): f = 1/T. The frequency of a wave determines its energy (higher frequency = higher energy, especially for light).",
@@ -354,6 +388,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Wavelength",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "Wavelength (λ) is the distance between two consecutive corresponding points in a wave — such as from crest to crest or from compression to compression. It is measured in metres. Wavelength, frequency, and wave speed are related by the wave equation: v = fλ.",
@@ -364,6 +399,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Amplitude",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "Amplitude is the maximum displacement of a particle in a wave from its equilibrium (rest) position. For transverse waves it is the height of a crest or depth of a trough. For sound waves, it relates to the pressure variation. Amplitude is proportional to the energy carried by a wave — doubling amplitude quadruples energy.",
@@ -374,6 +410,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Reflection",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "Reflection is the bouncing of a wave off a surface. The law of reflection states that the angle of incidence equals the angle of reflection, where both angles are measured from the normal (perpendicular) to the surface. Reflection occurs for all types of waves — light, sound, and water waves.",
@@ -384,6 +421,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Refraction",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Intermediate",
     definition: "Refraction is the bending of a wave as it passes from one medium to another, caused by a change in wave speed. When a wave slows down upon entering a denser medium, it bends towards the normal. Snell's Law quantifies the relationship: n₁ sin θ₁ = n₂ sin θ₂, where n is the refractive index.",
@@ -394,6 +432,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Diffraction",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Intermediate",
     definition: "Diffraction is the spreading of a wave as it passes through a gap or around an obstacle. Significant diffraction occurs when the gap size is comparable to the wavelength. All waves — light, sound, water — diffract. The extent of diffraction increases as the gap narrows relative to wavelength.",
@@ -404,6 +443,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Interference",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Intermediate",
     definition: "Interference is the superposition of two or more waves, producing a resultant wave whose displacement is the vector sum of the individual displacements. Constructive interference (crests overlap) increases amplitude; destructive interference (crest overlaps trough) decreases or cancels amplitude. Interference is evidence of the wave nature of light.",
@@ -414,6 +454,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Standing Wave",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Advanced",
     definition: "A standing wave is formed when two identical waves travelling in opposite directions interfere. Rather than propagating, the pattern appears stationary — with fixed points of zero displacement (nodes) and maximum displacement (antinodes). Standing waves in strings and air columns explain how musical instruments produce specific frequencies.",
@@ -424,6 +465,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Sound Wave",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Beginner",
     definition: "Sound waves are mechanical longitudinal waves that travel through a medium by compressing and rarefying particles. They require a medium (cannot travel through a vacuum). The speed of sound depends on the medium — approximately 340 m/s in air, much faster in water and solids. Pitch is determined by frequency; loudness by amplitude.",
@@ -434,6 +476,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Electromagnetic Spectrum",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Intermediate",
     definition: "The electromagnetic spectrum is the continuous range of electromagnetic radiation, ordered by wavelength (or frequency or energy). From longest wavelength to shortest: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays. All electromagnetic waves travel at the speed of light (3 × 10⁸ m/s) in a vacuum.",
@@ -444,6 +487,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Thermodynamics",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Intermediate",
     definition: "Thermodynamics is the branch of physics dealing with heat, temperature, and energy transfer. The first law states that energy is conserved — heat added to a system either increases internal energy or does work. The second law states that heat naturally flows from hot to cold, and entropy (disorder) in a closed system never decreases.",
@@ -454,6 +498,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Specific Heat Capacity",
+    year: 12,
     category: "Waves & Thermodynamics",
     level: "Intermediate",
     definition: "Specific heat capacity (c) is the amount of heat energy required to raise the temperature of 1 kg of a substance by 1 K (or 1°C). It is calculated using Q = mcΔT, where Q is heat energy (J), m is mass (kg), and ΔT is temperature change (K). Water has a very high specific heat capacity (4200 J/kg·K).",
@@ -467,6 +512,7 @@ export const PHYSICS_WORDS = [
 
   {
     term: "Electric Charge",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Beginner",
     definition: "Electric charge is a fundamental property of matter that causes particles to experience electromagnetic force. Protons carry positive charge and electrons carry negative charge. Like charges repel; unlike charges attract (Coulomb's Law). The SI unit of charge is the coulomb (C). Charge is conserved — it cannot be created or destroyed, only transferred.",
@@ -477,6 +523,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Electric Field",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "An electric field is a region of space around a charged object in which another charged object experiences an electric force. Electric field lines show the direction of force on a positive test charge — they point away from positive charges and toward negative charges. Electric field strength (E) equals force per unit charge: E = F/q.",
@@ -487,6 +534,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Electric Current",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Beginner",
     definition: "Electric current (I) is the rate of flow of electric charge through a conductor. It is calculated as I = Q/t, where Q is charge (C) and t is time (s). Current is measured in amperes (A). By convention, current flows in the direction of positive charge — from high potential to low potential — which is opposite to the actual direction of electron flow.",
@@ -497,6 +545,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Voltage",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Beginner",
     definition: "Voltage (V), also called electric potential difference, is the work done per unit charge to move a charge between two points in an electric field: V = W/Q. It is measured in volts (V). Voltage drives current through a circuit — the greater the voltage, the greater the driving force for charge flow.",
@@ -507,6 +556,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Resistance",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Beginner",
     definition: "Electrical resistance (R) is the opposition to the flow of electric current in a conductor. It is defined by Ohm's Law as R = V/I and measured in ohms (Ω). Resistance depends on the material (resistivity), length, cross-sectional area, and temperature of the conductor. Resistors dissipate electrical energy as heat.",
@@ -517,6 +567,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Ohm's Law",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Beginner",
     definition: "Ohm's Law states that the current through a conductor is directly proportional to the voltage across it and inversely proportional to its resistance, provided temperature remains constant: V = IR (or equivalently I = V/R or R = V/I). Materials that obey Ohm's Law are called ohmic conductors.",
@@ -527,6 +578,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Series Circuit",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "In a series circuit, components are connected in a single loop. The same current flows through all components. Voltage is shared across components in proportion to their resistance. Total resistance is the sum of individual resistances: R_total = R₁ + R₂ + R₃. If one component fails, the circuit breaks and all components stop working.",
@@ -537,6 +589,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Parallel Circuit",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "In a parallel circuit, components are connected across the same two points, providing multiple current paths. Voltage is the same across all branches. Current splits between branches — more current flows through lower-resistance branches. Total resistance is less than the smallest individual resistance: 1/R_total = 1/R₁ + 1/R₂.",
@@ -547,6 +600,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Magnetic Field",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "A magnetic field is a region around a magnet or current-carrying conductor in which a magnetic force is experienced. Magnetic field lines run from north to south poles outside a magnet (and south to north inside). The field strength is indicated by the density of field lines. Magnetic fields exert forces on moving charges and current-carrying conductors.",
@@ -557,6 +611,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Electromagnetic Induction",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "Electromagnetic induction is the production of an electromotive force (EMF) and consequently an electric current in a conductor when there is a change in the magnetic flux through the conductor. It was discovered by Michael Faraday. The induced EMF is proportional to the rate of change of magnetic flux (Faraday's Law).",
@@ -567,6 +622,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Faraday's Law",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "Faraday's Law of electromagnetic induction states that the magnitude of the induced EMF in a circuit is proportional to the rate of change of magnetic flux through the circuit: EMF = -N(ΔΦ/Δt), where N is the number of turns and ΔΦ/Δt is the rate of flux change. The negative sign reflects Lenz's Law.",
@@ -577,6 +633,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Lenz's Law",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Advanced",
     definition: "Lenz's Law states that the direction of an induced current is always such that it opposes the change that caused it. The induced current creates a magnetic field that resists the increase or decrease in flux. This is consistent with conservation of energy — you must do work to overcome the opposing force.",
@@ -587,6 +644,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Transformer",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "A transformer is a device that changes the voltage of alternating current (AC) using electromagnetic induction. It consists of two coils (primary and secondary) wound on a soft iron core. The ratio of voltages equals the ratio of turns: V₁/V₂ = N₁/N₂. Step-up transformers increase voltage; step-down transformers decrease it.",
@@ -597,6 +655,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Motor Effect",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "The motor effect is the force experienced by a current-carrying conductor placed in an external magnetic field. The force is perpendicular to both the current and the magnetic field, given by F = BIL sin θ, where B is magnetic field strength, I is current, and L is length of conductor. The direction is determined by the right-hand (or left-hand) rule.",
@@ -607,6 +666,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Generator",
+    year: 12,
     category: "Electricity & Magnetism",
     level: "Intermediate",
     definition: "A generator converts mechanical energy into electrical energy using electromagnetic induction. A coil rotating in a magnetic field experiences changing magnetic flux, inducing an EMF. AC generators produce alternating current. DC generators include a commutator to maintain current direction. Generator and motor are essentially the same device operating in reverse.",
@@ -620,6 +680,7 @@ export const PHYSICS_WORDS = [
 
   {
     term: "Photon",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Beginner",
     definition: "A photon is a quantum (discrete packet) of electromagnetic radiation. Photons carry energy proportional to their frequency: E = hf, where h is Planck's constant (6.626 × 10⁻³⁴ J·s) and f is frequency. Photons have no rest mass but carry momentum. They travel at the speed of light in a vacuum.",
@@ -630,6 +691,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Photoelectric Effect",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "The photoelectric effect is the emission of electrons from a metal surface when light of sufficient frequency is shone on it. Einstein explained it by proposing that light consists of photons — each photon must have energy greater than the work function of the metal (E = hf ≥ φ) to eject an electron. Below the threshold frequency, no electrons are emitted regardless of light intensity.",
@@ -640,6 +702,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Wave-Particle Duality",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Advanced",
     definition: "Wave-particle duality is the quantum mechanical principle that all matter and energy exhibit both wave-like and particle-like properties, depending on how they are observed. Light displays interference (wave) and the photoelectric effect (particle). Electrons display diffraction (wave) and definite particle-like collisions. The de Broglie hypothesis extended this duality to matter.",
@@ -650,6 +713,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "de Broglie Wavelength",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Advanced",
     definition: "The de Broglie wavelength is the wavelength associated with a moving particle, given by λ = h/mv, where h is Planck's constant, m is mass, and v is velocity. It describes the wave-like nature of matter. Only subatomic particles have appreciable de Broglie wavelengths — macroscopic objects have wavelengths too small to observe.",
@@ -660,6 +724,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Quantum",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Beginner",
     definition: "A quantum is the minimum discrete unit of any physical quantity involved in an interaction. In quantum mechanics, energy is quantised — it can only be exchanged in specific discrete amounts (quanta), not continuously. Planck proposed this idea to explain black-body radiation, introducing the quantum of energy E = hf.",
@@ -670,6 +735,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Atomic Model",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "The atomic model is the scientific conception of the structure of an atom. Models have evolved from Thomson's plum pudding model, through Rutherford's nuclear model, to Bohr's quantised orbital model, to the modern quantum mechanical model. Each model was modified when experimental evidence contradicted earlier predictions.",
@@ -680,6 +746,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Emission Spectrum",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "An emission spectrum is the pattern of specific wavelengths (colours) of light emitted by a substance when its atoms are excited (energised). Each element produces a unique emission spectrum — a fingerprint of discrete bright lines against a dark background. The lines correspond to photons emitted when electrons drop from higher to lower energy levels.",
@@ -690,6 +757,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Absorption Spectrum",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "An absorption spectrum is produced when white light passes through a cool gas — the gas atoms absorb specific wavelengths that correspond to transitions between energy levels. The result is a continuous rainbow spectrum with dark lines at precisely the same positions as the bright lines in the gas's emission spectrum.",
@@ -700,6 +768,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Nuclear Fission",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "Nuclear fission is the splitting of a heavy atomic nucleus (such as uranium-235 or plutonium-239) into two smaller nuclei, typically triggered by neutron absorption. The process releases a large amount of energy (via E = mc²) and additional neutrons, which can trigger further fission reactions — a chain reaction. It is the energy source of nuclear power plants and atomic bombs.",
@@ -710,6 +779,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Nuclear Fusion",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "Nuclear fusion is the combining of two light atomic nuclei (typically hydrogen isotopes — deuterium and tritium) to form a heavier nucleus, releasing large amounts of energy. Fusion requires extremely high temperatures and pressures to overcome electrostatic repulsion between nuclei. It is the energy source of stars and the basis of hydrogen bomb technology.",
@@ -720,6 +790,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Radioactive Decay",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "Radioactive decay is the spontaneous transformation of an unstable atomic nucleus into a more stable one, releasing radiation. The three main types are alpha decay (emission of a helium-4 nucleus), beta decay (emission of an electron or positron), and gamma decay (emission of a high-energy photon). Decay rates are described by half-life.",
@@ -730,6 +801,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Half-Life",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Intermediate",
     definition: "Half-life (t₁/₂) is the time taken for half the atoms in a radioactive sample to decay. It is constant for a given isotope and can range from fractions of a second (polonium-214: 0.164 ms) to billions of years (uranium-238: 4.5 billion years). After n half-lives, the amount remaining = initial amount × (½)ⁿ.",
@@ -740,6 +812,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Mass-Energy Equivalence",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Advanced",
     definition: "Mass-energy equivalence, expressed by Einstein's equation E = mc², states that mass and energy are interconvertible forms of the same thing. A small mass corresponds to an enormous amount of energy (because c² ≈ 9 × 10¹⁶ m²/s²). This explains the energy released in nuclear reactions — the 'missing' mass (mass defect) is converted to energy.",
@@ -750,6 +823,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Standard Model",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Advanced",
     definition: "The Standard Model is the theoretical framework describing the fundamental particles and forces of the universe (excluding gravity). It classifies particles as fermions (quarks and leptons, matter particles) and bosons (force-carrying particles). The four fundamental forces it addresses are electromagnetism, the strong nuclear force, the weak nuclear force (gravity is excluded).",
@@ -760,6 +834,7 @@ export const PHYSICS_WORDS = [
   },
   {
     term: "Nuclear Binding Energy",
+    year: 12,
     category: "Quantum & Nuclear",
     level: "Advanced",
     definition: "Nuclear binding energy is the energy required to completely separate a nucleus into its constituent protons and neutrons. It is equivalent (via E = mc²) to the mass defect — the difference between the mass of the assembled nucleus and the sum of masses of its separated nucleons. Greater binding energy per nucleon means greater nuclear stability. Iron-56 has the highest binding energy per nucleon.",

@@ -8,6 +8,7 @@ export const BIOLOGY_WORDS = [
 
   {
     term: "Allele",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "An allele is one of two or more alternative versions of a gene that can occupy the same position (locus) on a chromosome. Different alleles produce variations in inherited characteristics, such as eye colour or blood type. Organisms typically inherit one allele from each parent.",
@@ -18,6 +19,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Gene",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "A gene is a specific sequence of DNA that encodes the instructions for producing a particular protein or functional RNA molecule. Genes are the basic units of heredity, located at fixed positions on chromosomes. Each gene influences one or more traits in an organism.",
@@ -28,6 +30,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Genotype",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "The genotype is the complete set of genetic information an organism carries — specifically, the combination of alleles it possesses for a particular gene or set of genes. Genotype is typically written using letter symbols, such as BB, Bb, or bb.",
@@ -38,6 +41,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Phenotype",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "The phenotype is the observable physical, biochemical, or behavioural characteristics of an organism, resulting from the interaction between its genotype and the environment. Height, eye colour, and blood type are all examples of phenotypes.",
@@ -48,6 +52,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Homozygous",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "An organism is homozygous for a particular gene when it carries two identical alleles at that gene's locus — either two dominant alleles (homozygous dominant) or two recessive alleles (homozygous recessive). The notation BB or bb is used to represent these states.",
@@ -58,6 +63,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Heterozygous",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "An organism is heterozygous for a gene when it carries two different alleles at that gene's locus — one dominant and one recessive. The notation Bb is commonly used. Heterozygous individuals for recessive traits are known as carriers because they do not express the trait but can pass it on.",
@@ -68,6 +74,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Dominant Trait",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "A dominant trait is one whose associated allele is expressed in the phenotype even when only one copy is present (i.e., in a heterozygous individual). Dominant alleles are conventionally written with capital letters. The presence of a single dominant allele is sufficient to produce the dominant phenotype.",
@@ -78,6 +85,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Recessive Trait",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "A recessive trait is one whose associated allele is only expressed in the phenotype when two copies are present (i.e., the individual is homozygous recessive). A single recessive allele paired with a dominant allele produces the dominant phenotype. Recessive alleles are written with lowercase letters.",
@@ -88,6 +96,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Codominance",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "Codominance occurs when both alleles in a heterozygous individual are fully and simultaneously expressed in the phenotype. Neither allele is dominant over the other. A classic example is the AB blood type, where both the A and B antigens are expressed on red blood cells.",
@@ -98,6 +107,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Incomplete Dominance",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "Incomplete dominance occurs when neither allele is fully dominant, resulting in a heterozygous phenotype that is a blend of both parental phenotypes. A cross between a red-flowered plant and a white-flowered plant, for example, produces pink offspring in the F1 generation.",
@@ -108,6 +118,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Punnett Square",
+    year: 12,
     category: "Heredity",
     level: "Beginner",
     definition: "A Punnett square is a grid-based tool used to predict the probability of different genotype and phenotype combinations in offspring from a genetic cross. It was developed by geneticist Reginald Punnett. Each row and column represents an allele from one parent, and the intersecting cells show all possible offspring genotypes.",
@@ -118,6 +129,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Sex-linked Inheritance",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "Sex-linked inheritance describes the pattern of inheritance for genes located on the sex chromosomes, most commonly the X chromosome. X-linked recessive conditions are more common in males because they have only one X chromosome (XY) and therefore only need one recessive allele to express the trait.",
@@ -128,6 +140,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Autosomal Inheritance",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "Autosomal inheritance refers to inheritance patterns for genes located on the autosomes — the non-sex chromosomes. Autosomal conditions affect males and females equally. They can be either dominant (expressed in every generation when the allele is present) or recessive (only expressed when two copies are present).",
@@ -138,6 +151,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Polygenic Inheritance",
+    year: 12,
     category: "Heredity",
     level: "Advanced",
     definition: "Polygenic inheritance occurs when multiple genes (at different loci) each contribute to a single trait. The combined effect of these genes, along with environmental factors, produces a continuous range of phenotypes. Human traits such as height, skin colour, and intelligence are polygenic.",
@@ -148,6 +162,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Pedigree Analysis",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "Pedigree analysis is the examination of family history charts (pedigrees) to determine the inheritance pattern of a trait or disorder. Squares represent males and circles represent females. Shaded symbols indicate affected individuals. Analysis involves identifying patterns such as dominant, recessive, sex-linked, or autosomal inheritance.",
@@ -158,6 +173,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Karyotype",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "A karyotype is an organised visual representation of all the chromosomes in a cell, arranged in homologous pairs by size and shape. Karyotypes are produced from photographs of cells in metaphase and are used to identify chromosomal abnormalities such as trisomy 21 (Down syndrome).",
@@ -168,6 +184,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Crossing Over",
+    year: 12,
     category: "Heredity",
     level: "Advanced",
     definition: "Crossing over is a process that occurs during prophase I of meiosis, in which homologous chromosomes exchange corresponding segments of genetic material. This results in new combinations of alleles on chromosomes and is a major source of genetic variation in sexually reproducing organisms.",
@@ -178,6 +195,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Independent Assortment",
+    year: 12,
     category: "Heredity",
     level: "Intermediate",
     definition: "Independent assortment is one of Mendel's laws, stating that alleles for different genes on non-homologous chromosomes are distributed to gametes independently of one another during meiosis. This means the inheritance of one gene does not influence the inheritance of another gene located on a different chromosome.",
@@ -191,6 +209,7 @@ export const BIOLOGY_WORDS = [
 
   {
     term: "Mutation",
+    year: 12,
     category: "Genetic Change",
     level: "Beginner",
     definition: "A mutation is a permanent change in the nucleotide sequence of DNA. Mutations can occur in a single base (point mutation) or involve larger segments of chromosomes. They may arise spontaneously during DNA replication or be induced by environmental mutagens such as UV radiation or certain chemicals.",
@@ -201,6 +220,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Point Mutation",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "A point mutation is a change involving a single nucleotide base in a DNA sequence. Types include substitution (one base replaced by another), insertion (an extra base added), and deletion (a base removed). Insertions and deletions cause frameshift mutations, altering every codon downstream of the change.",
@@ -211,6 +231,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Chromosomal Mutation",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "A chromosomal mutation is a large-scale change in chromosome structure or number. Structural changes include deletions, duplications, inversions, and translocations of chromosomal segments. Changes in chromosome number (aneuploidy) result from errors in meiosis and include conditions such as Down syndrome (trisomy 21).",
@@ -221,6 +242,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Mutagen",
+    year: 12,
     category: "Genetic Change",
     level: "Beginner",
     definition: "A mutagen is any physical, chemical, or biological agent that increases the rate of mutation in DNA. Physical mutagens include ionising radiation (X-rays, gamma rays) and UV radiation. Chemical mutagens include tobacco smoke and certain industrial chemicals. Biological mutagens include some viruses.",
@@ -231,6 +253,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "DNA Replication",
+    year: 12,
     category: "Genetic Change",
     level: "Beginner",
     definition: "DNA replication is the process by which a cell copies its DNA prior to cell division. The double helix unwinds and each strand serves as a template for a new complementary strand, built by the enzyme DNA polymerase. The result is two identical double-stranded DNA molecules from one original. This process is semi-conservative.",
@@ -241,6 +264,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Transcription",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "Transcription is the process by which the information in a gene's DNA sequence is copied into a complementary messenger RNA (mRNA) molecule. It occurs in the nucleus and is carried out by RNA polymerase. The mRNA then carries the genetic code out of the nucleus to the ribosomes for protein synthesis.",
@@ -251,6 +275,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Translation",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "Translation is the process by which the mRNA sequence is read by ribosomes to synthesise a specific protein. Transfer RNA (tRNA) molecules carry amino acids to the ribosome, matching each three-base codon on the mRNA to its corresponding amino acid. The chain of amino acids folds into a functional protein.",
@@ -261,6 +286,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Gene Expression",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "Gene expression is the process by which the information encoded in a gene is used to produce a functional product, usually a protein. It involves transcription of DNA into mRNA and translation of mRNA into protein. Not all genes are expressed in all cells at all times — gene expression is tightly regulated.",
@@ -271,6 +297,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Epigenetics",
+    year: 12,
     category: "Genetic Change",
     level: "Advanced",
     definition: "Epigenetics is the study of heritable changes in gene expression that do not involve changes to the DNA sequence itself. Epigenetic mechanisms include DNA methylation (which silences genes) and histone modification (which affects how tightly DNA is packaged). Environmental factors such as diet, stress, and toxins can alter epigenetic patterns.",
@@ -281,6 +308,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Biotechnology",
+    year: 12,
     category: "Genetic Change",
     level: "Beginner",
     definition: "Biotechnology is the application of biological systems, organisms, or processes to develop technologies and products that benefit humans. In modern biology, it encompasses techniques such as genetic engineering, PCR, gel electrophoresis, cloning, and the production of pharmaceuticals using genetically modified organisms.",
@@ -291,6 +319,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Genetic Engineering",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "Genetic engineering is the direct manipulation of an organism's genome using biotechnology. It involves cutting DNA at specific sequences using restriction enzymes, inserting foreign genes into a host organism's DNA using vectors (such as plasmids), and using the host's cellular machinery to express the inserted gene.",
@@ -301,6 +330,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "CRISPR-Cas9",
+    year: 12,
     category: "Genetic Change",
     level: "Advanced",
     definition: "CRISPR-Cas9 is a precise gene-editing technology derived from a bacterial immune defence system. A guide RNA directs the Cas9 protein to a specific location in the genome, where it cuts the DNA. The cell's repair mechanisms then fix the cut — allowing scientists to disable, correct, or insert genes with high accuracy.",
@@ -311,6 +341,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "PCR (Polymerase Chain Reaction)",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "PCR is a laboratory technique that amplifies small amounts of DNA into millions of copies through repeated cycles of heating and cooling. It uses a heat-stable DNA polymerase (Taq polymerase), short primers complementary to the target sequence, and free nucleotides. PCR is used in forensics, medical diagnosis, and research.",
@@ -321,6 +352,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Gel Electrophoresis",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "Gel electrophoresis is a technique used to separate DNA, RNA, or protein molecules by size using an electric field. DNA fragments, which are negatively charged, migrate through an agarose gel towards the positive electrode. Smaller fragments travel further, producing a pattern of bands that can be compared between samples.",
@@ -331,6 +363,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Cloning",
+    year: 12,
     category: "Genetic Change",
     level: "Intermediate",
     definition: "Cloning in biology refers to the production of genetically identical copies of a DNA sequence, cell, or whole organism. Molecular cloning involves inserting a gene into a vector (such as a plasmid) and replicating it in a host organism. Reproductive cloning uses somatic cell nuclear transfer to create an organism genetically identical to a donor.",
@@ -344,6 +377,7 @@ export const BIOLOGY_WORDS = [
 
   {
     term: "Pathogen",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "A pathogen is a microorganism or agent that causes disease in a host. Pathogens include bacteria, viruses, fungi, and parasites. They cause disease by invading host tissues, reproducing, and either directly damaging cells or triggering harmful immune responses.",
@@ -354,6 +388,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Bacteria",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "Bacteria are single-celled prokaryotic microorganisms with no membrane-bound nucleus. They reproduce by binary fission and can be found in nearly every environment on Earth. While most bacteria are harmless or beneficial, some species are pathogens that cause diseases such as tuberculosis, cholera, and bacterial pneumonia.",
@@ -364,6 +399,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Virus",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "A virus is a non-cellular infectious agent consisting of genetic material (DNA or RNA) enclosed in a protein coat called a capsid. Viruses are not living cells — they can only replicate by entering a host cell and using its cellular machinery to reproduce. Examples of viral diseases include influenza, COVID-19, and HIV.",
@@ -374,6 +410,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Fungus",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "Fungi are eukaryotic organisms that include moulds, yeasts, and mushrooms. Most fungi are decomposers or commensals, but some are pathogenic and cause infections known as mycoses. Fungal infections can affect the skin (e.g., tinea), lungs (e.g., cryptococcosis), or become systemic in immunocompromised individuals.",
@@ -384,6 +421,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Parasite",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "A parasite is an organism that lives on or inside a host organism and gains nutrients at the host's expense, causing harm in the process. Parasites range from microscopic protozoa (e.g., Plasmodium, which causes malaria) to multicellular organisms such as tapeworms and lice.",
@@ -394,6 +432,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Immune Response",
+    year: 12,
     category: "Infectious Disease",
     level: "Intermediate",
     definition: "The immune response is the body's defence mechanism against pathogens and foreign substances. It includes a non-specific (innate) response — fever, inflammation, phagocytosis — and a specific (adaptive) response involving B lymphocytes producing antibodies and T lymphocytes destroying infected cells. Memory cells produced during the adaptive response provide long-lasting immunity.",
@@ -404,6 +443,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Antibody",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "An antibody (immunoglobulin) is a Y-shaped protein produced by B lymphocytes in response to a specific antigen. The tips of the Y shape form the antigen-binding sites, which are uniquely shaped to bind to one specific antigen. Antibodies neutralise pathogens by blocking their surface proteins, marking them for destruction, or clumping them together.",
@@ -414,6 +454,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Antigen",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "An antigen is any molecule — typically a protein or polysaccharide on the surface of a pathogen — that the immune system recognises as foreign and mounts a response against. Each pathogen carries unique antigens that allow the immune system to distinguish self from non-self and mount a targeted response.",
@@ -424,6 +465,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "B Lymphocyte",
+    year: 12,
     category: "Infectious Disease",
     level: "Intermediate",
     definition: "B lymphocytes (B cells) are white blood cells produced in bone marrow that are responsible for antibody-mediated (humoral) immunity. When a B cell encounters its specific antigen, it differentiates into plasma cells that produce and secrete antibodies, and memory B cells that persist long-term for a rapid secondary response.",
@@ -434,6 +476,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "T Lymphocyte",
+    year: 12,
     category: "Infectious Disease",
     level: "Intermediate",
     definition: "T lymphocytes (T cells) are white blood cells that mature in the thymus and are responsible for cell-mediated immunity. Cytotoxic T cells (CD8+) destroy infected host cells, while helper T cells (CD4+) coordinate the immune response by activating B cells and other immune cells. Memory T cells provide long-term cellular immunity.",
@@ -444,6 +487,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Vaccination",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "Vaccination is the process of introducing a vaccine into the body to stimulate an immune response without causing disease. Vaccines contain antigens (dead or weakened pathogens, pathogen fragments, or pathogen instructions) that trigger the production of antibodies and memory cells, providing long-term protection against future exposure.",
@@ -454,6 +498,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Herd Immunity",
+    year: 12,
     category: "Infectious Disease",
     level: "Intermediate",
     definition: "Herd immunity (community immunity) occurs when a sufficiently large proportion of a population is immune to a disease — either through vaccination or prior infection — that the spread of the pathogen is blocked, protecting even those who are not immune. The threshold percentage required for herd immunity varies by disease.",
@@ -464,6 +509,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Koch's Postulates",
+    year: 12,
     category: "Infectious Disease",
     level: "Advanced",
     definition: "Koch's Postulates are a set of four criteria established by Robert Koch in the 19th century to determine whether a specific microorganism causes a particular disease. The postulates require that the organism be found in all cases of the disease, be isolated and cultured, cause the disease when introduced to a healthy host, and be re-isolated from the newly infected host.",
@@ -474,6 +520,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Transmission",
+    year: 12,
     category: "Infectious Disease",
     level: "Beginner",
     definition: "Transmission is the process by which a pathogen is spread from an infected source to a new host. Routes include direct contact (skin, sexual), droplet transmission (sneezing), airborne transmission (aerosols), faecal-oral routes (contaminated water), and vector-borne transmission (mosquitoes, ticks).",
@@ -484,6 +531,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Antibiotic Resistance",
+    year: 12,
     category: "Infectious Disease",
     level: "Intermediate",
     definition: "Antibiotic resistance occurs when bacteria evolve mechanisms that allow them to survive exposure to antibiotics that would normally kill them. Resistance can arise through mutation or the acquisition of resistance genes from other bacteria via horizontal gene transfer. Overuse and misuse of antibiotics accelerates the selection and spread of resistant strains.",
@@ -494,6 +542,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Epidemiology",
+    year: 12,
     category: "Infectious Disease",
     level: "Advanced",
     definition: "Epidemiology is the scientific study of the distribution, determinants, and control of health and disease in populations. Epidemiologists use data on incidence, prevalence, and transmission patterns to identify risk factors, track outbreaks, and guide public health policy. Landmark epidemiological work includes John Snow's cholera investigation in London in 1854.",
@@ -507,6 +556,7 @@ export const BIOLOGY_WORDS = [
 
   {
     term: "Non-infectious Disease",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Beginner",
     definition: "A non-infectious disease is a condition that cannot be transmitted from person to person through contact with pathogens. Non-infectious diseases include genetic disorders, cancers, cardiovascular diseases, nutritional deficiencies, and autoimmune conditions. They arise from genetic, environmental, lifestyle, or nutritional factors.",
@@ -517,6 +567,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Cancer",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Beginner",
     definition: "Cancer is a group of diseases characterised by uncontrolled cell division, caused by mutations in genes that regulate the cell cycle. These include tumour suppressor genes (which normally inhibit cell division) and proto-oncogenes (which promote growth). Cancerous cells can invade adjacent tissues and spread to distant organs through metastasis.",
@@ -527,6 +578,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Genetic Disorder",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Beginner",
     definition: "A genetic disorder is a disease caused by abnormalities in an individual's genome — including mutations in single genes (e.g., cystic fibrosis, sickle cell anaemia) or chromosomal abnormalities (e.g., Down syndrome). Genetic disorders may be inherited from parents or arise from new mutations in the affected individual.",
@@ -537,6 +589,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Nutritional Disease",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Beginner",
     definition: "A nutritional disease is a condition caused by an imbalance in the intake of nutrients — including deficiencies (too little of a nutrient) or excess (too much). Examples include scurvy (vitamin C deficiency), rickets (vitamin D deficiency), anaemia (iron deficiency), and obesity (excess energy intake).",
@@ -547,6 +600,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Cardiovascular Disease",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Intermediate",
     definition: "Cardiovascular disease (CVD) encompasses conditions affecting the heart and blood vessels, including coronary artery disease, hypertension, heart attack (myocardial infarction), and stroke. It typically develops through the accumulation of fatty deposits (atherosclerosis) in arterial walls, restricting blood flow and increasing the risk of clots.",
@@ -557,6 +611,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Type 2 Diabetes",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Intermediate",
     definition: "Type 2 diabetes is a metabolic disorder characterised by insulin resistance — where cells fail to respond effectively to insulin — and eventually insufficient insulin production by the pancreas. It results in chronically elevated blood glucose levels, which damage blood vessels and nerves over time. Type 2 diabetes is strongly associated with obesity, physical inactivity, and poor diet.",
@@ -567,6 +622,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Autoimmune Disease",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Advanced",
     definition: "An autoimmune disease occurs when the immune system mistakenly attacks the body's own healthy cells and tissues. Normally, the immune system learns to distinguish self from non-self, but in autoimmune conditions this self-tolerance breaks down. Examples include type 1 diabetes, rheumatoid arthritis, multiple sclerosis, and lupus.",
@@ -577,6 +633,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Cystic Fibrosis",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Intermediate",
     definition: "Cystic fibrosis (CF) is an autosomal recessive genetic disorder caused by mutations in the CFTR gene, which encodes a chloride ion channel. The faulty channel leads to thick, sticky mucus accumulating in the lungs, digestive tract, and other organs. This impairs breathing, promotes chronic lung infections, and reduces digestive enzyme function.",
@@ -587,6 +644,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Down Syndrome",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Beginner",
     definition: "Down syndrome (trisomy 21) is a chromosomal condition caused by the presence of an extra copy of chromosome 21, usually resulting from non-disjunction during meiosis in a parent. It is characterised by distinctive physical features, intellectual disability of varying degree, and an increased risk of congenital heart defects and certain cancers.",
@@ -597,6 +655,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Environmental Disease",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Intermediate",
     definition: "An environmental disease is a condition caused or exacerbated by exposure to harmful agents in the environment — including pollutants, toxins, radiation, and occupational hazards. Examples include mesothelioma (asbestos exposure), lead poisoning, and lung disease from air pollution. Environmental diseases are non-infectious but can affect entire populations.",
@@ -607,6 +666,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Preventive Medicine",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Intermediate",
     definition: "Preventive medicine encompasses strategies designed to prevent the onset, progression, or recurrence of disease. Primary prevention targets healthy individuals (e.g., vaccination, lifestyle modification). Secondary prevention involves early detection through screening (e.g., mammograms, blood glucose tests). Tertiary prevention manages existing disease to prevent complications.",
@@ -617,6 +677,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Gene Therapy",
+    year: 12,
     category: "Non-infectious Disease & Disorders",
     level: "Advanced",
     definition: "Gene therapy is a medical approach that treats or prevents disease by altering the genetic material within a patient's cells. It may involve inserting a functional copy of a faulty gene, silencing an overactive gene, or editing the genome using tools such as CRISPR-Cas9. Gene therapy offers potential cures for genetic disorders that currently have no definitive treatment.",
@@ -630,6 +691,7 @@ export const BIOLOGY_WORDS = [
 
   {
     term: "Natural Selection",
+    year: 12,
     category: "Evolution",
     level: "Beginner",
     definition: "Natural selection is the process by which organisms with heritable traits better suited to their environment survive and reproduce more successfully than those with less advantageous traits. Over many generations, favourable traits become more common in the population. It is the primary mechanism of evolution, first described by Charles Darwin.",
@@ -640,6 +702,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Adaptation",
+    year: 12,
     category: "Evolution",
     level: "Beginner",
     definition: "An adaptation is an inherited characteristic — structural, physiological, or behavioural — that increases an organism's fitness (survival and reproductive success) in its particular environment. Adaptations arise through natural selection over many generations as advantageous heritable variations become more common in a population.",
@@ -650,6 +713,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Genetic Variation",
+    year: 12,
     category: "Evolution",
     level: "Beginner",
     definition: "Genetic variation is the diversity of heritable traits within a population, arising from differences in allele frequencies. It is generated by mutation, sexual reproduction (through crossing over and independent assortment), and gene flow. Genetic variation is the raw material upon which natural selection acts — without it, evolution cannot occur.",
@@ -660,6 +724,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Speciation",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Speciation is the evolutionary process by which new biological species arise from ancestral populations. It requires the accumulation of sufficient genetic differences between two populations that they can no longer interbreed to produce fertile offspring — establishing reproductive isolation. The two main modes are allopatric (geographic separation) and sympatric (same location) speciation.",
@@ -670,6 +735,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Allopatric Speciation",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Allopatric speciation is the most common form of speciation, occurring when a population is geographically separated into two or more isolated groups. Gene flow between the groups ceases, and each group evolves independently through mutation, natural selection, and genetic drift. Over time, they become reproductively isolated — distinct species.",
@@ -680,6 +746,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Sympatric Speciation",
+    year: 12,
     category: "Evolution",
     level: "Advanced",
     definition: "Sympatric speciation is the evolution of new species from a single ancestral population within the same geographic area, without physical separation. It can occur through polyploidy (common in plants), adaptation to different ecological niches within the same habitat, or divergent sexual selection pressures.",
@@ -690,6 +757,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Reproductive Isolation",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Reproductive isolation is the inability of two populations or species to interbreed and produce fertile offspring. It is the defining criterion for speciation. Isolation mechanisms include prezygotic barriers (geographic, temporal, behavioural, mechanical, and gametic incompatibility) and postzygotic barriers (hybrid inviability, infertility, or breakdown).",
@@ -700,6 +768,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Genetic Drift",
+    year: 12,
     category: "Evolution",
     level: "Advanced",
     definition: "Genetic drift is the random change in allele frequencies in a population due to chance events rather than natural selection. Its effects are most pronounced in small populations, where random events can dramatically alter the genetic composition. Two key types are the bottleneck effect (sudden population reduction) and the founder effect (small group colonises new area).",
@@ -710,6 +779,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Gene Flow",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Gene flow (migration) is the transfer of alleles between populations through the movement of individuals or gametes. Gene flow increases genetic similarity between populations and can introduce new alleles into a gene pool. High gene flow between two populations prevents them from diverging enough to become separate species.",
@@ -720,6 +790,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Fossil Record",
+    year: 12,
     category: "Evolution",
     level: "Beginner",
     definition: "The fossil record is the chronological sequence of fossilised organisms preserved in sedimentary rocks. Fossils provide direct evidence of organisms that lived in the past, including their morphology, behaviour (trace fossils), and sometimes their molecular make-up. The fossil record supports evolutionary theory by showing gradual changes in organism form over geological time.",
@@ -730,6 +801,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Biogeography",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Biogeography is the study of the geographic distribution of species and ecosystems across Earth. Biogeographic patterns — such as the unique fauna of Australia or island chains — provide evidence for evolution by showing how species distributions match continental drift history and patterns of colonisation.",
@@ -740,6 +812,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Comparative Anatomy",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Comparative anatomy is the study of structural similarities and differences between the body parts of different species. Homologous structures (similar in structure but different in function) indicate common ancestry. Analogous structures (similar in function but different in structure) indicate convergent evolution. Vestigial structures are remnants of features once functional in ancestors.",
@@ -750,6 +823,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Molecular Homology",
+    year: 12,
     category: "Evolution",
     level: "Advanced",
     definition: "Molecular homology is the similarity in DNA, RNA, or protein sequences between different species resulting from shared ancestry. The more closely related two species are, the more similar their molecular sequences. Techniques such as DNA hybridisation and cytochrome c comparisons allow evolutionary relationships to be quantified and phylogenetic trees to be constructed.",
@@ -760,6 +834,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Hardy-Weinberg Equilibrium",
+    year: 12,
     category: "Evolution",
     level: "Advanced",
     definition: "The Hardy-Weinberg Equilibrium (HWE) states that allele and genotype frequencies in a population remain constant from generation to generation in the absence of evolutionary forces. The conditions required include no mutation, random mating, no natural selection, no genetic drift, and no gene flow. Real populations rarely meet all conditions, so deviations from HWE indicate evolutionary change.",
@@ -770,6 +845,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Punctuated Equilibrium",
+    year: 12,
     category: "Evolution",
     level: "Advanced",
     definition: "Punctuated equilibrium is a model of evolutionary change proposing that species remain relatively stable (stasis) for long periods and then undergo rapid evolutionary change during short intervals — often associated with environmental disruptions or colonisation of new niches. It contrasts with the traditional Darwinian model of gradual, continuous change (gradualism).",
@@ -780,6 +856,7 @@ export const BIOLOGY_WORDS = [
   },
   {
     term: "Convergent Evolution",
+    year: 12,
     category: "Evolution",
     level: "Intermediate",
     definition: "Convergent evolution is the independent evolution of similar traits in unrelated or distantly related species, driven by adaptation to similar environments or ecological niches. The resulting structures are analogous — similar in function but different in underlying structure, reflecting independent evolutionary origins rather than shared ancestry.",

@@ -6,6 +6,7 @@ const ENGLISH_WORDS = [
   // ── Textual Concepts (15) ─────────────────────────────────────────────────
   {
     term: "Theme",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "A central idea or underlying message that a text explores, often expressed implicitly through character, plot, imagery, and symbol rather than stated directly.",
@@ -16,6 +17,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Tone",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "The attitude of the author or narrator towards the subject matter or audience, conveyed through word choice, sentence structure, and imagery.",
@@ -26,6 +28,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Voice",
+    year: 12,
     category: "Textual Concepts",
     level: "Intermediate",
     definition: "The distinctive personality, style, and perspective that a narrator or author projects through language choices, creating a recognisable textual presence.",
@@ -36,6 +39,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Genre",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "A category of texts that share recognised conventions of form, content, style, and audience expectations, such as tragedy, satire, gothic, or documentary.",
@@ -46,6 +50,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Context",
+    year: 12,
     category: "Textual Concepts",
     level: "Intermediate",
     definition: "The circumstances surrounding the production and reception of a text, including historical, cultural, social, and biographical factors that shape meaning.",
@@ -56,6 +61,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Subtext",
+    year: 12,
     category: "Textual Concepts",
     level: "Intermediate",
     definition: "The underlying or implicit meaning in a text — what is suggested or implied beneath the surface level of dialogue, action, or image.",
@@ -66,6 +72,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Representation",
+    year: 12,
     category: "Textual Concepts",
     level: "Intermediate",
     definition: "The way people, places, events, or ideas are portrayed in texts — through selection, emphasis, perspective, and exclusion — which constructs meaning rather than simply reflecting reality.",
@@ -76,6 +83,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Perspective",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "The particular viewpoint from which a text is presented — who is speaking, from where, and with what assumptions — which determines what is visible and what is silenced.",
@@ -86,6 +94,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Intertextuality",
+    year: 12,
     category: "Textual Concepts",
     level: "Advanced",
     definition: "The relationship between texts in which one text references, alludes to, absorbs, or transforms another, creating layers of meaning through connection.",
@@ -96,6 +105,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Ideology",
+    year: 12,
     category: "Textual Concepts",
     level: "Advanced",
     definition: "A system of beliefs, values, and assumptions — often made invisible by their normalisation — that shapes how texts construct and represent the world.",
@@ -106,6 +116,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Composer",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "The person or group who creates or constructs a text — the preferred HSC term that acknowledges the active, deliberate construction of meaning.",
@@ -116,6 +127,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Audience",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "The intended or actual receiver(s) of a text — shaped by the text's form, language, context, and purpose — who bring their own values and experiences to interpretation.",
@@ -126,6 +138,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Form",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "The structural category or mode of a text — novel, film, poem, essay, speech — which carries its own conventions and shapes how meaning is made.",
@@ -136,6 +149,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Motif",
+    year: 12,
     category: "Textual Concepts",
     level: "Intermediate",
     definition: "A recurring element — image, phrase, object, or situation — that accumulates meaning across a text, reinforcing themes and creating structural coherence.",
@@ -146,6 +160,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Symbol",
+    year: 12,
     category: "Textual Concepts",
     level: "Beginner",
     definition: "An object, character, place, or event that stands for something beyond itself, carrying broader meanings that resonate throughout a text.",
@@ -158,6 +173,7 @@ const ENGLISH_WORDS = [
   // ── Narrative & Poetry (15) ───────────────────────────────────────────────
   {
     term: "Narrative Structure",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "The organisation and sequencing of events in a narrative, including exposition, rising action, climax, falling action, and resolution (Freytag's Pyramid).",
@@ -168,6 +184,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Narrator",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "The voice that tells the story — may be a character in the story (first person) or an external voice (third person limited or omniscient), with varying levels of reliability.",
@@ -178,6 +195,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Point of View",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "The narrative perspective from which a story is told: first person (I/we), second person (you), third person limited (he/she, one character's perspective), or third person omniscient (all-knowing).",
@@ -188,6 +206,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Characterisation",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "The methods through which a composer constructs characters — including direct description, dialogue, action, other characters' responses, and physical detail.",
@@ -198,6 +217,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Conflict",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "The central tension or opposition that drives a narrative, which may be external (character vs character/society/nature) or internal (character vs self).",
@@ -208,6 +228,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Poetic Form",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "The structural and metrical organisation of a poem, including its stanza form, rhyme scheme, metre, and length, which contribute to and shape its meaning.",
@@ -218,6 +239,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Imagery",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "Language that appeals to the senses — sight, sound, smell, taste, and touch — to create vivid mental pictures and emotional effects.",
@@ -228,6 +250,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Metaphor",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "A direct comparison that identifies one thing with another without using 'like' or 'as', creating a transference of qualities between the two.",
@@ -238,6 +261,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Elegy",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "A poem or other text lamenting the death of a person or mourning a loss, typically moving from grief towards acceptance or consolation.",
@@ -248,6 +272,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Dramatic Monologue",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "A poem in which a fictional speaker addresses a silent listener, revealing character through their own words — often exposing a gap between what they say and what the reader perceives.",
@@ -258,6 +283,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Sonnet",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "A fourteen-line poem written in iambic pentameter, typically in Petrarchan (octave/sestet) or Shakespearean (three quatrains/couplet) form, featuring a volta.",
@@ -268,6 +294,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Volta",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "The rhetorical and emotional 'turn' in a sonnet, traditionally at line 9 in the Petrarchan form or the final couplet in the Shakespearean form, marking a shift in argument, mood, or perspective.",
@@ -278,6 +305,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Free Verse",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Beginner",
     definition: "Poetry that does not follow a regular metre or rhyme scheme, relying instead on natural speech rhythms, line breaks, and other structural choices for effect.",
@@ -288,6 +316,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Enjambment",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "The continuation of a sentence or clause across a line break without a pause, creating momentum, ambiguity, or tension as the reader moves between lines.",
@@ -298,6 +327,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Persona",
+    year: 12,
     category: "Narrative & Poetry",
     level: "Intermediate",
     definition: "A fictional speaker constructed by the poet, distinct from the biographical author, whose voice and perspective shape the poem.",
@@ -310,6 +340,7 @@ const ENGLISH_WORDS = [
   // ── Essay & Composition (15) ──────────────────────────────────────────────
   {
     term: "Thesis",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "A clear, specific, arguable claim that states the writer's central position and frames the entire essay's analysis.",
@@ -320,6 +351,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Contention",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "The main position or argument advanced in an essay — what the writer is asserting and seeking to persuade the reader to accept.",
@@ -330,6 +362,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Evidence",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "Quotations, textual references, examples, or data that support a claim, always accompanied by analysis showing how the evidence proves the point.",
@@ -340,6 +373,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Paragraph Structure",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "The internal organisation of a body paragraph, typically: Topic Sentence → Context → Evidence → Analysis → Link back to thesis (TEAL or similar model).",
@@ -350,6 +384,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Topic Sentence",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "The first sentence of a body paragraph that states the specific argument of that paragraph and its relationship to the overall thesis.",
@@ -360,6 +395,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Cohesion",
+    year: 12,
     category: "Essay & Composition",
     level: "Intermediate",
     definition: "The quality of an essay in which ideas flow logically from sentence to sentence and paragraph to paragraph, achieved through signposting, linking phrases, and consistent argument.",
@@ -370,6 +406,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Analytical Writing",
+    year: 12,
     category: "Essay & Composition",
     level: "Intermediate",
     definition: "Writing that examines how a text creates meaning through close reading of language, structure, and technique, rather than describing what happens.",
@@ -380,6 +417,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Persuasive Writing",
+    year: 12,
     category: "Essay & Composition",
     level: "Intermediate",
     definition: "Writing that argues a position and attempts to convince the audience using evidence, reasoning, and rhetorical strategies such as logos, ethos, and pathos.",
@@ -390,6 +428,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Counterargument",
+    year: 12,
     category: "Essay & Composition",
     level: "Intermediate",
     definition: "An opposing perspective acknowledged within an argument, which is then rebutted, qualifying and strengthening the overall contention.",
@@ -400,6 +439,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Embedding Quotations",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "Integrating textual evidence smoothly into the analytical sentence so that it reads grammatically and fluently, rather than dropping a block quote with no integration.",
@@ -410,6 +450,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Register",
+    year: 12,
     category: "Essay & Composition",
     level: "Intermediate",
     definition: "The level of formality and linguistic choices appropriate to a particular audience, purpose, and context — from formal academic prose to casual conversational writing.",
@@ -420,6 +461,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Introduction",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "The opening section of an essay that contextualises the topic, presents the thesis/contention, and forecasts the main lines of argument.",
@@ -430,6 +472,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Conclusion",
+    year: 12,
     category: "Essay & Composition",
     level: "Beginner",
     definition: "The closing section of an essay that synthesises the argument, reaffirms the thesis in the light of the evidence presented, and leaves the reader with a sense of resolution.",
@@ -440,6 +483,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Synthesis",
+    year: 12,
     category: "Essay & Composition",
     level: "Advanced",
     definition: "The integration of ideas from multiple texts, sources, or perspectives into a coherent argument that creates new meaning beyond any individual source.",
@@ -450,6 +494,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Diction",
+    year: 12,
     category: "Essay & Composition",
     level: "Intermediate",
     definition: "The precise choice of words in a text — including connotations, register, tone, and semantic field — which shapes meaning and positions the audience.",
@@ -462,6 +507,7 @@ const ENGLISH_WORDS = [
   // ── Language Techniques (15) ──────────────────────────────────────────────
   {
     term: "Simile",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "A comparison of two unlike things using the words 'like' or 'as', creating a vivid image by transferring qualities from one thing to another.",
@@ -472,6 +518,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Alliteration",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "The repetition of the same initial consonant sound in closely placed words, creating rhythm, emphasis, or a particular sound texture.",
@@ -482,6 +529,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Irony",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "A technique in which what is said or depicted differs from what is meant or what occurs — including verbal irony (saying the opposite), dramatic irony (audience knows more than characters), and situational irony.",
@@ -492,6 +540,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Satire",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "A mode of writing that uses humour, irony, exaggeration, or ridicule to expose and critique folly, vice, or social institutions, typically with a reformative intent.",
@@ -502,6 +551,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Anaphora",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "The deliberate repetition of a word or phrase at the beginning of successive clauses or lines, creating rhetorical momentum, emphasis, and emotional intensity.",
@@ -512,6 +562,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Hyperbole",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "Deliberate exaggeration for emphasis or comic effect, not intended to be taken literally, used to heighten emotional impact or satirise.",
@@ -522,6 +573,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Allusion",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "An indirect reference to a person, event, text, or cultural artefact that assumes the audience's familiarity and adds layered meaning without explanation.",
@@ -532,6 +584,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Juxtaposition",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "The placement of two contrasting elements side by side to highlight differences, create tension, or produce ironic effects.",
@@ -542,6 +595,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Paradox",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "A statement that appears self-contradictory or absurd but on closer examination reveals a deeper truth or insight.",
@@ -552,6 +606,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Oxymoron",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "A figure of speech combining two seemingly contradictory terms to create a new, complex meaning — a compressed paradox.",
@@ -562,6 +617,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Rhetorical Question",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "A question posed for effect, not requiring an answer, which positions the audience to arrive at the implied answer independently.",
@@ -572,6 +628,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Personification",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "Attributing human qualities, emotions, or actions to non-human entities — objects, animals, or abstract ideas.",
@@ -582,6 +639,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Sibilance",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "A phonological effect created by the repetition of 's', 'sh', 'z', or 'zh' sounds, producing a hissing, whispering, or sinuous quality.",
@@ -592,6 +650,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Colloquialism",
+    year: 12,
     category: "Language Techniques",
     level: "Beginner",
     definition: "Informal, conversational language or expressions typically associated with spoken rather than written registers, often region- or culture-specific.",
@@ -602,6 +661,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Euphemism",
+    year: 12,
     category: "Language Techniques",
     level: "Intermediate",
     definition: "A mild or indirect expression used in place of a more blunt or offensive one, often employed to avoid discomfort, maintain social decorum, or obscure the truth.",
@@ -614,6 +674,7 @@ const ENGLISH_WORDS = [
   // ── Critical Analysis (15) ────────────────────────────────────────────────
   {
     term: "Critical Framework",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "A theoretical lens — such as feminist, Marxist, postcolonial, or psychoanalytic criticism — through which a text is read and interpreted.",
@@ -624,6 +685,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Feminist Criticism",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "A critical approach that examines how texts construct, reflect, or challenge gender — particularly the representation of women, power, and patriarchal ideology.",
@@ -634,6 +696,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Postcolonial Theory",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "A critical framework that examines the effects of colonialism on cultures, identities, and literary representations — particularly the othering of colonised peoples and the decolonisation of perspective.",
@@ -644,6 +707,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Deconstruction",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "A reading strategy associated with Derrida that exposes the internal contradictions and unstable hierarchies of binary oppositions within texts (e.g., presence/absence, male/female, rational/irrational).",
@@ -654,6 +718,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Close Reading",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "A careful, sustained reading of a text's language, structure, form, and imagery to reveal layers of meaning not apparent in a surface-level reading.",
@@ -664,6 +729,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Hegemony",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "The dominance of one group or set of ideas over others, achieved not through force but through the naturalisation of the dominant ideology as 'common sense' (Gramsci).",
@@ -674,6 +740,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Reading Against the Grain",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "A critical reading practice that resists or challenges the 'preferred reading' a text invites, interrogating its assumptions and revealing what it suppresses or marginalises.",
@@ -684,6 +751,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Preferred Reading",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "The interpretation that a text is encoded to elicit in its audience — the dominant meaning the composer intends or assumes, which readers may accept, negotiate, or reject.",
@@ -694,6 +762,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Psychoanalytic Criticism",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "A critical approach that reads texts through Freudian or Lacanian concepts — the unconscious, repression, the uncanny, desire, and the symbolic order.",
@@ -704,6 +773,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Binary Opposition",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "A pair of contrasting terms or concepts that structure meaning in a text (e.g., good/evil, civilised/savage, male/female), usually with one term privileged over the other.",
@@ -714,6 +784,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Appropriation",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "The process of taking an existing text, image, or cultural form and adapting, transforming, or recontextualising it to create new meaning.",
@@ -724,6 +795,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Narrative Theory",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "The systematic study of narrative structures, including how stories are told (discourse) versus what is told (story), focalization, chronology, and the role of narrator.",
@@ -734,6 +806,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Ecocriticism",
+    year: 12,
     category: "Critical Analysis",
     level: "Advanced",
     definition: "A critical framework that examines the relationship between literature and the natural environment, exploring how texts construct nature and reflect human attitudes towards the non-human world.",
@@ -744,6 +817,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Cultural Studies",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "An interdisciplinary approach that examines how culture — including popular media, texts, and practices — produces, circulates, and naturalises meaning and power.",
@@ -754,6 +828,7 @@ const ENGLISH_WORDS = [
   },
   {
     term: "Unreliable Narrator",
+    year: 12,
     category: "Critical Analysis",
     level: "Intermediate",
     definition: "A narrator whose account of events is compromised — by self-interest, limited knowledge, self-deception, or psychological instability — creating a gap between the narrator's perspective and the reader's understanding.",

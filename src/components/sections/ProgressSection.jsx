@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { ALL_WORDS } from "../../data/words.js";
+import { getWordsForCategory } from "../../utils/termLookup.js";
 import { CATEGORIES } from "../../data/categories.js";
 import { Badge } from "../ui/Badge.jsx";
 import { SEOHead } from "../ui/SEOHead.jsx";
@@ -16,7 +17,7 @@ export function ProgressSection({ completedTerms, toggleComplete, onOpenModal })
   const pct            = totalTerms > 0 ? Math.round((totalCompleted / totalTerms) * 100) : 0;
 
   function continueCategory(cat) {
-    const words    = ALL_WORDS.filter(w => w.category === cat.name);
+    const words    = getWordsForCategory(cat);
     const firstIdx = words.findIndex(w => !completedTerms.has(w.term));
     onOpenModal(words, firstIdx >= 0 ? firstIdx : 0);
   }
@@ -61,7 +62,7 @@ export function ProgressSection({ completedTerms, toggleComplete, onOpenModal })
         {/* Category list */}
         <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
           {CATEGORIES.map(cat => {
-            const words    = ALL_WORDS.filter(w => w.category === cat.name);
+            const words    = getWordsForCategory(cat);
             if (words.length === 0) return null;
             const done     = words.filter(w => completedTerms.has(w.term)).length;
             const catPct   = Math.round((done / words.length) * 100);

@@ -4,7 +4,7 @@ import { useEffect } from "react";
 // Lightweight alternative to react-helmet for a Vite SPA.
 export function SEOHead({ title, description }) {
   useEffect(() => {
-    const suffix = "HSCVocab";
+    const suffix = "SchoolVocab";
     document.title = title ? `${title} — ${suffix}` : suffix;
 
     let meta = document.querySelector('meta[name="description"]');

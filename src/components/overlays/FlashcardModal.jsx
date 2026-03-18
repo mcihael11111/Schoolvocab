@@ -16,7 +16,7 @@ export function FlashcardModal({ words, activeIndex, onClose, onPrev, onNext, on
   const word   = words[activeIndex];
   // Locked if: not Pro, limit reached, term never viewed before, and not the daily term override
   const locked = !isPro && isViewLimitReached && !viewedTerms.has(word.term) && !unlockedTerms?.has(word.term);
-  const cat    = CAT_MAP[word.category] || { accent: "#1A1A2E", color: "#F8FAFC", icon: BookOpen };
+  const cat    = CAT_MAP[`${word.year}::${word.category}`] || { accent: "#1A1A2E", color: "#F8FAFC", icon: BookOpen };
   const isDone = completedTerms.has(word.term);
   const total  = words.length;
   const isMobile = useWindowSize() < 768;

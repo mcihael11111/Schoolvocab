@@ -9,16 +9,16 @@ export function Footer() {
     >
       <Link to="/" style={{ display: "flex", alignItems: "center", gap: 8, textDecoration: "none", color: "inherit" }}>
         <div style={{ width: 24, height: 24, background: "#1A1A2E", borderRadius: 6, display: "flex", alignItems: "center", justifyContent: "center" }}>
-          <span style={{ color: "#fff", fontSize: 12, fontWeight: 700, fontFamily: "serif" }}>H</span>
+          <span style={{ color: "#fff", fontSize: 12, fontWeight: 700, fontFamily: "serif" }}>S</span>
         </div>
-        <span style={{ fontSize: 14, fontWeight: 600 }}>HSCVocab</span>
+        <span style={{ fontSize: 14, fontWeight: 600 }}>SchoolVocab</span>
       </Link>
       <p style={{ fontSize: 13, color: "#94A3B8" }}>
         Built by{" "}
         <a href="https://www.madebymichael.com.au/uxuidesignportfolio" style={{ color: "#475569", fontWeight: 600, textDecoration: "none" }}>
           Michael Papanikolaou
         </a>{" "}
-        · hscvocab.com.au
+        · schoolvocab.com.au
       </p>
       <div style={{ display: "flex", gap: 20 }}>
         <Link to="/categories" style={{ fontSize: 13, color: "#94A3B8", textDecoration: "none", fontWeight: 500 }}>Categories</Link>

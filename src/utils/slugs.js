@@ -16,3 +16,7 @@ export function findTermBySlug(words, slug) {
 export function findCategoryById(categories, id) {
   return categories.find(c => c.id === id);
 }
+
+export function findCategoryByYearAndSlug(categories, year, slug) {
+  return categories.find(c => c.year === year && c.id === slug);
+}

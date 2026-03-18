@@ -11,11 +11,13 @@ const DOMAINS = [
 ];
 
 const totalTerms = CATEGORIES.reduce((sum, c) => sum + c.count, 0);
+const yearSet = [...new Set(CATEGORIES.map(c => c.year))];
 
 const STATS = [
   { value: `${totalTerms}+`, label: "Written terms" },
   { value: `${CATEGORIES.length}`, label: "Categories" },
   { value: `${domainNames.length}`, label: "Subjects" },
+  { value: `${yearSet.length}`, label: "Year levels" },
 ];
 
 export { DOMAINS, STATS };
