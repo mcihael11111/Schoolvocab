@@ -5,6 +5,7 @@ const ENGLISH_WORDS = [
 
   // ── Textual Concepts (15) ─────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Theme",
     year: 12,
     category: "Textual Concepts",
@@ -16,6 +17,7 @@ const ENGLISH_WORDS = [
     related: ["Motif", "Symbol", "Subtext"],
   },
   {
+    type: "know-it",
     term: "Tone",
     year: 12,
     category: "Textual Concepts",
@@ -27,6 +29,7 @@ const ENGLISH_WORDS = [
     related: ["Mood", "Voice", "Diction"],
   },
   {
+    type: "know-it",
     term: "Voice",
     year: 12,
     category: "Textual Concepts",
@@ -38,6 +41,7 @@ const ENGLISH_WORDS = [
     related: ["Narrator", "Tone", "Persona"],
   },
   {
+    type: "know-it",
     term: "Genre",
     year: 12,
     category: "Textual Concepts",
@@ -49,6 +53,7 @@ const ENGLISH_WORDS = [
     related: ["Convention", "Subversion", "Form"],
   },
   {
+    type: "know-it",
     term: "Context",
     year: 12,
     category: "Textual Concepts",
@@ -60,6 +65,7 @@ const ENGLISH_WORDS = [
     related: ["Composer", "Audience", "Ideology"],
   },
   {
+    type: "know-it",
     term: "Subtext",
     year: 12,
     category: "Textual Concepts",
@@ -71,6 +77,7 @@ const ENGLISH_WORDS = [
     related: ["Connotation", "Implication", "Reading Against the Grain"],
   },
   {
+    type: "know-it",
     term: "Representation",
     year: 12,
     category: "Textual Concepts",
@@ -82,6 +89,7 @@ const ENGLISH_WORDS = [
     related: ["Perspective", "Ideology", "Stereotype"],
   },
   {
+    type: "know-it",
     term: "Perspective",
     year: 12,
     category: "Textual Concepts",
@@ -93,6 +101,7 @@ const ENGLISH_WORDS = [
     related: ["Point of View", "Narrator", "Representation"],
   },
   {
+    type: "know-it",
     term: "Intertextuality",
     year: 12,
     category: "Textual Concepts",
@@ -104,6 +113,7 @@ const ENGLISH_WORDS = [
     related: ["Allusion", "Appropriation", "Palimpsest"],
   },
   {
+    type: "know-it",
     term: "Ideology",
     year: 12,
     category: "Textual Concepts",
@@ -115,6 +125,7 @@ const ENGLISH_WORDS = [
     related: ["Representation", "Hegemony", "Critical Framework"],
   },
   {
+    type: "know-it",
     term: "Composer",
     year: 12,
     category: "Textual Concepts",
@@ -126,6 +137,7 @@ const ENGLISH_WORDS = [
     related: ["Audience", "Context", "Authorial Intention"],
   },
   {
+    type: "know-it",
     term: "Audience",
     year: 12,
     category: "Textual Concepts",
@@ -137,6 +149,7 @@ const ENGLISH_WORDS = [
     related: ["Composer", "Positioning", "Reception"],
   },
   {
+    type: "know-it",
     term: "Form",
     year: 12,
     category: "Textual Concepts",
@@ -148,6 +161,7 @@ const ENGLISH_WORDS = [
     related: ["Genre", "Structure", "Convention"],
   },
   {
+    type: "know-it",
     term: "Motif",
     year: 12,
     category: "Textual Concepts",
@@ -159,6 +173,7 @@ const ENGLISH_WORDS = [
     related: ["Symbol", "Theme", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Symbol",
     year: 12,
     category: "Textual Concepts",
@@ -172,6 +187,7 @@ const ENGLISH_WORDS = [
 
   // ── Narrative & Poetry (15) ───────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Narrative Structure",
     year: 12,
     category: "Narrative & Poetry",
@@ -183,6 +199,7 @@ const ENGLISH_WORDS = [
     related: ["Plot", "Climax", "Denouement"],
   },
   {
+    type: "know-it",
     term: "Narrator",
     year: 12,
     category: "Narrative & Poetry",
@@ -194,6 +211,7 @@ const ENGLISH_WORDS = [
     related: ["Point of View", "Unreliable Narrator", "Voice"],
   },
   {
+    type: "know-it",
     term: "Point of View",
     year: 12,
     category: "Narrative & Poetry",
@@ -205,6 +223,7 @@ const ENGLISH_WORDS = [
     related: ["Narrator", "Focalisation", "Voice"],
   },
   {
+    type: "know-it",
     term: "Characterisation",
     year: 12,
     category: "Narrative & Poetry",
@@ -216,6 +235,7 @@ const ENGLISH_WORDS = [
     related: ["Round and Flat Characters", "Protagonist", "Foil"],
   },
   {
+    type: "know-it",
     term: "Conflict",
     year: 12,
     category: "Narrative & Poetry",
@@ -227,6 +247,7 @@ const ENGLISH_WORDS = [
     related: ["Tension", "Climax", "Resolution"],
   },
   {
+    type: "know-it",
     term: "Poetic Form",
     year: 12,
     category: "Narrative & Poetry",
@@ -238,6 +259,7 @@ const ENGLISH_WORDS = [
     related: ["Metre", "Rhyme Scheme", "Free Verse"],
   },
   {
+    type: "know-it",
     term: "Imagery",
     year: 12,
     category: "Narrative & Poetry",
@@ -249,6 +271,7 @@ const ENGLISH_WORDS = [
     related: ["Metaphor", "Simile", "Sensory Detail"],
   },
   {
+    type: "know-it",
     term: "Metaphor",
     year: 12,
     category: "Narrative & Poetry",
@@ -260,6 +283,7 @@ const ENGLISH_WORDS = [
     related: ["Simile", "Extended Metaphor", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Elegy",
     year: 12,
     category: "Narrative & Poetry",
@@ -271,6 +295,7 @@ const ENGLISH_WORDS = [
     related: ["Lament", "Pastoral Elegy", "Consolation"],
   },
   {
+    type: "know-it",
     term: "Dramatic Monologue",
     year: 12,
     category: "Narrative & Poetry",
@@ -282,6 +307,7 @@ const ENGLISH_WORDS = [
     related: ["Persona", "Dramatic Irony", "Characterisation"],
   },
   {
+    type: "know-it",
     term: "Sonnet",
     year: 12,
     category: "Narrative & Poetry",
@@ -293,6 +319,7 @@ const ENGLISH_WORDS = [
     related: ["Poetic Form", "Volta", "Iambic Pentameter"],
   },
   {
+    type: "know-it",
     term: "Volta",
     year: 12,
     category: "Narrative & Poetry",
@@ -304,6 +331,7 @@ const ENGLISH_WORDS = [
     related: ["Sonnet", "Poetic Form", "Argument"],
   },
   {
+    type: "know-it",
     term: "Free Verse",
     year: 12,
     category: "Narrative & Poetry",
@@ -315,6 +343,7 @@ const ENGLISH_WORDS = [
     related: ["Poetic Form", "Enjambment", "Caesura"],
   },
   {
+    type: "know-it",
     term: "Enjambment",
     year: 12,
     category: "Narrative & Poetry",
@@ -326,6 +355,7 @@ const ENGLISH_WORDS = [
     related: ["Caesura", "Line Break", "Metre"],
   },
   {
+    type: "know-it",
     term: "Persona",
     year: 12,
     category: "Narrative & Poetry",
@@ -339,6 +369,7 @@ const ENGLISH_WORDS = [
 
   // ── Essay & Composition (15) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Thesis",
     year: 12,
     category: "Essay & Composition",
@@ -350,6 +381,7 @@ const ENGLISH_WORDS = [
     related: ["Argument", "Contention", "Essay Structure"],
   },
   {
+    type: "know-it",
     term: "Contention",
     year: 12,
     category: "Essay & Composition",
@@ -361,6 +393,7 @@ const ENGLISH_WORDS = [
     related: ["Thesis", "Argument", "Paragraph Topic Sentence"],
   },
   {
+    type: "know-it",
     term: "Evidence",
     year: 12,
     category: "Essay & Composition",
@@ -372,6 +405,7 @@ const ENGLISH_WORDS = [
     related: ["Quotation", "Embedding", "Analysis"],
   },
   {
+    type: "know-it",
     term: "Paragraph Structure",
     year: 12,
     category: "Essay & Composition",
@@ -383,6 +417,7 @@ const ENGLISH_WORDS = [
     related: ["Thesis", "Topic Sentence", "Cohesion"],
   },
   {
+    type: "know-it",
     term: "Topic Sentence",
     year: 12,
     category: "Essay & Composition",
@@ -394,6 +429,7 @@ const ENGLISH_WORDS = [
     related: ["Paragraph Structure", "Thesis", "Argument"],
   },
   {
+    type: "know-it",
     term: "Cohesion",
     year: 12,
     category: "Essay & Composition",
@@ -405,6 +441,7 @@ const ENGLISH_WORDS = [
     related: ["Paragraph Structure", "Signposting", "Argument"],
   },
   {
+    type: "know-it",
     term: "Analytical Writing",
     year: 12,
     category: "Essay & Composition",
@@ -416,6 +453,7 @@ const ENGLISH_WORDS = [
     related: ["Close Reading", "Evidence", "Technique Analysis"],
   },
   {
+    type: "know-it",
     term: "Persuasive Writing",
     year: 12,
     category: "Essay & Composition",
@@ -427,6 +465,7 @@ const ENGLISH_WORDS = [
     related: ["Argument", "Rhetoric", "Counterargument"],
   },
   {
+    type: "know-it",
     term: "Counterargument",
     year: 12,
     category: "Essay & Composition",
@@ -438,6 +477,7 @@ const ENGLISH_WORDS = [
     related: ["Contention", "Concession", "Persuasive Writing"],
   },
   {
+    type: "know-it",
     term: "Embedding Quotations",
     year: 12,
     category: "Essay & Composition",
@@ -449,6 +489,7 @@ const ENGLISH_WORDS = [
     related: ["Evidence", "Quotation", "Analytical Writing"],
   },
   {
+    type: "know-it",
     term: "Register",
     year: 12,
     category: "Essay & Composition",
@@ -460,6 +501,7 @@ const ENGLISH_WORDS = [
     related: ["Tone", "Diction", "Audience"],
   },
   {
+    type: "know-it",
     term: "Introduction",
     year: 12,
     category: "Essay & Composition",
@@ -471,6 +513,7 @@ const ENGLISH_WORDS = [
     related: ["Thesis", "Contention", "Essay Structure"],
   },
   {
+    type: "know-it",
     term: "Conclusion",
     year: 12,
     category: "Essay & Composition",
@@ -482,6 +525,7 @@ const ENGLISH_WORDS = [
     related: ["Thesis", "Synthesis", "Essay Structure"],
   },
   {
+    type: "know-it",
     term: "Synthesis",
     year: 12,
     category: "Essay & Composition",
@@ -493,6 +537,7 @@ const ENGLISH_WORDS = [
     related: ["Comparative Analysis", "Intertextuality", "Analytical Writing"],
   },
   {
+    type: "know-it",
     term: "Diction",
     year: 12,
     category: "Essay & Composition",
@@ -506,6 +551,7 @@ const ENGLISH_WORDS = [
 
   // ── Language Techniques (15) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Simile",
     year: 12,
     category: "Language Techniques",
@@ -517,6 +563,7 @@ const ENGLISH_WORDS = [
     related: ["Metaphor", "Figurative Language", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Alliteration",
     year: 12,
     category: "Language Techniques",
@@ -528,6 +575,7 @@ const ENGLISH_WORDS = [
     related: ["Assonance", "Sibilance", "Sound Devices"],
   },
   {
+    type: "know-it",
     term: "Irony",
     year: 12,
     category: "Language Techniques",
@@ -539,6 +587,7 @@ const ENGLISH_WORDS = [
     related: ["Sarcasm", "Dramatic Irony", "Satire"],
   },
   {
+    type: "know-it",
     term: "Satire",
     year: 12,
     category: "Language Techniques",
@@ -550,6 +599,7 @@ const ENGLISH_WORDS = [
     related: ["Irony", "Parody", "Allegory"],
   },
   {
+    type: "know-it",
     term: "Anaphora",
     year: 12,
     category: "Language Techniques",
@@ -561,6 +611,7 @@ const ENGLISH_WORDS = [
     related: ["Repetition", "Epistrophe", "Rhetorical Devices"],
   },
   {
+    type: "know-it",
     term: "Hyperbole",
     year: 12,
     category: "Language Techniques",
@@ -572,6 +623,7 @@ const ENGLISH_WORDS = [
     related: ["Irony", "Satire", "Tone"],
   },
   {
+    type: "know-it",
     term: "Allusion",
     year: 12,
     category: "Language Techniques",
@@ -583,6 +635,7 @@ const ENGLISH_WORDS = [
     related: ["Intertextuality", "Reference", "Mythological Allusion"],
   },
   {
+    type: "know-it",
     term: "Juxtaposition",
     year: 12,
     category: "Language Techniques",
@@ -594,6 +647,7 @@ const ENGLISH_WORDS = [
     related: ["Contrast", "Paradox", "Structural Technique"],
   },
   {
+    type: "know-it",
     term: "Paradox",
     year: 12,
     category: "Language Techniques",
@@ -605,6 +659,7 @@ const ENGLISH_WORDS = [
     related: ["Oxymoron", "Irony", "Contradiction"],
   },
   {
+    type: "know-it",
     term: "Oxymoron",
     year: 12,
     category: "Language Techniques",
@@ -616,6 +671,7 @@ const ENGLISH_WORDS = [
     related: ["Paradox", "Contradiction", "Figurative Language"],
   },
   {
+    type: "know-it",
     term: "Rhetorical Question",
     year: 12,
     category: "Language Techniques",
@@ -627,6 +683,7 @@ const ENGLISH_WORDS = [
     related: ["Rhetoric", "Anaphora", "Persuasive Writing"],
   },
   {
+    type: "know-it",
     term: "Personification",
     year: 12,
     category: "Language Techniques",
@@ -638,6 +695,7 @@ const ENGLISH_WORDS = [
     related: ["Metaphor", "Anthropomorphism", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Sibilance",
     year: 12,
     category: "Language Techniques",
@@ -649,6 +707,7 @@ const ENGLISH_WORDS = [
     related: ["Alliteration", "Assonance", "Sound Devices"],
   },
   {
+    type: "know-it",
     term: "Colloquialism",
     year: 12,
     category: "Language Techniques",
@@ -660,6 +719,7 @@ const ENGLISH_WORDS = [
     related: ["Register", "Vernacular", "Diction"],
   },
   {
+    type: "know-it",
     term: "Euphemism",
     year: 12,
     category: "Language Techniques",
@@ -673,6 +733,7 @@ const ENGLISH_WORDS = [
 
   // ── Critical Analysis (15) ────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Critical Framework",
     year: 12,
     category: "Critical Analysis",
@@ -684,6 +745,7 @@ const ENGLISH_WORDS = [
     related: ["Feminist Criticism", "Postcolonial Theory", "Deconstruction"],
   },
   {
+    type: "know-it",
     term: "Feminist Criticism",
     year: 12,
     category: "Critical Analysis",
@@ -695,6 +757,7 @@ const ENGLISH_WORDS = [
     related: ["Critical Framework", "Representation", "Ideology"],
   },
   {
+    type: "know-it",
     term: "Postcolonial Theory",
     year: 12,
     category: "Critical Analysis",
@@ -706,6 +769,7 @@ const ENGLISH_WORDS = [
     related: ["Critical Framework", "Representation", "Othering"],
   },
   {
+    type: "know-it",
     term: "Deconstruction",
     year: 12,
     category: "Critical Analysis",
@@ -717,6 +781,7 @@ const ENGLISH_WORDS = [
     related: ["Binary Opposition", "Critical Framework", "Ideology"],
   },
   {
+    type: "know-it",
     term: "Close Reading",
     year: 12,
     category: "Critical Analysis",
@@ -728,6 +793,7 @@ const ENGLISH_WORDS = [
     related: ["Textual Analysis", "Annotation", "Analytical Writing"],
   },
   {
+    type: "know-it",
     term: "Hegemony",
     year: 12,
     category: "Critical Analysis",
@@ -739,6 +805,7 @@ const ENGLISH_WORDS = [
     related: ["Ideology", "Representation", "Power"],
   },
   {
+    type: "know-it",
     term: "Reading Against the Grain",
     year: 12,
     category: "Critical Analysis",
@@ -750,6 +817,7 @@ const ENGLISH_WORDS = [
     related: ["Preferred Reading", "Subtext", "Postcolonial Theory"],
   },
   {
+    type: "know-it",
     term: "Preferred Reading",
     year: 12,
     category: "Critical Analysis",
@@ -761,6 +829,7 @@ const ENGLISH_WORDS = [
     related: ["Reading Against the Grain", "Positioning", "Ideology"],
   },
   {
+    type: "know-it",
     term: "Psychoanalytic Criticism",
     year: 12,
     category: "Critical Analysis",
@@ -772,6 +841,7 @@ const ENGLISH_WORDS = [
     related: ["Critical Framework", "Uncanny", "Repression"],
   },
   {
+    type: "know-it",
     term: "Binary Opposition",
     year: 12,
     category: "Critical Analysis",
@@ -783,6 +853,7 @@ const ENGLISH_WORDS = [
     related: ["Deconstruction", "Ideology", "Critical Framework"],
   },
   {
+    type: "know-it",
     term: "Appropriation",
     year: 12,
     category: "Critical Analysis",
@@ -794,6 +865,7 @@ const ENGLISH_WORDS = [
     related: ["Intertextuality", "Adaptation", "Transformation"],
   },
   {
+    type: "know-it",
     term: "Narrative Theory",
     year: 12,
     category: "Critical Analysis",
@@ -805,6 +877,7 @@ const ENGLISH_WORDS = [
     related: ["Narrator", "Focalisation", "Anachrony"],
   },
   {
+    type: "know-it",
     term: "Ecocriticism",
     year: 12,
     category: "Critical Analysis",
@@ -816,6 +889,7 @@ const ENGLISH_WORDS = [
     related: ["Critical Framework", "Landscape", "Representation"],
   },
   {
+    type: "know-it",
     term: "Cultural Studies",
     year: 12,
     category: "Critical Analysis",
@@ -827,6 +901,7 @@ const ENGLISH_WORDS = [
     related: ["Hegemony", "Ideology", "Critical Framework"],
   },
   {
+    type: "know-it",
     term: "Unreliable Narrator",
     year: 12,
     category: "Critical Analysis",

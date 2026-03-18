@@ -1,0 +1,80 @@
+---
+category: Heredity
+subject: Biology
+year: 12
+icon: Dna
+color: "#EFF6FF"
+accent: "#3B82F6"
+description: Genes, alleles, inheritance patterns, and Mendelian genetics.
+---
+
+## Allele
+
+- type: know-it
+- level: Beginner
+- related: Gene, Genotype, Dominant Trait, Recessive Trait
+- syllabusRef: BIO12-12
+
+### Definition
+An allele is one of two or more alternative versions of a gene that arise by mutation and are found at the same locus on a chromosome.
+
+### Why It Matters
+Understanding alleles is the foundation of inheritance. Examiners expect you to distinguish between alleles, genes, and traits — and to explain how allele combinations produce phenotypes.
+
+### Scenario
+A Year 12 student was completing a genetics problem set and initially wrote "the gene for brown eyes is dominant." Their teacher pointed out that genes themselves are not dominant or recessive — alleles are. The correction helped them score full marks on the terminology component.
+
+### Example
+"The brown eye colour allele (B) is dominant over the blue eye colour allele (b), so an individual with genotype Bb will express brown eyes."
+
+## How to Solve a Punnett Square
+
+- type: do-it
+- level: Beginner
+- related: Allele, Genotype, Phenotype, Punnett Square
+- syllabusRef: BIO12-12
+
+### Definition
+A Punnett square is a grid used to predict the genotype and phenotype ratios of offspring from a genetic cross.
+
+### Steps
+1. Identify the genotypes of both parents (e.g. Bb × Bb)
+2. Write one parent's alleles along the top of the grid
+3. Write the other parent's alleles down the left side
+4. Fill in each cell by combining the row and column alleles
+5. Count the resulting genotype ratios
+6. Determine the phenotype ratios based on dominance
+
+### Why It Matters
+Punnett squares are a core skill tested in every HSC Biology exam. Examiners award marks for correctly setting up the cross, identifying all possible offspring genotypes, and stating the expected ratios.
+
+### Scenario
+A Year 12 student was asked to predict the offspring ratios from two heterozygous parents (Bb × Bb). By setting up the Punnett square correctly, they showed 1 BB : 2 Bb : 1 bb and explained the 3:1 phenotype ratio — earning full marks.
+
+### Example
+"Using a Punnett square for the cross Bb × Bb, we predict a 3:1 phenotypic ratio of brown eyes to blue eyes."
+
+## Why Does Natural Selection Lead to Speciation?
+
+- type: think-about-it
+- level: Advanced
+- related: Natural Selection, Speciation, Genetic Drift, Reproductive Isolation
+- syllabusRef: BIO12-14
+
+### Prompt
+Explain how natural selection acting on geographically isolated populations can lead to the formation of new species over time.
+
+### Model Response
+When populations become geographically isolated, they experience different selective pressures — different predators, food sources, or climate conditions. Natural selection favours different traits in each population. Over many generations, accumulated genetic differences can become so significant that the two populations can no longer interbreed successfully if brought back together. This reproductive isolation marks the point at which two distinct species have formed. The process is called allopatric speciation.
+
+### Definition
+Speciation is the evolutionary process by which populations diverge to become distinct species, often driven by natural selection acting differently on isolated groups.
+
+### Why It Matters
+This question connects evolution, genetics, and ecology — exactly the kind of synthesis HSC examiners reward. Students who can explain the mechanism (not just name it) score in the top bands.
+
+### Scenario
+A Year 12 student was answering a 6-mark extended response on speciation. Instead of simply defining the term, they traced the pathway from geographic isolation through differential selection to reproductive isolation — demonstrating the analytical thinking that distinguishes Band 6 responses.
+
+### Example
+"Geographic isolation of finch populations on different Galápagos islands, combined with natural selection for different beak sizes suited to local food sources, led to allopatric speciation — producing multiple distinct species from a common ancestor."

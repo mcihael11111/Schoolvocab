@@ -7,6 +7,7 @@ export const PHYSICS_WORDS = [
   // ── KINEMATICS (15 terms) ─────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Displacement",
     year: 12,
     category: "Kinematics",
@@ -18,6 +19,7 @@ export const PHYSICS_WORDS = [
     related: ["Velocity", "Scalar", "Vector", "Distance-Time Graph", "Equations of Motion"],
   },
   {
+    type: "know-it",
     term: "Velocity",
     year: 12,
     category: "Kinematics",
@@ -29,6 +31,7 @@ export const PHYSICS_WORDS = [
     related: ["Displacement", "Acceleration", "Scalar", "Vector", "Velocity-Time Graph"],
   },
   {
+    type: "know-it",
     term: "Acceleration",
     year: 12,
     category: "Kinematics",
@@ -40,6 +43,7 @@ export const PHYSICS_WORDS = [
     related: ["Velocity", "Displacement", "Equations of Motion", "Velocity-Time Graph", "Non-uniform Motion"],
   },
   {
+    type: "know-it",
     term: "Scalar",
     year: 12,
     category: "Kinematics",
@@ -51,6 +55,7 @@ export const PHYSICS_WORDS = [
     related: ["Vector", "Velocity", "Displacement", "Acceleration", "Distance-Time Graph"],
   },
   {
+    type: "know-it",
     term: "Vector",
     year: 12,
     category: "Kinematics",
@@ -62,6 +67,7 @@ export const PHYSICS_WORDS = [
     related: ["Scalar", "Displacement", "Velocity", "Acceleration", "Projectile Motion"],
   },
   {
+    type: "know-it",
     term: "Uniform Motion",
     year: 12,
     category: "Kinematics",
@@ -73,6 +79,7 @@ export const PHYSICS_WORDS = [
     related: ["Non-uniform Motion", "Velocity", "Acceleration", "Distance-Time Graph", "Frame of Reference"],
   },
   {
+    type: "know-it",
     term: "Non-uniform Motion",
     year: 12,
     category: "Kinematics",
@@ -84,6 +91,7 @@ export const PHYSICS_WORDS = [
     related: ["Uniform Motion", "Acceleration", "Velocity-Time Graph", "Free Fall", "Projectile Motion"],
   },
   {
+    type: "know-it",
     term: "Projectile Motion",
     year: 12,
     category: "Kinematics",
@@ -95,6 +103,7 @@ export const PHYSICS_WORDS = [
     related: ["Free Fall", "Velocity", "Acceleration", "Vector", "Equations of Motion"],
   },
   {
+    type: "know-it",
     term: "Free Fall",
     year: 12,
     category: "Kinematics",
@@ -106,6 +115,7 @@ export const PHYSICS_WORDS = [
     related: ["Projectile Motion", "Acceleration", "Terminal Velocity", "Non-uniform Motion", "Equations of Motion"],
   },
   {
+    type: "know-it",
     term: "Relative Motion",
     year: 12,
     category: "Kinematics",
@@ -117,6 +127,7 @@ export const PHYSICS_WORDS = [
     related: ["Frame of Reference", "Velocity", "Displacement", "Uniform Motion", "Equations of Motion"],
   },
   {
+    type: "know-it",
     term: "Distance-Time Graph",
     year: 12,
     category: "Kinematics",
@@ -128,6 +139,7 @@ export const PHYSICS_WORDS = [
     related: ["Velocity-Time Graph", "Velocity", "Scalar", "Uniform Motion", "Non-uniform Motion"],
   },
   {
+    type: "know-it",
     term: "Velocity-Time Graph",
     year: 12,
     category: "Kinematics",
@@ -139,6 +151,7 @@ export const PHYSICS_WORDS = [
     related: ["Distance-Time Graph", "Acceleration", "Displacement", "Equations of Motion", "Non-uniform Motion"],
   },
   {
+    type: "know-it",
     term: "Equations of Motion",
     year: 12,
     category: "Kinematics",
@@ -150,6 +163,7 @@ export const PHYSICS_WORDS = [
     related: ["Velocity", "Acceleration", "Displacement", "Velocity-Time Graph", "Projectile Motion"],
   },
   {
+    type: "know-it",
     term: "Terminal Velocity",
     year: 12,
     category: "Kinematics",
@@ -161,6 +175,7 @@ export const PHYSICS_WORDS = [
     related: ["Free Fall", "Acceleration", "Non-uniform Motion", "Velocity-Time Graph", "Newton\'s Second Law"],
   },
   {
+    type: "know-it",
     term: "Frame of Reference",
     year: 12,
     category: "Kinematics",
@@ -175,6 +190,7 @@ export const PHYSICS_WORDS = [
   // ── DYNAMICS (15 terms) ───────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Force",
     year: 12,
     category: "Dynamics",
@@ -186,6 +202,7 @@ export const PHYSICS_WORDS = [
     related: ["Newton\'s First Law", "Newton\'s Second Law", "Newton\'s Third Law", "Friction", "Normal Force"],
   },
   {
+    type: "know-it",
     term: "Newton's First Law",
     year: 12,
     category: "Dynamics",
@@ -197,6 +214,7 @@ export const PHYSICS_WORDS = [
     related: ["Newton\'s Second Law", "Newton\'s Third Law", "Force", "Inertia", "Momentum"],
   },
   {
+    type: "know-it",
     term: "Newton's Second Law",
     year: 12,
     category: "Dynamics",
@@ -208,6 +226,7 @@ export const PHYSICS_WORDS = [
     related: ["Newton\'s First Law", "Newton\'s Third Law", "Force", "Momentum", "Weight"],
   },
   {
+    type: "know-it",
     term: "Newton's Third Law",
     year: 12,
     category: "Dynamics",
@@ -219,6 +238,7 @@ export const PHYSICS_WORDS = [
     related: ["Newton\'s First Law", "Newton\'s Second Law", "Force", "Normal Force", "Momentum"],
   },
   {
+    type: "know-it",
     term: "Friction",
     year: 12,
     category: "Dynamics",
@@ -230,6 +250,7 @@ export const PHYSICS_WORDS = [
     related: ["Force", "Newton\'s Second Law", "Normal Force", "Newton\'s First Law", "Weight"],
   },
   {
+    type: "know-it",
     term: "Normal Force",
     year: 12,
     category: "Dynamics",
@@ -241,6 +262,7 @@ export const PHYSICS_WORDS = [
     related: ["Force", "Friction", "Newton\'s Second Law", "Weight", "Newton\'s Third Law"],
   },
   {
+    type: "know-it",
     term: "Weight",
     year: 12,
     category: "Dynamics",
@@ -252,6 +274,7 @@ export const PHYSICS_WORDS = [
     related: ["Force", "Normal Force", "Newton\'s Second Law", "Free Fall", "Friction"],
   },
   {
+    type: "know-it",
     term: "Momentum",
     year: 12,
     category: "Dynamics",
@@ -263,6 +286,7 @@ export const PHYSICS_WORDS = [
     related: ["Impulse", "Conservation of Momentum", "Newton\'s Second Law", "Newton\'s Third Law", "Force"],
   },
   {
+    type: "know-it",
     term: "Impulse",
     year: 12,
     category: "Dynamics",
@@ -274,6 +298,7 @@ export const PHYSICS_WORDS = [
     related: ["Momentum", "Conservation of Momentum", "Newton\'s Second Law", "Force", "Newton\'s Third Law"],
   },
   {
+    type: "know-it",
     term: "Conservation of Momentum",
     year: 12,
     category: "Dynamics",
@@ -285,6 +310,7 @@ export const PHYSICS_WORDS = [
     related: ["Momentum", "Impulse", "Newton\'s Third Law", "Kinetic Energy", "Newton\'s Second Law"],
   },
   {
+    type: "know-it",
     term: "Work",
     year: 12,
     category: "Dynamics",
@@ -296,6 +322,7 @@ export const PHYSICS_WORDS = [
     related: ["Energy", "Kinetic Energy", "Potential Energy", "Conservation of Energy", "Force"],
   },
   {
+    type: "know-it",
     term: "Energy",
     year: 12,
     category: "Dynamics",
@@ -307,6 +334,7 @@ export const PHYSICS_WORDS = [
     related: ["Kinetic Energy", "Potential Energy", "Work", "Conservation of Energy", "Power"],
   },
   {
+    type: "know-it",
     term: "Kinetic Energy",
     year: 12,
     category: "Dynamics",
@@ -318,6 +346,7 @@ export const PHYSICS_WORDS = [
     related: ["Potential Energy", "Conservation of Energy", "Work", "Momentum", "Energy"],
   },
   {
+    type: "know-it",
     term: "Potential Energy",
     year: 12,
     category: "Dynamics",
@@ -329,6 +358,7 @@ export const PHYSICS_WORDS = [
     related: ["Kinetic Energy", "Conservation of Energy", "Work", "Energy", "Free Fall"],
   },
   {
+    type: "know-it",
     term: "Conservation of Energy",
     year: 12,
     category: "Dynamics",
@@ -343,6 +373,7 @@ export const PHYSICS_WORDS = [
   // ── WAVES & THERMODYNAMICS (15 terms) ────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Wave",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -354,6 +385,7 @@ export const PHYSICS_WORDS = [
     related: ["Transverse Wave", "Longitudinal Wave", "Frequency", "Wavelength", "Amplitude"],
   },
   {
+    type: "know-it",
     term: "Transverse Wave",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -365,6 +397,7 @@ export const PHYSICS_WORDS = [
     related: ["Longitudinal Wave", "Wave", "Amplitude", "Wavelength", "Electromagnetic Spectrum"],
   },
   {
+    type: "know-it",
     term: "Longitudinal Wave",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -376,6 +409,7 @@ export const PHYSICS_WORDS = [
     related: ["Transverse Wave", "Wave", "Sound Wave", "Frequency", "Wavelength"],
   },
   {
+    type: "know-it",
     term: "Frequency",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -387,6 +421,7 @@ export const PHYSICS_WORDS = [
     related: ["Wavelength", "Wave", "Amplitude", "Sound Wave", "Electromagnetic Spectrum"],
   },
   {
+    type: "know-it",
     term: "Wavelength",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -398,6 +433,7 @@ export const PHYSICS_WORDS = [
     related: ["Frequency", "Wave", "Electromagnetic Spectrum", "Refraction", "Diffraction"],
   },
   {
+    type: "know-it",
     term: "Amplitude",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -409,6 +445,7 @@ export const PHYSICS_WORDS = [
     related: ["Wave", "Frequency", "Transverse Wave", "Sound Wave", "Interference"],
   },
   {
+    type: "know-it",
     term: "Reflection",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -420,6 +457,7 @@ export const PHYSICS_WORDS = [
     related: ["Refraction", "Diffraction", "Wave", "Transverse Wave", "Electromagnetic Spectrum"],
   },
   {
+    type: "know-it",
     term: "Refraction",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -431,6 +469,7 @@ export const PHYSICS_WORDS = [
     related: ["Reflection", "Diffraction", "Wavelength", "Wave", "Electromagnetic Spectrum"],
   },
   {
+    type: "know-it",
     term: "Diffraction",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -442,6 +481,7 @@ export const PHYSICS_WORDS = [
     related: ["Interference", "Wavelength", "Wave", "Reflection", "Refraction"],
   },
   {
+    type: "know-it",
     term: "Interference",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -453,6 +493,7 @@ export const PHYSICS_WORDS = [
     related: ["Standing Wave", "Diffraction", "Wave", "Amplitude", "Transverse Wave"],
   },
   {
+    type: "know-it",
     term: "Standing Wave",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -464,6 +505,7 @@ export const PHYSICS_WORDS = [
     related: ["Interference", "Wave", "Frequency", "Amplitude", "Diffraction"],
   },
   {
+    type: "know-it",
     term: "Sound Wave",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -475,6 +517,7 @@ export const PHYSICS_WORDS = [
     related: ["Longitudinal Wave", "Wave", "Frequency", "Amplitude", "Wavelength"],
   },
   {
+    type: "know-it",
     term: "Electromagnetic Spectrum",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -486,6 +529,7 @@ export const PHYSICS_WORDS = [
     related: ["Transverse Wave", "Frequency", "Wavelength", "Photon", "Wave"],
   },
   {
+    type: "know-it",
     term: "Thermodynamics",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -497,6 +541,7 @@ export const PHYSICS_WORDS = [
     related: ["Conservation of Energy", "Specific Heat Capacity", "Energy", "Kinetic Energy", "Wave"],
   },
   {
+    type: "know-it",
     term: "Specific Heat Capacity",
     year: 12,
     category: "Waves & Thermodynamics",
@@ -511,6 +556,7 @@ export const PHYSICS_WORDS = [
   // ── ELECTRICITY & MAGNETISM (15 terms) ───────────────────────────────────
 
   {
+    type: "know-it",
     term: "Electric Charge",
     year: 12,
     category: "Electricity & Magnetism",
@@ -522,6 +568,7 @@ export const PHYSICS_WORDS = [
     related: ["Electric Field", "Electric Current", "Voltage", "Resistance", "Ohm\'s Law"],
   },
   {
+    type: "know-it",
     term: "Electric Field",
     year: 12,
     category: "Electricity & Magnetism",
@@ -533,6 +580,7 @@ export const PHYSICS_WORDS = [
     related: ["Electric Charge", "Voltage", "Electric Current", "Magnetic Field", "Motor Effect"],
   },
   {
+    type: "know-it",
     term: "Electric Current",
     year: 12,
     category: "Electricity & Magnetism",
@@ -544,6 +592,7 @@ export const PHYSICS_WORDS = [
     related: ["Electric Charge", "Voltage", "Resistance", "Ohm\'s Law", "Series Circuit"],
   },
   {
+    type: "know-it",
     term: "Voltage",
     year: 12,
     category: "Electricity & Magnetism",
@@ -555,6 +604,7 @@ export const PHYSICS_WORDS = [
     related: ["Electric Current", "Resistance", "Ohm\'s Law", "Series Circuit", "Parallel Circuit"],
   },
   {
+    type: "know-it",
     term: "Resistance",
     year: 12,
     category: "Electricity & Magnetism",
@@ -566,6 +616,7 @@ export const PHYSICS_WORDS = [
     related: ["Voltage", "Electric Current", "Ohm\'s Law", "Series Circuit", "Parallel Circuit"],
   },
   {
+    type: "know-it",
     term: "Ohm's Law",
     year: 12,
     category: "Electricity & Magnetism",
@@ -577,6 +628,7 @@ export const PHYSICS_WORDS = [
     related: ["Voltage", "Electric Current", "Resistance", "Series Circuit", "Parallel Circuit"],
   },
   {
+    type: "know-it",
     term: "Series Circuit",
     year: 12,
     category: "Electricity & Magnetism",
@@ -588,6 +640,7 @@ export const PHYSICS_WORDS = [
     related: ["Parallel Circuit", "Resistance", "Voltage", "Electric Current", "Ohm\'s Law"],
   },
   {
+    type: "know-it",
     term: "Parallel Circuit",
     year: 12,
     category: "Electricity & Magnetism",
@@ -599,6 +652,7 @@ export const PHYSICS_WORDS = [
     related: ["Series Circuit", "Resistance", "Voltage", "Electric Current", "Ohm\'s Law"],
   },
   {
+    type: "know-it",
     term: "Magnetic Field",
     year: 12,
     category: "Electricity & Magnetism",
@@ -610,6 +664,7 @@ export const PHYSICS_WORDS = [
     related: ["Electromagnetic Induction", "Faraday\'s Law", "Motor Effect", "Electric Current", "Generator"],
   },
   {
+    type: "know-it",
     term: "Electromagnetic Induction",
     year: 12,
     category: "Electricity & Magnetism",
@@ -621,6 +676,7 @@ export const PHYSICS_WORDS = [
     related: ["Faraday\'s Law", "Lenz\'s Law", "Generator", "Transformer", "Magnetic Field"],
   },
   {
+    type: "know-it",
     term: "Faraday's Law",
     year: 12,
     category: "Electricity & Magnetism",
@@ -632,6 +688,7 @@ export const PHYSICS_WORDS = [
     related: ["Electromagnetic Induction", "Lenz\'s Law", "Generator", "Transformer", "Magnetic Field"],
   },
   {
+    type: "know-it",
     term: "Lenz's Law",
     year: 12,
     category: "Electricity & Magnetism",
@@ -643,6 +700,7 @@ export const PHYSICS_WORDS = [
     related: ["Faraday\'s Law", "Electromagnetic Induction", "Magnetic Field", "Generator", "Motor Effect"],
   },
   {
+    type: "know-it",
     term: "Transformer",
     year: 12,
     category: "Electricity & Magnetism",
@@ -654,6 +712,7 @@ export const PHYSICS_WORDS = [
     related: ["Faraday\'s Law", "Electromagnetic Induction", "Lenz\'s Law", "Generator", "Voltage"],
   },
   {
+    type: "know-it",
     term: "Motor Effect",
     year: 12,
     category: "Electricity & Magnetism",
@@ -665,6 +724,7 @@ export const PHYSICS_WORDS = [
     related: ["Magnetic Field", "Generator", "Electromagnetic Induction", "Electric Current", "Faraday\'s Law"],
   },
   {
+    type: "know-it",
     term: "Generator",
     year: 12,
     category: "Electricity & Magnetism",
@@ -679,6 +739,7 @@ export const PHYSICS_WORDS = [
   // ── QUANTUM & NUCLEAR (15 terms) ──────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Photon",
     year: 12,
     category: "Quantum & Nuclear",
@@ -690,6 +751,7 @@ export const PHYSICS_WORDS = [
     related: ["Photoelectric Effect", "Wave-Particle Duality", "Emission Spectrum", "Frequency", "Quantum"],
   },
   {
+    type: "know-it",
     term: "Photoelectric Effect",
     year: 12,
     category: "Quantum & Nuclear",
@@ -701,6 +763,7 @@ export const PHYSICS_WORDS = [
     related: ["Photon", "Wave-Particle Duality", "Quantum", "Emission Spectrum", "Atomic Model"],
   },
   {
+    type: "know-it",
     term: "Wave-Particle Duality",
     year: 12,
     category: "Quantum & Nuclear",
@@ -712,6 +775,7 @@ export const PHYSICS_WORDS = [
     related: ["Photon", "Photoelectric Effect", "de Broglie Wavelength", "Quantum", "Atomic Model"],
   },
   {
+    type: "know-it",
     term: "de Broglie Wavelength",
     year: 12,
     category: "Quantum & Nuclear",
@@ -723,6 +787,7 @@ export const PHYSICS_WORDS = [
     related: ["Wave-Particle Duality", "Photon", "Quantum", "Atomic Model", "Photoelectric Effect"],
   },
   {
+    type: "know-it",
     term: "Quantum",
     year: 12,
     category: "Quantum & Nuclear",
@@ -734,6 +799,7 @@ export const PHYSICS_WORDS = [
     related: ["Photon", "Photoelectric Effect", "Atomic Model", "Emission Spectrum", "Wave-Particle Duality"],
   },
   {
+    type: "know-it",
     term: "Atomic Model",
     year: 12,
     category: "Quantum & Nuclear",
@@ -745,6 +811,7 @@ export const PHYSICS_WORDS = [
     related: ["Quantum", "Emission Spectrum", "Absorption Spectrum", "Photoelectric Effect", "de Broglie Wavelength"],
   },
   {
+    type: "know-it",
     term: "Emission Spectrum",
     year: 12,
     category: "Quantum & Nuclear",
@@ -756,6 +823,7 @@ export const PHYSICS_WORDS = [
     related: ["Absorption Spectrum", "Quantum", "Photon", "Atomic Model", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Absorption Spectrum",
     year: 12,
     category: "Quantum & Nuclear",
@@ -767,6 +835,7 @@ export const PHYSICS_WORDS = [
     related: ["Emission Spectrum", "Quantum", "Photon", "Atomic Model", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Nuclear Fission",
     year: 12,
     category: "Quantum & Nuclear",
@@ -778,6 +847,7 @@ export const PHYSICS_WORDS = [
     related: ["Nuclear Fusion", "Mass-Energy Equivalence", "Radioactive Decay", "Half-Life", "Nuclear Binding Energy"],
   },
   {
+    type: "know-it",
     term: "Nuclear Fusion",
     year: 12,
     category: "Quantum & Nuclear",
@@ -789,6 +859,7 @@ export const PHYSICS_WORDS = [
     related: ["Nuclear Fission", "Mass-Energy Equivalence", "Nuclear Binding Energy", "Radioactive Decay", "Photon"],
   },
   {
+    type: "know-it",
     term: "Radioactive Decay",
     year: 12,
     category: "Quantum & Nuclear",
@@ -800,6 +871,7 @@ export const PHYSICS_WORDS = [
     related: ["Half-Life", "Nuclear Fission", "Mass-Energy Equivalence", "Nuclear Binding Energy", "Nuclear Fusion"],
   },
   {
+    type: "know-it",
     term: "Half-Life",
     year: 12,
     category: "Quantum & Nuclear",
@@ -811,6 +883,7 @@ export const PHYSICS_WORDS = [
     related: ["Radioactive Decay", "Nuclear Fission", "Mass-Energy Equivalence", "Nuclear Binding Energy", "Nuclear Fusion"],
   },
   {
+    type: "know-it",
     term: "Mass-Energy Equivalence",
     year: 12,
     category: "Quantum & Nuclear",
@@ -822,6 +895,7 @@ export const PHYSICS_WORDS = [
     related: ["Nuclear Fission", "Nuclear Fusion", "Nuclear Binding Energy", "Radioactive Decay", "Photon"],
   },
   {
+    type: "know-it",
     term: "Standard Model",
     year: 12,
     category: "Quantum & Nuclear",
@@ -833,6 +907,7 @@ export const PHYSICS_WORDS = [
     related: ["Nuclear Binding Energy", "Nuclear Fission", "Quantum", "Atomic Model", "Mass-Energy Equivalence"],
   },
   {
+    type: "know-it",
     term: "Nuclear Binding Energy",
     year: 12,
     category: "Quantum & Nuclear",

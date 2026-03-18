@@ -5,6 +5,7 @@ const ART_WORDS = [
 
   // ── Art Criticism & History (15) ─────────────────────────────────────────
   {
+    type: "know-it",
     term: "Art Movement",
     year: 12,
     category: "Art Criticism & History",
@@ -16,6 +17,7 @@ const ART_WORDS = [
     related: ["Modernism", "Postmodernism", "Art History"],
   },
   {
+    type: "know-it",
     term: "Modernism",
     year: 12,
     category: "Art Criticism & History",
@@ -27,6 +29,7 @@ const ART_WORDS = [
     related: ["Postmodernism", "Avant-garde", "Art Movement"],
   },
   {
+    type: "know-it",
     term: "Postmodernism",
     year: 12,
     category: "Art Criticism & History",
@@ -38,6 +41,7 @@ const ART_WORDS = [
     related: ["Modernism", "Appropriation", "Deconstruction"],
   },
   {
+    type: "know-it",
     term: "Formalism",
     year: 12,
     category: "Art Criticism & History",
@@ -49,6 +53,7 @@ const ART_WORDS = [
     related: ["Structural Frame", "Critical Framework", "Aesthetics"],
   },
   {
+    type: "know-it",
     term: "Curation",
     year: 12,
     category: "Art Criticism & History",
@@ -60,6 +65,7 @@ const ART_WORDS = [
     related: ["Gallery", "Institutional Frame", "Audience"],
   },
   {
+    type: "know-it",
     term: "Iconography",
     year: 12,
     category: "Art Criticism & History",
@@ -71,6 +77,7 @@ const ART_WORDS = [
     related: ["Symbolism", "Art History", "Cultural Context"],
   },
   {
+    type: "know-it",
     term: "Provenance",
     year: 12,
     category: "Art Criticism & History",
@@ -82,6 +89,7 @@ const ART_WORDS = [
     related: ["Repatriation", "Cultural Property", "Art Market"],
   },
   {
+    type: "know-it",
     term: "Aesthetics",
     year: 12,
     category: "Art Criticism & History",
@@ -93,6 +101,7 @@ const ART_WORDS = [
     related: ["Critical Framework", "Formalism", "Art Criticism"],
   },
   {
+    type: "know-it",
     term: "Canon",
     year: 12,
     category: "Art Criticism & History",
@@ -104,6 +113,7 @@ const ART_WORDS = [
     related: ["Art History", "Institutional Framework", "Representation"],
   },
   {
+    type: "know-it",
     term: "Patronage",
     year: 12,
     category: "Art Criticism & History",
@@ -115,6 +125,7 @@ const ART_WORDS = [
     related: ["Art Market", "Commission", "Institutional Frame"],
   },
   {
+    type: "know-it",
     term: "Art Criticism",
     year: 12,
     category: "Art Criticism & History",
@@ -126,6 +137,7 @@ const ART_WORDS = [
     related: ["Critical Framework", "Art History", "Aesthetics"],
   },
   {
+    type: "know-it",
     term: "Avant-garde",
     year: 12,
     category: "Art Criticism & History",
@@ -137,6 +149,7 @@ const ART_WORDS = [
     related: ["Modernism", "Art Movement", "Provocation"],
   },
   {
+    type: "know-it",
     term: "Institutional Framework",
     year: 12,
     category: "Art Criticism & History",
@@ -148,6 +161,7 @@ const ART_WORDS = [
     related: ["Canon", "Curation", "Gallery"],
   },
   {
+    type: "know-it",
     term: "Indigenous Art",
     year: 12,
     category: "Art Criticism & History",
@@ -159,6 +173,7 @@ const ART_WORDS = [
     related: ["Cultural Context", "Postcolonial Theory", "Country"],
   },
   {
+    type: "know-it",
     term: "Photography as Art",
     year: 12,
     category: "Art Criticism & History",
@@ -172,6 +187,7 @@ const ART_WORDS = [
 
   // ── Conceptual Framework (15) ─────────────────────────────────────────────
   {
+    type: "know-it",
     term: "The Four Frames",
     year: 12,
     category: "Conceptual Framework",
@@ -183,6 +199,7 @@ const ART_WORDS = [
     related: ["Structural Frame", "Cultural Frame", "Postmodern Frame", "Subjective Frame"],
   },
   {
+    type: "know-it",
     term: "Subjective Frame",
     year: 12,
     category: "Conceptual Framework",
@@ -194,6 +211,7 @@ const ART_WORDS = [
     related: ["The Four Frames", "Audience", "Aesthetic Experience"],
   },
   {
+    type: "know-it",
     term: "Cultural Frame",
     year: 12,
     category: "Conceptual Framework",
@@ -205,6 +223,7 @@ const ART_WORDS = [
     related: ["The Four Frames", "Ideology", "Context"],
   },
   {
+    type: "know-it",
     term: "Postmodern Frame",
     year: 12,
     category: "Conceptual Framework",
@@ -216,6 +235,7 @@ const ART_WORDS = [
     related: ["The Four Frames", "Appropriation", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Artist",
     year: 12,
     category: "Conceptual Framework",
@@ -227,6 +247,7 @@ const ART_WORDS = [
     related: ["Artwork", "World", "Audience"],
   },
   {
+    type: "know-it",
     term: "Artwork",
     year: 12,
     category: "Conceptual Framework",
@@ -238,6 +259,7 @@ const ART_WORDS = [
     related: ["Artist", "World", "Audience"],
   },
   {
+    type: "know-it",
     term: "World",
     year: 12,
     category: "Conceptual Framework",
@@ -249,6 +271,7 @@ const ART_WORDS = [
     related: ["Artist", "Artwork", "Audience"],
   },
   {
+    type: "know-it",
     term: "Audience",
     year: 12,
     category: "Conceptual Framework",
@@ -260,6 +283,7 @@ const ART_WORDS = [
     related: ["Artist", "Artwork", "World"],
   },
   {
+    type: "know-it",
     term: "Practice",
     year: 12,
     category: "Conceptual Framework",
@@ -271,6 +295,7 @@ const ART_WORDS = [
     related: ["Body of Work", "Process", "Reflection"],
   },
   {
+    type: "know-it",
     term: "Critical Study",
     year: 12,
     category: "Conceptual Framework",
@@ -282,6 +307,7 @@ const ART_WORDS = [
     related: ["The Four Frames", "Art Criticism", "Art History"],
   },
   {
+    type: "know-it",
     term: "Meaning-making",
     year: 12,
     category: "Conceptual Framework",
@@ -293,6 +319,7 @@ const ART_WORDS = [
     related: ["The Four Frames", "Audience", "Interpretation"],
   },
   {
+    type: "know-it",
     term: "Artist Statement",
     year: 12,
     category: "Conceptual Framework",
@@ -304,6 +331,7 @@ const ART_WORDS = [
     related: ["Practice", "Body of Work", "Conceptual Intent"],
   },
   {
+    type: "know-it",
     term: "Influence",
     year: 12,
     category: "Conceptual Framework",
@@ -315,6 +343,7 @@ const ART_WORDS = [
     related: ["Art History", "Intertextuality", "Practice"],
   },
   {
+    type: "know-it",
     term: "Concept",
     year: 12,
     category: "Conceptual Framework",
@@ -326,6 +355,7 @@ const ART_WORDS = [
     related: ["Practice", "Artist Statement", "Intention"],
   },
   {
+    type: "know-it",
     term: "Intention",
     year: 12,
     category: "Conceptual Framework",
@@ -339,6 +369,7 @@ const ART_WORDS = [
 
   // ── Structural Frame (15) ────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Composition",
     year: 12,
     category: "Structural Frame",
@@ -350,6 +381,7 @@ const ART_WORDS = [
     related: ["Visual Balance", "Focal Point", "Visual Weight"],
   },
   {
+    type: "know-it",
     term: "Colour Theory",
     year: 12,
     category: "Structural Frame",
@@ -361,6 +393,7 @@ const ART_WORDS = [
     related: ["Hue", "Saturation", "Complementary Colours"],
   },
   {
+    type: "know-it",
     term: "Line",
     year: 12,
     category: "Structural Frame",
@@ -372,6 +405,7 @@ const ART_WORDS = [
     related: ["Form", "Contour", "Gestural Mark"],
   },
   {
+    type: "know-it",
     term: "Texture",
     year: 12,
     category: "Structural Frame",
@@ -383,6 +417,7 @@ const ART_WORDS = [
     related: ["Materiality", "Surface", "Impasto"],
   },
   {
+    type: "know-it",
     term: "Space",
     year: 12,
     category: "Structural Frame",
@@ -394,6 +429,7 @@ const ART_WORDS = [
     related: ["Perspective", "Depth", "Negative Space"],
   },
   {
+    type: "know-it",
     term: "Form",
     year: 12,
     category: "Structural Frame",
@@ -405,6 +441,7 @@ const ART_WORDS = [
     related: ["Space", "Texture", "Volume"],
   },
   {
+    type: "know-it",
     term: "Focal Point",
     year: 12,
     category: "Structural Frame",
@@ -416,6 +453,7 @@ const ART_WORDS = [
     related: ["Composition", "Contrast", "Visual Hierarchy"],
   },
   {
+    type: "know-it",
     term: "Scale and Proportion",
     year: 12,
     category: "Structural Frame",
@@ -427,6 +465,7 @@ const ART_WORDS = [
     related: ["Composition", "Hierarchy", "Visual Weight"],
   },
   {
+    type: "know-it",
     term: "Contrast",
     year: 12,
     category: "Structural Frame",
@@ -438,6 +477,7 @@ const ART_WORDS = [
     related: ["Tonal Value", "Chiaroscuro", "Focal Point"],
   },
   {
+    type: "know-it",
     term: "Visual Rhythm",
     year: 12,
     category: "Structural Frame",
@@ -449,6 +489,7 @@ const ART_WORDS = [
     related: ["Repetition", "Pattern", "Composition"],
   },
   {
+    type: "know-it",
     term: "Negative Space",
     year: 12,
     category: "Structural Frame",
@@ -460,6 +501,7 @@ const ART_WORDS = [
     related: ["Composition", "Space", "Positive Form"],
   },
   {
+    type: "know-it",
     term: "Tonal Value",
     year: 12,
     category: "Structural Frame",
@@ -471,6 +513,7 @@ const ART_WORDS = [
     related: ["Contrast", "Chiaroscuro", "Form"],
   },
   {
+    type: "know-it",
     term: "Perspective",
     year: 12,
     category: "Structural Frame",
@@ -482,6 +525,7 @@ const ART_WORDS = [
     related: ["Space", "Illusion", "Depth"],
   },
   {
+    type: "know-it",
     term: "Unity and Variety",
     year: 12,
     category: "Structural Frame",
@@ -493,6 +537,7 @@ const ART_WORDS = [
     related: ["Composition", "Visual Balance", "Harmony"],
   },
   {
+    type: "know-it",
     term: "Elements of Art",
     year: 12,
     category: "Structural Frame",
@@ -506,6 +551,7 @@ const ART_WORDS = [
 
   // ── Art Making (15) ──────────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Body of Work",
     year: 12,
     category: "Art Making",
@@ -517,6 +563,7 @@ const ART_WORDS = [
     related: ["Practice", "Concept", "Artist Statement"],
   },
   {
+    type: "know-it",
     term: "Process",
     year: 12,
     category: "Art Making",
@@ -528,6 +575,7 @@ const ART_WORDS = [
     related: ["Practice", "Body of Work", "Experimentation"],
   },
   {
+    type: "know-it",
     term: "Medium",
     year: 12,
     category: "Art Making",
@@ -539,6 +587,7 @@ const ART_WORDS = [
     related: ["Materiality", "Process", "Media"],
   },
   {
+    type: "know-it",
     term: "Materiality",
     year: 12,
     category: "Art Making",
@@ -550,6 +599,7 @@ const ART_WORDS = [
     related: ["Medium", "Found Objects", "Conceptual Art"],
   },
   {
+    type: "know-it",
     term: "Installation Art",
     year: 12,
     category: "Art Making",
@@ -561,6 +611,7 @@ const ART_WORDS = [
     related: ["Site-specific Art", "Audience", "Space"],
   },
   {
+    type: "know-it",
     term: "Found Objects",
     year: 12,
     category: "Art Making",
@@ -572,6 +623,7 @@ const ART_WORDS = [
     related: ["Readymade", "Materiality", "Conceptual Art"],
   },
   {
+    type: "know-it",
     term: "Printmaking",
     year: 12,
     category: "Art Making",
@@ -583,6 +635,7 @@ const ART_WORDS = [
     related: ["Matrix", "Edition", "Reproduction"],
   },
   {
+    type: "know-it",
     term: "Mixed Media",
     year: 12,
     category: "Art Making",
@@ -594,6 +647,7 @@ const ART_WORDS = [
     related: ["Medium", "Materiality", "Assemblage"],
   },
   {
+    type: "know-it",
     term: "Site-specific Art",
     year: 12,
     category: "Art Making",
@@ -605,6 +659,7 @@ const ART_WORDS = [
     related: ["Installation Art", "Space", "Context"],
   },
   {
+    type: "know-it",
     term: "Gestural Painting",
     year: 12,
     category: "Art Making",
@@ -616,6 +671,7 @@ const ART_WORDS = [
     related: ["Abstract Expressionism", "Process", "Materiality"],
   },
   {
+    type: "know-it",
     term: "Photography in Practice",
     year: 12,
     category: "Art Making",
@@ -627,6 +683,7 @@ const ART_WORDS = [
     related: ["Medium", "Composition", "Photography as Art"],
   },
   {
+    type: "know-it",
     term: "Colour in Making",
     year: 12,
     category: "Art Making",
@@ -638,6 +695,7 @@ const ART_WORDS = [
     related: ["Colour Theory", "Palette", "Tone"],
   },
   {
+    type: "know-it",
     term: "Relief and Sculpture",
     year: 12,
     category: "Art Making",
@@ -649,6 +707,7 @@ const ART_WORDS = [
     related: ["Medium", "Form", "Materiality"],
   },
   {
+    type: "know-it",
     term: "Drawing",
     year: 12,
     category: "Art Making",
@@ -660,6 +719,7 @@ const ART_WORDS = [
     related: ["Line", "Process", "Tonal Value"],
   },
   {
+    type: "know-it",
     term: "Conceptual Art",
     year: 12,
     category: "Art Making",

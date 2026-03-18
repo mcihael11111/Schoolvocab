@@ -10,6 +10,7 @@ export const Y8_WORDS = [
 
   // ── Reading & Comprehension (12) ──────────────────────────────────────────
   {
+    type: "know-it",
     term: "Connotation",
     year: 8,
     category: "Reading & Comprehension",
@@ -21,6 +22,7 @@ export const Y8_WORDS = [
     related: ["Denotation", "Tone", "Mood"],
   },
   {
+    type: "know-it",
     term: "Denotation",
     year: 8,
     category: "Reading & Comprehension",
@@ -32,6 +34,7 @@ export const Y8_WORDS = [
     related: ["Connotation", "Definition", "Tone"],
   },
   {
+    type: "know-it",
     term: "Theme",
     year: 8,
     category: "Reading & Comprehension",
@@ -43,6 +46,7 @@ export const Y8_WORDS = [
     related: ["Motif", "Tone", "Subtext"],
   },
   {
+    type: "know-it",
     term: "Tone",
     year: 8,
     category: "Reading & Comprehension",
@@ -54,6 +58,7 @@ export const Y8_WORDS = [
     related: ["Mood", "Voice", "Register"],
   },
   {
+    type: "know-it",
     term: "Subtext",
     year: 8,
     category: "Reading & Comprehension",
@@ -65,6 +70,7 @@ export const Y8_WORDS = [
     related: ["Theme", "Irony", "Tone"],
   },
   {
+    type: "know-it",
     term: "Bias",
     year: 8,
     category: "Reading & Comprehension",
@@ -76,6 +82,7 @@ export const Y8_WORDS = [
     related: ["Critical Literacy", "Tone", "Register"],
   },
   {
+    type: "know-it",
     term: "Genre",
     year: 8,
     category: "Reading & Comprehension",
@@ -87,6 +94,7 @@ export const Y8_WORDS = [
     related: ["Register", "Tone", "Theme"],
   },
   {
+    type: "know-it",
     term: "Register",
     year: 8,
     category: "Reading & Comprehension",
@@ -98,6 +106,7 @@ export const Y8_WORDS = [
     related: ["Tone", "Audience Purpose", "Voice"],
   },
   {
+    type: "know-it",
     term: "Mood",
     year: 8,
     category: "Reading & Comprehension",
@@ -109,6 +118,7 @@ export const Y8_WORDS = [
     related: ["Tone", "Theme", "Foreshadowing"],
   },
   {
+    type: "know-it",
     term: "Irony",
     year: 8,
     category: "Reading & Comprehension",
@@ -120,6 +130,7 @@ export const Y8_WORDS = [
     related: ["Satire", "Tone", "Subtext"],
   },
   {
+    type: "know-it",
     term: "Satire",
     year: 8,
     category: "Reading & Comprehension",
@@ -131,6 +142,7 @@ export const Y8_WORDS = [
     related: ["Irony", "Tone", "Critical Literacy"],
   },
   {
+    type: "know-it",
     term: "Critical Literacy",
     year: 8,
     category: "Reading & Comprehension",
@@ -144,6 +156,7 @@ export const Y8_WORDS = [
 
   // ── Writing & Composition (12) ────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Exposition",
     year: 8,
     category: "Writing & Composition",
@@ -155,6 +168,7 @@ export const Y8_WORDS = [
     related: ["Cohesion", "Counterargument", "Audience Purpose"],
   },
   {
+    type: "know-it",
     term: "Cohesion",
     year: 8,
     category: "Writing & Composition",
@@ -166,6 +180,7 @@ export const Y8_WORDS = [
     related: ["Transition", "Syntax", "Voice"],
   },
   {
+    type: "know-it",
     term: "Transition",
     year: 8,
     category: "Writing & Composition",
@@ -177,6 +192,7 @@ export const Y8_WORDS = [
     related: ["Cohesion", "Syntax", "Exposition"],
   },
   {
+    type: "know-it",
     term: "Voice",
     year: 8,
     category: "Writing & Composition",
@@ -188,6 +204,7 @@ export const Y8_WORDS = [
     related: ["Tone", "Register", "Audience Purpose"],
   },
   {
+    type: "know-it",
     term: "Audience Purpose",
     year: 8,
     category: "Writing & Composition",
@@ -199,6 +216,7 @@ export const Y8_WORDS = [
     related: ["Register", "Voice", "Tone"],
   },
   {
+    type: "know-it",
     term: "Modality",
     year: 8,
     category: "Writing & Composition",
@@ -210,6 +228,7 @@ export const Y8_WORDS = [
     related: ["Voice", "Register", "Rhetorical Question"],
   },
   {
+    type: "know-it",
     term: "Nominalisation",
     year: 8,
     category: "Writing & Composition",
@@ -221,6 +240,7 @@ export const Y8_WORDS = [
     related: ["Register", "Syntax", "Cohesion"],
   },
   {
+    type: "know-it",
     term: "Syntax",
     year: 8,
     category: "Writing & Composition",
@@ -232,6 +252,7 @@ export const Y8_WORDS = [
     related: ["Cohesion", "Voice", "Transition"],
   },
   {
+    type: "know-it",
     term: "Rhetorical Question",
     year: 8,
     category: "Writing & Composition",
@@ -243,6 +264,7 @@ export const Y8_WORDS = [
     related: ["Modality", "Audience Purpose", "Anecdote"],
   },
   {
+    type: "know-it",
     term: "Anecdote",
     year: 8,
     category: "Writing & Composition",
@@ -254,6 +276,7 @@ export const Y8_WORDS = [
     related: ["Rhetorical Question", "Voice", "Exposition"],
   },
   {
+    type: "know-it",
     term: "Counterargument",
     year: 8,
     category: "Writing & Composition",
@@ -265,6 +288,7 @@ export const Y8_WORDS = [
     related: ["Exposition", "Modality", "Audience Purpose"],
   },
   {
+    type: "know-it",
     term: "Register",
     year: 8,
     category: "Writing & Composition",
@@ -278,6 +302,7 @@ export const Y8_WORDS = [
 
   // ── Language Features (12) ────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Symbolism",
     year: 8,
     category: "Language Features",
@@ -289,6 +314,7 @@ export const Y8_WORDS = [
     related: ["Motif", "Foreshadowing", "Analogy"],
   },
   {
+    type: "know-it",
     term: "Hyperbole",
     year: 8,
     category: "Language Features",
@@ -300,6 +326,7 @@ export const Y8_WORDS = [
     related: ["Irony", "Pun", "Euphemism"],
   },
   {
+    type: "know-it",
     term: "Juxtaposition",
     year: 8,
     category: "Language Features",
@@ -311,6 +338,7 @@ export const Y8_WORDS = [
     related: ["Oxymoron", "Symbolism", "Motif"],
   },
   {
+    type: "know-it",
     term: "Oxymoron",
     year: 8,
     category: "Language Features",
@@ -322,6 +350,7 @@ export const Y8_WORDS = [
     related: ["Juxtaposition", "Irony", "Pun"],
   },
   {
+    type: "know-it",
     term: "Pathetic Fallacy",
     year: 8,
     category: "Language Features",
@@ -333,6 +362,7 @@ export const Y8_WORDS = [
     related: ["Mood", "Symbolism", "Foreshadowing"],
   },
   {
+    type: "know-it",
     term: "Assonance",
     year: 8,
     category: "Language Features",
@@ -344,6 +374,7 @@ export const Y8_WORDS = [
     related: ["Sibilance", "Pun", "Motif"],
   },
   {
+    type: "know-it",
     term: "Sibilance",
     year: 8,
     category: "Language Features",
@@ -355,6 +386,7 @@ export const Y8_WORDS = [
     related: ["Assonance", "Mood", "Pathetic Fallacy"],
   },
   {
+    type: "know-it",
     term: "Motif",
     year: 8,
     category: "Language Features",
@@ -366,6 +398,7 @@ export const Y8_WORDS = [
     related: ["Symbolism", "Theme", "Foreshadowing"],
   },
   {
+    type: "know-it",
     term: "Foreshadowing",
     year: 8,
     category: "Language Features",
@@ -377,6 +410,7 @@ export const Y8_WORDS = [
     related: ["Motif", "Symbolism", "Pathetic Fallacy"],
   },
   {
+    type: "know-it",
     term: "Pun",
     year: 8,
     category: "Language Features",
@@ -388,6 +422,7 @@ export const Y8_WORDS = [
     related: ["Hyperbole", "Irony", "Euphemism"],
   },
   {
+    type: "know-it",
     term: "Euphemism",
     year: 8,
     category: "Language Features",
@@ -399,6 +434,7 @@ export const Y8_WORDS = [
     related: ["Hyperbole", "Pun", "Analogy"],
   },
   {
+    type: "know-it",
     term: "Analogy",
     year: 8,
     category: "Language Features",
@@ -416,6 +452,7 @@ export const Y8_WORDS = [
 
   // ── Number & Algebra (12) ─────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Index Notation",
     year: 8,
     category: "Number & Algebra",
@@ -427,6 +464,7 @@ export const Y8_WORDS = [
     related: ["Scientific Notation", "Like Terms", "Distributive Law"],
   },
   {
+    type: "know-it",
     term: "Scientific Notation",
     year: 8,
     category: "Number & Algebra",
@@ -438,6 +476,7 @@ export const Y8_WORDS = [
     related: ["Index Notation", "Irrational Number", "Substitution"],
   },
   {
+    type: "know-it",
     term: "Irrational Number",
     year: 8,
     category: "Number & Algebra",
@@ -449,6 +488,7 @@ export const Y8_WORDS = [
     related: ["Pi", "Scientific Notation", "Algebraic Fraction"],
   },
   {
+    type: "know-it",
     term: "Algebraic Fraction",
     year: 8,
     category: "Number & Algebra",
@@ -460,6 +500,7 @@ export const Y8_WORDS = [
     related: ["Like Terms", "Linear Equation", "Substitution"],
   },
   {
+    type: "know-it",
     term: "Linear Equation",
     year: 8,
     category: "Number & Algebra",
@@ -471,6 +512,7 @@ export const Y8_WORDS = [
     related: ["Gradient", "Intercept", "Substitution"],
   },
   {
+    type: "know-it",
     term: "Gradient",
     year: 8,
     category: "Number & Algebra",
@@ -482,6 +524,7 @@ export const Y8_WORDS = [
     related: ["Intercept", "Linear Equation", "Substitution"],
   },
   {
+    type: "know-it",
     term: "Intercept",
     year: 8,
     category: "Number & Algebra",
@@ -493,6 +536,7 @@ export const Y8_WORDS = [
     related: ["Gradient", "Linear Equation", "Substitution"],
   },
   {
+    type: "know-it",
     term: "Substitution",
     year: 8,
     category: "Number & Algebra",
@@ -504,6 +548,7 @@ export const Y8_WORDS = [
     related: ["Linear Equation", "Like Terms", "Algebraic Fraction"],
   },
   {
+    type: "know-it",
     term: "Like Terms",
     year: 8,
     category: "Number & Algebra",
@@ -515,6 +560,7 @@ export const Y8_WORDS = [
     related: ["Distributive Law", "Substitution", "Algebraic Fraction"],
   },
   {
+    type: "know-it",
     term: "Distributive Law",
     year: 8,
     category: "Number & Algebra",
@@ -526,6 +572,7 @@ export const Y8_WORDS = [
     related: ["Like Terms", "Binomial", "Linear Equation"],
   },
   {
+    type: "know-it",
     term: "Binomial",
     year: 8,
     category: "Number & Algebra",
@@ -537,6 +584,7 @@ export const Y8_WORDS = [
     related: ["Distributive Law", "Like Terms", "Linear Equation"],
   },
   {
+    type: "know-it",
     term: "Inequality",
     year: 8,
     category: "Number & Algebra",
@@ -550,6 +598,7 @@ export const Y8_WORDS = [
 
   // ── Measurement & Geometry (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Congruence",
     year: 8,
     category: "Measurement & Geometry",
@@ -561,6 +610,7 @@ export const Y8_WORDS = [
     related: ["Similarity", "Net", "Scale Drawing"],
   },
   {
+    type: "know-it",
     term: "Similarity",
     year: 8,
     category: "Measurement & Geometry",
@@ -572,6 +622,7 @@ export const Y8_WORDS = [
     related: ["Congruence", "Scale Drawing", "Cross Section"],
   },
   {
+    type: "know-it",
     term: "Pythagoras' Theorem",
     year: 8,
     category: "Measurement & Geometry",
@@ -583,6 +634,7 @@ export const Y8_WORDS = [
     related: ["Pi", "Surface Area", "Bearing"],
   },
   {
+    type: "know-it",
     term: "Pi",
     year: 8,
     category: "Measurement & Geometry",
@@ -594,6 +646,7 @@ export const Y8_WORDS = [
     related: ["Arc Length", "Sector", "Irrational Number"],
   },
   {
+    type: "know-it",
     term: "Arc Length",
     year: 8,
     category: "Measurement & Geometry",
@@ -605,6 +658,7 @@ export const Y8_WORDS = [
     related: ["Pi", "Sector", "Composite Shape"],
   },
   {
+    type: "know-it",
     term: "Sector",
     year: 8,
     category: "Measurement & Geometry",
@@ -616,6 +670,7 @@ export const Y8_WORDS = [
     related: ["Arc Length", "Pi", "Surface Area"],
   },
   {
+    type: "know-it",
     term: "Surface Area",
     year: 8,
     category: "Measurement & Geometry",
@@ -627,6 +682,7 @@ export const Y8_WORDS = [
     related: ["Net", "Composite Shape", "Cross Section"],
   },
   {
+    type: "know-it",
     term: "Composite Shape",
     year: 8,
     category: "Measurement & Geometry",
@@ -638,6 +694,7 @@ export const Y8_WORDS = [
     related: ["Surface Area", "Net", "Arc Length"],
   },
   {
+    type: "know-it",
     term: "Scale Drawing",
     year: 8,
     category: "Measurement & Geometry",
@@ -649,6 +706,7 @@ export const Y8_WORDS = [
     related: ["Similarity", "Bearing", "Congruence"],
   },
   {
+    type: "know-it",
     term: "Bearing",
     year: 8,
     category: "Measurement & Geometry",
@@ -660,6 +718,7 @@ export const Y8_WORDS = [
     related: ["Scale Drawing", "Pythagoras' Theorem", "Cross Section"],
   },
   {
+    type: "know-it",
     term: "Cross Section",
     year: 8,
     category: "Measurement & Geometry",
@@ -671,6 +730,7 @@ export const Y8_WORDS = [
     related: ["Net", "Surface Area", "Composite Shape"],
   },
   {
+    type: "know-it",
     term: "Net",
     year: 8,
     category: "Measurement & Geometry",
@@ -684,6 +744,7 @@ export const Y8_WORDS = [
 
   // ── Statistics & Probability (12) ─────────────────────────────────────────
   {
+    type: "know-it",
     term: "Stem-and-Leaf Plot",
     year: 8,
     category: "Statistics & Probability",
@@ -695,6 +756,7 @@ export const Y8_WORDS = [
     related: ["Box Plot", "Quartile", "Outlier"],
   },
   {
+    type: "know-it",
     term: "Box Plot",
     year: 8,
     category: "Statistics & Probability",
@@ -706,6 +768,7 @@ export const Y8_WORDS = [
     related: ["Interquartile Range", "Quartile", "Outlier"],
   },
   {
+    type: "know-it",
     term: "Interquartile Range",
     year: 8,
     category: "Statistics & Probability",
@@ -717,6 +780,7 @@ export const Y8_WORDS = [
     related: ["Box Plot", "Quartile", "Outlier"],
   },
   {
+    type: "know-it",
     term: "Relative Frequency",
     year: 8,
     category: "Statistics & Probability",
@@ -728,6 +792,7 @@ export const Y8_WORDS = [
     related: ["Complementary Events", "Independent Events", "Census"],
   },
   {
+    type: "know-it",
     term: "Two-Way Table",
     year: 8,
     category: "Statistics & Probability",
@@ -739,6 +804,7 @@ export const Y8_WORDS = [
     related: ["Venn Diagram", "Relative Frequency", "Census"],
   },
   {
+    type: "know-it",
     term: "Venn Diagram",
     year: 8,
     category: "Statistics & Probability",
@@ -750,6 +816,7 @@ export const Y8_WORDS = [
     related: ["Two-Way Table", "Complementary Events", "Independent Events"],
   },
   {
+    type: "know-it",
     term: "Complementary Events",
     year: 8,
     category: "Statistics & Probability",
@@ -761,6 +828,7 @@ export const Y8_WORDS = [
     related: ["Independent Events", "Relative Frequency", "Venn Diagram"],
   },
   {
+    type: "know-it",
     term: "Independent Events",
     year: 8,
     category: "Statistics & Probability",
@@ -772,6 +840,7 @@ export const Y8_WORDS = [
     related: ["Complementary Events", "Relative Frequency", "Venn Diagram"],
   },
   {
+    type: "know-it",
     term: "Census",
     year: 8,
     category: "Statistics & Probability",
@@ -783,6 +852,7 @@ export const Y8_WORDS = [
     related: ["Relative Frequency", "Two-Way Table", "Scatter Plot"],
   },
   {
+    type: "know-it",
     term: "Quartile",
     year: 8,
     category: "Statistics & Probability",
@@ -794,6 +864,7 @@ export const Y8_WORDS = [
     related: ["Interquartile Range", "Box Plot", "Outlier"],
   },
   {
+    type: "know-it",
     term: "Outlier",
     year: 8,
     category: "Statistics & Probability",
@@ -805,6 +876,7 @@ export const Y8_WORDS = [
     related: ["Interquartile Range", "Box Plot", "Quartile"],
   },
   {
+    type: "know-it",
     term: "Scatter Plot",
     year: 8,
     category: "Statistics & Probability",
@@ -822,6 +894,7 @@ export const Y8_WORDS = [
 
   // ── Biological Sciences (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Tissue",
     year: 8,
     category: "Biological Sciences",
@@ -833,6 +906,7 @@ export const Y8_WORDS = [
     related: ["Organ", "Organ System", "Multicellular"],
   },
   {
+    type: "know-it",
     term: "Organ",
     year: 8,
     category: "Biological Sciences",
@@ -844,6 +918,7 @@ export const Y8_WORDS = [
     related: ["Tissue", "Organ System", "Multicellular"],
   },
   {
+    type: "know-it",
     term: "Organ System",
     year: 8,
     category: "Biological Sciences",
@@ -855,6 +930,7 @@ export const Y8_WORDS = [
     related: ["Organ", "Tissue", "Multicellular"],
   },
   {
+    type: "know-it",
     term: "Mitosis",
     year: 8,
     category: "Biological Sciences",
@@ -866,6 +942,7 @@ export const Y8_WORDS = [
     related: ["Chromosome", "DNA", "Gene"],
   },
   {
+    type: "know-it",
     term: "Chromosome",
     year: 8,
     category: "Biological Sciences",
@@ -877,6 +954,7 @@ export const Y8_WORDS = [
     related: ["DNA", "Gene", "Mitosis"],
   },
   {
+    type: "know-it",
     term: "DNA",
     year: 8,
     category: "Biological Sciences",
@@ -888,6 +966,7 @@ export const Y8_WORDS = [
     related: ["Chromosome", "Gene", "Trait"],
   },
   {
+    type: "know-it",
     term: "Gene",
     year: 8,
     category: "Biological Sciences",
@@ -899,6 +978,7 @@ export const Y8_WORDS = [
     related: ["DNA", "Trait", "Inherited"],
   },
   {
+    type: "know-it",
     term: "Trait",
     year: 8,
     category: "Biological Sciences",
@@ -910,6 +990,7 @@ export const Y8_WORDS = [
     related: ["Gene", "Inherited", "Variation"],
   },
   {
+    type: "know-it",
     term: "Inherited",
     year: 8,
     category: "Biological Sciences",
@@ -921,6 +1002,7 @@ export const Y8_WORDS = [
     related: ["Gene", "Trait", "Variation"],
   },
   {
+    type: "know-it",
     term: "Variation",
     year: 8,
     category: "Biological Sciences",
@@ -932,6 +1014,7 @@ export const Y8_WORDS = [
     related: ["Natural Selection", "Trait", "Inherited"],
   },
   {
+    type: "know-it",
     term: "Natural Selection",
     year: 8,
     category: "Biological Sciences",
@@ -943,6 +1026,7 @@ export const Y8_WORDS = [
     related: ["Variation", "Trait", "Inherited"],
   },
   {
+    type: "know-it",
     term: "Multicellular",
     year: 8,
     category: "Biological Sciences",
@@ -956,6 +1040,7 @@ export const Y8_WORDS = [
 
   // ── Chemical & Physical Sciences (12) ─────────────────────────────────────
   {
+    type: "know-it",
     term: "Atom",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -967,6 +1052,7 @@ export const Y8_WORDS = [
     related: ["Molecule", "Electron", "Proton"],
   },
   {
+    type: "know-it",
     term: "Molecule",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -978,6 +1064,7 @@ export const Y8_WORDS = [
     related: ["Atom", "Chemical Equation", "Ion"],
   },
   {
+    type: "know-it",
     term: "Chemical Equation",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -989,6 +1076,7 @@ export const Y8_WORDS = [
     related: ["Reactant", "Product", "Conservation of Mass"],
   },
   {
+    type: "know-it",
     term: "Reactant",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1000,6 +1088,7 @@ export const Y8_WORDS = [
     related: ["Product", "Chemical Equation", "Conservation of Mass"],
   },
   {
+    type: "know-it",
     term: "Product",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1011,6 +1100,7 @@ export const Y8_WORDS = [
     related: ["Reactant", "Chemical Equation", "Conservation of Mass"],
   },
   {
+    type: "know-it",
     term: "Conservation of Mass",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1022,6 +1112,7 @@ export const Y8_WORDS = [
     related: ["Chemical Equation", "Reactant", "Product"],
   },
   {
+    type: "know-it",
     term: "Physical Change",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1033,6 +1124,7 @@ export const Y8_WORDS = [
     related: ["Conservation of Mass", "Atom", "Molecule"],
   },
   {
+    type: "know-it",
     term: "Periodic Table",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1044,6 +1136,7 @@ export const Y8_WORDS = [
     related: ["Atom", "Electron", "Ion"],
   },
   {
+    type: "know-it",
     term: "Electron",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1055,6 +1148,7 @@ export const Y8_WORDS = [
     related: ["Proton", "Neutron", "Ion"],
   },
   {
+    type: "know-it",
     term: "Proton",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1066,6 +1160,7 @@ export const Y8_WORDS = [
     related: ["Neutron", "Electron", "Atom"],
   },
   {
+    type: "know-it",
     term: "Neutron",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1077,6 +1172,7 @@ export const Y8_WORDS = [
     related: ["Proton", "Electron", "Atom"],
   },
   {
+    type: "know-it",
     term: "Ion",
     year: 8,
     category: "Chemical & Physical Sciences",
@@ -1090,6 +1186,7 @@ export const Y8_WORDS = [
 
   // ── Earth & Space Sciences (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Tectonic Plate",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1101,6 +1198,7 @@ export const Y8_WORDS = [
     related: ["Earthquake", "Continental Drift", "Lithosphere"],
   },
   {
+    type: "know-it",
     term: "Earthquake",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1112,6 +1210,7 @@ export const Y8_WORDS = [
     related: ["Tectonic Plate", "Seismograph", "Volcano"],
   },
   {
+    type: "know-it",
     term: "Volcano",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1123,6 +1222,7 @@ export const Y8_WORDS = [
     related: ["Magma", "Tectonic Plate", "Mantle"],
   },
   {
+    type: "know-it",
     term: "Magma",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1134,6 +1234,7 @@ export const Y8_WORDS = [
     related: ["Volcano", "Mantle", "Core"],
   },
   {
+    type: "know-it",
     term: "Seismograph",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1145,6 +1246,7 @@ export const Y8_WORDS = [
     related: ["Earthquake", "Tectonic Plate", "Mantle"],
   },
   {
+    type: "know-it",
     term: "Continental Drift",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1156,6 +1258,7 @@ export const Y8_WORDS = [
     related: ["Pangaea", "Tectonic Plate", "Geological Time"],
   },
   {
+    type: "know-it",
     term: "Pangaea",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1167,6 +1270,7 @@ export const Y8_WORDS = [
     related: ["Continental Drift", "Tectonic Plate", "Geological Time"],
   },
   {
+    type: "know-it",
     term: "Geological Time",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1178,6 +1282,7 @@ export const Y8_WORDS = [
     related: ["Stratigraphy", "Pangaea", "Continental Drift"],
   },
   {
+    type: "know-it",
     term: "Stratigraphy",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1189,6 +1294,7 @@ export const Y8_WORDS = [
     related: ["Geological Time", "Lithosphere", "Core"],
   },
   {
+    type: "know-it",
     term: "Mantle",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1200,6 +1306,7 @@ export const Y8_WORDS = [
     related: ["Core", "Lithosphere", "Magma"],
   },
   {
+    type: "know-it",
     term: "Core",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1211,6 +1318,7 @@ export const Y8_WORDS = [
     related: ["Mantle", "Lithosphere", "Magma"],
   },
   {
+    type: "know-it",
     term: "Lithosphere",
     year: 8,
     category: "Earth & Space Sciences",
@@ -1228,6 +1336,7 @@ export const Y8_WORDS = [
 
   // ── Historical Knowledge (12) ─────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Renaissance",
     year: 8,
     category: "Historical Knowledge",
@@ -1239,6 +1348,7 @@ export const Y8_WORDS = [
     related: ["Reformation", "Feudalism", "Colonisation"],
   },
   {
+    type: "know-it",
     term: "Reformation",
     year: 8,
     category: "Historical Knowledge",
@@ -1250,6 +1360,7 @@ export const Y8_WORDS = [
     related: ["Renaissance", "Crusade", "Magna Carta"],
   },
   {
+    type: "know-it",
     term: "Ottoman Empire",
     year: 8,
     category: "Historical Knowledge",
@@ -1261,6 +1372,7 @@ export const Y8_WORDS = [
     related: ["Crusade", "Ming Dynasty", "Renaissance"],
   },
   {
+    type: "know-it",
     term: "Feudalism",
     year: 8,
     category: "Historical Knowledge",
@@ -1272,6 +1384,7 @@ export const Y8_WORDS = [
     related: ["Black Death", "Magna Carta", "Crusade"],
   },
   {
+    type: "know-it",
     term: "Black Death",
     year: 8,
     category: "Historical Knowledge",
@@ -1283,6 +1396,7 @@ export const Y8_WORDS = [
     related: ["Feudalism", "Magna Carta", "Renaissance"],
   },
   {
+    type: "know-it",
     term: "Magna Carta",
     year: 8,
     category: "Historical Knowledge",
@@ -1294,6 +1408,7 @@ export const Y8_WORDS = [
     related: ["Feudalism", "Reformation", "Industrial Revolution"],
   },
   {
+    type: "know-it",
     term: "Crusade",
     year: 8,
     category: "Historical Knowledge",
@@ -1305,6 +1420,7 @@ export const Y8_WORDS = [
     related: ["Ottoman Empire", "Feudalism", "Reformation"],
   },
   {
+    type: "know-it",
     term: "Aztec",
     year: 8,
     category: "Historical Knowledge",
@@ -1316,6 +1432,7 @@ export const Y8_WORDS = [
     related: ["Inca", "Colonisation", "Ming Dynasty"],
   },
   {
+    type: "know-it",
     term: "Inca",
     year: 8,
     category: "Historical Knowledge",
@@ -1327,6 +1444,7 @@ export const Y8_WORDS = [
     related: ["Aztec", "Colonisation", "Ming Dynasty"],
   },
   {
+    type: "know-it",
     term: "Ming Dynasty",
     year: 8,
     category: "Historical Knowledge",
@@ -1338,6 +1456,7 @@ export const Y8_WORDS = [
     related: ["Ottoman Empire", "Renaissance", "Colonisation"],
   },
   {
+    type: "know-it",
     term: "Colonisation",
     year: 8,
     category: "Historical Knowledge",
@@ -1349,6 +1468,7 @@ export const Y8_WORDS = [
     related: ["Industrial Revolution", "Aztec", "Inca"],
   },
   {
+    type: "know-it",
     term: "Industrial Revolution",
     year: 8,
     category: "Historical Knowledge",
@@ -1362,6 +1482,7 @@ export const Y8_WORDS = [
 
   // ── Historical Skills (12) ────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Historical Inquiry",
     year: 8,
     category: "Historical Skills",
@@ -1373,6 +1494,7 @@ export const Y8_WORDS = [
     related: ["Corroboration", "Provenance", "Interpretation"],
   },
   {
+    type: "know-it",
     term: "Corroboration",
     year: 8,
     category: "Historical Skills",
@@ -1384,6 +1506,7 @@ export const Y8_WORDS = [
     related: ["Reliability", "Provenance", "Multiperspectivity"],
   },
   {
+    type: "know-it",
     term: "Provenance",
     year: 8,
     category: "Historical Skills",
@@ -1395,6 +1518,7 @@ export const Y8_WORDS = [
     related: ["Reliability", "Usefulness", "Corroboration"],
   },
   {
+    type: "know-it",
     term: "Reliability",
     year: 8,
     category: "Historical Skills",
@@ -1406,6 +1530,7 @@ export const Y8_WORDS = [
     related: ["Provenance", "Usefulness", "Contestability"],
   },
   {
+    type: "know-it",
     term: "Usefulness",
     year: 8,
     category: "Historical Skills",
@@ -1417,6 +1542,7 @@ export const Y8_WORDS = [
     related: ["Reliability", "Provenance", "Historical Inquiry"],
   },
   {
+    type: "know-it",
     term: "Contestability",
     year: 8,
     category: "Historical Skills",
@@ -1428,6 +1554,7 @@ export const Y8_WORDS = [
     related: ["Multiperspectivity", "Interpretation", "Historiography"],
   },
   {
+    type: "know-it",
     term: "Multiperspectivity",
     year: 8,
     category: "Historical Skills",
@@ -1439,6 +1566,7 @@ export const Y8_WORDS = [
     related: ["Contestability", "Oral History", "Interpretation"],
   },
   {
+    type: "know-it",
     term: "Oral History",
     year: 8,
     category: "Historical Skills",
@@ -1450,6 +1578,7 @@ export const Y8_WORDS = [
     related: ["Multiperspectivity", "Heritage", "Commemoration"],
   },
   {
+    type: "know-it",
     term: "Historiography",
     year: 8,
     category: "Historical Skills",
@@ -1461,6 +1590,7 @@ export const Y8_WORDS = [
     related: ["Contestability", "Interpretation", "Multiperspectivity"],
   },
   {
+    type: "know-it",
     term: "Commemoration",
     year: 8,
     category: "Historical Skills",
@@ -1472,6 +1602,7 @@ export const Y8_WORDS = [
     related: ["Heritage", "Oral History", "Contestability"],
   },
   {
+    type: "know-it",
     term: "Heritage",
     year: 8,
     category: "Historical Skills",
@@ -1483,6 +1614,7 @@ export const Y8_WORDS = [
     related: ["Commemoration", "Oral History", "Interpretation"],
   },
   {
+    type: "know-it",
     term: "Interpretation",
     year: 8,
     category: "Historical Skills",
@@ -1500,6 +1632,7 @@ export const Y8_WORDS = [
 
   // ── Geographical Knowledge (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Urbanisation",
     year: 8,
     category: "Geographical Knowledge",
@@ -1511,6 +1644,7 @@ export const Y8_WORDS = [
     related: ["Migration", "Sustainability", "Land Degradation"],
   },
   {
+    type: "know-it",
     term: "Migration",
     year: 8,
     category: "Geographical Knowledge",
@@ -1522,6 +1656,7 @@ export const Y8_WORDS = [
     related: ["Urbanisation", "Food Security", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Sustainability",
     year: 8,
     category: "Geographical Knowledge",
@@ -1533,6 +1668,7 @@ export const Y8_WORDS = [
     related: ["Renewable Resource", "Deforestation", "Ecosystem Services"],
   },
   {
+    type: "know-it",
     term: "Renewable Resource",
     year: 8,
     category: "Geographical Knowledge",
@@ -1544,6 +1680,7 @@ export const Y8_WORDS = [
     related: ["Non-renewable Resource", "Sustainability", "Ecosystem Services"],
   },
   {
+    type: "know-it",
     term: "Non-renewable Resource",
     year: 8,
     category: "Geographical Knowledge",
@@ -1555,6 +1692,7 @@ export const Y8_WORDS = [
     related: ["Renewable Resource", "Sustainability", "Deforestation"],
   },
   {
+    type: "know-it",
     term: "Deforestation",
     year: 8,
     category: "Geographical Knowledge",
@@ -1566,6 +1704,7 @@ export const Y8_WORDS = [
     related: ["Desertification", "Land Degradation", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Desertification",
     year: 8,
     category: "Geographical Knowledge",
@@ -1577,6 +1716,7 @@ export const Y8_WORDS = [
     related: ["Deforestation", "Land Degradation", "Water Cycle"],
   },
   {
+    type: "know-it",
     term: "Water Cycle",
     year: 8,
     category: "Geographical Knowledge",
@@ -1588,6 +1728,7 @@ export const Y8_WORDS = [
     related: ["Catchment", "Ecosystem Services", "Desertification"],
   },
   {
+    type: "know-it",
     term: "Catchment",
     year: 8,
     category: "Geographical Knowledge",
@@ -1599,6 +1740,7 @@ export const Y8_WORDS = [
     related: ["Water Cycle", "Ecosystem Services", "Land Degradation"],
   },
   {
+    type: "know-it",
     term: "Ecosystem Services",
     year: 8,
     category: "Geographical Knowledge",
@@ -1610,6 +1752,7 @@ export const Y8_WORDS = [
     related: ["Sustainability", "Catchment", "Renewable Resource"],
   },
   {
+    type: "know-it",
     term: "Land Degradation",
     year: 8,
     category: "Geographical Knowledge",
@@ -1621,6 +1764,7 @@ export const Y8_WORDS = [
     related: ["Deforestation", "Desertification", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Food Security",
     year: 8,
     category: "Geographical Knowledge",
@@ -1634,6 +1778,7 @@ export const Y8_WORDS = [
 
   // ── Geographical Skills (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Thematic Map",
     year: 8,
     category: "Geographical Skills",
@@ -1645,6 +1790,7 @@ export const Y8_WORDS = [
     related: ["Statistical Map", "Flow Map", "Synoptic Chart"],
   },
   {
+    type: "know-it",
     term: "Remote Sensing",
     year: 8,
     category: "Geographical Skills",
@@ -1656,6 +1802,7 @@ export const Y8_WORDS = [
     related: ["Geospatial Technology", "Thematic Map", "Overlay"],
   },
   {
+    type: "know-it",
     term: "Geospatial Technology",
     year: 8,
     category: "Geographical Skills",
@@ -1667,6 +1814,7 @@ export const Y8_WORDS = [
     related: ["Remote Sensing", "Overlay", "Spatial Association"],
   },
   {
+    type: "know-it",
     term: "Statistical Map",
     year: 8,
     category: "Geographical Skills",
@@ -1678,6 +1826,7 @@ export const Y8_WORDS = [
     related: ["Thematic Map", "Proportional Symbol", "Isoline"],
   },
   {
+    type: "know-it",
     term: "Proportional Symbol",
     year: 8,
     category: "Geographical Skills",
@@ -1689,6 +1838,7 @@ export const Y8_WORDS = [
     related: ["Statistical Map", "Flow Map", "Thematic Map"],
   },
   {
+    type: "know-it",
     term: "Flow Map",
     year: 8,
     category: "Geographical Skills",
@@ -1700,6 +1850,7 @@ export const Y8_WORDS = [
     related: ["Thematic Map", "Proportional Symbol", "Spatial Association"],
   },
   {
+    type: "know-it",
     term: "Synoptic Chart",
     year: 8,
     category: "Geographical Skills",
@@ -1711,6 +1862,7 @@ export const Y8_WORDS = [
     related: ["Isoline", "Thematic Map", "Transect"],
   },
   {
+    type: "know-it",
     term: "Isoline",
     year: 8,
     category: "Geographical Skills",
@@ -1722,6 +1874,7 @@ export const Y8_WORDS = [
     related: ["Synoptic Chart", "Transect", "Interpolation"],
   },
   {
+    type: "know-it",
     term: "Transect",
     year: 8,
     category: "Geographical Skills",
@@ -1733,6 +1886,7 @@ export const Y8_WORDS = [
     related: ["Isoline", "Overlay", "Synoptic Chart"],
   },
   {
+    type: "know-it",
     term: "Overlay",
     year: 8,
     category: "Geographical Skills",
@@ -1744,6 +1898,7 @@ export const Y8_WORDS = [
     related: ["Geospatial Technology", "Spatial Association", "Remote Sensing"],
   },
   {
+    type: "know-it",
     term: "Spatial Association",
     year: 8,
     category: "Geographical Skills",
@@ -1755,6 +1910,7 @@ export const Y8_WORDS = [
     related: ["Overlay", "Geospatial Technology", "Interpolation"],
   },
   {
+    type: "know-it",
     term: "Interpolation",
     year: 8,
     category: "Geographical Skills",
@@ -1772,6 +1928,7 @@ export const Y8_WORDS = [
 
   // ── Health & Wellbeing (12) ───────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Adolescence",
     year: 8,
     category: "Health & Wellbeing",
@@ -1783,6 +1940,7 @@ export const Y8_WORDS = [
     related: ["Body Image", "Coping Strategy", "Empathy"],
   },
   {
+    type: "know-it",
     term: "Body Image",
     year: 8,
     category: "Health & Wellbeing",
@@ -1794,6 +1952,7 @@ export const Y8_WORDS = [
     related: ["Adolescence", "Coping Strategy", "Protective Factor"],
   },
   {
+    type: "know-it",
     term: "Coping Strategy",
     year: 8,
     category: "Health & Wellbeing",
@@ -1805,6 +1964,7 @@ export const Y8_WORDS = [
     related: ["Help-seeking", "Protective Factor", "Assertiveness"],
   },
   {
+    type: "know-it",
     term: "Risk-taking",
     year: 8,
     category: "Health & Wellbeing",
@@ -1816,6 +1976,7 @@ export const Y8_WORDS = [
     related: ["Risk Factor", "Protective Factor", "Help-seeking"],
   },
   {
+    type: "know-it",
     term: "Help-seeking",
     year: 8,
     category: "Health & Wellbeing",
@@ -1827,6 +1988,7 @@ export const Y8_WORDS = [
     related: ["Coping Strategy", "Protective Factor", "Assertiveness"],
   },
   {
+    type: "know-it",
     term: "Protective Factor",
     year: 8,
     category: "Health & Wellbeing",
@@ -1838,6 +2000,7 @@ export const Y8_WORDS = [
     related: ["Risk Factor", "Coping Strategy", "Help-seeking"],
   },
   {
+    type: "know-it",
     term: "Risk Factor",
     year: 8,
     category: "Health & Wellbeing",
@@ -1849,6 +2012,7 @@ export const Y8_WORDS = [
     related: ["Protective Factor", "Risk-taking", "Help-seeking"],
   },
   {
+    type: "know-it",
     term: "Drug Classification",
     year: 8,
     category: "Health & Wellbeing",
@@ -1860,6 +2024,7 @@ export const Y8_WORDS = [
     related: ["Alcohol", "Tobacco", "Risk Factor"],
   },
   {
+    type: "know-it",
     term: "Alcohol",
     year: 8,
     category: "Health & Wellbeing",
@@ -1871,6 +2036,7 @@ export const Y8_WORDS = [
     related: ["Drug Classification", "Tobacco", "Risk-taking"],
   },
   {
+    type: "know-it",
     term: "Tobacco",
     year: 8,
     category: "Health & Wellbeing",
@@ -1882,6 +2048,7 @@ export const Y8_WORDS = [
     related: ["Drug Classification", "Alcohol", "Risk Factor"],
   },
   {
+    type: "know-it",
     term: "Assertiveness",
     year: 8,
     category: "Health & Wellbeing",
@@ -1893,6 +2060,7 @@ export const Y8_WORDS = [
     related: ["Empathy", "Help-seeking", "Coping Strategy"],
   },
   {
+    type: "know-it",
     term: "Empathy",
     year: 8,
     category: "Health & Wellbeing",
@@ -1906,6 +2074,7 @@ export const Y8_WORDS = [
 
   // ── Movement & Physical Activity (12) ─────────────────────────────────────
   {
+    type: "know-it",
     term: "Anaerobic",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1917,6 +2086,7 @@ export const Y8_WORDS = [
     related: ["VO2 Max", "Target Heart Rate", "Overload Principle"],
   },
   {
+    type: "know-it",
     term: "VO2 Max",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1928,6 +2098,7 @@ export const Y8_WORDS = [
     related: ["Anaerobic", "Target Heart Rate", "Overload Principle"],
   },
   {
+    type: "know-it",
     term: "Target Heart Rate",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1939,6 +2110,7 @@ export const Y8_WORDS = [
     related: ["VO2 Max", "Anaerobic", "Recovery"],
   },
   {
+    type: "know-it",
     term: "Repetition",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1950,6 +2122,7 @@ export const Y8_WORDS = [
     related: ["Set", "Recovery", "Overload Principle"],
   },
   {
+    type: "know-it",
     term: "Set",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1961,6 +2134,7 @@ export const Y8_WORDS = [
     related: ["Repetition", "Recovery", "Overload Principle"],
   },
   {
+    type: "know-it",
     term: "Recovery",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1972,6 +2146,7 @@ export const Y8_WORDS = [
     related: ["Set", "Repetition", "Overload Principle"],
   },
   {
+    type: "know-it",
     term: "Skill Acquisition",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1983,6 +2158,7 @@ export const Y8_WORDS = [
     related: ["Feedback", "Tactics", "Strategy"],
   },
   {
+    type: "know-it",
     term: "Feedback",
     year: 8,
     category: "Movement & Physical Activity",
@@ -1994,6 +2170,7 @@ export const Y8_WORDS = [
     related: ["Skill Acquisition", "Tactics", "Strategy"],
   },
   {
+    type: "know-it",
     term: "Tactics",
     year: 8,
     category: "Movement & Physical Activity",
@@ -2005,6 +2182,7 @@ export const Y8_WORDS = [
     related: ["Strategy", "Feedback", "Skill Acquisition"],
   },
   {
+    type: "know-it",
     term: "Strategy",
     year: 8,
     category: "Movement & Physical Activity",
@@ -2016,6 +2194,7 @@ export const Y8_WORDS = [
     related: ["Tactics", "Sport Psychology", "Feedback"],
   },
   {
+    type: "know-it",
     term: "Sport Psychology",
     year: 8,
     category: "Movement & Physical Activity",
@@ -2027,6 +2206,7 @@ export const Y8_WORDS = [
     related: ["Strategy", "Tactics", "Skill Acquisition"],
   },
   {
+    type: "know-it",
     term: "Overload Principle",
     year: 8,
     category: "Movement & Physical Activity",
@@ -2044,6 +2224,7 @@ export const Y8_WORDS = [
 
   // ── Consumer & Financial Literacy (12) ────────────────────────────────────
   {
+    type: "know-it",
     term: "Investment",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2055,6 +2236,7 @@ export const Y8_WORDS = [
     related: ["Share", "Compound Interest", "Superannuation"],
   },
   {
+    type: "know-it",
     term: "Share",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2066,6 +2248,7 @@ export const Y8_WORDS = [
     related: ["Dividend", "Investment", "Compound Interest"],
   },
   {
+    type: "know-it",
     term: "Dividend",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2077,6 +2260,7 @@ export const Y8_WORDS = [
     related: ["Share", "Investment", "Compound Interest"],
   },
   {
+    type: "know-it",
     term: "Compound Interest",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2088,6 +2272,7 @@ export const Y8_WORDS = [
     related: ["Investment", "Credit", "Inflation"],
   },
   {
+    type: "know-it",
     term: "Inflation",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2099,6 +2284,7 @@ export const Y8_WORDS = [
     related: ["GST", "Compound Interest", "Financial Literacy"],
   },
   {
+    type: "know-it",
     term: "GST",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2110,6 +2296,7 @@ export const Y8_WORDS = [
     related: ["Tax", "Inflation", "Financial Literacy"],
   },
   {
+    type: "know-it",
     term: "Tax",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2121,6 +2308,7 @@ export const Y8_WORDS = [
     related: ["GST", "Superannuation", "Financial Literacy"],
   },
   {
+    type: "know-it",
     term: "Insurance",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2132,6 +2320,7 @@ export const Y8_WORDS = [
     related: ["Superannuation", "Investment", "Financial Literacy"],
   },
   {
+    type: "know-it",
     term: "Superannuation",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2143,6 +2332,7 @@ export const Y8_WORDS = [
     related: ["Investment", "Tax", "Compound Interest"],
   },
   {
+    type: "know-it",
     term: "Credit",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2154,6 +2344,7 @@ export const Y8_WORDS = [
     related: ["Debit", "Compound Interest", "Financial Literacy"],
   },
   {
+    type: "know-it",
     term: "Debit",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2165,6 +2356,7 @@ export const Y8_WORDS = [
     related: ["Credit", "Financial Literacy", "GST"],
   },
   {
+    type: "know-it",
     term: "Financial Literacy",
     year: 8,
     category: "Consumer & Financial Literacy",
@@ -2178,6 +2370,7 @@ export const Y8_WORDS = [
 
   // ── Law & Society (12) ────────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Legislation",
     year: 8,
     category: "Law & Society",
@@ -2189,6 +2382,7 @@ export const Y8_WORDS = [
     related: ["Statute", "Common Law", "Precedent"],
   },
   {
+    type: "know-it",
     term: "Statute",
     year: 8,
     category: "Law & Society",
@@ -2200,6 +2394,7 @@ export const Y8_WORDS = [
     related: ["Legislation", "Common Law", "Precedent"],
   },
   {
+    type: "know-it",
     term: "Common Law",
     year: 8,
     category: "Law & Society",
@@ -2211,6 +2406,7 @@ export const Y8_WORDS = [
     related: ["Precedent", "Legislation", "Statute"],
   },
   {
+    type: "know-it",
     term: "Precedent",
     year: 8,
     category: "Law & Society",
@@ -2222,6 +2418,7 @@ export const Y8_WORDS = [
     related: ["Common Law", "Legislation", "Appeal"],
   },
   {
+    type: "know-it",
     term: "Plaintiff",
     year: 8,
     category: "Law & Society",
@@ -2233,6 +2430,7 @@ export const Y8_WORDS = [
     related: ["Defendant", "Verdict", "Tribunal"],
   },
   {
+    type: "know-it",
     term: "Defendant",
     year: 8,
     category: "Law & Society",
@@ -2244,6 +2442,7 @@ export const Y8_WORDS = [
     related: ["Plaintiff", "Verdict", "Appeal"],
   },
   {
+    type: "know-it",
     term: "Verdict",
     year: 8,
     category: "Law & Society",
@@ -2255,6 +2454,7 @@ export const Y8_WORDS = [
     related: ["Plaintiff", "Defendant", "Appeal"],
   },
   {
+    type: "know-it",
     term: "Appeal",
     year: 8,
     category: "Law & Society",
@@ -2266,6 +2466,7 @@ export const Y8_WORDS = [
     related: ["Verdict", "Precedent", "Tribunal"],
   },
   {
+    type: "know-it",
     term: "Mediation",
     year: 8,
     category: "Law & Society",
@@ -2277,6 +2478,7 @@ export const Y8_WORDS = [
     related: ["Arbitration", "Tribunal", "Verdict"],
   },
   {
+    type: "know-it",
     term: "Arbitration",
     year: 8,
     category: "Law & Society",
@@ -2288,6 +2490,7 @@ export const Y8_WORDS = [
     related: ["Mediation", "Tribunal", "Appeal"],
   },
   {
+    type: "know-it",
     term: "Tribunal",
     year: 8,
     category: "Law & Society",
@@ -2299,6 +2502,7 @@ export const Y8_WORDS = [
     related: ["Mediation", "Arbitration", "Appeal"],
   },
   {
+    type: "know-it",
     term: "Human Rights",
     year: 8,
     category: "Law & Society",
@@ -2316,6 +2520,7 @@ export const Y8_WORDS = [
 
   // ── Design & Production (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Iteration",
     year: 8,
     category: "Design & Production",
@@ -2327,6 +2532,7 @@ export const Y8_WORDS = [
     related: ["User-centred Design", "Innovation", "Risk Assessment"],
   },
   {
+    type: "know-it",
     term: "User-centred Design",
     year: 8,
     category: "Design & Production",
@@ -2338,6 +2544,7 @@ export const Y8_WORDS = [
     related: ["Iteration", "Aesthetic", "Functional"],
   },
   {
+    type: "know-it",
     term: "Aesthetic",
     year: 8,
     category: "Design & Production",
@@ -2349,6 +2556,7 @@ export const Y8_WORDS = [
     related: ["Functional", "Finishing", "User-centred Design"],
   },
   {
+    type: "know-it",
     term: "Functional",
     year: 8,
     category: "Design & Production",
@@ -2360,6 +2568,7 @@ export const Y8_WORDS = [
     related: ["Aesthetic", "Properties of Materials", "Iteration"],
   },
   {
+    type: "know-it",
     term: "Innovation",
     year: 8,
     category: "Design & Production",
@@ -2371,6 +2580,7 @@ export const Y8_WORDS = [
     related: ["Iteration", "User-centred Design", "CAD"],
   },
   {
+    type: "know-it",
     term: "CAD",
     year: 8,
     category: "Design & Production",
@@ -2382,6 +2592,7 @@ export const Y8_WORDS = [
     related: ["3D Printing", "Laser Cutting", "Innovation"],
   },
   {
+    type: "know-it",
     term: "3D Printing",
     year: 8,
     category: "Design & Production",
@@ -2393,6 +2604,7 @@ export const Y8_WORDS = [
     related: ["CAD", "Laser Cutting", "Iteration"],
   },
   {
+    type: "know-it",
     term: "Laser Cutting",
     year: 8,
     category: "Design & Production",
@@ -2404,6 +2616,7 @@ export const Y8_WORDS = [
     related: ["CAD", "3D Printing", "Properties of Materials"],
   },
   {
+    type: "know-it",
     term: "Properties of Materials",
     year: 8,
     category: "Design & Production",
@@ -2415,6 +2628,7 @@ export const Y8_WORDS = [
     related: ["Functional", "Joining Technique", "Finishing"],
   },
   {
+    type: "know-it",
     term: "Joining Technique",
     year: 8,
     category: "Design & Production",
@@ -2426,6 +2640,7 @@ export const Y8_WORDS = [
     related: ["Properties of Materials", "Finishing", "Functional"],
   },
   {
+    type: "know-it",
     term: "Finishing",
     year: 8,
     category: "Design & Production",
@@ -2437,6 +2652,7 @@ export const Y8_WORDS = [
     related: ["Aesthetic", "Properties of Materials", "Joining Technique"],
   },
   {
+    type: "know-it",
     term: "Risk Assessment",
     year: 8,
     category: "Design & Production",
@@ -2450,6 +2666,7 @@ export const Y8_WORDS = [
 
   // ── Digital Technologies (12) ─────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Abstraction",
     year: 8,
     category: "Digital Technologies",
@@ -2461,6 +2678,7 @@ export const Y8_WORDS = [
     related: ["Decomposition", "Pattern Recognition", "Pseudocode"],
   },
   {
+    type: "know-it",
     term: "Decomposition",
     year: 8,
     category: "Digital Technologies",
@@ -2472,6 +2690,7 @@ export const Y8_WORDS = [
     related: ["Abstraction", "Pattern Recognition", "Pseudocode"],
   },
   {
+    type: "know-it",
     term: "Pattern Recognition",
     year: 8,
     category: "Digital Technologies",
@@ -2483,6 +2702,7 @@ export const Y8_WORDS = [
     related: ["Abstraction", "Decomposition", "Function"],
   },
   {
+    type: "know-it",
     term: "Pseudocode",
     year: 8,
     category: "Digital Technologies",
@@ -2494,6 +2714,7 @@ export const Y8_WORDS = [
     related: ["Flowchart", "Algorithm", "Function"],
   },
   {
+    type: "know-it",
     term: "Flowchart",
     year: 8,
     category: "Digital Technologies",
@@ -2505,6 +2726,7 @@ export const Y8_WORDS = [
     related: ["Pseudocode", "Decomposition", "Function"],
   },
   {
+    type: "know-it",
     term: "Array",
     year: 8,
     category: "Digital Technologies",
@@ -2516,6 +2738,7 @@ export const Y8_WORDS = [
     related: ["Function", "Database", "Pseudocode"],
   },
   {
+    type: "know-it",
     term: "Function",
     year: 8,
     category: "Digital Technologies",
@@ -2527,6 +2750,7 @@ export const Y8_WORDS = [
     related: ["Array", "Pseudocode", "Decomposition"],
   },
   {
+    type: "know-it",
     term: "Database",
     year: 8,
     category: "Digital Technologies",
@@ -2538,6 +2762,7 @@ export const Y8_WORDS = [
     related: ["Array", "Encryption", "Cloud Computing"],
   },
   {
+    type: "know-it",
     term: "Encryption",
     year: 8,
     category: "Digital Technologies",
@@ -2549,6 +2774,7 @@ export const Y8_WORDS = [
     related: ["Database", "Cloud Computing", "Intellectual Property"],
   },
   {
+    type: "know-it",
     term: "Cloud Computing",
     year: 8,
     category: "Digital Technologies",
@@ -2560,6 +2786,7 @@ export const Y8_WORDS = [
     related: ["Database", "Encryption", "HTML"],
   },
   {
+    type: "know-it",
     term: "HTML",
     year: 8,
     category: "Digital Technologies",
@@ -2571,6 +2798,7 @@ export const Y8_WORDS = [
     related: ["Cloud Computing", "Intellectual Property", "Flowchart"],
   },
   {
+    type: "know-it",
     term: "Intellectual Property",
     year: 8,
     category: "Digital Technologies",

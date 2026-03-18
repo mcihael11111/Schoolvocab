@@ -5,6 +5,7 @@ const MATHS_WORDS = [
 
   // ── Functions & Graphs (15) ───────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Function",
     year: 12,
     category: "Functions & Graphs",
@@ -16,6 +17,7 @@ const MATHS_WORDS = [
     related: ["Domain", "Range", "Vertical Line Test"],
   },
   {
+    type: "know-it",
     term: "Domain",
     year: 12,
     category: "Functions & Graphs",
@@ -27,6 +29,7 @@ const MATHS_WORDS = [
     related: ["Range", "Function", "Restriction"],
   },
   {
+    type: "know-it",
     term: "Range",
     year: 12,
     category: "Functions & Graphs",
@@ -38,6 +41,7 @@ const MATHS_WORDS = [
     related: ["Domain", "Function", "Codomain"],
   },
   {
+    type: "know-it",
     term: "Vertical Line Test",
     year: 12,
     category: "Functions & Graphs",
@@ -49,6 +53,7 @@ const MATHS_WORDS = [
     related: ["Function", "Relation", "Domain"],
   },
   {
+    type: "know-it",
     term: "Inverse Function",
     year: 12,
     category: "Functions & Graphs",
@@ -60,6 +65,7 @@ const MATHS_WORDS = [
     related: ["Function", "Logarithm", "Reflection y = x"],
   },
   {
+    type: "know-it",
     term: "Transformation",
     year: 12,
     category: "Functions & Graphs",
@@ -71,6 +77,7 @@ const MATHS_WORDS = [
     related: ["Translation", "Dilation", "Reflection"],
   },
   {
+    type: "know-it",
     term: "Asymptote",
     year: 12,
     category: "Functions & Graphs",
@@ -82,6 +89,7 @@ const MATHS_WORDS = [
     related: ["Hyperbola", "Rational Function", "Limit"],
   },
   {
+    type: "know-it",
     term: "Composite Function",
     year: 12,
     category: "Functions & Graphs",
@@ -93,6 +101,7 @@ const MATHS_WORDS = [
     related: ["Chain Rule", "Inverse Function", "Function"],
   },
   {
+    type: "know-it",
     term: "Polynomial",
     year: 12,
     category: "Functions & Graphs",
@@ -104,6 +113,7 @@ const MATHS_WORDS = [
     related: ["Degree", "Root", "Factor Theorem"],
   },
   {
+    type: "know-it",
     term: "Logarithm",
     year: 12,
     category: "Functions & Graphs",
@@ -115,6 +125,7 @@ const MATHS_WORDS = [
     related: ["Exponential Function", "Natural Logarithm", "Inverse Function"],
   },
   {
+    type: "know-it",
     term: "Exponential Function",
     year: 12,
     category: "Functions & Graphs",
@@ -126,6 +137,7 @@ const MATHS_WORDS = [
     related: ["Logarithm", "Natural Logarithm", "Growth and Decay"],
   },
   {
+    type: "know-it",
     term: "Odd and Even Functions",
     year: 12,
     category: "Functions & Graphs",
@@ -137,6 +149,7 @@ const MATHS_WORDS = [
     related: ["Symmetry", "Transformation", "Definite Integral"],
   },
   {
+    type: "know-it",
     term: "Absolute Value Function",
     year: 12,
     category: "Functions & Graphs",
@@ -148,6 +161,7 @@ const MATHS_WORDS = [
     related: ["Piecewise Function", "Inequality", "Modulus"],
   },
   {
+    type: "know-it",
     term: "Hyperbola",
     year: 12,
     category: "Functions & Graphs",
@@ -159,6 +173,7 @@ const MATHS_WORDS = [
     related: ["Asymptote", "Rational Function", "Transformation"],
   },
   {
+    type: "know-it",
     term: "Piecewise Function",
     year: 12,
     category: "Functions & Graphs",
@@ -172,6 +187,7 @@ const MATHS_WORDS = [
 
   // ── Calculus (15) ────────────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Derivative",
     year: 12,
     category: "Calculus",
@@ -183,6 +199,7 @@ const MATHS_WORDS = [
     related: ["Limit", "Differentiation Rules", "Gradient"],
   },
   {
+    type: "know-it",
     term: "First Principles",
     year: 12,
     category: "Calculus",
@@ -194,6 +211,7 @@ const MATHS_WORDS = [
     related: ["Derivative", "Limit", "Differentiation Rules"],
   },
   {
+    type: "know-it",
     term: "Chain Rule",
     year: 12,
     category: "Calculus",
@@ -205,6 +223,7 @@ const MATHS_WORDS = [
     related: ["Composite Function", "Product Rule", "Quotient Rule"],
   },
   {
+    type: "know-it",
     term: "Product Rule",
     year: 12,
     category: "Calculus",
@@ -216,6 +235,7 @@ const MATHS_WORDS = [
     related: ["Chain Rule", "Quotient Rule", "Derivative"],
   },
   {
+    type: "know-it",
     term: "Stationary Point",
     year: 12,
     category: "Calculus",
@@ -227,6 +247,7 @@ const MATHS_WORDS = [
     related: ["Derivative", "Second Derivative Test", "Optimisation"],
   },
   {
+    type: "know-it",
     term: "Second Derivative Test",
     year: 12,
     category: "Calculus",
@@ -238,6 +259,7 @@ const MATHS_WORDS = [
     related: ["Stationary Point", "Concavity", "Derivative"],
   },
   {
+    type: "know-it",
     term: "Indefinite Integral",
     year: 12,
     category: "Calculus",
@@ -249,6 +271,7 @@ const MATHS_WORDS = [
     related: ["Definite Integral", "Antiderivative", "Constant of Integration"],
   },
   {
+    type: "know-it",
     term: "Definite Integral",
     year: 12,
     category: "Calculus",
@@ -260,6 +283,7 @@ const MATHS_WORDS = [
     related: ["Indefinite Integral", "Area Under a Curve", "Fundamental Theorem of Calculus"],
   },
   {
+    type: "know-it",
     term: "Fundamental Theorem of Calculus",
     year: 12,
     category: "Calculus",
@@ -271,6 +295,7 @@ const MATHS_WORDS = [
     related: ["Definite Integral", "Antiderivative", "Derivative"],
   },
   {
+    type: "know-it",
     term: "Concavity",
     year: 12,
     category: "Calculus",
@@ -282,6 +307,7 @@ const MATHS_WORDS = [
     related: ["Second Derivative", "Point of Inflection", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Point of Inflection",
     year: 12,
     category: "Calculus",
@@ -293,6 +319,7 @@ const MATHS_WORDS = [
     related: ["Concavity", "Second Derivative", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Area Between Curves",
     year: 12,
     category: "Calculus",
@@ -304,6 +331,7 @@ const MATHS_WORDS = [
     related: ["Definite Integral", "Intersection", "Antiderivative"],
   },
   {
+    type: "know-it",
     term: "Optimisation",
     year: 12,
     category: "Calculus",
@@ -315,6 +343,7 @@ const MATHS_WORDS = [
     related: ["Stationary Point", "Second Derivative Test", "Derivative"],
   },
   {
+    type: "know-it",
     term: "Velocity and Acceleration",
     year: 12,
     category: "Calculus",
@@ -326,6 +355,7 @@ const MATHS_WORDS = [
     related: ["Derivative", "Kinematics", "Second Derivative"],
   },
   {
+    type: "know-it",
     term: "Integration by Substitution",
     year: 12,
     category: "Calculus",
@@ -339,6 +369,7 @@ const MATHS_WORDS = [
 
   // ── Probability & Statistics (15) ────────────────────────────────────────
   {
+    type: "know-it",
     term: "Random Variable",
     year: 12,
     category: "Probability & Statistics",
@@ -350,6 +381,7 @@ const MATHS_WORDS = [
     related: ["Probability Distribution", "Expected Value", "Variance"],
   },
   {
+    type: "know-it",
     term: "Probability Distribution",
     year: 12,
     category: "Probability & Statistics",
@@ -361,6 +393,7 @@ const MATHS_WORDS = [
     related: ["Random Variable", "Expected Value", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Expected Value",
     year: 12,
     category: "Probability & Statistics",
@@ -372,6 +405,7 @@ const MATHS_WORDS = [
     related: ["Probability Distribution", "Variance", "Random Variable"],
   },
   {
+    type: "know-it",
     term: "Variance",
     year: 12,
     category: "Probability & Statistics",
@@ -383,6 +417,7 @@ const MATHS_WORDS = [
     related: ["Standard Deviation", "Expected Value", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Normal Distribution",
     year: 12,
     category: "Probability & Statistics",
@@ -394,6 +429,7 @@ const MATHS_WORDS = [
     related: ["z-score", "Standard Deviation", "Empirical Rule"],
   },
   {
+    type: "know-it",
     term: "z-score",
     year: 12,
     category: "Probability & Statistics",
@@ -405,6 +441,7 @@ const MATHS_WORDS = [
     related: ["Normal Distribution", "Standard Deviation", "Hypothesis Testing"],
   },
   {
+    type: "know-it",
     term: "Binomial Distribution",
     year: 12,
     category: "Probability & Statistics",
@@ -416,6 +453,7 @@ const MATHS_WORDS = [
     related: ["Random Variable", "Expected Value", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Sample Mean",
     year: 12,
     category: "Probability & Statistics",
@@ -427,6 +465,7 @@ const MATHS_WORDS = [
     related: ["Population Mean", "Standard Error", "Confidence Interval"],
   },
   {
+    type: "know-it",
     term: "Correlation Coefficient",
     year: 12,
     category: "Probability & Statistics",
@@ -438,6 +477,7 @@ const MATHS_WORDS = [
     related: ["Regression", "Scatter Plot", "Covariance"],
   },
   {
+    type: "know-it",
     term: "Regression Line",
     year: 12,
     category: "Probability & Statistics",
@@ -449,6 +489,7 @@ const MATHS_WORDS = [
     related: ["Correlation Coefficient", "Residual", "Scatter Plot"],
   },
   {
+    type: "know-it",
     term: "Hypothesis Testing",
     year: 12,
     category: "Probability & Statistics",
@@ -460,6 +501,7 @@ const MATHS_WORDS = [
     related: ["p-value", "z-score", "Significance Level"],
   },
   {
+    type: "know-it",
     term: "Confidence Interval",
     year: 12,
     category: "Probability & Statistics",
@@ -471,6 +513,7 @@ const MATHS_WORDS = [
     related: ["Sample Mean", "Hypothesis Testing", "Standard Error"],
   },
   {
+    type: "know-it",
     term: "Conditional Probability",
     year: 12,
     category: "Probability & Statistics",
@@ -482,6 +525,7 @@ const MATHS_WORDS = [
     related: ["Independent Events", "Bayes' Theorem", "Tree Diagram"],
   },
   {
+    type: "know-it",
     term: "Standard Deviation",
     year: 12,
     category: "Probability & Statistics",
@@ -493,6 +537,7 @@ const MATHS_WORDS = [
     related: ["Variance", "Normal Distribution", "z-score"],
   },
   {
+    type: "know-it",
     term: "Permutations and Combinations",
     year: 12,
     category: "Probability & Statistics",
@@ -506,6 +551,7 @@ const MATHS_WORDS = [
 
   // ── Trigonometry (15) ────────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Radian",
     year: 12,
     category: "Trigonometry",
@@ -517,6 +563,7 @@ const MATHS_WORDS = [
     related: ["Arc Length", "Trigonometric Functions", "Unit Circle"],
   },
   {
+    type: "know-it",
     term: "Unit Circle",
     year: 12,
     category: "Trigonometry",
@@ -528,6 +575,7 @@ const MATHS_WORDS = [
     related: ["Radian", "Trigonometric Functions", "ASTC Rule"],
   },
   {
+    type: "know-it",
     term: "Sine Rule",
     year: 12,
     category: "Trigonometry",
@@ -539,6 +587,7 @@ const MATHS_WORDS = [
     related: ["Cosine Rule", "Area of Triangle", "Ambiguous Case"],
   },
   {
+    type: "know-it",
     term: "Cosine Rule",
     year: 12,
     category: "Trigonometry",
@@ -550,6 +599,7 @@ const MATHS_WORDS = [
     related: ["Sine Rule", "Pythagoras Theorem", "Area of Triangle"],
   },
   {
+    type: "know-it",
     term: "Trigonometric Identities",
     year: 12,
     category: "Trigonometry",
@@ -561,6 +611,7 @@ const MATHS_WORDS = [
     related: ["Pythagorean Identity", "Double Angle Formula", "Proof"],
   },
   {
+    type: "know-it",
     term: "Double Angle Formula",
     year: 12,
     category: "Trigonometry",
@@ -572,6 +623,7 @@ const MATHS_WORDS = [
     related: ["Trigonometric Identities", "Integration", "Proof"],
   },
   {
+    type: "know-it",
     term: "Periodic Function",
     year: 12,
     category: "Trigonometry",
@@ -583,6 +635,7 @@ const MATHS_WORDS = [
     related: ["Amplitude", "Frequency", "Trigonometric Functions"],
   },
   {
+    type: "know-it",
     term: "Amplitude",
     year: 12,
     category: "Trigonometry",
@@ -594,6 +647,7 @@ const MATHS_WORDS = [
     related: ["Periodic Function", "Phase Shift", "Trigonometric Functions"],
   },
   {
+    type: "know-it",
     term: "Phase Shift",
     year: 12,
     category: "Trigonometry",
@@ -605,6 +659,7 @@ const MATHS_WORDS = [
     related: ["Periodic Function", "Amplitude", "Transformation"],
   },
   {
+    type: "know-it",
     term: "Trigonometric Equations",
     year: 12,
     category: "Trigonometry",
@@ -616,6 +671,7 @@ const MATHS_WORDS = [
     related: ["ASTC Rule", "Unit Circle", "Exact Values"],
   },
   {
+    type: "know-it",
     term: "Inverse Trigonometric Functions",
     year: 12,
     category: "Trigonometry",
@@ -627,6 +683,7 @@ const MATHS_WORDS = [
     related: ["Inverse Function", "Trigonometric Equations", "Unit Circle"],
   },
   {
+    type: "know-it",
     term: "Arc Length and Sector Area",
     year: 12,
     category: "Trigonometry",
@@ -638,6 +695,7 @@ const MATHS_WORDS = [
     related: ["Radian", "Circle Mensuration", "Trigonometric Functions"],
   },
   {
+    type: "know-it",
     term: "ASTC Rule",
     year: 12,
     category: "Trigonometry",
@@ -649,6 +707,7 @@ const MATHS_WORDS = [
     related: ["Unit Circle", "Trigonometric Functions", "Reference Angle"],
   },
   {
+    type: "know-it",
     term: "Sum and Difference Formulas",
     year: 12,
     category: "Trigonometry",
@@ -660,6 +719,7 @@ const MATHS_WORDS = [
     related: ["Double Angle Formula", "Trigonometric Identities", "Exact Values"],
   },
   {
+    type: "know-it",
     term: "Trigonometric Modelling",
     year: 12,
     category: "Trigonometry",
@@ -673,6 +733,7 @@ const MATHS_WORDS = [
 
   // ── Proof & Vectors (15) ─────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Mathematical Induction",
     year: 12,
     category: "Proof & Vectors",
@@ -684,6 +745,7 @@ const MATHS_WORDS = [
     related: ["Proof", "Series and Sequences", "Divisibility"],
   },
   {
+    type: "know-it",
     term: "Direct Proof",
     year: 12,
     category: "Proof & Vectors",
@@ -695,6 +757,7 @@ const MATHS_WORDS = [
     related: ["Proof by Contradiction", "Mathematical Induction", "Converse"],
   },
   {
+    type: "know-it",
     term: "Proof by Contradiction",
     year: 12,
     category: "Proof & Vectors",
@@ -706,6 +769,7 @@ const MATHS_WORDS = [
     related: ["Direct Proof", "Negation", "Rational and Irrational Numbers"],
   },
   {
+    type: "know-it",
     term: "Counterexample",
     year: 12,
     category: "Proof & Vectors",
@@ -717,6 +781,7 @@ const MATHS_WORDS = [
     related: ["Universal Statement", "Proof by Contradiction", "Direct Proof"],
   },
   {
+    type: "know-it",
     term: "Vector",
     year: 12,
     category: "Proof & Vectors",
@@ -728,6 +793,7 @@ const MATHS_WORDS = [
     related: ["Scalar", "Magnitude", "Position Vector"],
   },
   {
+    type: "know-it",
     term: "Scalar",
     year: 12,
     category: "Proof & Vectors",
@@ -739,6 +805,7 @@ const MATHS_WORDS = [
     related: ["Vector", "Magnitude", "Dot Product"],
   },
   {
+    type: "know-it",
     term: "Dot Product",
     year: 12,
     category: "Proof & Vectors",
@@ -750,6 +817,7 @@ const MATHS_WORDS = [
     related: ["Vector", "Perpendicular Vectors", "Projection"],
   },
   {
+    type: "know-it",
     term: "Perpendicular Vectors",
     year: 12,
     category: "Proof & Vectors",
@@ -761,6 +829,7 @@ const MATHS_WORDS = [
     related: ["Dot Product", "Parallel Vectors", "Angle Between Vectors"],
   },
   {
+    type: "know-it",
     term: "Position Vector",
     year: 12,
     category: "Proof & Vectors",
@@ -772,6 +841,7 @@ const MATHS_WORDS = [
     related: ["Vector", "Displacement Vector", "Midpoint"],
   },
   {
+    type: "know-it",
     term: "Vector Equation of a Line",
     year: 12,
     category: "Proof & Vectors",
@@ -783,6 +853,7 @@ const MATHS_WORDS = [
     related: ["Parametric Equations", "Direction Vector", "Position Vector"],
   },
   {
+    type: "know-it",
     term: "Parametric Equations",
     year: 12,
     category: "Proof & Vectors",
@@ -794,6 +865,7 @@ const MATHS_WORDS = [
     related: ["Vector Equation of a Line", "Locus", "Cartesian Form"],
   },
   {
+    type: "know-it",
     term: "Proof of Inequality",
     year: 12,
     category: "Proof & Vectors",
@@ -805,6 +877,7 @@ const MATHS_WORDS = [
     related: ["AM-GM Inequality", "Direct Proof", "Algebraic Manipulation"],
   },
   {
+    type: "know-it",
     term: "Logical Connectives",
     year: 12,
     category: "Proof & Vectors",
@@ -816,6 +889,7 @@ const MATHS_WORDS = [
     related: ["Converse", "Contrapositive", "Proof"],
   },
   {
+    type: "know-it",
     term: "Contrapositive",
     year: 12,
     category: "Proof & Vectors",
@@ -827,6 +901,7 @@ const MATHS_WORDS = [
     related: ["Logical Connectives", "Proof by Contradiction", "Converse"],
   },
   {
+    type: "know-it",
     term: "Geometric Proof",
     year: 12,
     category: "Proof & Vectors",

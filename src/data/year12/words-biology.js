@@ -7,6 +7,7 @@ export const BIOLOGY_WORDS = [
   // ── HEREDITY (18 terms) ──────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Allele",
     year: 12,
     category: "Heredity",
@@ -18,6 +19,7 @@ export const BIOLOGY_WORDS = [
     related: ["Gene", "Genotype", "Dominant Trait", "Recessive Trait", "Punnett Square"],
   },
   {
+    type: "know-it",
     term: "Gene",
     year: 12,
     category: "Heredity",
@@ -29,6 +31,7 @@ export const BIOLOGY_WORDS = [
     related: ["Allele", "Genotype", "DNA Replication", "Mutation", "Gene Expression"],
   },
   {
+    type: "know-it",
     term: "Genotype",
     year: 12,
     category: "Heredity",
@@ -40,6 +43,7 @@ export const BIOLOGY_WORDS = [
     related: ["Phenotype", "Allele", "Homozygous", "Heterozygous", "Punnett Square"],
   },
   {
+    type: "know-it",
     term: "Phenotype",
     year: 12,
     category: "Heredity",
@@ -51,6 +55,7 @@ export const BIOLOGY_WORDS = [
     related: ["Genotype", "Allele", "Dominant Trait", "Polygenic Inheritance", "Gene Expression"],
   },
   {
+    type: "know-it",
     term: "Homozygous",
     year: 12,
     category: "Heredity",
@@ -62,6 +67,7 @@ export const BIOLOGY_WORDS = [
     related: ["Heterozygous", "Allele", "Genotype", "Dominant Trait", "Punnett Square"],
   },
   {
+    type: "know-it",
     term: "Heterozygous",
     year: 12,
     category: "Heredity",
@@ -73,6 +79,7 @@ export const BIOLOGY_WORDS = [
     related: ["Homozygous", "Allele", "Genotype", "Recessive Trait", "Pedigree Analysis"],
   },
   {
+    type: "know-it",
     term: "Dominant Trait",
     year: 12,
     category: "Heredity",
@@ -84,6 +91,7 @@ export const BIOLOGY_WORDS = [
     related: ["Recessive Trait", "Allele", "Homozygous", "Heterozygous", "Pedigree Analysis"],
   },
   {
+    type: "know-it",
     term: "Recessive Trait",
     year: 12,
     category: "Heredity",
@@ -95,6 +103,7 @@ export const BIOLOGY_WORDS = [
     related: ["Dominant Trait", "Allele", "Homozygous", "Pedigree Analysis", "Genetic Disorder"],
   },
   {
+    type: "know-it",
     term: "Codominance",
     year: 12,
     category: "Heredity",
@@ -106,6 +115,7 @@ export const BIOLOGY_WORDS = [
     related: ["Incomplete Dominance", "Allele", "Genotype", "Phenotype", "Polygenic Inheritance"],
   },
   {
+    type: "know-it",
     term: "Incomplete Dominance",
     year: 12,
     category: "Heredity",
@@ -117,6 +127,7 @@ export const BIOLOGY_WORDS = [
     related: ["Codominance", "Allele", "Genotype", "Phenotype", "Punnett Square"],
   },
   {
+    type: "know-it",
     term: "Punnett Square",
     year: 12,
     category: "Heredity",
@@ -128,6 +139,7 @@ export const BIOLOGY_WORDS = [
     related: ["Allele", "Genotype", "Phenotype", "Homozygous", "Heterozygous"],
   },
   {
+    type: "know-it",
     term: "Sex-linked Inheritance",
     year: 12,
     category: "Heredity",
@@ -139,6 +151,7 @@ export const BIOLOGY_WORDS = [
     related: ["Autosomal Inheritance", "Allele", "Pedigree Analysis", "Recessive Trait", "Karyotype"],
   },
   {
+    type: "know-it",
     term: "Autosomal Inheritance",
     year: 12,
     category: "Heredity",
@@ -150,6 +163,7 @@ export const BIOLOGY_WORDS = [
     related: ["Sex-linked Inheritance", "Dominant Trait", "Recessive Trait", "Pedigree Analysis", "Karyotype"],
   },
   {
+    type: "know-it",
     term: "Polygenic Inheritance",
     year: 12,
     category: "Heredity",
@@ -161,6 +175,7 @@ export const BIOLOGY_WORDS = [
     related: ["Phenotype", "Genotype", "Gene Expression", "Codominance", "Independent Assortment"],
   },
   {
+    type: "know-it",
     term: "Pedigree Analysis",
     year: 12,
     category: "Heredity",
@@ -172,6 +187,7 @@ export const BIOLOGY_WORDS = [
     related: ["Autosomal Inheritance", "Sex-linked Inheritance", "Dominant Trait", "Recessive Trait", "Genotype"],
   },
   {
+    type: "know-it",
     term: "Karyotype",
     year: 12,
     category: "Heredity",
@@ -183,6 +199,7 @@ export const BIOLOGY_WORDS = [
     related: ["Chromosomal Mutation", "Down Syndrome", "Sex-linked Inheritance", "Pedigree Analysis", "Genetic Disorder"],
   },
   {
+    type: "know-it",
     term: "Crossing Over",
     year: 12,
     category: "Heredity",
@@ -194,6 +211,7 @@ export const BIOLOGY_WORDS = [
     related: ["Independent Assortment", "Genetic Variation", "Meiosis", "Allele", "Gene"],
   },
   {
+    type: "know-it",
     term: "Independent Assortment",
     year: 12,
     category: "Heredity",
@@ -208,6 +226,7 @@ export const BIOLOGY_WORDS = [
   // ── GENETIC CHANGE (15 terms) ─────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Mutation",
     year: 12,
     category: "Genetic Change",
@@ -219,6 +238,7 @@ export const BIOLOGY_WORDS = [
     related: ["Point Mutation", "Chromosomal Mutation", "Mutagen", "Natural Selection", "Cancer"],
   },
   {
+    type: "know-it",
     term: "Point Mutation",
     year: 12,
     category: "Genetic Change",
@@ -230,6 +250,7 @@ export const BIOLOGY_WORDS = [
     related: ["Mutation", "Chromosomal Mutation", "Gene Expression", "Transcription", "Translation"],
   },
   {
+    type: "know-it",
     term: "Chromosomal Mutation",
     year: 12,
     category: "Genetic Change",
@@ -241,6 +262,7 @@ export const BIOLOGY_WORDS = [
     related: ["Mutation", "Point Mutation", "Karyotype", "Down Syndrome", "Genetic Disorder"],
   },
   {
+    type: "know-it",
     term: "Mutagen",
     year: 12,
     category: "Genetic Change",
@@ -252,6 +274,7 @@ export const BIOLOGY_WORDS = [
     related: ["Mutation", "Point Mutation", "Cancer", "Environmental Disease", "DNA Replication"],
   },
   {
+    type: "know-it",
     term: "DNA Replication",
     year: 12,
     category: "Genetic Change",
@@ -263,6 +286,7 @@ export const BIOLOGY_WORDS = [
     related: ["Mutation", "Transcription", "Gene Expression", "Point Mutation", "Gene"],
   },
   {
+    type: "know-it",
     term: "Transcription",
     year: 12,
     category: "Genetic Change",
@@ -274,6 +298,7 @@ export const BIOLOGY_WORDS = [
     related: ["Translation", "Gene Expression", "DNA Replication", "Point Mutation", "Epigenetics"],
   },
   {
+    type: "know-it",
     term: "Translation",
     year: 12,
     category: "Genetic Change",
@@ -285,6 +310,7 @@ export const BIOLOGY_WORDS = [
     related: ["Transcription", "Gene Expression", "Point Mutation", "DNA Replication", "Biotechnology"],
   },
   {
+    type: "know-it",
     term: "Gene Expression",
     year: 12,
     category: "Genetic Change",
@@ -296,6 +322,7 @@ export const BIOLOGY_WORDS = [
     related: ["Transcription", "Translation", "Epigenetics", "DNA Replication", "Phenotype"],
   },
   {
+    type: "know-it",
     term: "Epigenetics",
     year: 12,
     category: "Genetic Change",
@@ -307,6 +334,7 @@ export const BIOLOGY_WORDS = [
     related: ["Gene Expression", "Phenotype", "Mutation", "Environmental Disease", "Polygenic Inheritance"],
   },
   {
+    type: "know-it",
     term: "Biotechnology",
     year: 12,
     category: "Genetic Change",
@@ -318,6 +346,7 @@ export const BIOLOGY_WORDS = [
     related: ["Genetic Engineering", "CRISPR-Cas9", "PCR (Polymerase Chain Reaction)", "Cloning", "Translation"],
   },
   {
+    type: "know-it",
     term: "Genetic Engineering",
     year: 12,
     category: "Genetic Change",
@@ -329,6 +358,7 @@ export const BIOLOGY_WORDS = [
     related: ["CRISPR-Cas9", "Biotechnology", "Cloning", "Transcription", "Translation"],
   },
   {
+    type: "know-it",
     term: "CRISPR-Cas9",
     year: 12,
     category: "Genetic Change",
@@ -340,6 +370,7 @@ export const BIOLOGY_WORDS = [
     related: ["Genetic Engineering", "Mutation", "Biotechnology", "Gene Expression", "Cloning"],
   },
   {
+    type: "know-it",
     term: "PCR (Polymerase Chain Reaction)",
     year: 12,
     category: "Genetic Change",
@@ -351,6 +382,7 @@ export const BIOLOGY_WORDS = [
     related: ["Gel Electrophoresis", "Biotechnology", "DNA Replication", "Genetic Engineering", "Mutation"],
   },
   {
+    type: "know-it",
     term: "Gel Electrophoresis",
     year: 12,
     category: "Genetic Change",
@@ -362,6 +394,7 @@ export const BIOLOGY_WORDS = [
     related: ["PCR (Polymerase Chain Reaction)", "Biotechnology", "DNA Replication", "Cloning", "Genetic Engineering"],
   },
   {
+    type: "know-it",
     term: "Cloning",
     year: 12,
     category: "Genetic Change",
@@ -376,6 +409,7 @@ export const BIOLOGY_WORDS = [
   // ── INFECTIOUS DISEASE (16 terms) ────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Pathogen",
     year: 12,
     category: "Infectious Disease",
@@ -387,6 +421,7 @@ export const BIOLOGY_WORDS = [
     related: ["Bacteria", "Virus", "Immune Response", "Transmission", "Koch\'s Postulates"],
   },
   {
+    type: "know-it",
     term: "Bacteria",
     year: 12,
     category: "Infectious Disease",
@@ -398,6 +433,7 @@ export const BIOLOGY_WORDS = [
     related: ["Pathogen", "Virus", "Antibiotic Resistance", "Immune Response", "Koch\'s Postulates"],
   },
   {
+    type: "know-it",
     term: "Virus",
     year: 12,
     category: "Infectious Disease",
@@ -409,6 +445,7 @@ export const BIOLOGY_WORDS = [
     related: ["Pathogen", "Bacteria", "Immune Response", "Vaccination", "Transmission"],
   },
   {
+    type: "know-it",
     term: "Fungus",
     year: 12,
     category: "Infectious Disease",
@@ -420,6 +457,7 @@ export const BIOLOGY_WORDS = [
     related: ["Pathogen", "Parasite", "Immune Response", "Non-infectious Disease & Disorders", "Bacteria"],
   },
   {
+    type: "know-it",
     term: "Parasite",
     year: 12,
     category: "Infectious Disease",
@@ -431,6 +469,7 @@ export const BIOLOGY_WORDS = [
     related: ["Pathogen", "Transmission", "Immune Response", "Epidemiology", "Bacteria"],
   },
   {
+    type: "know-it",
     term: "Immune Response",
     year: 12,
     category: "Infectious Disease",
@@ -442,6 +481,7 @@ export const BIOLOGY_WORDS = [
     related: ["Antibody", "Antigen", "B Lymphocyte", "T Lymphocyte", "Vaccination"],
   },
   {
+    type: "know-it",
     term: "Antibody",
     year: 12,
     category: "Infectious Disease",
@@ -453,6 +493,7 @@ export const BIOLOGY_WORDS = [
     related: ["Antigen", "B Lymphocyte", "Immune Response", "Vaccination", "T Lymphocyte"],
   },
   {
+    type: "know-it",
     term: "Antigen",
     year: 12,
     category: "Infectious Disease",
@@ -464,6 +505,7 @@ export const BIOLOGY_WORDS = [
     related: ["Antibody", "Immune Response", "Vaccination", "B Lymphocyte", "Pathogen"],
   },
   {
+    type: "know-it",
     term: "B Lymphocyte",
     year: 12,
     category: "Infectious Disease",
@@ -475,6 +517,7 @@ export const BIOLOGY_WORDS = [
     related: ["T Lymphocyte", "Antibody", "Antigen", "Immune Response", "Vaccination"],
   },
   {
+    type: "know-it",
     term: "T Lymphocyte",
     year: 12,
     category: "Infectious Disease",
@@ -486,6 +529,7 @@ export const BIOLOGY_WORDS = [
     related: ["B Lymphocyte", "Immune Response", "Antibody", "Vaccination", "Antigen"],
   },
   {
+    type: "know-it",
     term: "Vaccination",
     year: 12,
     category: "Infectious Disease",
@@ -497,6 +541,7 @@ export const BIOLOGY_WORDS = [
     related: ["Immune Response", "Antibody", "B Lymphocyte", "Herd Immunity", "Antigen"],
   },
   {
+    type: "know-it",
     term: "Herd Immunity",
     year: 12,
     category: "Infectious Disease",
@@ -508,6 +553,7 @@ export const BIOLOGY_WORDS = [
     related: ["Vaccination", "Epidemiology", "Transmission", "Immune Response", "Pathogen"],
   },
   {
+    type: "know-it",
     term: "Koch's Postulates",
     year: 12,
     category: "Infectious Disease",
@@ -519,6 +565,7 @@ export const BIOLOGY_WORDS = [
     related: ["Pathogen", "Bacteria", "Epidemiology", "Transmission", "Immune Response"],
   },
   {
+    type: "know-it",
     term: "Transmission",
     year: 12,
     category: "Infectious Disease",
@@ -530,6 +577,7 @@ export const BIOLOGY_WORDS = [
     related: ["Pathogen", "Epidemiology", "Herd Immunity", "Vaccination", "Koch\'s Postulates"],
   },
   {
+    type: "know-it",
     term: "Antibiotic Resistance",
     year: 12,
     category: "Infectious Disease",
@@ -541,6 +589,7 @@ export const BIOLOGY_WORDS = [
     related: ["Bacteria", "Mutation", "Natural Selection", "Pathogen", "Transmission"],
   },
   {
+    type: "know-it",
     term: "Epidemiology",
     year: 12,
     category: "Infectious Disease",
@@ -555,6 +604,7 @@ export const BIOLOGY_WORDS = [
   // ── NON-INFECTIOUS DISEASE & DISORDERS (12 terms) ──────────────────────────
 
   {
+    type: "know-it",
     term: "Non-infectious Disease",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -566,6 +616,7 @@ export const BIOLOGY_WORDS = [
     related: ["Cancer", "Cardiovascular Disease", "Type 2 Diabetes", "Genetic Disorder", "Preventive Medicine"],
   },
   {
+    type: "know-it",
     term: "Cancer",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -577,6 +628,7 @@ export const BIOLOGY_WORDS = [
     related: ["Mutation", "Mutagen", "Non-infectious Disease", "Gene Expression", "Preventive Medicine"],
   },
   {
+    type: "know-it",
     term: "Genetic Disorder",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -588,6 +640,7 @@ export const BIOLOGY_WORDS = [
     related: ["Mutation", "Chromosomal Mutation", "Non-infectious Disease", "Pedigree Analysis", "Gene Therapy"],
   },
   {
+    type: "know-it",
     term: "Nutritional Disease",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -599,6 +652,7 @@ export const BIOLOGY_WORDS = [
     related: ["Non-infectious Disease", "Cardiovascular Disease", "Type 2 Diabetes", "Preventive Medicine", "Environmental Disease"],
   },
   {
+    type: "know-it",
     term: "Cardiovascular Disease",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -610,6 +664,7 @@ export const BIOLOGY_WORDS = [
     related: ["Non-infectious Disease", "Type 2 Diabetes", "Nutritional Disease", "Preventive Medicine", "Environmental Disease"],
   },
   {
+    type: "know-it",
     term: "Type 2 Diabetes",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -621,6 +676,7 @@ export const BIOLOGY_WORDS = [
     related: ["Non-infectious Disease", "Cardiovascular Disease", "Nutritional Disease", "Preventive Medicine", "Environmental Disease"],
   },
   {
+    type: "know-it",
     term: "Autoimmune Disease",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -632,6 +688,7 @@ export const BIOLOGY_WORDS = [
     related: ["Non-infectious Disease", "Immune Response", "T Lymphocyte", "Genetic Disorder", "Type 2 Diabetes"],
   },
   {
+    type: "know-it",
     term: "Cystic Fibrosis",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -643,6 +700,7 @@ export const BIOLOGY_WORDS = [
     related: ["Genetic Disorder", "Recessive Trait", "Mutation", "Gene Therapy", "Non-infectious Disease"],
   },
   {
+    type: "know-it",
     term: "Down Syndrome",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -654,6 +712,7 @@ export const BIOLOGY_WORDS = [
     related: ["Chromosomal Mutation", "Karyotype", "Genetic Disorder", "Non-infectious Disease", "Pedigree Analysis"],
   },
   {
+    type: "know-it",
     term: "Environmental Disease",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -665,6 +724,7 @@ export const BIOLOGY_WORDS = [
     related: ["Non-infectious Disease", "Mutagen", "Cancer", "Nutritional Disease", "Preventive Medicine"],
   },
   {
+    type: "know-it",
     term: "Preventive Medicine",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -676,6 +736,7 @@ export const BIOLOGY_WORDS = [
     related: ["Non-infectious Disease", "Cancer", "Cardiovascular Disease", "Type 2 Diabetes", "Vaccination"],
   },
   {
+    type: "know-it",
     term: "Gene Therapy",
     year: 12,
     category: "Non-infectious Disease & Disorders",
@@ -690,6 +751,7 @@ export const BIOLOGY_WORDS = [
   // ── EVOLUTION (16 terms) ──────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Natural Selection",
     year: 12,
     category: "Evolution",
@@ -701,6 +763,7 @@ export const BIOLOGY_WORDS = [
     related: ["Adaptation", "Genetic Variation", "Mutation", "Speciation", "Hardy-Weinberg Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Adaptation",
     year: 12,
     category: "Evolution",
@@ -712,6 +775,7 @@ export const BIOLOGY_WORDS = [
     related: ["Natural Selection", "Genetic Variation", "Speciation", "Convergent Evolution", "Comparative Anatomy"],
   },
   {
+    type: "know-it",
     term: "Genetic Variation",
     year: 12,
     category: "Evolution",
@@ -723,6 +787,7 @@ export const BIOLOGY_WORDS = [
     related: ["Natural Selection", "Mutation", "Crossing Over", "Independent Assortment", "Genetic Drift"],
   },
   {
+    type: "know-it",
     term: "Speciation",
     year: 12,
     category: "Evolution",
@@ -734,6 +799,7 @@ export const BIOLOGY_WORDS = [
     related: ["Allopatric Speciation", "Sympatric Speciation", "Reproductive Isolation", "Natural Selection", "Genetic Variation"],
   },
   {
+    type: "know-it",
     term: "Allopatric Speciation",
     year: 12,
     category: "Evolution",
@@ -745,6 +811,7 @@ export const BIOLOGY_WORDS = [
     related: ["Sympatric Speciation", "Speciation", "Reproductive Isolation", "Genetic Drift", "Biogeography"],
   },
   {
+    type: "know-it",
     term: "Sympatric Speciation",
     year: 12,
     category: "Evolution",
@@ -756,6 +823,7 @@ export const BIOLOGY_WORDS = [
     related: ["Allopatric Speciation", "Speciation", "Reproductive Isolation", "Genetic Variation", "Natural Selection"],
   },
   {
+    type: "know-it",
     term: "Reproductive Isolation",
     year: 12,
     category: "Evolution",
@@ -767,6 +835,7 @@ export const BIOLOGY_WORDS = [
     related: ["Speciation", "Allopatric Speciation", "Sympatric Speciation", "Gene Flow", "Natural Selection"],
   },
   {
+    type: "know-it",
     term: "Genetic Drift",
     year: 12,
     category: "Evolution",
@@ -778,6 +847,7 @@ export const BIOLOGY_WORDS = [
     related: ["Genetic Variation", "Natural Selection", "Speciation", "Gene Flow", "Hardy-Weinberg Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Gene Flow",
     year: 12,
     category: "Evolution",
@@ -789,6 +859,7 @@ export const BIOLOGY_WORDS = [
     related: ["Genetic Drift", "Genetic Variation", "Reproductive Isolation", "Speciation", "Natural Selection"],
   },
   {
+    type: "know-it",
     term: "Fossil Record",
     year: 12,
     category: "Evolution",
@@ -800,6 +871,7 @@ export const BIOLOGY_WORDS = [
     related: ["Biogeography", "Comparative Anatomy", "Molecular Homology", "Natural Selection", "Punctuated Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Biogeography",
     year: 12,
     category: "Evolution",
@@ -811,6 +883,7 @@ export const BIOLOGY_WORDS = [
     related: ["Fossil Record", "Allopatric Speciation", "Comparative Anatomy", "Molecular Homology", "Convergent Evolution"],
   },
   {
+    type: "know-it",
     term: "Comparative Anatomy",
     year: 12,
     category: "Evolution",
@@ -822,6 +895,7 @@ export const BIOLOGY_WORDS = [
     related: ["Fossil Record", "Biogeography", "Molecular Homology", "Convergent Evolution", "Adaptation"],
   },
   {
+    type: "know-it",
     term: "Molecular Homology",
     year: 12,
     category: "Evolution",
@@ -833,6 +907,7 @@ export const BIOLOGY_WORDS = [
     related: ["Comparative Anatomy", "Biogeography", "Fossil Record", "Natural Selection", "Genetic Variation"],
   },
   {
+    type: "know-it",
     term: "Hardy-Weinberg Equilibrium",
     year: 12,
     category: "Evolution",
@@ -844,6 +919,7 @@ export const BIOLOGY_WORDS = [
     related: ["Natural Selection", "Genetic Drift", "Gene Flow", "Genetic Variation", "Speciation"],
   },
   {
+    type: "know-it",
     term: "Punctuated Equilibrium",
     year: 12,
     category: "Evolution",
@@ -855,6 +931,7 @@ export const BIOLOGY_WORDS = [
     related: ["Fossil Record", "Natural Selection", "Genetic Variation", "Speciation", "Hardy-Weinberg Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Convergent Evolution",
     year: 12,
     category: "Evolution",

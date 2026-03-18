@@ -6,7 +6,7 @@ import { SEOHead } from "../ui/SEOHead.jsx";
 export function AboutPage({ onOpenLogin }) {
   return (
     <div style={{ background: "#fff", minHeight: "100vh" }}>
-      <SEOHead title="About" description="SchoolVocab helps students from Year 7 to Year 12 master the precise vocabulary teachers and examiners reward — across every subject." />
+      <SEOHead title="About" description="SchoolVocab helps students from Year 7 to Year 12 master key concepts teachers and examiners reward — across every subject." />
       <div style={{ maxWidth: 900, margin: "0 auto", padding: "40px 24px 96px" }}>
 
         {/* Back */}
@@ -22,7 +22,7 @@ export function AboutPage({ onOpenLogin }) {
           About SchoolVocab
         </p>
         <h1 style={{ fontSize: "clamp(36px, 6vw, 56px)", fontWeight: 700, letterSpacing: "-0.04em", lineHeight: 1.05, fontFamily: "'DM Serif Display', Georgia, serif", color: "#1A1A2E", marginBottom: 24 }}>
-          Master your school vocabulary<br/>
+          Master key concepts<br/>
           <span style={{ fontStyle: "italic", color: "#6366F1" }}>from Year 7 to Year 12.</span>
         </h1>
         <div style={{ fontSize: 18, color: "#475569", lineHeight: 1.75, marginBottom: 64, maxWidth: 620, display: "flex", flexDirection: "column", gap: 20 }}>

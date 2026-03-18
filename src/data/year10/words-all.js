@@ -10,6 +10,7 @@ const Y10_WORDS = [
 
   // ── Reading & Comprehension (12) ──────────────────────────────────────────
   {
+    type: "know-it",
     term: "Postmodernism",
     year: 10,
     category: "Reading & Comprehension",
@@ -21,6 +22,7 @@ const Y10_WORDS = [
     related: ["Metafiction", "Pastiche", "Parody"],
   },
   {
+    type: "know-it",
     term: "Appropriation",
     year: 10,
     category: "Reading & Comprehension",
@@ -32,6 +34,7 @@ const Y10_WORDS = [
     related: ["Cultural Context", "Postmodernism", "Pastiche"],
   },
   {
+    type: "know-it",
     term: "Pastiche",
     year: 10,
     category: "Reading & Comprehension",
@@ -43,6 +46,7 @@ const Y10_WORDS = [
     related: ["Parody", "Appropriation", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Parody",
     year: 10,
     category: "Reading & Comprehension",
@@ -54,6 +58,7 @@ const Y10_WORDS = [
     related: ["Pastiche", "Satire", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Polyphony",
     year: 10,
     category: "Reading & Comprehension",
@@ -65,6 +70,7 @@ const Y10_WORDS = [
     related: ["Unreliable Narrator", "Non-linear Narrative", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Unreliable Narrator",
     year: 10,
     category: "Reading & Comprehension",
@@ -76,6 +82,7 @@ const Y10_WORDS = [
     related: ["Polyphony", "Stream of Consciousness", "Metafiction"],
   },
   {
+    type: "know-it",
     term: "Stream of Consciousness",
     year: 10,
     category: "Reading & Comprehension",
@@ -87,6 +94,7 @@ const Y10_WORDS = [
     related: ["Non-linear Narrative", "Unreliable Narrator", "Polyphony"],
   },
   {
+    type: "know-it",
     term: "Non-linear Narrative",
     year: 10,
     category: "Reading & Comprehension",
@@ -98,6 +106,7 @@ const Y10_WORDS = [
     related: ["Stream of Consciousness", "In Medias Res", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Epistolary",
     year: 10,
     category: "Reading & Comprehension",
@@ -109,6 +118,7 @@ const Y10_WORDS = [
     related: ["Unreliable Narrator", "Polyphony", "Non-linear Narrative"],
   },
   {
+    type: "know-it",
     term: "Metafiction",
     year: 10,
     category: "Reading & Comprehension",
@@ -120,6 +130,7 @@ const Y10_WORDS = [
     related: ["Postmodernism", "Unreliable Narrator", "Parody"],
   },
   {
+    type: "know-it",
     term: "Palimpsest",
     year: 10,
     category: "Reading & Comprehension",
@@ -131,6 +142,7 @@ const Y10_WORDS = [
     related: ["Appropriation", "Cultural Context", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Cultural Context",
     year: 10,
     category: "Reading & Comprehension",
@@ -144,6 +156,7 @@ const Y10_WORDS = [
 
   // ── Writing & Composition (12) ────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Critical Essay",
     year: 10,
     category: "Writing & Composition",
@@ -155,6 +168,7 @@ const Y10_WORDS = [
     related: ["Evaluative Thesis", "Textual Evidence", "Close Analysis"],
   },
   {
+    type: "know-it",
     term: "Comparative Analysis",
     year: 10,
     category: "Writing & Composition",
@@ -166,6 +180,7 @@ const Y10_WORDS = [
     related: ["Critical Essay", "Evaluative Thesis", "Integrated Quotation"],
   },
   {
+    type: "know-it",
     term: "Integrated Quotation",
     year: 10,
     category: "Writing & Composition",
@@ -177,6 +192,7 @@ const Y10_WORDS = [
     related: ["Textual Evidence", "Close Analysis", "Critical Essay"],
   },
   {
+    type: "know-it",
     term: "Evaluative Thesis",
     year: 10,
     category: "Writing & Composition",
@@ -188,6 +204,7 @@ const Y10_WORDS = [
     related: ["Critical Essay", "Comparative Analysis", "Sustained Voice"],
   },
   {
+    type: "know-it",
     term: "Authorial Intent",
     year: 10,
     category: "Writing & Composition",
@@ -199,6 +216,7 @@ const Y10_WORDS = [
     related: ["Stylistic Choices", "Evaluative Thesis", "Close Analysis"],
   },
   {
+    type: "know-it",
     term: "Discursive Essay",
     year: 10,
     category: "Writing & Composition",
@@ -210,6 +228,7 @@ const Y10_WORDS = [
     related: ["Critical Essay", "Evaluative Thesis", "Reflective Writing"],
   },
   {
+    type: "know-it",
     term: "Speculative Writing",
     year: 10,
     category: "Writing & Composition",
@@ -221,6 +240,7 @@ const Y10_WORDS = [
     related: ["Sustained Voice", "Stylistic Choices", "Reflective Writing"],
   },
   {
+    type: "know-it",
     term: "Stylistic Choices",
     year: 10,
     category: "Writing & Composition",
@@ -232,6 +252,7 @@ const Y10_WORDS = [
     related: ["Authorial Intent", "Sustained Voice", "Close Analysis"],
   },
   {
+    type: "know-it",
     term: "Textual Evidence",
     year: 10,
     category: "Writing & Composition",
@@ -243,6 +264,7 @@ const Y10_WORDS = [
     related: ["Integrated Quotation", "Close Analysis", "Critical Essay"],
   },
   {
+    type: "know-it",
     term: "Close Analysis",
     year: 10,
     category: "Writing & Composition",
@@ -254,6 +276,7 @@ const Y10_WORDS = [
     related: ["Textual Evidence", "Integrated Quotation", "Stylistic Choices"],
   },
   {
+    type: "know-it",
     term: "Sustained Voice",
     year: 10,
     category: "Writing & Composition",
@@ -265,6 +288,7 @@ const Y10_WORDS = [
     related: ["Stylistic Choices", "Speculative Writing", "Reflective Writing"],
   },
   {
+    type: "know-it",
     term: "Reflective Writing",
     year: 10,
     category: "Writing & Composition",
@@ -278,6 +302,7 @@ const Y10_WORDS = [
 
   // ── Language Features (12) ────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Chiasmus",
     year: 10,
     category: "Language Features",
@@ -289,6 +314,7 @@ const Y10_WORDS = [
     related: ["Zeugma", "Apostrophe (literary)", "Peripeteia"],
   },
   {
+    type: "know-it",
     term: "Zeugma",
     year: 10,
     category: "Language Features",
@@ -300,6 +326,7 @@ const Y10_WORDS = [
     related: ["Chiasmus", "Enjambment", "Caesura"],
   },
   {
+    type: "know-it",
     term: "Enjambment",
     year: 10,
     category: "Language Features",
@@ -311,6 +338,7 @@ const Y10_WORDS = [
     related: ["Caesura", "Volta", "Chiasmus"],
   },
   {
+    type: "know-it",
     term: "Caesura",
     year: 10,
     category: "Language Features",
@@ -322,6 +350,7 @@ const Y10_WORDS = [
     related: ["Enjambment", "Volta", "Chiasmus"],
   },
   {
+    type: "know-it",
     term: "Volta",
     year: 10,
     category: "Language Features",
@@ -333,6 +362,7 @@ const Y10_WORDS = [
     related: ["Caesura", "Enjambment", "Denouement"],
   },
   {
+    type: "know-it",
     term: "Apostrophe (literary)",
     year: 10,
     category: "Language Features",
@@ -344,6 +374,7 @@ const Y10_WORDS = [
     related: ["Chiasmus", "Hamartia", "Peripeteia"],
   },
   {
+    type: "know-it",
     term: "Deus Ex Machina",
     year: 10,
     category: "Language Features",
@@ -355,6 +386,7 @@ const Y10_WORDS = [
     related: ["Denouement", "Peripeteia", "In Medias Res"],
   },
   {
+    type: "know-it",
     term: "In Medias Res",
     year: 10,
     category: "Language Features",
@@ -366,6 +398,7 @@ const Y10_WORDS = [
     related: ["Non-linear Narrative", "Denouement", "Deus Ex Machina"],
   },
   {
+    type: "know-it",
     term: "Peripeteia",
     year: 10,
     category: "Language Features",
@@ -377,6 +410,7 @@ const Y10_WORDS = [
     related: ["Hamartia", "Denouement", "Volta"],
   },
   {
+    type: "know-it",
     term: "Hamartia",
     year: 10,
     category: "Language Features",
@@ -388,6 +422,7 @@ const Y10_WORDS = [
     related: ["Peripeteia", "Denouement", "Apostrophe (literary)"],
   },
   {
+    type: "know-it",
     term: "Denouement",
     year: 10,
     category: "Language Features",
@@ -399,6 +434,7 @@ const Y10_WORDS = [
     related: ["Peripeteia", "Volta", "Deus Ex Machina"],
   },
   {
+    type: "know-it",
     term: "Bildungsroman",
     year: 10,
     category: "Language Features",
@@ -416,6 +452,7 @@ const Y10_WORDS = [
 
   // ── Number & Algebra (12) ─────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Quadratic Formula",
     year: 10,
     category: "Number & Algebra",
@@ -427,6 +464,7 @@ const Y10_WORDS = [
     related: ["Discriminant", "Parabola", "Axis of Symmetry"],
   },
   {
+    type: "know-it",
     term: "Discriminant",
     year: 10,
     category: "Number & Algebra",
@@ -438,6 +476,7 @@ const Y10_WORDS = [
     related: ["Quadratic Formula", "Parabola", "Axis of Symmetry"],
   },
   {
+    type: "know-it",
     term: "Parabola",
     year: 10,
     category: "Number & Algebra",
@@ -449,6 +488,7 @@ const Y10_WORDS = [
     related: ["Quadratic Formula", "Axis of Symmetry", "Discriminant"],
   },
   {
+    type: "know-it",
     term: "Axis of Symmetry",
     year: 10,
     category: "Number & Algebra",
@@ -460,6 +500,7 @@ const Y10_WORDS = [
     related: ["Parabola", "Quadratic Formula", "Discriminant"],
   },
   {
+    type: "know-it",
     term: "Exponential Growth",
     year: 10,
     category: "Number & Algebra",
@@ -471,6 +512,7 @@ const Y10_WORDS = [
     related: ["Logarithm", "Compound Interest Formula", "Geometric Sequence"],
   },
   {
+    type: "know-it",
     term: "Logarithm",
     year: 10,
     category: "Number & Algebra",
@@ -482,6 +524,7 @@ const Y10_WORDS = [
     related: ["Exponential Growth", "Compound Interest Formula", "Geometric Sequence"],
   },
   {
+    type: "know-it",
     term: "Compound Interest Formula",
     year: 10,
     category: "Number & Algebra",
@@ -493,6 +536,7 @@ const Y10_WORDS = [
     related: ["Exponential Growth", "Arithmetic Sequence", "Geometric Sequence"],
   },
   {
+    type: "know-it",
     term: "Arithmetic Sequence",
     year: 10,
     category: "Number & Algebra",
@@ -504,6 +548,7 @@ const Y10_WORDS = [
     related: ["Common Difference", "Geometric Sequence", "Recursive Formula"],
   },
   {
+    type: "know-it",
     term: "Geometric Sequence",
     year: 10,
     category: "Number & Algebra",
@@ -515,6 +560,7 @@ const Y10_WORDS = [
     related: ["Common Ratio", "Arithmetic Sequence", "Exponential Growth"],
   },
   {
+    type: "know-it",
     term: "Common Ratio",
     year: 10,
     category: "Number & Algebra",
@@ -526,6 +572,7 @@ const Y10_WORDS = [
     related: ["Geometric Sequence", "Common Difference", "Exponential Growth"],
   },
   {
+    type: "know-it",
     term: "Common Difference",
     year: 10,
     category: "Number & Algebra",
@@ -537,6 +584,7 @@ const Y10_WORDS = [
     related: ["Arithmetic Sequence", "Common Ratio", "Recursive Formula"],
   },
   {
+    type: "know-it",
     term: "Recursive Formula",
     year: 10,
     category: "Number & Algebra",
@@ -550,6 +598,7 @@ const Y10_WORDS = [
 
   // ── Measurement & Geometry (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Radian",
     year: 10,
     category: "Measurement & Geometry",
@@ -561,6 +610,7 @@ const Y10_WORDS = [
     related: ["Arc Length Formula", "Sector Area", "Circle Theorem"],
   },
   {
+    type: "know-it",
     term: "Arc Length Formula",
     year: 10,
     category: "Measurement & Geometry",
@@ -572,6 +622,7 @@ const Y10_WORDS = [
     related: ["Radian", "Sector Area", "Chord"],
   },
   {
+    type: "know-it",
     term: "Sector Area",
     year: 10,
     category: "Measurement & Geometry",
@@ -583,6 +634,7 @@ const Y10_WORDS = [
     related: ["Arc Length Formula", "Radian", "Circle Theorem"],
   },
   {
+    type: "know-it",
     term: "Three-Dimensional Coordinate",
     year: 10,
     category: "Measurement & Geometry",
@@ -594,6 +646,7 @@ const Y10_WORDS = [
     related: ["Transformation Matrix", "Dilation", "Locus"],
   },
   {
+    type: "know-it",
     term: "Proof by Congruence",
     year: 10,
     category: "Measurement & Geometry",
@@ -605,6 +658,7 @@ const Y10_WORDS = [
     related: ["Circle Theorem", "Tangent to Circle", "Locus"],
   },
   {
+    type: "know-it",
     term: "Circle Theorem",
     year: 10,
     category: "Measurement & Geometry",
@@ -616,6 +670,7 @@ const Y10_WORDS = [
     related: ["Tangent to Circle", "Chord", "Secant"],
   },
   {
+    type: "know-it",
     term: "Tangent to Circle",
     year: 10,
     category: "Measurement & Geometry",
@@ -627,6 +682,7 @@ const Y10_WORDS = [
     related: ["Circle Theorem", "Chord", "Secant"],
   },
   {
+    type: "know-it",
     term: "Chord",
     year: 10,
     category: "Measurement & Geometry",
@@ -638,6 +694,7 @@ const Y10_WORDS = [
     related: ["Tangent to Circle", "Secant", "Circle Theorem"],
   },
   {
+    type: "know-it",
     term: "Secant",
     year: 10,
     category: "Measurement & Geometry",
@@ -649,6 +706,7 @@ const Y10_WORDS = [
     related: ["Chord", "Tangent to Circle", "Circle Theorem"],
   },
   {
+    type: "know-it",
     term: "Locus",
     year: 10,
     category: "Measurement & Geometry",
@@ -660,6 +718,7 @@ const Y10_WORDS = [
     related: ["Proof by Congruence", "Three-Dimensional Coordinate", "Transformation Matrix"],
   },
   {
+    type: "know-it",
     term: "Transformation Matrix",
     year: 10,
     category: "Measurement & Geometry",
@@ -671,6 +730,7 @@ const Y10_WORDS = [
     related: ["Dilation", "Three-Dimensional Coordinate", "Locus"],
   },
   {
+    type: "know-it",
     term: "Dilation",
     year: 10,
     category: "Measurement & Geometry",
@@ -684,6 +744,7 @@ const Y10_WORDS = [
 
   // ── Statistics & Probability (12) ─────────────────────────────────────────
   {
+    type: "know-it",
     term: "Bivariate Data",
     year: 10,
     category: "Statistics & Probability",
@@ -695,6 +756,7 @@ const Y10_WORDS = [
     related: ["Line of Best Fit", "Correlation Coefficient", "Regression"],
   },
   {
+    type: "know-it",
     term: "Line of Best Fit",
     year: 10,
     category: "Statistics & Probability",
@@ -706,6 +768,7 @@ const Y10_WORDS = [
     related: ["Bivariate Data", "Correlation Coefficient", "Regression"],
   },
   {
+    type: "know-it",
     term: "Correlation Coefficient",
     year: 10,
     category: "Statistics & Probability",
@@ -717,6 +780,7 @@ const Y10_WORDS = [
     related: ["Bivariate Data", "Line of Best Fit", "Regression"],
   },
   {
+    type: "know-it",
     term: "Regression",
     year: 10,
     category: "Statistics & Probability",
@@ -728,6 +792,7 @@ const Y10_WORDS = [
     related: ["Line of Best Fit", "Correlation Coefficient", "Residual"],
   },
   {
+    type: "know-it",
     term: "Residual",
     year: 10,
     category: "Statistics & Probability",
@@ -739,6 +804,7 @@ const Y10_WORDS = [
     related: ["Regression", "Line of Best Fit", "Interpolation"],
   },
   {
+    type: "know-it",
     term: "Interpolation",
     year: 10,
     category: "Statistics & Probability",
@@ -750,6 +816,7 @@ const Y10_WORDS = [
     related: ["Extrapolation", "Regression", "Line of Best Fit"],
   },
   {
+    type: "know-it",
     term: "Extrapolation",
     year: 10,
     category: "Statistics & Probability",
@@ -761,6 +828,7 @@ const Y10_WORDS = [
     related: ["Interpolation", "Regression", "Line of Best Fit"],
   },
   {
+    type: "know-it",
     term: "Probability Distribution",
     year: 10,
     category: "Statistics & Probability",
@@ -772,6 +840,7 @@ const Y10_WORDS = [
     related: ["Expected Frequency", "z-Score", "Sampling Bias"],
   },
   {
+    type: "know-it",
     term: "Expected Frequency",
     year: 10,
     category: "Statistics & Probability",
@@ -783,6 +852,7 @@ const Y10_WORDS = [
     related: ["Probability Distribution", "Chi-Squared", "Sampling Bias"],
   },
   {
+    type: "know-it",
     term: "Chi-Squared",
     year: 10,
     category: "Statistics & Probability",
@@ -794,6 +864,7 @@ const Y10_WORDS = [
     related: ["Expected Frequency", "Probability Distribution", "Sampling Bias"],
   },
   {
+    type: "know-it",
     term: "z-Score",
     year: 10,
     category: "Statistics & Probability",
@@ -805,6 +876,7 @@ const Y10_WORDS = [
     related: ["Probability Distribution", "Sampling Bias", "Chi-Squared"],
   },
   {
+    type: "know-it",
     term: "Sampling Bias",
     year: 10,
     category: "Statistics & Probability",
@@ -822,6 +894,7 @@ const Y10_WORDS = [
 
   // ── Biological Sciences (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Allele",
     year: 10,
     category: "Biological Sciences",
@@ -833,6 +906,7 @@ const Y10_WORDS = [
     related: ["Genotype", "Phenotype", "Dominant"],
   },
   {
+    type: "know-it",
     term: "Genotype",
     year: 10,
     category: "Biological Sciences",
@@ -844,6 +918,7 @@ const Y10_WORDS = [
     related: ["Allele", "Phenotype", "Punnett Square"],
   },
   {
+    type: "know-it",
     term: "Phenotype",
     year: 10,
     category: "Biological Sciences",
@@ -855,6 +930,7 @@ const Y10_WORDS = [
     related: ["Genotype", "Allele", "Dominant"],
   },
   {
+    type: "know-it",
     term: "Dominant",
     year: 10,
     category: "Biological Sciences",
@@ -866,6 +942,7 @@ const Y10_WORDS = [
     related: ["Recessive", "Allele", "Phenotype"],
   },
   {
+    type: "know-it",
     term: "Recessive",
     year: 10,
     category: "Biological Sciences",
@@ -877,6 +954,7 @@ const Y10_WORDS = [
     related: ["Dominant", "Allele", "Punnett Square"],
   },
   {
+    type: "know-it",
     term: "Punnett Square",
     year: 10,
     category: "Biological Sciences",
@@ -888,6 +966,7 @@ const Y10_WORDS = [
     related: ["Genotype", "Phenotype", "Allele"],
   },
   {
+    type: "know-it",
     term: "Meiosis",
     year: 10,
     category: "Biological Sciences",
@@ -899,6 +978,7 @@ const Y10_WORDS = [
     related: ["Allele", "Mutation", "Natural Selection"],
   },
   {
+    type: "know-it",
     term: "Mutation",
     year: 10,
     category: "Biological Sciences",
@@ -910,6 +990,7 @@ const Y10_WORDS = [
     related: ["Meiosis", "Natural Selection", "Genetic Engineering"],
   },
   {
+    type: "know-it",
     term: "Natural Selection",
     year: 10,
     category: "Biological Sciences",
@@ -921,6 +1002,7 @@ const Y10_WORDS = [
     related: ["Evolution", "Mutation", "Speciation"],
   },
   {
+    type: "know-it",
     term: "Evolution",
     year: 10,
     category: "Biological Sciences",
@@ -932,6 +1014,7 @@ const Y10_WORDS = [
     related: ["Natural Selection", "Speciation", "Mutation"],
   },
   {
+    type: "know-it",
     term: "Speciation",
     year: 10,
     category: "Biological Sciences",
@@ -943,6 +1026,7 @@ const Y10_WORDS = [
     related: ["Evolution", "Natural Selection", "Mutation"],
   },
   {
+    type: "know-it",
     term: "Genetic Engineering",
     year: 10,
     category: "Biological Sciences",
@@ -956,6 +1040,7 @@ const Y10_WORDS = [
 
   // ── Chemical & Physical Sciences (12) ─────────────────────────────────────
   {
+    type: "know-it",
     term: "Mole",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -967,6 +1052,7 @@ const Y10_WORDS = [
     related: ["Avogadro's Number", "Stoichiometry", "Concentration"],
   },
   {
+    type: "know-it",
     term: "Avogadro's Number",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -978,6 +1064,7 @@ const Y10_WORDS = [
     related: ["Mole", "Stoichiometry", "Concentration"],
   },
   {
+    type: "know-it",
     term: "Stoichiometry",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -989,6 +1076,7 @@ const Y10_WORDS = [
     related: ["Mole", "Limiting Reagent", "Avogadro's Number"],
   },
   {
+    type: "know-it",
     term: "Limiting Reagent",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1000,6 +1088,7 @@ const Y10_WORDS = [
     related: ["Stoichiometry", "Mole", "Concentration"],
   },
   {
+    type: "know-it",
     term: "Concentration",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1011,6 +1100,7 @@ const Y10_WORDS = [
     related: ["Mole", "Titration", "pH"],
   },
   {
+    type: "know-it",
     term: "pH",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1022,6 +1112,7 @@ const Y10_WORDS = [
     related: ["Acid", "Base", "Neutralisation"],
   },
   {
+    type: "know-it",
     term: "Acid",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1033,6 +1124,7 @@ const Y10_WORDS = [
     related: ["Base", "pH", "Neutralisation"],
   },
   {
+    type: "know-it",
     term: "Base",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1044,6 +1136,7 @@ const Y10_WORDS = [
     related: ["Acid", "pH", "Neutralisation"],
   },
   {
+    type: "know-it",
     term: "Neutralisation",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1055,6 +1148,7 @@ const Y10_WORDS = [
     related: ["Acid", "Base", "Titration"],
   },
   {
+    type: "know-it",
     term: "Titration",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1066,6 +1160,7 @@ const Y10_WORDS = [
     related: ["Neutralisation", "Concentration", "Indicator"],
   },
   {
+    type: "know-it",
     term: "Indicator",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1077,6 +1172,7 @@ const Y10_WORDS = [
     related: ["Titration", "pH", "Neutralisation"],
   },
   {
+    type: "know-it",
     term: "Electrolysis",
     year: 10,
     category: "Chemical & Physical Sciences",
@@ -1090,6 +1186,7 @@ const Y10_WORDS = [
 
   // ── Earth & Space Sciences (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Big Bang Theory",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1101,6 +1198,7 @@ const Y10_WORDS = [
     related: ["Cosmic Microwave Background", "Red Shift", "Hubble's Law"],
   },
   {
+    type: "know-it",
     term: "Cosmic Microwave Background",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1112,6 +1210,7 @@ const Y10_WORDS = [
     related: ["Big Bang Theory", "Red Shift", "Hubble's Law"],
   },
   {
+    type: "know-it",
     term: "Red Shift",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1123,6 +1222,7 @@ const Y10_WORDS = [
     related: ["Hubble's Law", "Big Bang Theory", "Light Year"],
   },
   {
+    type: "know-it",
     term: "Hubble's Law",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1134,6 +1234,7 @@ const Y10_WORDS = [
     related: ["Red Shift", "Big Bang Theory", "Galaxy"],
   },
   {
+    type: "know-it",
     term: "Light Year",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1145,6 +1246,7 @@ const Y10_WORDS = [
     related: ["Galaxy", "Red Shift", "Hubble's Law"],
   },
   {
+    type: "know-it",
     term: "Galaxy",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1156,6 +1258,7 @@ const Y10_WORDS = [
     related: ["Nebula", "Light Year", "Stellar Evolution"],
   },
   {
+    type: "know-it",
     term: "Nebula",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1167,6 +1270,7 @@ const Y10_WORDS = [
     related: ["Stellar Evolution", "Galaxy", "Black Hole"],
   },
   {
+    type: "know-it",
     term: "Black Hole",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1178,6 +1282,7 @@ const Y10_WORDS = [
     related: ["Stellar Evolution", "Nebula", "Galaxy"],
   },
   {
+    type: "know-it",
     term: "Stellar Evolution",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1189,6 +1294,7 @@ const Y10_WORDS = [
     related: ["Hertzsprung-Russell Diagram", "Nebula", "Black Hole"],
   },
   {
+    type: "know-it",
     term: "Hertzsprung-Russell Diagram",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1200,6 +1306,7 @@ const Y10_WORDS = [
     related: ["Stellar Evolution", "Nebula", "Galaxy"],
   },
   {
+    type: "know-it",
     term: "Dark Matter",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1211,6 +1318,7 @@ const Y10_WORDS = [
     related: ["Galaxy", "Big Bang Theory", "Exoplanet"],
   },
   {
+    type: "know-it",
     term: "Exoplanet",
     year: 10,
     category: "Earth & Space Sciences",
@@ -1228,6 +1336,7 @@ const Y10_WORDS = [
 
   // ── Historical Knowledge (12) ─────────────────────────────────────────────
   {
+    type: "know-it",
     term: "World War II",
     year: 10,
     category: "Historical Knowledge",
@@ -1239,6 +1348,7 @@ const Y10_WORDS = [
     related: ["Holocaust", "Atomic Bomb", "Cold War"],
   },
   {
+    type: "know-it",
     term: "Holocaust",
     year: 10,
     category: "Historical Knowledge",
@@ -1250,6 +1360,7 @@ const Y10_WORDS = [
     related: ["World War II", "United Nations", "Civil Rights Movement"],
   },
   {
+    type: "know-it",
     term: "Atomic Bomb",
     year: 10,
     category: "Historical Knowledge",
@@ -1261,6 +1372,7 @@ const Y10_WORDS = [
     related: ["World War II", "Cold War", "United Nations"],
   },
   {
+    type: "know-it",
     term: "Cold War",
     year: 10,
     category: "Historical Knowledge",
@@ -1272,6 +1384,7 @@ const Y10_WORDS = [
     related: ["World War II", "Decolonisation", "Globalisation"],
   },
   {
+    type: "know-it",
     term: "Decolonisation",
     year: 10,
     category: "Historical Knowledge",
@@ -1283,6 +1396,7 @@ const Y10_WORDS = [
     related: ["Cold War", "Civil Rights Movement", "Apartheid"],
   },
   {
+    type: "know-it",
     term: "Civil Rights Movement",
     year: 10,
     category: "Historical Knowledge",
@@ -1294,6 +1408,7 @@ const Y10_WORDS = [
     related: ["Apartheid", "Decolonisation", "United Nations"],
   },
   {
+    type: "know-it",
     term: "Apartheid",
     year: 10,
     category: "Historical Knowledge",
@@ -1305,6 +1420,7 @@ const Y10_WORDS = [
     related: ["Civil Rights Movement", "Decolonisation", "United Nations"],
   },
   {
+    type: "know-it",
     term: "United Nations",
     year: 10,
     category: "Historical Knowledge",
@@ -1316,6 +1432,7 @@ const Y10_WORDS = [
     related: ["World War II", "Holocaust", "Globalisation"],
   },
   {
+    type: "know-it",
     term: "Globalisation",
     year: 10,
     category: "Historical Knowledge",
@@ -1327,6 +1444,7 @@ const Y10_WORDS = [
     related: ["Cold War", "Migration Wave", "Popular Culture"],
   },
   {
+    type: "know-it",
     term: "Terrorism",
     year: 10,
     category: "Historical Knowledge",
@@ -1338,6 +1456,7 @@ const Y10_WORDS = [
     related: ["Globalisation", "Cold War", "United Nations"],
   },
   {
+    type: "know-it",
     term: "Migration Wave",
     year: 10,
     category: "Historical Knowledge",
@@ -1349,6 +1468,7 @@ const Y10_WORDS = [
     related: ["Globalisation", "Decolonisation", "Popular Culture"],
   },
   {
+    type: "know-it",
     term: "Popular Culture",
     year: 10,
     category: "Historical Knowledge",
@@ -1362,6 +1482,7 @@ const Y10_WORDS = [
 
   // ── Historical Skills (12) ────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Historiographical Debate",
     year: 10,
     category: "Historical Skills",
@@ -1373,6 +1494,7 @@ const Y10_WORDS = [
     related: ["Historiography", "Moral Judgement", "Multi-causal Explanation"],
   },
   {
+    type: "know-it",
     term: "Moral Judgement",
     year: 10,
     category: "Historical Skills",
@@ -1384,6 +1506,7 @@ const Y10_WORDS = [
     related: ["Historical Empathy", "Historiographical Debate", "Contextualisation"],
   },
   {
+    type: "know-it",
     term: "Historical Empathy",
     year: 10,
     category: "Historical Skills",
@@ -1395,6 +1518,7 @@ const Y10_WORDS = [
     related: ["Moral Judgement", "Contextualisation", "Structured Argument"],
   },
   {
+    type: "know-it",
     term: "Structured Argument",
     year: 10,
     category: "Historical Skills",
@@ -1406,6 +1530,7 @@ const Y10_WORDS = [
     related: ["Thesis Statement", "Extended Response", "Source Evaluation"],
   },
   {
+    type: "know-it",
     term: "Extended Response",
     year: 10,
     category: "Historical Skills",
@@ -1417,6 +1542,7 @@ const Y10_WORDS = [
     related: ["Structured Argument", "Thesis Statement", "Source Evaluation"],
   },
   {
+    type: "know-it",
     term: "Source Evaluation",
     year: 10,
     category: "Historical Skills",
@@ -1428,6 +1554,7 @@ const Y10_WORDS = [
     related: ["Cross-referencing", "Contextualisation", "Structured Argument"],
   },
   {
+    type: "know-it",
     term: "Cross-referencing",
     year: 10,
     category: "Historical Skills",
@@ -1439,6 +1566,7 @@ const Y10_WORDS = [
     related: ["Source Evaluation", "Contextualisation", "Historical Causation"],
   },
   {
+    type: "know-it",
     term: "Contextualisation",
     year: 10,
     category: "Historical Skills",
@@ -1450,6 +1578,7 @@ const Y10_WORDS = [
     related: ["Cross-referencing", "Historical Empathy", "Source Evaluation"],
   },
   {
+    type: "know-it",
     term: "Historical Causation",
     year: 10,
     category: "Historical Skills",
@@ -1461,6 +1590,7 @@ const Y10_WORDS = [
     related: ["Multi-causal Explanation", "Contextualisation", "Structured Argument"],
   },
   {
+    type: "know-it",
     term: "Multi-causal Explanation",
     year: 10,
     category: "Historical Skills",
@@ -1472,6 +1602,7 @@ const Y10_WORDS = [
     related: ["Historical Causation", "Historiographical Debate", "Thesis Statement"],
   },
   {
+    type: "know-it",
     term: "Thesis Statement",
     year: 10,
     category: "Historical Skills",
@@ -1483,6 +1614,7 @@ const Y10_WORDS = [
     related: ["Structured Argument", "Extended Response", "Multi-causal Explanation"],
   },
   {
+    type: "know-it",
     term: "Historiography",
     year: 10,
     category: "Historical Skills",
@@ -1500,6 +1632,7 @@ const Y10_WORDS = [
 
   // ── Geographical Knowledge (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Environmental Worldview",
     year: 10,
     category: "Geographical Knowledge",
@@ -1511,6 +1644,7 @@ const Y10_WORDS = [
     related: ["Anthropocentrism", "Biocentrism", "Intergenerational Equity"],
   },
   {
+    type: "know-it",
     term: "Anthropocentrism",
     year: 10,
     category: "Geographical Knowledge",
@@ -1522,6 +1656,7 @@ const Y10_WORDS = [
     related: ["Biocentrism", "Environmental Worldview", "Carrying Capacity"],
   },
   {
+    type: "know-it",
     term: "Biocentrism",
     year: 10,
     category: "Geographical Knowledge",
@@ -1533,6 +1668,7 @@ const Y10_WORDS = [
     related: ["Anthropocentrism", "Environmental Worldview", "Biodiversity Hotspot"],
   },
   {
+    type: "know-it",
     term: "Carbon Footprint",
     year: 10,
     category: "Geographical Knowledge",
@@ -1544,6 +1680,7 @@ const Y10_WORDS = [
     related: ["Ecological Footprint", "Carbon Footprint", "Environmental Policy"],
   },
   {
+    type: "know-it",
     term: "Ecological Footprint",
     year: 10,
     category: "Geographical Knowledge",
@@ -1555,6 +1692,7 @@ const Y10_WORDS = [
     related: ["Carbon Footprint", "Carrying Capacity", "Intergenerational Equity"],
   },
   {
+    type: "know-it",
     term: "Carrying Capacity",
     year: 10,
     category: "Geographical Knowledge",
@@ -1566,6 +1704,7 @@ const Y10_WORDS = [
     related: ["Ecological Footprint", "Biodiversity Hotspot", "Precautionary Principle"],
   },
   {
+    type: "know-it",
     term: "Biodiversity Hotspot",
     year: 10,
     category: "Geographical Knowledge",
@@ -1577,6 +1716,7 @@ const Y10_WORDS = [
     related: ["Endangered Species", "Conservation", "Biocentrism"],
   },
   {
+    type: "know-it",
     term: "Endangered Species",
     year: 10,
     category: "Geographical Knowledge",
@@ -1588,6 +1728,7 @@ const Y10_WORDS = [
     related: ["Biodiversity Hotspot", "Conservation", "Environmental Policy"],
   },
   {
+    type: "know-it",
     term: "Conservation",
     year: 10,
     category: "Geographical Knowledge",
@@ -1599,6 +1740,7 @@ const Y10_WORDS = [
     related: ["Endangered Species", "Biodiversity Hotspot", "Environmental Policy"],
   },
   {
+    type: "know-it",
     term: "Environmental Policy",
     year: 10,
     category: "Geographical Knowledge",
@@ -1610,6 +1752,7 @@ const Y10_WORDS = [
     related: ["Conservation", "Intergenerational Equity", "Precautionary Principle"],
   },
   {
+    type: "know-it",
     term: "Intergenerational Equity",
     year: 10,
     category: "Geographical Knowledge",
@@ -1621,6 +1764,7 @@ const Y10_WORDS = [
     related: ["Precautionary Principle", "Environmental Worldview", "Ecological Footprint"],
   },
   {
+    type: "know-it",
     term: "Precautionary Principle",
     year: 10,
     category: "Geographical Knowledge",
@@ -1634,6 +1778,7 @@ const Y10_WORDS = [
 
   // ── Geographical Skills (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Multi-criteria Analysis",
     year: 10,
     category: "Geographical Skills",
@@ -1645,6 +1790,7 @@ const Y10_WORDS = [
     related: ["Cost-Benefit Analysis", "Stakeholder Analysis", "Policy Evaluation"],
   },
   {
+    type: "know-it",
     term: "Cost-Benefit Analysis",
     year: 10,
     category: "Geographical Skills",
@@ -1656,6 +1802,7 @@ const Y10_WORDS = [
     related: ["Multi-criteria Analysis", "Environmental Impact Assessment", "Policy Evaluation"],
   },
   {
+    type: "know-it",
     term: "Geographic Modelling",
     year: 10,
     category: "Geographical Skills",
@@ -1667,6 +1814,7 @@ const Y10_WORDS = [
     related: ["Scenario Planning", "Predictive Mapping", "Systems Diagram"],
   },
   {
+    type: "know-it",
     term: "Scenario Planning",
     year: 10,
     category: "Geographical Skills",
@@ -1678,6 +1826,7 @@ const Y10_WORDS = [
     related: ["Geographic Modelling", "Environmental Impact Assessment", "Adaptive Management"],
   },
   {
+    type: "know-it",
     term: "Environmental Impact Assessment",
     year: 10,
     category: "Geographical Skills",
@@ -1689,6 +1838,7 @@ const Y10_WORDS = [
     related: ["Cost-Benefit Analysis", "Stakeholder Analysis", "Policy Evaluation"],
   },
   {
+    type: "know-it",
     term: "Stakeholder Analysis",
     year: 10,
     category: "Geographical Skills",
@@ -1700,6 +1850,7 @@ const Y10_WORDS = [
     related: ["Multi-criteria Analysis", "Environmental Impact Assessment", "Evidence-based Argument"],
   },
   {
+    type: "know-it",
     term: "Policy Evaluation",
     year: 10,
     category: "Geographical Skills",
@@ -1711,6 +1862,7 @@ const Y10_WORDS = [
     related: ["Cost-Benefit Analysis", "Environmental Impact Assessment", "Evidence-based Argument"],
   },
   {
+    type: "know-it",
     term: "Evidence-based Argument",
     year: 10,
     category: "Geographical Skills",
@@ -1722,6 +1874,7 @@ const Y10_WORDS = [
     related: ["Stakeholder Analysis", "Policy Evaluation", "Multi-criteria Analysis"],
   },
   {
+    type: "know-it",
     term: "Spatial Technology",
     year: 10,
     category: "Geographical Skills",
@@ -1733,6 +1886,7 @@ const Y10_WORDS = [
     related: ["Predictive Mapping", "Geographic Modelling", "Systems Diagram"],
   },
   {
+    type: "know-it",
     term: "Predictive Mapping",
     year: 10,
     category: "Geographical Skills",
@@ -1744,6 +1898,7 @@ const Y10_WORDS = [
     related: ["Spatial Technology", "Geographic Modelling", "Scenario Planning"],
   },
   {
+    type: "know-it",
     term: "Systems Diagram",
     year: 10,
     category: "Geographical Skills",
@@ -1755,6 +1910,7 @@ const Y10_WORDS = [
     related: ["Geographic Modelling", "Spatial Technology", "Adaptive Management"],
   },
   {
+    type: "know-it",
     term: "Adaptive Management",
     year: 10,
     category: "Geographical Skills",
@@ -1772,6 +1928,7 @@ const Y10_WORDS = [
 
   // ── Health & Wellbeing (12) ───────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Determinant of Health",
     year: 10,
     category: "Health & Wellbeing",
@@ -1783,6 +1940,7 @@ const Y10_WORDS = [
     related: ["Health Promotion", "Protective Behaviour", "Intersectionality"],
   },
   {
+    type: "know-it",
     term: "Protective Behaviour",
     year: 10,
     category: "Health & Wellbeing",
@@ -1794,6 +1952,7 @@ const Y10_WORDS = [
     related: ["Bystander Intervention", "Harm Reduction", "Power Dynamic"],
   },
   {
+    type: "know-it",
     term: "Bystander Intervention",
     year: 10,
     category: "Health & Wellbeing",
@@ -1805,6 +1964,7 @@ const Y10_WORDS = [
     related: ["Protective Behaviour", "Power Dynamic", "Gender Equity"],
   },
   {
+    type: "know-it",
     term: "Power Dynamic",
     year: 10,
     category: "Health & Wellbeing",
@@ -1816,6 +1976,7 @@ const Y10_WORDS = [
     related: ["Gender Equity", "Intersectionality", "Bystander Intervention"],
   },
   {
+    type: "know-it",
     term: "Gender Equity",
     year: 10,
     category: "Health & Wellbeing",
@@ -1827,6 +1988,7 @@ const Y10_WORDS = [
     related: ["Power Dynamic", "Intersectionality", "Determinant of Health"],
   },
   {
+    type: "know-it",
     term: "Intersectionality",
     year: 10,
     category: "Health & Wellbeing",
@@ -1838,6 +2000,7 @@ const Y10_WORDS = [
     related: ["Determinant of Health", "Gender Equity", "Power Dynamic"],
   },
   {
+    type: "know-it",
     term: "Drug Interaction",
     year: 10,
     category: "Health & Wellbeing",
@@ -1849,6 +2012,7 @@ const Y10_WORDS = [
     related: ["Blood Alcohol Concentration", "Standard Drink", "Harm Reduction"],
   },
   {
+    type: "know-it",
     term: "Blood Alcohol Concentration",
     year: 10,
     category: "Health & Wellbeing",
@@ -1860,6 +2024,7 @@ const Y10_WORDS = [
     related: ["Standard Drink", "Harm Reduction", "Drug Interaction"],
   },
   {
+    type: "know-it",
     term: "Standard Drink",
     year: 10,
     category: "Health & Wellbeing",
@@ -1871,6 +2036,7 @@ const Y10_WORDS = [
     related: ["Blood Alcohol Concentration", "Harm Reduction", "Drug Interaction"],
   },
   {
+    type: "know-it",
     term: "Harm Reduction",
     year: 10,
     category: "Health & Wellbeing",
@@ -1882,6 +2048,7 @@ const Y10_WORDS = [
     related: ["Standard Drink", "Blood Alcohol Concentration", "Health Promotion"],
   },
   {
+    type: "know-it",
     term: "Sexual Health",
     year: 10,
     category: "Health & Wellbeing",
@@ -1893,6 +2060,7 @@ const Y10_WORDS = [
     related: ["Protective Behaviour", "Gender Equity", "Health Promotion"],
   },
   {
+    type: "know-it",
     term: "Health Promotion",
     year: 10,
     category: "Health & Wellbeing",
@@ -1906,6 +2074,7 @@ const Y10_WORDS = [
 
   // ── Movement & Physical Activity (12) ─────────────────────────────────────
   {
+    type: "know-it",
     term: "Motor Program",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1917,6 +2086,7 @@ const Y10_WORDS = [
     related: ["Fitts and Posner Model", "Autonomous Stage", "Transfer of Learning"],
   },
   {
+    type: "know-it",
     term: "Fitts and Posner Model",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1928,6 +2098,7 @@ const Y10_WORDS = [
     related: ["Motor Program", "Autonomous Stage", "Transfer of Learning"],
   },
   {
+    type: "know-it",
     term: "Autonomous Stage",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1939,6 +2110,7 @@ const Y10_WORDS = [
     related: ["Fitts and Posner Model", "Motor Program", "Tactical Awareness"],
   },
   {
+    type: "know-it",
     term: "Transfer of Learning",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1950,6 +2122,7 @@ const Y10_WORDS = [
     related: ["Motor Program", "Fitts and Posner Model", "Game Sense"],
   },
   {
+    type: "know-it",
     term: "Tactical Awareness",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1961,6 +2134,7 @@ const Y10_WORDS = [
     related: ["Game Sense", "Performance Analysis", "Autonomous Stage"],
   },
   {
+    type: "know-it",
     term: "Game Sense",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1972,6 +2146,7 @@ const Y10_WORDS = [
     related: ["Tactical Awareness", "Transfer of Learning", "Notational Analysis"],
   },
   {
+    type: "know-it",
     term: "Notational Analysis",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1983,6 +2158,7 @@ const Y10_WORDS = [
     related: ["Performance Analysis", "Tactical Awareness", "Game Sense"],
   },
   {
+    type: "know-it",
     term: "Performance Analysis",
     year: 10,
     category: "Movement & Physical Activity",
@@ -1994,6 +2170,7 @@ const Y10_WORDS = [
     related: ["Notational Analysis", "Tactical Awareness", "Recovery Strategy"],
   },
   {
+    type: "know-it",
     term: "Recovery Strategy",
     year: 10,
     category: "Movement & Physical Activity",
@@ -2005,6 +2182,7 @@ const Y10_WORDS = [
     related: ["Injury Prevention", "Performance Analysis", "Ergogenic Aid"],
   },
   {
+    type: "know-it",
     term: "Injury Prevention",
     year: 10,
     category: "Movement & Physical Activity",
@@ -2016,6 +2194,7 @@ const Y10_WORDS = [
     related: ["Recovery Strategy", "Ergogenic Aid", "Motor Program"],
   },
   {
+    type: "know-it",
     term: "Ergogenic Aid",
     year: 10,
     category: "Movement & Physical Activity",
@@ -2027,6 +2206,7 @@ const Y10_WORDS = [
     related: ["Doping", "Recovery Strategy", "Injury Prevention"],
   },
   {
+    type: "know-it",
     term: "Doping",
     year: 10,
     category: "Movement & Physical Activity",
@@ -2044,6 +2224,7 @@ const Y10_WORDS = [
 
   // ── Consumer & Financial Literacy (12) ────────────────────────────────────
   {
+    type: "know-it",
     term: "Stock Market",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2055,6 +2236,7 @@ const Y10_WORDS = [
     related: ["Portfolio", "Diversification", "Capital Gain"],
   },
   {
+    type: "know-it",
     term: "Portfolio",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2066,6 +2248,7 @@ const Y10_WORDS = [
     related: ["Diversification", "Stock Market", "Return on Investment"],
   },
   {
+    type: "know-it",
     term: "Diversification",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2077,6 +2260,7 @@ const Y10_WORDS = [
     related: ["Portfolio", "Stock Market", "Return on Investment"],
   },
   {
+    type: "know-it",
     term: "Capital Gain",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2088,6 +2272,7 @@ const Y10_WORDS = [
     related: ["Depreciation", "Asset", "Return on Investment"],
   },
   {
+    type: "know-it",
     term: "Depreciation",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2099,6 +2284,7 @@ const Y10_WORDS = [
     related: ["Capital Gain", "Asset", "Balance Sheet"],
   },
   {
+    type: "know-it",
     term: "Mortgage",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2110,6 +2296,7 @@ const Y10_WORDS = [
     related: ["Equity", "Liability", "Cash Flow"],
   },
   {
+    type: "know-it",
     term: "Equity",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2121,6 +2308,7 @@ const Y10_WORDS = [
     related: ["Mortgage", "Asset", "Liability"],
   },
   {
+    type: "know-it",
     term: "Liability",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2132,6 +2320,7 @@ const Y10_WORDS = [
     related: ["Asset", "Equity", "Balance Sheet"],
   },
   {
+    type: "know-it",
     term: "Asset",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2143,6 +2332,7 @@ const Y10_WORDS = [
     related: ["Liability", "Balance Sheet", "Equity"],
   },
   {
+    type: "know-it",
     term: "Balance Sheet",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2154,6 +2344,7 @@ const Y10_WORDS = [
     related: ["Asset", "Liability", "Cash Flow"],
   },
   {
+    type: "know-it",
     term: "Cash Flow",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2165,6 +2356,7 @@ const Y10_WORDS = [
     related: ["Balance Sheet", "Return on Investment", "Mortgage"],
   },
   {
+    type: "know-it",
     term: "Return on Investment",
     year: 10,
     category: "Consumer & Financial Literacy",
@@ -2178,6 +2370,7 @@ const Y10_WORDS = [
 
   // ── Law & Society (12) ────────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "International Law",
     year: 10,
     category: "Law & Society",
@@ -2189,6 +2382,7 @@ const Y10_WORDS = [
     related: ["Geneva Convention", "Sovereignty", "War Crime"],
   },
   {
+    type: "know-it",
     term: "Geneva Convention",
     year: 10,
     category: "Law & Society",
@@ -2200,6 +2394,7 @@ const Y10_WORDS = [
     related: ["International Law", "War Crime", "Sovereignty"],
   },
   {
+    type: "know-it",
     term: "War Crime",
     year: 10,
     category: "Law & Society",
@@ -2211,6 +2406,7 @@ const Y10_WORDS = [
     related: ["Geneva Convention", "International Law", "Sovereignty"],
   },
   {
+    type: "know-it",
     term: "Sovereignty",
     year: 10,
     category: "Law & Society",
@@ -2222,6 +2418,7 @@ const Y10_WORDS = [
     related: ["International Law", "Extradition", "Geneva Convention"],
   },
   {
+    type: "know-it",
     term: "Extradition",
     year: 10,
     category: "Law & Society",
@@ -2233,6 +2430,7 @@ const Y10_WORDS = [
     related: ["Sovereignty", "International Law", "Privacy Law"],
   },
   {
+    type: "know-it",
     term: "Intellectual Property",
     year: 10,
     category: "Law & Society",
@@ -2244,6 +2442,7 @@ const Y10_WORDS = [
     related: ["Patent", "Copyright", "Trade Mark"],
   },
   {
+    type: "know-it",
     term: "Patent",
     year: 10,
     category: "Law & Society",
@@ -2255,6 +2454,7 @@ const Y10_WORDS = [
     related: ["Intellectual Property", "Copyright", "Trade Mark"],
   },
   {
+    type: "know-it",
     term: "Copyright",
     year: 10,
     category: "Law & Society",
@@ -2266,6 +2466,7 @@ const Y10_WORDS = [
     related: ["Intellectual Property", "Patent", "Trade Mark"],
   },
   {
+    type: "know-it",
     term: "Trade Mark",
     year: 10,
     category: "Law & Society",
@@ -2277,6 +2478,7 @@ const Y10_WORDS = [
     related: ["Intellectual Property", "Patent", "Copyright"],
   },
   {
+    type: "know-it",
     term: "Defamation",
     year: 10,
     category: "Law & Society",
@@ -2288,6 +2490,7 @@ const Y10_WORDS = [
     related: ["Privacy Law", "Class Action", "Copyright"],
   },
   {
+    type: "know-it",
     term: "Privacy Law",
     year: 10,
     category: "Law & Society",
@@ -2299,6 +2502,7 @@ const Y10_WORDS = [
     related: ["Defamation", "Intellectual Property", "Class Action"],
   },
   {
+    type: "know-it",
     term: "Class Action",
     year: 10,
     category: "Law & Society",
@@ -2316,6 +2520,7 @@ const Y10_WORDS = [
 
   // ── Design & Production (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Design Thinking",
     year: 10,
     category: "Design & Production",
@@ -2327,6 +2532,7 @@ const Y10_WORDS = [
     related: ["Empathy Map", "User Persona", "Minimum Viable Product"],
   },
   {
+    type: "know-it",
     term: "Empathy Map",
     year: 10,
     category: "Design & Production",
@@ -2338,6 +2544,7 @@ const Y10_WORDS = [
     related: ["Design Thinking", "User Persona", "Human Factors"],
   },
   {
+    type: "know-it",
     term: "User Persona",
     year: 10,
     category: "Design & Production",
@@ -2349,6 +2556,7 @@ const Y10_WORDS = [
     related: ["Design Thinking", "Empathy Map", "Human Factors"],
   },
   {
+    type: "know-it",
     term: "Minimum Viable Product",
     year: 10,
     category: "Design & Production",
@@ -2360,6 +2568,7 @@ const Y10_WORDS = [
     related: ["A/B Testing", "Design Thinking", "User Persona"],
   },
   {
+    type: "know-it",
     term: "A/B Testing",
     year: 10,
     category: "Design & Production",
@@ -2371,6 +2580,7 @@ const Y10_WORDS = [
     related: ["Minimum Viable Product", "Design Thinking", "Human Factors"],
   },
   {
+    type: "know-it",
     term: "Human Factors",
     year: 10,
     category: "Design & Production",
@@ -2382,6 +2592,7 @@ const Y10_WORDS = [
     related: ["Universal Design", "Empathy Map", "User Persona"],
   },
   {
+    type: "know-it",
     term: "Universal Design",
     year: 10,
     category: "Design & Production",
@@ -2393,6 +2604,7 @@ const Y10_WORDS = [
     related: ["Human Factors", "Design Thinking", "Cradle to Cradle"],
   },
   {
+    type: "know-it",
     term: "Cradle to Cradle",
     year: 10,
     category: "Design & Production",
@@ -2404,6 +2616,7 @@ const Y10_WORDS = [
     related: ["Carbon Neutral", "Universal Design", "Smart Material"],
   },
   {
+    type: "know-it",
     term: "Carbon Neutral",
     year: 10,
     category: "Design & Production",
@@ -2415,6 +2628,7 @@ const Y10_WORDS = [
     related: ["Cradle to Cradle", "Smart Material", "Design Thinking"],
   },
   {
+    type: "know-it",
     term: "Smart Material",
     year: 10,
     category: "Design & Production",
@@ -2426,6 +2640,7 @@ const Y10_WORDS = [
     related: ["Nanotechnology", "Mechatronics", "Carbon Neutral"],
   },
   {
+    type: "know-it",
     term: "Nanotechnology",
     year: 10,
     category: "Design & Production",
@@ -2437,6 +2652,7 @@ const Y10_WORDS = [
     related: ["Smart Material", "Mechatronics", "Cradle to Cradle"],
   },
   {
+    type: "know-it",
     term: "Mechatronics",
     year: 10,
     category: "Design & Production",
@@ -2450,6 +2666,7 @@ const Y10_WORDS = [
 
   // ── Digital Technologies (12) ─────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Data Structure",
     year: 10,
     category: "Digital Technologies",
@@ -2461,6 +2678,7 @@ const Y10_WORDS = [
     related: ["Recursion", "Sorting Algorithm", "Complexity"],
   },
   {
+    type: "know-it",
     term: "Recursion",
     year: 10,
     category: "Digital Technologies",
@@ -2472,6 +2690,7 @@ const Y10_WORDS = [
     related: ["Data Structure", "Sorting Algorithm", "Complexity"],
   },
   {
+    type: "know-it",
     term: "Sorting Algorithm",
     year: 10,
     category: "Digital Technologies",
@@ -2483,6 +2702,7 @@ const Y10_WORDS = [
     related: ["Data Structure", "Complexity", "Recursion"],
   },
   {
+    type: "know-it",
     term: "Complexity",
     year: 10,
     category: "Digital Technologies",
@@ -2494,6 +2714,7 @@ const Y10_WORDS = [
     related: ["Sorting Algorithm", "Data Structure", "Recursion"],
   },
   {
+    type: "know-it",
     term: "Cybersecurity Framework",
     year: 10,
     category: "Digital Technologies",
@@ -2505,6 +2726,7 @@ const Y10_WORDS = [
     related: ["Penetration Testing", "Digital Ethics", "Algorithmic Bias"],
   },
   {
+    type: "know-it",
     term: "Penetration Testing",
     year: 10,
     category: "Digital Technologies",
@@ -2516,6 +2738,7 @@ const Y10_WORDS = [
     related: ["Cybersecurity Framework", "Digital Ethics", "Neural Network"],
   },
   {
+    type: "know-it",
     term: "Digital Ethics",
     year: 10,
     category: "Digital Technologies",
@@ -2527,6 +2750,7 @@ const Y10_WORDS = [
     related: ["Algorithmic Bias", "Cybersecurity Framework", "Natural Language Processing"],
   },
   {
+    type: "know-it",
     term: "Algorithmic Bias",
     year: 10,
     category: "Digital Technologies",
@@ -2538,6 +2762,7 @@ const Y10_WORDS = [
     related: ["Digital Ethics", "Neural Network", "Computer Vision"],
   },
   {
+    type: "know-it",
     term: "Neural Network",
     year: 10,
     category: "Digital Technologies",
@@ -2549,6 +2774,7 @@ const Y10_WORDS = [
     related: ["Computer Vision", "Natural Language Processing", "Algorithmic Bias"],
   },
   {
+    type: "know-it",
     term: "Computer Vision",
     year: 10,
     category: "Digital Technologies",
@@ -2560,6 +2786,7 @@ const Y10_WORDS = [
     related: ["Neural Network", "Natural Language Processing", "Algorithmic Bias"],
   },
   {
+    type: "know-it",
     term: "Natural Language Processing",
     year: 10,
     category: "Digital Technologies",
@@ -2571,6 +2798,7 @@ const Y10_WORDS = [
     related: ["Neural Network", "Computer Vision", "Digital Ethics"],
   },
   {
+    type: "know-it",
     term: "Quantum Computing",
     year: 10,
     category: "Digital Technologies",

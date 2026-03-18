@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from "react";
 import { ChevronLeft, ChevronRight, Inbox } from "lucide-react";
 import { Badge }        from "../ui/Badge.jsx";
+import { ConceptTypeBadge } from "../ui/ConceptTypeBadge.jsx";
 import { RelatedChip }  from "../ui/RelatedChip.jsx";
 import { CAT_MAP, findTermByName } from "../../utils/termLookup.js";
 import { useWindowSize } from "../../hooks/useWindowSize.js";
@@ -369,7 +370,10 @@ export function TermPanel({
                       </span>
                       <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.07em", textTransform: "uppercase", color: wordCat.accent }}>{word.category}</span>
                     </div>
-                    <Badge level={word.level}/>
+                    <div style={{ display: "flex", gap: 6, alignItems: "center" }}>
+                      <ConceptTypeBadge type={word.type} />
+                      <Badge level={word.level}/>
+                    </div>
                   </div>
                   <h2 style={{ fontSize: isMobile ? "clamp(22px,5vw,28px)" : "clamp(24px,4vw,32px)", fontWeight: 700, letterSpacing: "-0.04em", lineHeight: 1.1, color: "#1A1A2E", fontFamily: "'DM Serif Display', Georgia, serif", margin: 0 }}>
                     {word.term}
@@ -403,9 +407,36 @@ export function TermPanel({
                     style={{ flex: 1, overflowY: "auto", padding: `16px ${P}px 20px`, WebkitOverflowScrolling: "touch" }}
                   >
                     <section style={{ marginBottom: 16 }}>
-                      <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 10 }}>What it means</p>
-                      <p style={{ fontSize: 16, color: "#1A1A2E", lineHeight: 1.72, margin: 0 }}>{word.definition}</p>
+                      <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 10 }}>
+                        {word.type === "do-it" ? "How it works" : word.type === "think-about-it" ? "The question" : word.type === "apply-it" ? "The scenario" : "What it means"}
+                      </p>
+                      {word.type === "think-about-it" && word.prompt ? (
+                        <p style={{ fontSize: 16, color: "#1A1A2E", lineHeight: 1.72, margin: 0, fontStyle: "italic" }}>{word.prompt}</p>
+                      ) : (
+                        <p style={{ fontSize: 16, color: "#1A1A2E", lineHeight: 1.72, margin: 0 }}>{word.definition}</p>
+                      )}
                     </section>
+
+                    {/* Steps for do-it cards */}
+                    {word.type === "do-it" && word.steps?.length > 0 && (
+                      <section style={{ marginBottom: 16 }}>
+                        <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 10 }}>Steps</p>
+                        <ol style={{ margin: 0, paddingLeft: 20, display: "flex", flexDirection: "column", gap: 8 }}>
+                          {word.steps.map((step, i) => (
+                            <li key={i} style={{ fontSize: 15, color: "#1E293B", lineHeight: 1.65 }}>{step}</li>
+                          ))}
+                        </ol>
+                      </section>
+                    )}
+
+                    {/* Model response for think-about-it cards */}
+                    {word.type === "think-about-it" && word.modelResponse && (
+                      <section style={{ marginBottom: 16 }}>
+                        <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 10 }}>Model response</p>
+                        <p style={{ fontSize: 16, color: "#1E293B", lineHeight: 1.72, margin: 0 }}>{word.modelResponse}</p>
+                      </section>
+                    )}
+
                     <div style={{ height: 1, background: "#F1F5F9", marginBottom: 16 }}/>
                     <section style={{ marginBottom: 16 }}>
                       <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 10 }}>Why it matters</p>
@@ -437,7 +468,7 @@ export function TermPanel({
                     </section>
                     {word.related?.length > 0 && (
                       <section style={{ paddingBottom: "env(safe-area-inset-bottom, 8px)" }}>
-                        <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 12 }}>Related terms</p>
+                        <p style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: "#94A3B8", marginBottom: 12 }}>Connected concepts</p>
                         <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
                           {word.related.map(r => {
                             const linked = findTermByName(r);

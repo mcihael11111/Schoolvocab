@@ -7,6 +7,7 @@ export const Y11_MATHS = [
   // ── FUNCTIONS (15 terms) ───────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Function Notation",
     year: 11,
     category: "Functions",
@@ -18,6 +19,7 @@ export const Y11_MATHS = [
     related: ["Domain", "Range", "Vertical Line Test"],
   },
   {
+    type: "know-it",
     term: "Domain",
     year: 11,
     category: "Functions",
@@ -29,6 +31,7 @@ export const Y11_MATHS = [
     related: ["Range", "Function Notation", "Asymptote"],
   },
   {
+    type: "know-it",
     term: "Range",
     year: 11,
     category: "Functions",
@@ -40,6 +43,7 @@ export const Y11_MATHS = [
     related: ["Domain", "Function Notation", "Transformation"],
   },
   {
+    type: "know-it",
     term: "One-to-One",
     year: 11,
     category: "Functions",
@@ -51,6 +55,7 @@ export const Y11_MATHS = [
     related: ["Many-to-One", "Vertical Line Test", "Function Notation"],
   },
   {
+    type: "know-it",
     term: "Many-to-One",
     year: 11,
     category: "Functions",
@@ -62,6 +67,7 @@ export const Y11_MATHS = [
     related: ["One-to-One", "Vertical Line Test", "Quadratic Function"],
   },
   {
+    type: "know-it",
     term: "Vertical Line Test",
     year: 11,
     category: "Functions",
@@ -73,6 +79,7 @@ export const Y11_MATHS = [
     related: ["Function Notation", "One-to-One", "Domain"],
   },
   {
+    type: "know-it",
     term: "Piecewise Function",
     year: 11,
     category: "Functions",
@@ -84,6 +91,7 @@ export const Y11_MATHS = [
     related: ["Domain", "Absolute Value Function", "Transformation"],
   },
   {
+    type: "know-it",
     term: "Absolute Value Function",
     year: 11,
     category: "Functions",
@@ -95,6 +103,7 @@ export const Y11_MATHS = [
     related: ["Piecewise Function", "Transformation", "Translation"],
   },
   {
+    type: "know-it",
     term: "Quadratic Function",
     year: 11,
     category: "Functions",
@@ -106,6 +115,7 @@ export const Y11_MATHS = [
     related: ["Cubic Function", "Transformation", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Cubic Function",
     year: 11,
     category: "Functions",
@@ -117,6 +127,7 @@ export const Y11_MATHS = [
     related: ["Quadratic Function", "Point of Inflection", "Transformation"],
   },
   {
+    type: "know-it",
     term: "Transformation",
     year: 11,
     category: "Functions",
@@ -128,6 +139,7 @@ export const Y11_MATHS = [
     related: ["Reflection", "Translation", "Dilation"],
   },
   {
+    type: "know-it",
     term: "Reflection",
     year: 11,
     category: "Functions",
@@ -139,6 +151,7 @@ export const Y11_MATHS = [
     related: ["Transformation", "Translation", "Dilation"],
   },
   {
+    type: "know-it",
     term: "Translation",
     year: 11,
     category: "Functions",
@@ -150,6 +163,7 @@ export const Y11_MATHS = [
     related: ["Transformation", "Reflection", "Dilation"],
   },
   {
+    type: "know-it",
     term: "Dilation",
     year: 11,
     category: "Functions",
@@ -161,6 +175,7 @@ export const Y11_MATHS = [
     related: ["Transformation", "Amplitude", "Period"],
   },
   {
+    type: "know-it",
     term: "Asymptote",
     year: 11,
     category: "Functions",
@@ -175,6 +190,7 @@ export const Y11_MATHS = [
   // ── TRIGONOMETRIC FUNCTIONS (15 terms) ─────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Unit Circle",
     year: 11,
     category: "Trigonometric Functions",
@@ -186,6 +202,7 @@ export const Y11_MATHS = [
     related: ["Radian Measure", "Sine Function", "Exact Values"],
   },
   {
+    type: "know-it",
     term: "Radian Measure",
     year: 11,
     category: "Trigonometric Functions",
@@ -197,6 +214,7 @@ export const Y11_MATHS = [
     related: ["Unit Circle", "Arc Length", "Sector Area"],
   },
   {
+    type: "know-it",
     term: "Arc Length",
     year: 11,
     category: "Trigonometric Functions",
@@ -208,6 +226,7 @@ export const Y11_MATHS = [
     related: ["Radian Measure", "Sector Area", "Unit Circle"],
   },
   {
+    type: "know-it",
     term: "Sector Area",
     year: 11,
     category: "Trigonometric Functions",
@@ -219,6 +238,7 @@ export const Y11_MATHS = [
     related: ["Arc Length", "Radian Measure", "Unit Circle"],
   },
   {
+    type: "know-it",
     term: "Sine Function",
     year: 11,
     category: "Trigonometric Functions",
@@ -230,6 +250,7 @@ export const Y11_MATHS = [
     related: ["Cosine Function", "Amplitude", "Period"],
   },
   {
+    type: "know-it",
     term: "Cosine Function",
     year: 11,
     category: "Trigonometric Functions",
@@ -241,6 +262,7 @@ export const Y11_MATHS = [
     related: ["Sine Function", "Tangent Function", "Phase Shift"],
   },
   {
+    type: "know-it",
     term: "Tangent Function",
     year: 11,
     category: "Trigonometric Functions",
@@ -252,6 +274,7 @@ export const Y11_MATHS = [
     related: ["Sine Function", "Cosine Function", "Trigonometric Identity"],
   },
   {
+    type: "know-it",
     term: "Amplitude",
     year: 11,
     category: "Trigonometric Functions",
@@ -263,6 +286,7 @@ export const Y11_MATHS = [
     related: ["Period", "Phase Shift", "Sine Function"],
   },
   {
+    type: "know-it",
     term: "Period",
     year: 11,
     category: "Trigonometric Functions",
@@ -274,6 +298,7 @@ export const Y11_MATHS = [
     related: ["Amplitude", "Phase Shift", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Phase Shift",
     year: 11,
     category: "Trigonometric Functions",
@@ -285,6 +310,7 @@ export const Y11_MATHS = [
     related: ["Amplitude", "Period", "Translation"],
   },
   {
+    type: "know-it",
     term: "Trigonometric Identity",
     year: 11,
     category: "Trigonometric Functions",
@@ -296,6 +322,7 @@ export const Y11_MATHS = [
     related: ["Pythagorean Identity", "Sine Function", "Cosine Function"],
   },
   {
+    type: "know-it",
     term: "Pythagorean Identity",
     year: 11,
     category: "Trigonometric Functions",
@@ -307,6 +334,7 @@ export const Y11_MATHS = [
     related: ["Trigonometric Identity", "Unit Circle", "Exact Values"],
   },
   {
+    type: "know-it",
     term: "Exact Values",
     year: 11,
     category: "Trigonometric Functions",
@@ -318,6 +346,7 @@ export const Y11_MATHS = [
     related: ["Unit Circle", "Pythagorean Identity", "Trigonometric Equation"],
   },
   {
+    type: "know-it",
     term: "Inverse Trig",
     year: 11,
     category: "Trigonometric Functions",
@@ -329,6 +358,7 @@ export const Y11_MATHS = [
     related: ["Trigonometric Equation", "Unit Circle", "Exact Values"],
   },
   {
+    type: "know-it",
     term: "Trigonometric Equation",
     year: 11,
     category: "Trigonometric Functions",
@@ -343,6 +373,7 @@ export const Y11_MATHS = [
   // ── INTRODUCTION TO CALCULUS (15 terms) ────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Limit",
     year: 11,
     category: "Introduction to Calculus",
@@ -354,6 +385,7 @@ export const Y11_MATHS = [
     related: ["Continuity", "First Principles", "Derivative"],
   },
   {
+    type: "know-it",
     term: "Continuity",
     year: 11,
     category: "Introduction to Calculus",
@@ -365,6 +397,7 @@ export const Y11_MATHS = [
     related: ["Limit", "Asymptote", "First Principles"],
   },
   {
+    type: "know-it",
     term: "First Principles",
     year: 11,
     category: "Introduction to Calculus",
@@ -376,6 +409,7 @@ export const Y11_MATHS = [
     related: ["Limit", "Derivative", "Gradient Function"],
   },
   {
+    type: "know-it",
     term: "Derivative",
     year: 11,
     category: "Introduction to Calculus",
@@ -387,6 +421,7 @@ export const Y11_MATHS = [
     related: ["Gradient Function", "Power Rule", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Gradient Function",
     year: 11,
     category: "Introduction to Calculus",
@@ -398,6 +433,7 @@ export const Y11_MATHS = [
     related: ["Derivative", "Power Rule", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Power Rule",
     year: 11,
     category: "Introduction to Calculus",
@@ -409,6 +445,7 @@ export const Y11_MATHS = [
     related: ["Derivative", "Chain Rule", "Product Rule"],
   },
   {
+    type: "know-it",
     term: "Chain Rule",
     year: 11,
     category: "Introduction to Calculus",
@@ -420,6 +457,7 @@ export const Y11_MATHS = [
     related: ["Power Rule", "Product Rule", "Quotient Rule"],
   },
   {
+    type: "know-it",
     term: "Product Rule",
     year: 11,
     category: "Introduction to Calculus",
@@ -431,6 +469,7 @@ export const Y11_MATHS = [
     related: ["Quotient Rule", "Chain Rule", "Power Rule"],
   },
   {
+    type: "know-it",
     term: "Quotient Rule",
     year: 11,
     category: "Introduction to Calculus",
@@ -442,6 +481,7 @@ export const Y11_MATHS = [
     related: ["Product Rule", "Chain Rule", "Power Rule"],
   },
   {
+    type: "know-it",
     term: "Stationary Point",
     year: 11,
     category: "Introduction to Calculus",
@@ -453,6 +493,7 @@ export const Y11_MATHS = [
     related: ["Increasing/Decreasing", "Second Derivative", "Optimisation"],
   },
   {
+    type: "know-it",
     term: "Increasing/Decreasing",
     year: 11,
     category: "Introduction to Calculus",
@@ -464,6 +505,7 @@ export const Y11_MATHS = [
     related: ["Stationary Point", "Derivative", "Concavity"],
   },
   {
+    type: "know-it",
     term: "Concavity",
     year: 11,
     category: "Introduction to Calculus",
@@ -475,6 +517,7 @@ export const Y11_MATHS = [
     related: ["Second Derivative", "Point of Inflection", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Point of Inflection",
     year: 11,
     category: "Introduction to Calculus",
@@ -486,6 +529,7 @@ export const Y11_MATHS = [
     related: ["Concavity", "Second Derivative", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Second Derivative",
     year: 11,
     category: "Introduction to Calculus",
@@ -497,6 +541,7 @@ export const Y11_MATHS = [
     related: ["Concavity", "Point of Inflection", "Stationary Point"],
   },
   {
+    type: "know-it",
     term: "Optimisation",
     year: 11,
     category: "Introduction to Calculus",
@@ -511,6 +556,7 @@ export const Y11_MATHS = [
   // ── EXPONENTIALS & LOGARITHMS (15 terms) ───────────────────────────────────
 
   {
+    type: "know-it",
     term: "Exponential Function",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -522,6 +568,7 @@ export const Y11_MATHS = [
     related: ["Base", "Natural Base e", "Exponential Growth"],
   },
   {
+    type: "know-it",
     term: "Base",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -533,6 +580,7 @@ export const Y11_MATHS = [
     related: ["Exponential Function", "Logarithm", "Index Law"],
   },
   {
+    type: "know-it",
     term: "Index Law",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -544,6 +592,7 @@ export const Y11_MATHS = [
     related: ["Base", "Exponential Function", "Log Laws"],
   },
   {
+    type: "know-it",
     term: "Exponential Growth",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -555,6 +604,7 @@ export const Y11_MATHS = [
     related: ["Exponential Decay", "Compound Interest", "Continuous Growth"],
   },
   {
+    type: "know-it",
     term: "Exponential Decay",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -566,6 +616,7 @@ export const Y11_MATHS = [
     related: ["Exponential Growth", "Half-Life", "Exponential Function"],
   },
   {
+    type: "know-it",
     term: "Half-Life",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -577,6 +628,7 @@ export const Y11_MATHS = [
     related: ["Exponential Decay", "Logarithm", "Exponential Equation"],
   },
   {
+    type: "know-it",
     term: "Natural Base e",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -588,6 +640,7 @@ export const Y11_MATHS = [
     related: ["Logarithm", "Continuous Growth", "Exponential Function"],
   },
   {
+    type: "know-it",
     term: "Logarithm",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -599,6 +652,7 @@ export const Y11_MATHS = [
     related: ["Logarithmic Function", "Log Laws", "Exponential Function"],
   },
   {
+    type: "know-it",
     term: "Logarithmic Function",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -610,6 +664,7 @@ export const Y11_MATHS = [
     related: ["Logarithm", "Exponential Function", "Log Laws"],
   },
   {
+    type: "know-it",
     term: "Log Laws",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -621,6 +676,7 @@ export const Y11_MATHS = [
     related: ["Logarithm", "Index Law", "Change of Base"],
   },
   {
+    type: "know-it",
     term: "Change of Base",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -632,6 +688,7 @@ export const Y11_MATHS = [
     related: ["Log Laws", "Logarithm", "Natural Base e"],
   },
   {
+    type: "know-it",
     term: "Exponential Equation",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -643,6 +700,7 @@ export const Y11_MATHS = [
     related: ["Logarithmic Equation", "Log Laws", "Exponential Function"],
   },
   {
+    type: "know-it",
     term: "Logarithmic Equation",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -654,6 +712,7 @@ export const Y11_MATHS = [
     related: ["Exponential Equation", "Logarithm", "Log Laws"],
   },
   {
+    type: "know-it",
     term: "Compound Interest",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -665,6 +724,7 @@ export const Y11_MATHS = [
     related: ["Exponential Growth", "Continuous Growth", "Exponential Function"],
   },
   {
+    type: "know-it",
     term: "Continuous Growth",
     year: 11,
     category: "Exponentials & Logarithms",
@@ -679,6 +739,7 @@ export const Y11_MATHS = [
   // ── STATISTICAL ANALYSIS (15 terms) ────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Population",
     year: 11,
     category: "Statistical Analysis",
@@ -690,6 +751,7 @@ export const Y11_MATHS = [
     related: ["Sample", "Bias", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Sample",
     year: 11,
     category: "Statistical Analysis",
@@ -701,6 +763,7 @@ export const Y11_MATHS = [
     related: ["Population", "Bias", "Measures of Central Tendency"],
   },
   {
+    type: "know-it",
     term: "Bias",
     year: 11,
     category: "Statistical Analysis",
@@ -712,6 +775,7 @@ export const Y11_MATHS = [
     related: ["Sample", "Population", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Measures of Central Tendency",
     year: 11,
     category: "Statistical Analysis",
@@ -723,6 +787,7 @@ export const Y11_MATHS = [
     related: ["Measures of Spread", "Standard Deviation", "Five-Number Summary"],
   },
   {
+    type: "know-it",
     term: "Measures of Spread",
     year: 11,
     category: "Statistical Analysis",
@@ -734,6 +799,7 @@ export const Y11_MATHS = [
     related: ["Measures of Central Tendency", "Standard Deviation", "Variance"],
   },
   {
+    type: "know-it",
     term: "Five-Number Summary",
     year: 11,
     category: "Statistical Analysis",
@@ -745,6 +811,7 @@ export const Y11_MATHS = [
     related: ["Standard Deviation", "Measures of Spread", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Standard Deviation",
     year: 11,
     category: "Statistical Analysis",
@@ -756,6 +823,7 @@ export const Y11_MATHS = [
     related: ["Variance", "Normal Distribution", "Z-Score"],
   },
   {
+    type: "know-it",
     term: "Normal Distribution",
     year: 11,
     category: "Statistical Analysis",
@@ -767,6 +835,7 @@ export const Y11_MATHS = [
     related: ["Z-Score", "Standard Deviation", "Probability"],
   },
   {
+    type: "know-it",
     term: "Z-Score",
     year: 11,
     category: "Statistical Analysis",
@@ -778,6 +847,7 @@ export const Y11_MATHS = [
     related: ["Normal Distribution", "Standard Deviation", "Probability"],
   },
   {
+    type: "know-it",
     term: "Probability",
     year: 11,
     category: "Statistical Analysis",
@@ -789,6 +859,7 @@ export const Y11_MATHS = [
     related: ["Conditional Probability", "Independence", "Expected Value"],
   },
   {
+    type: "know-it",
     term: "Conditional Probability",
     year: 11,
     category: "Statistical Analysis",
@@ -800,6 +871,7 @@ export const Y11_MATHS = [
     related: ["Probability", "Independence", "Expected Value"],
   },
   {
+    type: "know-it",
     term: "Independence",
     year: 11,
     category: "Statistical Analysis",
@@ -811,6 +883,7 @@ export const Y11_MATHS = [
     related: ["Probability", "Conditional Probability", "Expected Value"],
   },
   {
+    type: "know-it",
     term: "Expected Value",
     year: 11,
     category: "Statistical Analysis",
@@ -822,6 +895,7 @@ export const Y11_MATHS = [
     related: ["Variance", "Probability", "Normal Distribution"],
   },
   {
+    type: "know-it",
     term: "Variance",
     year: 11,
     category: "Statistical Analysis",
@@ -833,6 +907,7 @@ export const Y11_MATHS = [
     related: ["Standard Deviation", "Expected Value", "Measures of Spread"],
   },
   {
+    type: "know-it",
     term: "Regression",
     year: 11,
     category: "Statistical Analysis",

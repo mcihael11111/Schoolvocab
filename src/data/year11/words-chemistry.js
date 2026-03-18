@@ -7,6 +7,7 @@ export const Y11_CHEMISTRY = [
   // ── PROPERTIES OF MATTER (15 terms) ────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Atomic Model",
     year: 11,
     category: "Properties of Matter",
@@ -18,6 +19,7 @@ export const Y11_CHEMISTRY = [
     related: ["Electron Shell", "Electron Configuration", "Emission Spectrum"],
   },
   {
+    type: "know-it",
     term: "Electron Shell",
     year: 11,
     category: "Properties of Matter",
@@ -29,6 +31,7 @@ export const Y11_CHEMISTRY = [
     related: ["Subshell", "Orbital", "Electron Configuration"],
   },
   {
+    type: "know-it",
     term: "Subshell",
     year: 11,
     category: "Properties of Matter",
@@ -40,6 +43,7 @@ export const Y11_CHEMISTRY = [
     related: ["Electron Shell", "Orbital", "Electron Configuration"],
   },
   {
+    type: "know-it",
     term: "Orbital",
     year: 11,
     category: "Properties of Matter",
@@ -51,6 +55,7 @@ export const Y11_CHEMISTRY = [
     related: ["Subshell", "Electron Shell", "Electron Configuration"],
   },
   {
+    type: "know-it",
     term: "Electron Configuration",
     year: 11,
     category: "Properties of Matter",
@@ -62,6 +67,7 @@ export const Y11_CHEMISTRY = [
     related: ["Electron Shell", "Subshell", "Periodic Trends"],
   },
   {
+    type: "know-it",
     term: "Periodic Trends",
     year: 11,
     category: "Properties of Matter",
@@ -73,6 +79,7 @@ export const Y11_CHEMISTRY = [
     related: ["Ionisation Energy", "Electronegativity", "Atomic Radius"],
   },
   {
+    type: "know-it",
     term: "Ionisation Energy",
     year: 11,
     category: "Properties of Matter",
@@ -84,6 +91,7 @@ export const Y11_CHEMISTRY = [
     related: ["Periodic Trends", "Electronegativity", "Atomic Radius"],
   },
   {
+    type: "know-it",
     term: "Electronegativity",
     year: 11,
     category: "Properties of Matter",
@@ -95,6 +103,7 @@ export const Y11_CHEMISTRY = [
     related: ["Periodic Trends", "Ionisation Energy", "Atomic Radius"],
   },
   {
+    type: "know-it",
     term: "Atomic Radius",
     year: 11,
     category: "Properties of Matter",
@@ -106,6 +115,7 @@ export const Y11_CHEMISTRY = [
     related: ["Ionic Radius", "Periodic Trends", "Ionisation Energy"],
   },
   {
+    type: "know-it",
     term: "Ionic Radius",
     year: 11,
     category: "Properties of Matter",
@@ -117,6 +127,7 @@ export const Y11_CHEMISTRY = [
     related: ["Atomic Radius", "Periodic Trends", "Electron Configuration"],
   },
   {
+    type: "know-it",
     term: "Metallic Character",
     year: 11,
     category: "Properties of Matter",
@@ -128,6 +139,7 @@ export const Y11_CHEMISTRY = [
     related: ["Periodic Trends", "Ionisation Energy", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "Allotropy",
     year: 11,
     category: "Properties of Matter",
@@ -139,6 +151,7 @@ export const Y11_CHEMISTRY = [
     related: ["Atomic Model", "Electron Configuration", "Periodic Trends"],
   },
   {
+    type: "know-it",
     term: "Isotope",
     year: 11,
     category: "Properties of Matter",
@@ -150,6 +163,7 @@ export const Y11_CHEMISTRY = [
     related: ["Mass Spectrometry", "Atomic Model", "Electron Configuration"],
   },
   {
+    type: "know-it",
     term: "Mass Spectrometry",
     year: 11,
     category: "Properties of Matter",
@@ -161,6 +175,7 @@ export const Y11_CHEMISTRY = [
     related: ["Isotope", "Emission Spectrum", "Atomic Model"],
   },
   {
+    type: "know-it",
     term: "Emission Spectrum",
     year: 11,
     category: "Properties of Matter",
@@ -175,6 +190,7 @@ export const Y11_CHEMISTRY = [
   // ── QUANTITATIVE CHEMISTRY (15 terms) ──────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Mole",
     year: 11,
     category: "Quantitative Chemistry",
@@ -186,6 +202,7 @@ export const Y11_CHEMISTRY = [
     related: ["Avogadro's Constant", "Molar Mass", "Stoichiometry"],
   },
   {
+    type: "know-it",
     term: "Avogadro's Constant",
     year: 11,
     category: "Quantitative Chemistry",
@@ -197,6 +214,7 @@ export const Y11_CHEMISTRY = [
     related: ["Mole", "Molar Mass", "Stoichiometry"],
   },
   {
+    type: "know-it",
     term: "Molar Mass",
     year: 11,
     category: "Quantitative Chemistry",
@@ -208,6 +226,7 @@ export const Y11_CHEMISTRY = [
     related: ["Mole", "Avogadro's Constant", "Empirical Formula"],
   },
   {
+    type: "know-it",
     term: "Empirical Formula",
     year: 11,
     category: "Quantitative Chemistry",
@@ -219,6 +238,7 @@ export const Y11_CHEMISTRY = [
     related: ["Molecular Formula", "Molar Mass", "Mole"],
   },
   {
+    type: "know-it",
     term: "Molecular Formula",
     year: 11,
     category: "Quantitative Chemistry",
@@ -230,6 +250,7 @@ export const Y11_CHEMISTRY = [
     related: ["Empirical Formula", "Molar Mass", "Stoichiometry"],
   },
   {
+    type: "know-it",
     term: "Limiting Reagent",
     year: 11,
     category: "Quantitative Chemistry",
@@ -241,6 +262,7 @@ export const Y11_CHEMISTRY = [
     related: ["Excess Reagent", "Stoichiometry", "Percentage Yield"],
   },
   {
+    type: "know-it",
     term: "Excess Reagent",
     year: 11,
     category: "Quantitative Chemistry",
@@ -252,6 +274,7 @@ export const Y11_CHEMISTRY = [
     related: ["Limiting Reagent", "Stoichiometry", "Percentage Yield"],
   },
   {
+    type: "know-it",
     term: "Percentage Yield",
     year: 11,
     category: "Quantitative Chemistry",
@@ -263,6 +286,7 @@ export const Y11_CHEMISTRY = [
     related: ["Limiting Reagent", "Stoichiometry", "Concentration"],
   },
   {
+    type: "know-it",
     term: "Concentration",
     year: 11,
     category: "Quantitative Chemistry",
@@ -274,6 +298,7 @@ export const Y11_CHEMISTRY = [
     related: ["Dilution", "Molarity", "Volumetric Analysis"],
   },
   {
+    type: "know-it",
     term: "Dilution",
     year: 11,
     category: "Quantitative Chemistry",
@@ -285,6 +310,7 @@ export const Y11_CHEMISTRY = [
     related: ["Concentration", "Molarity", "Volumetric Analysis"],
   },
   {
+    type: "know-it",
     term: "Molarity",
     year: 11,
     category: "Quantitative Chemistry",
@@ -296,6 +322,7 @@ export const Y11_CHEMISTRY = [
     related: ["Concentration", "Mole", "Dilution"],
   },
   {
+    type: "know-it",
     term: "Gas Laws",
     year: 11,
     category: "Quantitative Chemistry",
@@ -307,6 +334,7 @@ export const Y11_CHEMISTRY = [
     related: ["Ideal Gas Equation", "Mole", "Stoichiometry"],
   },
   {
+    type: "know-it",
     term: "Ideal Gas Equation",
     year: 11,
     category: "Quantitative Chemistry",
@@ -318,6 +346,7 @@ export const Y11_CHEMISTRY = [
     related: ["Gas Laws", "Mole", "Stoichiometry"],
   },
   {
+    type: "know-it",
     term: "Stoichiometry",
     year: 11,
     category: "Quantitative Chemistry",
@@ -329,6 +358,7 @@ export const Y11_CHEMISTRY = [
     related: ["Mole", "Limiting Reagent", "Percentage Yield"],
   },
   {
+    type: "know-it",
     term: "Volumetric Analysis",
     year: 11,
     category: "Quantitative Chemistry",
@@ -343,6 +373,7 @@ export const Y11_CHEMISTRY = [
   // ── REACTIVE CHEMISTRY (15 terms) ──────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Types of Reactions",
     year: 11,
     category: "Reactive Chemistry",
@@ -354,6 +385,7 @@ export const Y11_CHEMISTRY = [
     related: ["Oxidation", "Reduction", "Redox Equation"],
   },
   {
+    type: "know-it",
     term: "Oxidation",
     year: 11,
     category: "Reactive Chemistry",
@@ -365,6 +397,7 @@ export const Y11_CHEMISTRY = [
     related: ["Reduction", "Oxidising Agent", "Half-Equation"],
   },
   {
+    type: "know-it",
     term: "Reduction",
     year: 11,
     category: "Reactive Chemistry",
@@ -376,6 +409,7 @@ export const Y11_CHEMISTRY = [
     related: ["Oxidation", "Reducing Agent", "Half-Equation"],
   },
   {
+    type: "know-it",
     term: "Oxidising Agent",
     year: 11,
     category: "Reactive Chemistry",
@@ -387,6 +421,7 @@ export const Y11_CHEMISTRY = [
     related: ["Reducing Agent", "Oxidation", "Activity Series"],
   },
   {
+    type: "know-it",
     term: "Reducing Agent",
     year: 11,
     category: "Reactive Chemistry",
@@ -398,6 +433,7 @@ export const Y11_CHEMISTRY = [
     related: ["Oxidising Agent", "Reduction", "Activity Series"],
   },
   {
+    type: "know-it",
     term: "Activity Series",
     year: 11,
     category: "Reactive Chemistry",
@@ -409,6 +445,7 @@ export const Y11_CHEMISTRY = [
     related: ["Galvanic Cell", "Oxidation", "Reduction"],
   },
   {
+    type: "know-it",
     term: "Galvanic Cell",
     year: 11,
     category: "Reactive Chemistry",
@@ -420,6 +457,7 @@ export const Y11_CHEMISTRY = [
     related: ["Electrolytic Cell", "Activity Series", "Half-Equation"],
   },
   {
+    type: "know-it",
     term: "Electrolytic Cell",
     year: 11,
     category: "Reactive Chemistry",
@@ -431,6 +469,7 @@ export const Y11_CHEMISTRY = [
     related: ["Galvanic Cell", "Oxidation", "Reduction"],
   },
   {
+    type: "know-it",
     term: "Corrosion",
     year: 11,
     category: "Reactive Chemistry",
@@ -442,6 +481,7 @@ export const Y11_CHEMISTRY = [
     related: ["Oxidation", "Activity Series", "Galvanic Cell"],
   },
   {
+    type: "know-it",
     term: "Half-Equation",
     year: 11,
     category: "Reactive Chemistry",
@@ -453,6 +493,7 @@ export const Y11_CHEMISTRY = [
     related: ["Redox Equation", "Oxidation", "Reduction"],
   },
   {
+    type: "know-it",
     term: "Redox Equation",
     year: 11,
     category: "Reactive Chemistry",
@@ -464,6 +505,7 @@ export const Y11_CHEMISTRY = [
     related: ["Half-Equation", "Oxidation", "Reduction"],
   },
   {
+    type: "know-it",
     term: "Synthesis Reaction",
     year: 11,
     category: "Reactive Chemistry",
@@ -475,6 +517,7 @@ export const Y11_CHEMISTRY = [
     related: ["Types of Reactions", "Oxidation", "Redox Equation"],
   },
   {
+    type: "know-it",
     term: "Decomposition Reaction",
     year: 11,
     category: "Reactive Chemistry",
@@ -486,6 +529,7 @@ export const Y11_CHEMISTRY = [
     related: ["Types of Reactions", "Electrolytic Cell", "Redox Equation"],
   },
   {
+    type: "know-it",
     term: "Combustion",
     year: 11,
     category: "Reactive Chemistry",
@@ -497,6 +541,7 @@ export const Y11_CHEMISTRY = [
     related: ["Types of Reactions", "Oxidation", "Reducing Agent"],
   },
   {
+    type: "know-it",
     term: "Acid-Base Reaction",
     year: 11,
     category: "Reactive Chemistry",
@@ -511,6 +556,7 @@ export const Y11_CHEMISTRY = [
   // ── DRIVERS OF REACTIONS (15 terms) ────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Enthalpy Change",
     year: 11,
     category: "Drivers of Reactions",
@@ -522,6 +568,7 @@ export const Y11_CHEMISTRY = [
     related: ["Exothermic", "Endothermic", "Hess's Law"],
   },
   {
+    type: "know-it",
     term: "Exothermic",
     year: 11,
     category: "Drivers of Reactions",
@@ -533,6 +580,7 @@ export const Y11_CHEMISTRY = [
     related: ["Endothermic", "Enthalpy Change", "Activation Energy"],
   },
   {
+    type: "know-it",
     term: "Endothermic",
     year: 11,
     category: "Drivers of Reactions",
@@ -544,6 +592,7 @@ export const Y11_CHEMISTRY = [
     related: ["Exothermic", "Enthalpy Change", "Activation Energy"],
   },
   {
+    type: "know-it",
     term: "Activation Energy",
     year: 11,
     category: "Drivers of Reactions",
@@ -555,6 +604,7 @@ export const Y11_CHEMISTRY = [
     related: ["Catalyst", "Collision Theory", "Enthalpy Change"],
   },
   {
+    type: "know-it",
     term: "Hess's Law",
     year: 11,
     category: "Drivers of Reactions",
@@ -566,6 +616,7 @@ export const Y11_CHEMISTRY = [
     related: ["Enthalpy Change", "Bond Energy", "Calorimetry"],
   },
   {
+    type: "know-it",
     term: "Bond Energy",
     year: 11,
     category: "Drivers of Reactions",
@@ -577,6 +628,7 @@ export const Y11_CHEMISTRY = [
     related: ["Enthalpy Change", "Hess's Law", "Activation Energy"],
   },
   {
+    type: "know-it",
     term: "Calorimetry",
     year: 11,
     category: "Drivers of Reactions",
@@ -588,6 +640,7 @@ export const Y11_CHEMISTRY = [
     related: ["Enthalpy Change", "Exothermic", "Endothermic"],
   },
   {
+    type: "know-it",
     term: "Entropy",
     year: 11,
     category: "Drivers of Reactions",
@@ -599,6 +652,7 @@ export const Y11_CHEMISTRY = [
     related: ["Gibbs Free Energy", "Enthalpy Change", "Spontaneous Reaction"],
   },
   {
+    type: "know-it",
     term: "Gibbs Free Energy",
     year: 11,
     category: "Drivers of Reactions",
@@ -610,6 +664,7 @@ export const Y11_CHEMISTRY = [
     related: ["Entropy", "Enthalpy Change", "Spontaneous Reaction"],
   },
   {
+    type: "know-it",
     term: "Spontaneous Reaction",
     year: 11,
     category: "Drivers of Reactions",
@@ -621,6 +676,7 @@ export const Y11_CHEMISTRY = [
     related: ["Gibbs Free Energy", "Activation Energy", "Catalyst"],
   },
   {
+    type: "know-it",
     term: "Collision Theory",
     year: 11,
     category: "Drivers of Reactions",
@@ -632,6 +688,7 @@ export const Y11_CHEMISTRY = [
     related: ["Activation Energy", "Rate of Reaction", "Catalyst"],
   },
   {
+    type: "know-it",
     term: "Rate of Reaction",
     year: 11,
     category: "Drivers of Reactions",
@@ -643,6 +700,7 @@ export const Y11_CHEMISTRY = [
     related: ["Collision Theory", "Catalyst", "Activation Energy"],
   },
   {
+    type: "know-it",
     term: "Catalyst",
     year: 11,
     category: "Drivers of Reactions",
@@ -654,6 +712,7 @@ export const Y11_CHEMISTRY = [
     related: ["Activation Energy", "Rate of Reaction", "Collision Theory"],
   },
   {
+    type: "know-it",
     term: "Equilibrium Constant",
     year: 11,
     category: "Drivers of Reactions",
@@ -665,6 +724,7 @@ export const Y11_CHEMISTRY = [
     related: ["Le Chatelier's Principle", "Spontaneous Reaction", "Rate of Reaction"],
   },
   {
+    type: "know-it",
     term: "Le Chatelier's Principle",
     year: 11,
     category: "Drivers of Reactions",

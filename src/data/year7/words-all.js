@@ -12,6 +12,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Main Idea",
     year: 7,
     category: "Reading & Comprehension",
@@ -23,6 +24,7 @@ export const Y7_WORDS = [
     related: ["Summary", "Author's Purpose", "Paraphrase"],
   },
   {
+    type: "know-it",
     term: "Inference",
     year: 7,
     category: "Reading & Comprehension",
@@ -34,6 +36,7 @@ export const Y7_WORDS = [
     related: ["Context Clue", "Prediction", "Point of View"],
   },
   {
+    type: "know-it",
     term: "Context Clue",
     year: 7,
     category: "Reading & Comprehension",
@@ -45,6 +48,7 @@ export const Y7_WORDS = [
     related: ["Inference", "Skim", "Scan"],
   },
   {
+    type: "know-it",
     term: "Skim",
     year: 7,
     category: "Reading & Comprehension",
@@ -56,6 +60,7 @@ export const Y7_WORDS = [
     related: ["Scan", "Main Idea", "Summary"],
   },
   {
+    type: "know-it",
     term: "Scan",
     year: 7,
     category: "Reading & Comprehension",
@@ -67,6 +72,7 @@ export const Y7_WORDS = [
     related: ["Skim", "Fact vs Opinion", "Context Clue"],
   },
   {
+    type: "know-it",
     term: "Summary",
     year: 7,
     category: "Reading & Comprehension",
@@ -78,6 +84,7 @@ export const Y7_WORDS = [
     related: ["Main Idea", "Paraphrase", "Author's Purpose"],
   },
   {
+    type: "know-it",
     term: "Paraphrase",
     year: 7,
     category: "Reading & Comprehension",
@@ -89,6 +96,7 @@ export const Y7_WORDS = [
     related: ["Summary", "Main Idea", "Author's Purpose"],
   },
   {
+    type: "know-it",
     term: "Author's Purpose",
     year: 7,
     category: "Reading & Comprehension",
@@ -100,6 +108,7 @@ export const Y7_WORDS = [
     related: ["Audience", "Point of View", "Fact vs Opinion"],
   },
   {
+    type: "know-it",
     term: "Audience",
     year: 7,
     category: "Reading & Comprehension",
@@ -111,6 +120,7 @@ export const Y7_WORDS = [
     related: ["Author's Purpose", "Point of View", "Prediction"],
   },
   {
+    type: "know-it",
     term: "Point of View",
     year: 7,
     category: "Reading & Comprehension",
@@ -122,6 +132,7 @@ export const Y7_WORDS = [
     related: ["Inference", "Audience", "Fact vs Opinion"],
   },
   {
+    type: "know-it",
     term: "Prediction",
     year: 7,
     category: "Reading & Comprehension",
@@ -133,6 +144,7 @@ export const Y7_WORDS = [
     related: ["Inference", "Context Clue", "Main Idea"],
   },
   {
+    type: "know-it",
     term: "Fact vs Opinion",
     year: 7,
     category: "Reading & Comprehension",
@@ -149,6 +161,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Topic Sentence",
     year: 7,
     category: "Writing & Composition",
@@ -160,6 +173,7 @@ export const Y7_WORDS = [
     related: ["Paragraph", "Introduction", "Conclusion"],
   },
   {
+    type: "know-it",
     term: "Paragraph",
     year: 7,
     category: "Writing & Composition",
@@ -171,6 +185,7 @@ export const Y7_WORDS = [
     related: ["Topic Sentence", "Connective", "Draft"],
   },
   {
+    type: "know-it",
     term: "Draft",
     year: 7,
     category: "Writing & Composition",
@@ -182,6 +197,7 @@ export const Y7_WORDS = [
     related: ["Editing", "Proofreading", "Narrative"],
   },
   {
+    type: "know-it",
     term: "Editing",
     year: 7,
     category: "Writing & Composition",
@@ -193,6 +209,7 @@ export const Y7_WORDS = [
     related: ["Draft", "Proofreading", "Connective"],
   },
   {
+    type: "know-it",
     term: "Narrative",
     year: 7,
     category: "Writing & Composition",
@@ -204,6 +221,7 @@ export const Y7_WORDS = [
     related: ["Description", "Recount", "Draft"],
   },
   {
+    type: "know-it",
     term: "Persuasive Text",
     year: 7,
     category: "Writing & Composition",
@@ -215,6 +233,7 @@ export const Y7_WORDS = [
     related: ["Connective", "Introduction", "Conclusion"],
   },
   {
+    type: "know-it",
     term: "Recount",
     year: 7,
     category: "Writing & Composition",
@@ -226,6 +245,7 @@ export const Y7_WORDS = [
     related: ["Narrative", "Description", "Paragraph"],
   },
   {
+    type: "know-it",
     term: "Description",
     year: 7,
     category: "Writing & Composition",
@@ -237,6 +257,7 @@ export const Y7_WORDS = [
     related: ["Narrative", "Recount", "Editing"],
   },
   {
+    type: "know-it",
     term: "Connective",
     year: 7,
     category: "Writing & Composition",
@@ -248,6 +269,7 @@ export const Y7_WORDS = [
     related: ["Paragraph", "Topic Sentence", "Editing"],
   },
   {
+    type: "know-it",
     term: "Introduction",
     year: 7,
     category: "Writing & Composition",
@@ -259,6 +281,7 @@ export const Y7_WORDS = [
     related: ["Conclusion", "Topic Sentence", "Persuasive Text"],
   },
   {
+    type: "know-it",
     term: "Conclusion",
     year: 7,
     category: "Writing & Composition",
@@ -270,6 +293,7 @@ export const Y7_WORDS = [
     related: ["Introduction", "Topic Sentence", "Persuasive Text"],
   },
   {
+    type: "know-it",
     term: "Proofreading",
     year: 7,
     category: "Writing & Composition",
@@ -286,6 +310,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Simile",
     year: 7,
     category: "Language Features",
@@ -297,6 +322,7 @@ export const Y7_WORDS = [
     related: ["Metaphor", "Imagery", "Personification"],
   },
   {
+    type: "know-it",
     term: "Metaphor",
     year: 7,
     category: "Language Features",
@@ -308,6 +334,7 @@ export const Y7_WORDS = [
     related: ["Simile", "Personification", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Alliteration",
     year: 7,
     category: "Language Features",
@@ -319,6 +346,7 @@ export const Y7_WORDS = [
     related: ["Onomatopoeia", "Rhyme", "Repetition"],
   },
   {
+    type: "know-it",
     term: "Onomatopoeia",
     year: 7,
     category: "Language Features",
@@ -330,6 +358,7 @@ export const Y7_WORDS = [
     related: ["Alliteration", "Imagery", "Simile"],
   },
   {
+    type: "know-it",
     term: "Personification",
     year: 7,
     category: "Language Features",
@@ -341,6 +370,7 @@ export const Y7_WORDS = [
     related: ["Metaphor", "Simile", "Emotive Language"],
   },
   {
+    type: "know-it",
     term: "Rhyme",
     year: 7,
     category: "Language Features",
@@ -352,6 +382,7 @@ export const Y7_WORDS = [
     related: ["Alliteration", "Repetition", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Repetition",
     year: 7,
     category: "Language Features",
@@ -363,6 +394,7 @@ export const Y7_WORDS = [
     related: ["Alliteration", "Emotive Language", "Rhyme"],
   },
   {
+    type: "know-it",
     term: "Adjective",
     year: 7,
     category: "Language Features",
@@ -374,6 +406,7 @@ export const Y7_WORDS = [
     related: ["Adverb", "Imagery", "Description"],
   },
   {
+    type: "know-it",
     term: "Adverb",
     year: 7,
     category: "Language Features",
@@ -385,6 +418,7 @@ export const Y7_WORDS = [
     related: ["Adjective", "Dialogue", "Imagery"],
   },
   {
+    type: "know-it",
     term: "Dialogue",
     year: 7,
     category: "Language Features",
@@ -396,6 +430,7 @@ export const Y7_WORDS = [
     related: ["Narrative", "Adjective", "Adverb"],
   },
   {
+    type: "know-it",
     term: "Imagery",
     year: 7,
     category: "Language Features",
@@ -407,6 +442,7 @@ export const Y7_WORDS = [
     related: ["Simile", "Metaphor", "Personification"],
   },
   {
+    type: "know-it",
     term: "Emotive Language",
     year: 7,
     category: "Language Features",
@@ -423,6 +459,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Integer",
     year: 7,
     category: "Number & Algebra",
@@ -434,6 +471,7 @@ export const Y7_WORDS = [
     related: ["Fraction", "Decimal", "Prime Number"],
   },
   {
+    type: "know-it",
     term: "Fraction",
     year: 7,
     category: "Number & Algebra",
@@ -445,6 +483,7 @@ export const Y7_WORDS = [
     related: ["Decimal", "Percentage", "Ratio"],
   },
   {
+    type: "know-it",
     term: "Decimal",
     year: 7,
     category: "Number & Algebra",
@@ -456,6 +495,7 @@ export const Y7_WORDS = [
     related: ["Fraction", "Percentage", "Integer"],
   },
   {
+    type: "know-it",
     term: "Percentage",
     year: 7,
     category: "Number & Algebra",
@@ -467,6 +507,7 @@ export const Y7_WORDS = [
     related: ["Fraction", "Decimal", "Ratio"],
   },
   {
+    type: "know-it",
     term: "Ratio",
     year: 7,
     category: "Number & Algebra",
@@ -478,6 +519,7 @@ export const Y7_WORDS = [
     related: ["Fraction", "Percentage", "Expression"],
   },
   {
+    type: "know-it",
     term: "Order of Operations",
     year: 7,
     category: "Number & Algebra",
@@ -489,6 +531,7 @@ export const Y7_WORDS = [
     related: ["Expression", "Equation", "Variable"],
   },
   {
+    type: "know-it",
     term: "Variable",
     year: 7,
     category: "Number & Algebra",
@@ -500,6 +543,7 @@ export const Y7_WORDS = [
     related: ["Expression", "Equation", "Order of Operations"],
   },
   {
+    type: "know-it",
     term: "Expression",
     year: 7,
     category: "Number & Algebra",
@@ -511,6 +555,7 @@ export const Y7_WORDS = [
     related: ["Variable", "Equation", "Order of Operations"],
   },
   {
+    type: "know-it",
     term: "Equation",
     year: 7,
     category: "Number & Algebra",
@@ -522,6 +567,7 @@ export const Y7_WORDS = [
     related: ["Variable", "Expression", "Order of Operations"],
   },
   {
+    type: "know-it",
     term: "Prime Number",
     year: 7,
     category: "Number & Algebra",
@@ -533,6 +579,7 @@ export const Y7_WORDS = [
     related: ["Factor", "Multiple", "Integer"],
   },
   {
+    type: "know-it",
     term: "Factor",
     year: 7,
     category: "Number & Algebra",
@@ -544,6 +591,7 @@ export const Y7_WORDS = [
     related: ["Multiple", "Prime Number", "Fraction"],
   },
   {
+    type: "know-it",
     term: "Multiple",
     year: 7,
     category: "Number & Algebra",
@@ -560,6 +608,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Perimeter",
     year: 7,
     category: "Measurement & Geometry",
@@ -571,6 +620,7 @@ export const Y7_WORDS = [
     related: ["Area", "Polygon", "Circumference"],
   },
   {
+    type: "know-it",
     term: "Area",
     year: 7,
     category: "Measurement & Geometry",
@@ -582,6 +632,7 @@ export const Y7_WORDS = [
     related: ["Perimeter", "Volume", "Polygon"],
   },
   {
+    type: "know-it",
     term: "Volume",
     year: 7,
     category: "Measurement & Geometry",
@@ -593,6 +644,7 @@ export const Y7_WORDS = [
     related: ["Area", "Prism", "Perimeter"],
   },
   {
+    type: "know-it",
     term: "Angle",
     year: 7,
     category: "Measurement & Geometry",
@@ -604,6 +656,7 @@ export const Y7_WORDS = [
     related: ["Vertex", "Parallel", "Perpendicular"],
   },
   {
+    type: "know-it",
     term: "Parallel",
     year: 7,
     category: "Measurement & Geometry",
@@ -615,6 +668,7 @@ export const Y7_WORDS = [
     related: ["Perpendicular", "Angle", "Symmetry"],
   },
   {
+    type: "know-it",
     term: "Perpendicular",
     year: 7,
     category: "Measurement & Geometry",
@@ -626,6 +680,7 @@ export const Y7_WORDS = [
     related: ["Parallel", "Angle", "Coordinate"],
   },
   {
+    type: "know-it",
     term: "Symmetry",
     year: 7,
     category: "Measurement & Geometry",
@@ -637,6 +692,7 @@ export const Y7_WORDS = [
     related: ["Polygon", "Parallel", "Coordinate"],
   },
   {
+    type: "know-it",
     term: "Coordinate",
     year: 7,
     category: "Measurement & Geometry",
@@ -648,6 +704,7 @@ export const Y7_WORDS = [
     related: ["Vertex", "Symmetry", "Perpendicular"],
   },
   {
+    type: "know-it",
     term: "Vertex",
     year: 7,
     category: "Measurement & Geometry",
@@ -659,6 +716,7 @@ export const Y7_WORDS = [
     related: ["Angle", "Polygon", "Prism"],
   },
   {
+    type: "know-it",
     term: "Polygon",
     year: 7,
     category: "Measurement & Geometry",
@@ -670,6 +728,7 @@ export const Y7_WORDS = [
     related: ["Perimeter", "Vertex", "Area"],
   },
   {
+    type: "know-it",
     term: "Prism",
     year: 7,
     category: "Measurement & Geometry",
@@ -681,6 +740,7 @@ export const Y7_WORDS = [
     related: ["Volume", "Vertex", "Polygon"],
   },
   {
+    type: "know-it",
     term: "Circumference",
     year: 7,
     category: "Measurement & Geometry",
@@ -697,6 +757,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Mean",
     year: 7,
     category: "Statistics & Probability",
@@ -708,6 +769,7 @@ export const Y7_WORDS = [
     related: ["Median", "Mode", "Range"],
   },
   {
+    type: "know-it",
     term: "Median",
     year: 7,
     category: "Statistics & Probability",
@@ -719,6 +781,7 @@ export const Y7_WORDS = [
     related: ["Mean", "Mode", "Range"],
   },
   {
+    type: "know-it",
     term: "Mode",
     year: 7,
     category: "Statistics & Probability",
@@ -730,6 +793,7 @@ export const Y7_WORDS = [
     related: ["Mean", "Median", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Range",
     year: 7,
     category: "Statistics & Probability",
@@ -741,6 +805,7 @@ export const Y7_WORDS = [
     related: ["Mean", "Median", "Mode"],
   },
   {
+    type: "know-it",
     term: "Frequency",
     year: 7,
     category: "Statistics & Probability",
@@ -752,6 +817,7 @@ export const Y7_WORDS = [
     related: ["Tally", "Bar Graph", "Mode"],
   },
   {
+    type: "know-it",
     term: "Probability",
     year: 7,
     category: "Statistics & Probability",
@@ -763,6 +829,7 @@ export const Y7_WORDS = [
     related: ["Sample Space", "Outcome", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Sample Space",
     year: 7,
     category: "Statistics & Probability",
@@ -774,6 +841,7 @@ export const Y7_WORDS = [
     related: ["Probability", "Outcome", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Bar Graph",
     year: 7,
     category: "Statistics & Probability",
@@ -785,6 +853,7 @@ export const Y7_WORDS = [
     related: ["Dot Plot", "Frequency", "Tally"],
   },
   {
+    type: "know-it",
     term: "Dot Plot",
     year: 7,
     category: "Statistics & Probability",
@@ -796,6 +865,7 @@ export const Y7_WORDS = [
     related: ["Bar Graph", "Frequency", "Range"],
   },
   {
+    type: "know-it",
     term: "Outcome",
     year: 7,
     category: "Statistics & Probability",
@@ -807,6 +877,7 @@ export const Y7_WORDS = [
     related: ["Sample Space", "Probability", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Tally",
     year: 7,
     category: "Statistics & Probability",
@@ -818,6 +889,7 @@ export const Y7_WORDS = [
     related: ["Frequency", "Survey", "Bar Graph"],
   },
   {
+    type: "know-it",
     term: "Survey",
     year: 7,
     category: "Statistics & Probability",
@@ -834,6 +906,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Cell",
     year: 7,
     category: "Biological Sciences",
@@ -845,6 +918,7 @@ export const Y7_WORDS = [
     related: ["Organism", "Microscope", "Species"],
   },
   {
+    type: "know-it",
     term: "Organism",
     year: 7,
     category: "Biological Sciences",
@@ -856,6 +930,7 @@ export const Y7_WORDS = [
     related: ["Cell", "Ecosystem", "Species"],
   },
   {
+    type: "know-it",
     term: "Ecosystem",
     year: 7,
     category: "Biological Sciences",
@@ -867,6 +942,7 @@ export const Y7_WORDS = [
     related: ["Habitat", "Food Chain", "Adaptation"],
   },
   {
+    type: "know-it",
     term: "Classification",
     year: 7,
     category: "Biological Sciences",
@@ -878,6 +954,7 @@ export const Y7_WORDS = [
     related: ["Species", "Vertebrate", "Invertebrate"],
   },
   {
+    type: "know-it",
     term: "Habitat",
     year: 7,
     category: "Biological Sciences",
@@ -889,6 +966,7 @@ export const Y7_WORDS = [
     related: ["Ecosystem", "Adaptation", "Food Chain"],
   },
   {
+    type: "know-it",
     term: "Food Chain",
     year: 7,
     category: "Biological Sciences",
@@ -900,6 +978,7 @@ export const Y7_WORDS = [
     related: ["Ecosystem", "Photosynthesis", "Habitat"],
   },
   {
+    type: "know-it",
     term: "Photosynthesis",
     year: 7,
     category: "Biological Sciences",
@@ -911,6 +990,7 @@ export const Y7_WORDS = [
     related: ["Cell", "Food Chain", "Ecosystem"],
   },
   {
+    type: "know-it",
     term: "Adaptation",
     year: 7,
     category: "Biological Sciences",
@@ -922,6 +1002,7 @@ export const Y7_WORDS = [
     related: ["Habitat", "Ecosystem", "Species"],
   },
   {
+    type: "know-it",
     term: "Vertebrate",
     year: 7,
     category: "Biological Sciences",
@@ -933,6 +1014,7 @@ export const Y7_WORDS = [
     related: ["Invertebrate", "Classification", "Species"],
   },
   {
+    type: "know-it",
     term: "Invertebrate",
     year: 7,
     category: "Biological Sciences",
@@ -944,6 +1026,7 @@ export const Y7_WORDS = [
     related: ["Vertebrate", "Classification", "Organism"],
   },
   {
+    type: "know-it",
     term: "Microscope",
     year: 7,
     category: "Biological Sciences",
@@ -955,6 +1038,7 @@ export const Y7_WORDS = [
     related: ["Cell", "Organism", "Species"],
   },
   {
+    type: "know-it",
     term: "Species",
     year: 7,
     category: "Biological Sciences",
@@ -971,6 +1055,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Element",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -982,6 +1067,7 @@ export const Y7_WORDS = [
     related: ["Compound", "Mixture", "State of Matter"],
   },
   {
+    type: "know-it",
     term: "Compound",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -993,6 +1079,7 @@ export const Y7_WORDS = [
     related: ["Element", "Mixture", "Chemical Change"],
   },
   {
+    type: "know-it",
     term: "Mixture",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1004,6 +1091,7 @@ export const Y7_WORDS = [
     related: ["Element", "Compound", "Separation"],
   },
   {
+    type: "know-it",
     term: "Separation",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1015,6 +1103,7 @@ export const Y7_WORDS = [
     related: ["Mixture", "Soluble", "Solution"],
   },
   {
+    type: "know-it",
     term: "Soluble",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1026,6 +1115,7 @@ export const Y7_WORDS = [
     related: ["Solution", "Mixture", "Separation"],
   },
   {
+    type: "know-it",
     term: "Solution",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1037,6 +1127,7 @@ export const Y7_WORDS = [
     related: ["Soluble", "Mixture", "Separation"],
   },
   {
+    type: "know-it",
     term: "Force",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1048,6 +1139,7 @@ export const Y7_WORDS = [
     related: ["Gravity", "Friction", "Energy"],
   },
   {
+    type: "know-it",
     term: "Gravity",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1059,6 +1151,7 @@ export const Y7_WORDS = [
     related: ["Force", "Friction", "Energy"],
   },
   {
+    type: "know-it",
     term: "Friction",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1070,6 +1163,7 @@ export const Y7_WORDS = [
     related: ["Force", "Gravity", "Energy"],
   },
   {
+    type: "know-it",
     term: "Energy",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1081,6 +1175,7 @@ export const Y7_WORDS = [
     related: ["Force", "Chemical Change", "State of Matter"],
   },
   {
+    type: "know-it",
     term: "State of Matter",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1092,6 +1187,7 @@ export const Y7_WORDS = [
     related: ["Element", "Compound", "Energy"],
   },
   {
+    type: "know-it",
     term: "Chemical Change",
     year: 7,
     category: "Chemical & Physical Sciences",
@@ -1108,6 +1204,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Rock Cycle",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1119,6 +1216,7 @@ export const Y7_WORDS = [
     related: ["Sedimentary", "Igneous", "Metamorphic"],
   },
   {
+    type: "know-it",
     term: "Mineral",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1130,6 +1228,7 @@ export const Y7_WORDS = [
     related: ["Rock Cycle", "Weathering", "Fossil"],
   },
   {
+    type: "know-it",
     term: "Weathering",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1141,6 +1240,7 @@ export const Y7_WORDS = [
     related: ["Erosion", "Sedimentary", "Rock Cycle"],
   },
   {
+    type: "know-it",
     term: "Erosion",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1152,6 +1252,7 @@ export const Y7_WORDS = [
     related: ["Weathering", "Sedimentary", "Rock Cycle"],
   },
   {
+    type: "know-it",
     term: "Fossil",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1163,6 +1264,7 @@ export const Y7_WORDS = [
     related: ["Sedimentary", "Rock Cycle", "Mineral"],
   },
   {
+    type: "know-it",
     term: "Sedimentary",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1174,6 +1276,7 @@ export const Y7_WORDS = [
     related: ["Igneous", "Metamorphic", "Fossil"],
   },
   {
+    type: "know-it",
     term: "Igneous",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1185,6 +1288,7 @@ export const Y7_WORDS = [
     related: ["Metamorphic", "Sedimentary", "Rock Cycle"],
   },
   {
+    type: "know-it",
     term: "Metamorphic",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1196,6 +1300,7 @@ export const Y7_WORDS = [
     related: ["Igneous", "Sedimentary", "Rock Cycle"],
   },
   {
+    type: "know-it",
     term: "Solar System",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1207,6 +1312,7 @@ export const Y7_WORDS = [
     related: ["Orbit", "Rotation", "Revolution"],
   },
   {
+    type: "know-it",
     term: "Orbit",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1218,6 +1324,7 @@ export const Y7_WORDS = [
     related: ["Solar System", "Rotation", "Revolution"],
   },
   {
+    type: "know-it",
     term: "Rotation",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1229,6 +1336,7 @@ export const Y7_WORDS = [
     related: ["Revolution", "Orbit", "Solar System"],
   },
   {
+    type: "know-it",
     term: "Revolution",
     year: 7,
     category: "Earth & Space Sciences",
@@ -1245,6 +1353,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Civilisation",
     year: 7,
     category: "Historical Knowledge",
@@ -1256,6 +1365,7 @@ export const Y7_WORDS = [
     related: ["Ancient Egypt", "Roman Empire", "Democracy"],
   },
   {
+    type: "know-it",
     term: "Ancient Egypt",
     year: 7,
     category: "Historical Knowledge",
@@ -1267,6 +1377,7 @@ export const Y7_WORDS = [
     related: ["Pharaoh", "Civilisation", "Artefact"],
   },
   {
+    type: "know-it",
     term: "Pharaoh",
     year: 7,
     category: "Historical Knowledge",
@@ -1278,6 +1389,7 @@ export const Y7_WORDS = [
     related: ["Ancient Egypt", "Civilisation", "Artefact"],
   },
   {
+    type: "know-it",
     term: "Democracy",
     year: 7,
     category: "Historical Knowledge",
@@ -1289,6 +1401,7 @@ export const Y7_WORDS = [
     related: ["Civilisation", "Roman Empire", "Viking"],
   },
   {
+    type: "know-it",
     term: "Roman Empire",
     year: 7,
     category: "Historical Knowledge",
@@ -1300,6 +1413,7 @@ export const Y7_WORDS = [
     related: ["Gladiator", "Civilisation", "Democracy"],
   },
   {
+    type: "know-it",
     term: "Gladiator",
     year: 7,
     category: "Historical Knowledge",
@@ -1311,6 +1425,7 @@ export const Y7_WORDS = [
     related: ["Roman Empire", "Civilisation", "Archaeology"],
   },
   {
+    type: "know-it",
     term: "Silk Road",
     year: 7,
     category: "Historical Knowledge",
@@ -1322,6 +1437,7 @@ export const Y7_WORDS = [
     related: ["Medieval", "Civilisation", "Roman Empire"],
   },
   {
+    type: "know-it",
     term: "Medieval",
     year: 7,
     category: "Historical Knowledge",
@@ -1333,6 +1449,7 @@ export const Y7_WORDS = [
     related: ["Viking", "Silk Road", "Civilisation"],
   },
   {
+    type: "know-it",
     term: "Viking",
     year: 7,
     category: "Historical Knowledge",
@@ -1344,6 +1461,7 @@ export const Y7_WORDS = [
     related: ["Medieval", "Civilisation", "Silk Road"],
   },
   {
+    type: "know-it",
     term: "Indigenous Australians",
     year: 7,
     category: "Historical Knowledge",
@@ -1355,6 +1473,7 @@ export const Y7_WORDS = [
     related: ["Civilisation", "Artefact", "Archaeology"],
   },
   {
+    type: "know-it",
     term: "Archaeology",
     year: 7,
     category: "Historical Knowledge",
@@ -1366,6 +1485,7 @@ export const Y7_WORDS = [
     related: ["Artefact", "Indigenous Australians", "Ancient Egypt"],
   },
   {
+    type: "know-it",
     term: "Artefact",
     year: 7,
     category: "Historical Knowledge",
@@ -1382,6 +1502,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Primary Source",
     year: 7,
     category: "Historical Skills",
@@ -1393,6 +1514,7 @@ export const Y7_WORDS = [
     related: ["Secondary Source", "Evidence", "Bias"],
   },
   {
+    type: "know-it",
     term: "Secondary Source",
     year: 7,
     category: "Historical Skills",
@@ -1404,6 +1526,7 @@ export const Y7_WORDS = [
     related: ["Primary Source", "Evidence", "Perspective"],
   },
   {
+    type: "know-it",
     term: "Chronology",
     year: 7,
     category: "Historical Skills",
@@ -1415,6 +1538,7 @@ export const Y7_WORDS = [
     related: ["Timeline", "Cause and Effect", "Continuity"],
   },
   {
+    type: "know-it",
     term: "Timeline",
     year: 7,
     category: "Historical Skills",
@@ -1426,6 +1550,7 @@ export const Y7_WORDS = [
     related: ["Chronology", "Cause and Effect", "Change"],
   },
   {
+    type: "know-it",
     term: "Cause and Effect",
     year: 7,
     category: "Historical Skills",
@@ -1437,6 +1562,7 @@ export const Y7_WORDS = [
     related: ["Chronology", "Significance", "Continuity"],
   },
   {
+    type: "know-it",
     term: "Perspective",
     year: 7,
     category: "Historical Skills",
@@ -1448,6 +1574,7 @@ export const Y7_WORDS = [
     related: ["Bias", "Empathy", "Evidence"],
   },
   {
+    type: "know-it",
     term: "Bias",
     year: 7,
     category: "Historical Skills",
@@ -1459,6 +1586,7 @@ export const Y7_WORDS = [
     related: ["Perspective", "Evidence", "Primary Source"],
   },
   {
+    type: "know-it",
     term: "Evidence",
     year: 7,
     category: "Historical Skills",
@@ -1470,6 +1598,7 @@ export const Y7_WORDS = [
     related: ["Primary Source", "Secondary Source", "Bias"],
   },
   {
+    type: "know-it",
     term: "Continuity",
     year: 7,
     category: "Historical Skills",
@@ -1481,6 +1610,7 @@ export const Y7_WORDS = [
     related: ["Change", "Chronology", "Significance"],
   },
   {
+    type: "know-it",
     term: "Change",
     year: 7,
     category: "Historical Skills",
@@ -1492,6 +1622,7 @@ export const Y7_WORDS = [
     related: ["Continuity", "Cause and Effect", "Significance"],
   },
   {
+    type: "know-it",
     term: "Significance",
     year: 7,
     category: "Historical Skills",
@@ -1503,6 +1634,7 @@ export const Y7_WORDS = [
     related: ["Cause and Effect", "Change", "Continuity"],
   },
   {
+    type: "know-it",
     term: "Empathy",
     year: 7,
     category: "Historical Skills",
@@ -1519,6 +1651,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Continent",
     year: 7,
     category: "Geographical Knowledge",
@@ -1530,6 +1663,7 @@ export const Y7_WORDS = [
     related: ["Hemisphere", "Latitude", "Longitude"],
   },
   {
+    type: "know-it",
     term: "Hemisphere",
     year: 7,
     category: "Geographical Knowledge",
@@ -1541,6 +1675,7 @@ export const Y7_WORDS = [
     related: ["Continent", "Latitude", "Climate"],
   },
   {
+    type: "know-it",
     term: "Climate",
     year: 7,
     category: "Geographical Knowledge",
@@ -1552,6 +1687,7 @@ export const Y7_WORDS = [
     related: ["Weather", "Biome", "Latitude"],
   },
   {
+    type: "know-it",
     term: "Weather",
     year: 7,
     category: "Geographical Knowledge",
@@ -1563,6 +1699,7 @@ export const Y7_WORDS = [
     related: ["Climate", "Hemisphere", "Landform"],
   },
   {
+    type: "know-it",
     term: "Latitude",
     year: 7,
     category: "Geographical Knowledge",
@@ -1574,6 +1711,7 @@ export const Y7_WORDS = [
     related: ["Longitude", "Climate", "Hemisphere"],
   },
   {
+    type: "know-it",
     term: "Longitude",
     year: 7,
     category: "Geographical Knowledge",
@@ -1585,6 +1723,7 @@ export const Y7_WORDS = [
     related: ["Latitude", "Hemisphere", "Continent"],
   },
   {
+    type: "know-it",
     term: "Landform",
     year: 7,
     category: "Geographical Knowledge",
@@ -1596,6 +1735,7 @@ export const Y7_WORDS = [
     related: ["River System", "Climate", "Biome"],
   },
   {
+    type: "know-it",
     term: "River System",
     year: 7,
     category: "Geographical Knowledge",
@@ -1607,6 +1747,7 @@ export const Y7_WORDS = [
     related: ["Landform", "Biome", "Population"],
   },
   {
+    type: "know-it",
     term: "Biome",
     year: 7,
     category: "Geographical Knowledge",
@@ -1618,6 +1759,7 @@ export const Y7_WORDS = [
     related: ["Climate", "Landform", "Population"],
   },
   {
+    type: "know-it",
     term: "Population",
     year: 7,
     category: "Geographical Knowledge",
@@ -1629,6 +1771,7 @@ export const Y7_WORDS = [
     related: ["Urban", "Rural", "Climate"],
   },
   {
+    type: "know-it",
     term: "Urban",
     year: 7,
     category: "Geographical Knowledge",
@@ -1640,6 +1783,7 @@ export const Y7_WORDS = [
     related: ["Rural", "Population", "Landform"],
   },
   {
+    type: "know-it",
     term: "Rural",
     year: 7,
     category: "Geographical Knowledge",
@@ -1656,6 +1800,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Map Scale",
     year: 7,
     category: "Geographical Skills",
@@ -1667,6 +1812,7 @@ export const Y7_WORDS = [
     related: ["Legend", "Grid Reference", "Topographic Map"],
   },
   {
+    type: "know-it",
     term: "Legend",
     year: 7,
     category: "Geographical Skills",
@@ -1678,6 +1824,7 @@ export const Y7_WORDS = [
     related: ["Map Scale", "Compass Rose", "Topographic Map"],
   },
   {
+    type: "know-it",
     term: "Compass Rose",
     year: 7,
     category: "Geographical Skills",
@@ -1689,6 +1836,7 @@ export const Y7_WORDS = [
     related: ["Legend", "Map Scale", "Grid Reference"],
   },
   {
+    type: "know-it",
     term: "Grid Reference",
     year: 7,
     category: "Geographical Skills",
@@ -1700,6 +1848,7 @@ export const Y7_WORDS = [
     related: ["Topographic Map", "Map Scale", "Compass Rose"],
   },
   {
+    type: "know-it",
     term: "Topographic Map",
     year: 7,
     category: "Geographical Skills",
@@ -1711,6 +1860,7 @@ export const Y7_WORDS = [
     related: ["Contour Line", "Grid Reference", "Cross Section"],
   },
   {
+    type: "know-it",
     term: "Contour Line",
     year: 7,
     category: "Geographical Skills",
@@ -1722,6 +1872,7 @@ export const Y7_WORDS = [
     related: ["Topographic Map", "Cross Section", "Map Scale"],
   },
   {
+    type: "know-it",
     term: "Cross Section",
     year: 7,
     category: "Geographical Skills",
@@ -1733,6 +1884,7 @@ export const Y7_WORDS = [
     related: ["Contour Line", "Topographic Map", "Fieldwork"],
   },
   {
+    type: "know-it",
     term: "Fieldwork",
     year: 7,
     category: "Geographical Skills",
@@ -1744,6 +1896,7 @@ export const Y7_WORDS = [
     related: ["GIS", "Aerial Photo", "Cross Section"],
   },
   {
+    type: "know-it",
     term: "GIS",
     year: 7,
     category: "Geographical Skills",
@@ -1755,6 +1908,7 @@ export const Y7_WORDS = [
     related: ["Aerial Photo", "Choropleth Map", "Spatial Distribution"],
   },
   {
+    type: "know-it",
     term: "Aerial Photo",
     year: 7,
     category: "Geographical Skills",
@@ -1766,6 +1920,7 @@ export const Y7_WORDS = [
     related: ["GIS", "Fieldwork", "Choropleth Map"],
   },
   {
+    type: "know-it",
     term: "Choropleth Map",
     year: 7,
     category: "Geographical Skills",
@@ -1777,6 +1932,7 @@ export const Y7_WORDS = [
     related: ["GIS", "Spatial Distribution", "Map Scale"],
   },
   {
+    type: "know-it",
     term: "Spatial Distribution",
     year: 7,
     category: "Geographical Skills",
@@ -1793,6 +1949,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Nutrition",
     year: 7,
     category: "Health & Wellbeing",
@@ -1804,6 +1961,7 @@ export const Y7_WORDS = [
     related: ["Balanced Diet", "Wellbeing", "Hygiene"],
   },
   {
+    type: "know-it",
     term: "Balanced Diet",
     year: 7,
     category: "Health & Wellbeing",
@@ -1815,6 +1973,7 @@ export const Y7_WORDS = [
     related: ["Nutrition", "Wellbeing", "Mental Health"],
   },
   {
+    type: "know-it",
     term: "Mental Health",
     year: 7,
     category: "Health & Wellbeing",
@@ -1826,6 +1985,7 @@ export const Y7_WORDS = [
     related: ["Resilience", "Self-esteem", "Stress"],
   },
   {
+    type: "know-it",
     term: "Resilience",
     year: 7,
     category: "Health & Wellbeing",
@@ -1837,6 +1997,7 @@ export const Y7_WORDS = [
     related: ["Mental Health", "Self-esteem", "Stress"],
   },
   {
+    type: "know-it",
     term: "Puberty",
     year: 7,
     category: "Health & Wellbeing",
@@ -1848,6 +2009,7 @@ export const Y7_WORDS = [
     related: ["Hygiene", "Self-esteem", "Wellbeing"],
   },
   {
+    type: "know-it",
     term: "Hygiene",
     year: 7,
     category: "Health & Wellbeing",
@@ -1859,6 +2021,7 @@ export const Y7_WORDS = [
     related: ["Puberty", "Nutrition", "Wellbeing"],
   },
   {
+    type: "know-it",
     term: "Substance",
     year: 7,
     category: "Health & Wellbeing",
@@ -1870,6 +2033,7 @@ export const Y7_WORDS = [
     related: ["Peer Pressure", "Wellbeing", "Mental Health"],
   },
   {
+    type: "know-it",
     term: "Peer Pressure",
     year: 7,
     category: "Health & Wellbeing",
@@ -1881,6 +2045,7 @@ export const Y7_WORDS = [
     related: ["Self-esteem", "Consent", "Resilience"],
   },
   {
+    type: "know-it",
     term: "Self-esteem",
     year: 7,
     category: "Health & Wellbeing",
@@ -1892,6 +2057,7 @@ export const Y7_WORDS = [
     related: ["Mental Health", "Resilience", "Peer Pressure"],
   },
   {
+    type: "know-it",
     term: "Consent",
     year: 7,
     category: "Health & Wellbeing",
@@ -1903,6 +2069,7 @@ export const Y7_WORDS = [
     related: ["Peer Pressure", "Self-esteem", "Wellbeing"],
   },
   {
+    type: "know-it",
     term: "Wellbeing",
     year: 7,
     category: "Health & Wellbeing",
@@ -1914,6 +2081,7 @@ export const Y7_WORDS = [
     related: ["Mental Health", "Nutrition", "Resilience"],
   },
   {
+    type: "know-it",
     term: "Stress",
     year: 7,
     category: "Health & Wellbeing",
@@ -1930,6 +2098,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Aerobic Fitness",
     year: 7,
     category: "Movement & Physical Activity",
@@ -1941,6 +2110,7 @@ export const Y7_WORDS = [
     related: ["Heart Rate", "Warm-up", "Muscular Endurance"],
   },
   {
+    type: "know-it",
     term: "Flexibility",
     year: 7,
     category: "Movement & Physical Activity",
@@ -1952,6 +2122,7 @@ export const Y7_WORDS = [
     related: ["Warm-up", "Cool-down", "Agility"],
   },
   {
+    type: "know-it",
     term: "Muscular Endurance",
     year: 7,
     category: "Movement & Physical Activity",
@@ -1963,6 +2134,7 @@ export const Y7_WORDS = [
     related: ["Aerobic Fitness", "Heart Rate", "Flexibility"],
   },
   {
+    type: "know-it",
     term: "Heart Rate",
     year: 7,
     category: "Movement & Physical Activity",
@@ -1974,6 +2146,7 @@ export const Y7_WORDS = [
     related: ["Aerobic Fitness", "Warm-up", "Cool-down"],
   },
   {
+    type: "know-it",
     term: "Warm-up",
     year: 7,
     category: "Movement & Physical Activity",
@@ -1985,6 +2158,7 @@ export const Y7_WORDS = [
     related: ["Cool-down", "Heart Rate", "Flexibility"],
   },
   {
+    type: "know-it",
     term: "Cool-down",
     year: 7,
     category: "Movement & Physical Activity",
@@ -1996,6 +2170,7 @@ export const Y7_WORDS = [
     related: ["Warm-up", "Heart Rate", "Flexibility"],
   },
   {
+    type: "know-it",
     term: "Sportsmanship",
     year: 7,
     category: "Movement & Physical Activity",
@@ -2007,6 +2182,7 @@ export const Y7_WORDS = [
     related: ["Fair Play", "Coordination", "Fundamental Movement"],
   },
   {
+    type: "know-it",
     term: "Fair Play",
     year: 7,
     category: "Movement & Physical Activity",
@@ -2018,6 +2194,7 @@ export const Y7_WORDS = [
     related: ["Sportsmanship", "Fundamental Movement", "Agility"],
   },
   {
+    type: "know-it",
     term: "Locomotor",
     year: 7,
     category: "Movement & Physical Activity",
@@ -2029,6 +2206,7 @@ export const Y7_WORDS = [
     related: ["Fundamental Movement", "Agility", "Coordination"],
   },
   {
+    type: "know-it",
     term: "Agility",
     year: 7,
     category: "Movement & Physical Activity",
@@ -2040,6 +2218,7 @@ export const Y7_WORDS = [
     related: ["Coordination", "Locomotor", "Flexibility"],
   },
   {
+    type: "know-it",
     term: "Coordination",
     year: 7,
     category: "Movement & Physical Activity",
@@ -2051,6 +2230,7 @@ export const Y7_WORDS = [
     related: ["Agility", "Fundamental Movement", "Locomotor"],
   },
   {
+    type: "know-it",
     term: "Fundamental Movement",
     year: 7,
     category: "Movement & Physical Activity",
@@ -2067,6 +2247,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Income",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2078,6 +2259,7 @@ export const Y7_WORDS = [
     related: ["Expense", "Budget", "Saving"],
   },
   {
+    type: "know-it",
     term: "Expense",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2089,6 +2271,7 @@ export const Y7_WORDS = [
     related: ["Income", "Budget", "Needs"],
   },
   {
+    type: "know-it",
     term: "Budget",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2100,6 +2283,7 @@ export const Y7_WORDS = [
     related: ["Income", "Expense", "Saving"],
   },
   {
+    type: "know-it",
     term: "Saving",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2111,6 +2295,7 @@ export const Y7_WORDS = [
     related: ["Budget", "Interest", "Bank Account"],
   },
   {
+    type: "know-it",
     term: "Interest",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2122,6 +2307,7 @@ export const Y7_WORDS = [
     related: ["Saving", "Bank Account", "Opportunity Cost"],
   },
   {
+    type: "know-it",
     term: "Bank Account",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2133,6 +2319,7 @@ export const Y7_WORDS = [
     related: ["Interest", "Saving", "Budget"],
   },
   {
+    type: "know-it",
     term: "Consumer",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2144,6 +2331,7 @@ export const Y7_WORDS = [
     related: ["Goods", "Services", "Wants"],
   },
   {
+    type: "know-it",
     term: "Goods",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2155,6 +2343,7 @@ export const Y7_WORDS = [
     related: ["Services", "Consumer", "Needs"],
   },
   {
+    type: "know-it",
     term: "Services",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2166,6 +2355,7 @@ export const Y7_WORDS = [
     related: ["Goods", "Consumer", "Wants"],
   },
   {
+    type: "know-it",
     term: "Wants",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2177,6 +2367,7 @@ export const Y7_WORDS = [
     related: ["Needs", "Budget", "Opportunity Cost"],
   },
   {
+    type: "know-it",
     term: "Needs",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2188,6 +2379,7 @@ export const Y7_WORDS = [
     related: ["Wants", "Budget", "Income"],
   },
   {
+    type: "know-it",
     term: "Opportunity Cost",
     year: 7,
     category: "Consumer & Financial Literacy",
@@ -2204,6 +2396,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Law",
     year: 7,
     category: "Law & Society",
@@ -2215,6 +2408,7 @@ export const Y7_WORDS = [
     related: ["Rule", "Right", "Responsibility"],
   },
   {
+    type: "know-it",
     term: "Rule",
     year: 7,
     category: "Law & Society",
@@ -2226,6 +2420,7 @@ export const Y7_WORDS = [
     related: ["Law", "Right", "Responsibility"],
   },
   {
+    type: "know-it",
     term: "Right",
     year: 7,
     category: "Law & Society",
@@ -2237,6 +2432,7 @@ export const Y7_WORDS = [
     related: ["Responsibility", "Law", "Constitution"],
   },
   {
+    type: "know-it",
     term: "Responsibility",
     year: 7,
     category: "Law & Society",
@@ -2248,6 +2444,7 @@ export const Y7_WORDS = [
     related: ["Right", "Law", "Rule"],
   },
   {
+    type: "know-it",
     term: "Parliament",
     year: 7,
     category: "Law & Society",
@@ -2259,6 +2456,7 @@ export const Y7_WORDS = [
     related: ["Constitution", "Law", "Court"],
   },
   {
+    type: "know-it",
     term: "Constitution",
     year: 7,
     category: "Law & Society",
@@ -2270,6 +2468,7 @@ export const Y7_WORDS = [
     related: ["Parliament", "Law", "Court"],
   },
   {
+    type: "know-it",
     term: "Court",
     year: 7,
     category: "Law & Society",
@@ -2281,6 +2480,7 @@ export const Y7_WORDS = [
     related: ["Judge", "Jury", "Law"],
   },
   {
+    type: "know-it",
     term: "Judge",
     year: 7,
     category: "Law & Society",
@@ -2292,6 +2492,7 @@ export const Y7_WORDS = [
     related: ["Court", "Jury", "Crime"],
   },
   {
+    type: "know-it",
     term: "Jury",
     year: 7,
     category: "Law & Society",
@@ -2303,6 +2504,7 @@ export const Y7_WORDS = [
     related: ["Judge", "Court", "Criminal Law"],
   },
   {
+    type: "know-it",
     term: "Crime",
     year: 7,
     category: "Law & Society",
@@ -2314,6 +2516,7 @@ export const Y7_WORDS = [
     related: ["Criminal Law", "Civil Law", "Court"],
   },
   {
+    type: "know-it",
     term: "Civil Law",
     year: 7,
     category: "Law & Society",
@@ -2325,6 +2528,7 @@ export const Y7_WORDS = [
     related: ["Criminal Law", "Court", "Law"],
   },
   {
+    type: "know-it",
     term: "Criminal Law",
     year: 7,
     category: "Law & Society",
@@ -2341,6 +2545,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Design Brief",
     year: 7,
     category: "Design & Production",
@@ -2352,6 +2557,7 @@ export const Y7_WORDS = [
     related: ["Specification", "Prototype", "Constraint"],
   },
   {
+    type: "know-it",
     term: "Specification",
     year: 7,
     category: "Design & Production",
@@ -2363,6 +2569,7 @@ export const Y7_WORDS = [
     related: ["Design Brief", "Evaluate", "Constraint"],
   },
   {
+    type: "know-it",
     term: "Prototype",
     year: 7,
     category: "Design & Production",
@@ -2374,6 +2581,7 @@ export const Y7_WORDS = [
     related: ["Evaluate", "Design Brief", "Material"],
   },
   {
+    type: "know-it",
     term: "Evaluate",
     year: 7,
     category: "Design & Production",
@@ -2385,6 +2593,7 @@ export const Y7_WORDS = [
     related: ["Prototype", "Specification", "Quality"],
   },
   {
+    type: "know-it",
     term: "Material",
     year: 7,
     category: "Design & Production",
@@ -2396,6 +2605,7 @@ export const Y7_WORDS = [
     related: ["Tool", "Sustainability", "Manufacturing"],
   },
   {
+    type: "know-it",
     term: "Tool",
     year: 7,
     category: "Design & Production",
@@ -2407,6 +2617,7 @@ export const Y7_WORDS = [
     related: ["Safety", "Material", "Quality"],
   },
   {
+    type: "know-it",
     term: "Safety",
     year: 7,
     category: "Design & Production",
@@ -2418,6 +2629,7 @@ export const Y7_WORDS = [
     related: ["Tool", "Material", "Ergonomics"],
   },
   {
+    type: "know-it",
     term: "Ergonomics",
     year: 7,
     category: "Design & Production",
@@ -2429,6 +2641,7 @@ export const Y7_WORDS = [
     related: ["Design Brief", "Evaluate", "Quality"],
   },
   {
+    type: "know-it",
     term: "Sustainability",
     year: 7,
     category: "Design & Production",
@@ -2440,6 +2653,7 @@ export const Y7_WORDS = [
     related: ["Material", "Manufacturing", "Constraint"],
   },
   {
+    type: "know-it",
     term: "Manufacturing",
     year: 7,
     category: "Design & Production",
@@ -2451,6 +2665,7 @@ export const Y7_WORDS = [
     related: ["Material", "Quality", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Quality",
     year: 7,
     category: "Design & Production",
@@ -2462,6 +2677,7 @@ export const Y7_WORDS = [
     related: ["Evaluate", "Manufacturing", "Specification"],
   },
   {
+    type: "know-it",
     term: "Constraint",
     year: 7,
     category: "Design & Production",
@@ -2478,6 +2694,7 @@ export const Y7_WORDS = [
   // ═══════════════════════════════════════════════════════════════════════════
 
   {
+    type: "know-it",
     term: "Algorithm",
     year: 7,
     category: "Digital Technologies",
@@ -2489,6 +2706,7 @@ export const Y7_WORDS = [
     related: ["Program", "Variable", "Loop"],
   },
   {
+    type: "know-it",
     term: "Input",
     year: 7,
     category: "Digital Technologies",
@@ -2500,6 +2718,7 @@ export const Y7_WORDS = [
     related: ["Output", "Data", "Program"],
   },
   {
+    type: "know-it",
     term: "Output",
     year: 7,
     category: "Digital Technologies",
@@ -2511,6 +2730,7 @@ export const Y7_WORDS = [
     related: ["Input", "Data", "Program"],
   },
   {
+    type: "know-it",
     term: "Data",
     year: 7,
     category: "Digital Technologies",
@@ -2522,6 +2742,7 @@ export const Y7_WORDS = [
     related: ["Input", "Output", "Binary"],
   },
   {
+    type: "know-it",
     term: "Variable",
     year: 7,
     category: "Digital Technologies",
@@ -2533,6 +2754,7 @@ export const Y7_WORDS = [
     related: ["Loop", "Condition", "Algorithm"],
   },
   {
+    type: "know-it",
     term: "Loop",
     year: 7,
     category: "Digital Technologies",
@@ -2544,6 +2766,7 @@ export const Y7_WORDS = [
     related: ["Variable", "Condition", "Algorithm"],
   },
   {
+    type: "know-it",
     term: "Condition",
     year: 7,
     category: "Digital Technologies",
@@ -2555,6 +2778,7 @@ export const Y7_WORDS = [
     related: ["Variable", "Loop", "Debug"],
   },
   {
+    type: "know-it",
     term: "Debug",
     year: 7,
     category: "Digital Technologies",
@@ -2566,6 +2790,7 @@ export const Y7_WORDS = [
     related: ["Program", "Condition", "Variable"],
   },
   {
+    type: "know-it",
     term: "Program",
     year: 7,
     category: "Digital Technologies",
@@ -2577,6 +2802,7 @@ export const Y7_WORDS = [
     related: ["Algorithm", "Debug", "Input"],
   },
   {
+    type: "know-it",
     term: "Binary",
     year: 7,
     category: "Digital Technologies",
@@ -2588,6 +2814,7 @@ export const Y7_WORDS = [
     related: ["Data", "Network", "Program"],
   },
   {
+    type: "know-it",
     term: "Network",
     year: 7,
     category: "Digital Technologies",
@@ -2599,6 +2826,7 @@ export const Y7_WORDS = [
     related: ["Cybersecurity", "Data", "Binary"],
   },
   {
+    type: "know-it",
     term: "Cybersecurity",
     year: 7,
     category: "Digital Technologies",

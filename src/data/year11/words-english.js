@@ -7,6 +7,7 @@ export const Y11_ENGLISH = [
   // ── READING TEXTS (15 terms) ───────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Close Reading",
     year: 11,
     category: "Reading Texts",
@@ -18,6 +19,7 @@ export const Y11_ENGLISH = [
     related: ["Annotation", "Textual Features", "Critical Reading"],
   },
   {
+    type: "know-it",
     term: "Annotation",
     year: 11,
     category: "Reading Texts",
@@ -29,6 +31,7 @@ export const Y11_ENGLISH = [
     related: ["Close Reading", "Textual Features", "Critical Reading"],
   },
   {
+    type: "know-it",
     term: "Textual Features",
     year: 11,
     category: "Reading Texts",
@@ -40,6 +43,7 @@ export const Y11_ENGLISH = [
     related: ["Close Reading", "Genre Conventions", "Representation"],
   },
   {
+    type: "know-it",
     term: "Narrative Perspective",
     year: 11,
     category: "Reading Texts",
@@ -51,6 +55,7 @@ export const Y11_ENGLISH = [
     related: ["Characterisation", "Point of View", "Unreliable Narrator"],
   },
   {
+    type: "know-it",
     term: "Characterisation",
     year: 11,
     category: "Reading Texts",
@@ -62,6 +67,7 @@ export const Y11_ENGLISH = [
     related: ["Narrative Perspective", "Setting", "Conflict"],
   },
   {
+    type: "know-it",
     term: "Setting",
     year: 11,
     category: "Reading Texts",
@@ -73,6 +79,7 @@ export const Y11_ENGLISH = [
     related: ["Characterisation", "Conflict", "Context"],
   },
   {
+    type: "know-it",
     term: "Plot Structure",
     year: 11,
     category: "Reading Texts",
@@ -84,6 +91,7 @@ export const Y11_ENGLISH = [
     related: ["Conflict", "Resolution", "Pacing"],
   },
   {
+    type: "know-it",
     term: "Conflict",
     year: 11,
     category: "Reading Texts",
@@ -95,6 +103,7 @@ export const Y11_ENGLISH = [
     related: ["Resolution", "Plot Structure", "Characterisation"],
   },
   {
+    type: "know-it",
     term: "Resolution",
     year: 11,
     category: "Reading Texts",
@@ -106,6 +115,7 @@ export const Y11_ENGLISH = [
     related: ["Conflict", "Plot Structure", "Denouement"],
   },
   {
+    type: "know-it",
     term: "Genre Conventions",
     year: 11,
     category: "Reading Texts",
@@ -117,6 +127,7 @@ export const Y11_ENGLISH = [
     related: ["Textual Features", "Context", "Audience"],
   },
   {
+    type: "know-it",
     term: "Context",
     year: 11,
     category: "Reading Texts",
@@ -128,6 +139,7 @@ export const Y11_ENGLISH = [
     related: ["Audience", "Purpose", "Representation"],
   },
   {
+    type: "know-it",
     term: "Audience",
     year: 11,
     category: "Reading Texts",
@@ -139,6 +151,7 @@ export const Y11_ENGLISH = [
     related: ["Purpose", "Context", "Representation"],
   },
   {
+    type: "know-it",
     term: "Purpose",
     year: 11,
     category: "Reading Texts",
@@ -150,6 +163,7 @@ export const Y11_ENGLISH = [
     related: ["Audience", "Context", "Representation"],
   },
   {
+    type: "know-it",
     term: "Representation",
     year: 11,
     category: "Reading Texts",
@@ -161,6 +175,7 @@ export const Y11_ENGLISH = [
     related: ["Context", "Critical Reading", "Audience"],
   },
   {
+    type: "know-it",
     term: "Critical Reading",
     year: 11,
     category: "Reading Texts",
@@ -175,6 +190,7 @@ export const Y11_ENGLISH = [
   // ── CRAFTING TEXTS (15 terms) ──────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Creative Writing",
     year: 11,
     category: "Crafting Texts",
@@ -186,6 +202,7 @@ export const Y11_ENGLISH = [
     related: ["Imaginative Response", "Narrative Voice", "Sensory Detail"],
   },
   {
+    type: "know-it",
     term: "Imaginative Response",
     year: 11,
     category: "Crafting Texts",
@@ -197,6 +214,7 @@ export const Y11_ENGLISH = [
     related: ["Creative Writing", "Stylistic Appropriation", "Narrative Voice"],
   },
   {
+    type: "know-it",
     term: "Narrative Voice",
     year: 11,
     category: "Crafting Texts",
@@ -208,6 +226,7 @@ export const Y11_ENGLISH = [
     related: ["Point of View", "Dialogue", "Pacing"],
   },
   {
+    type: "know-it",
     term: "Point of View",
     year: 11,
     category: "Crafting Texts",
@@ -219,6 +238,7 @@ export const Y11_ENGLISH = [
     related: ["Narrative Voice", "Narrative Perspective", "Dialogue"],
   },
   {
+    type: "know-it",
     term: "Dialogue",
     year: 11,
     category: "Crafting Texts",
@@ -230,6 +250,7 @@ export const Y11_ENGLISH = [
     related: ["Characterisation", "Tension", "Sensory Detail"],
   },
   {
+    type: "know-it",
     term: "Sensory Detail",
     year: 11,
     category: "Crafting Texts",
@@ -241,6 +262,7 @@ export const Y11_ENGLISH = [
     related: ["Figurative Language", "Creative Writing", "Pacing"],
   },
   {
+    type: "know-it",
     term: "Figurative Language",
     year: 11,
     category: "Crafting Texts",
@@ -252,6 +274,7 @@ export const Y11_ENGLISH = [
     related: ["Sensory Detail", "Extended Metaphor", "Symbolism"],
   },
   {
+    type: "know-it",
     term: "Pacing",
     year: 11,
     category: "Crafting Texts",
@@ -263,6 +286,7 @@ export const Y11_ENGLISH = [
     related: ["Tension", "Denouement", "Plot Structure"],
   },
   {
+    type: "know-it",
     term: "Tension",
     year: 11,
     category: "Crafting Texts",
@@ -274,6 +298,7 @@ export const Y11_ENGLISH = [
     related: ["Pacing", "Conflict", "Denouement"],
   },
   {
+    type: "know-it",
     term: "Denouement",
     year: 11,
     category: "Crafting Texts",
@@ -285,6 +310,7 @@ export const Y11_ENGLISH = [
     related: ["Resolution", "Tension", "Pacing"],
   },
   {
+    type: "know-it",
     term: "Drafting",
     year: 11,
     category: "Crafting Texts",
@@ -296,6 +322,7 @@ export const Y11_ENGLISH = [
     related: ["Editing", "Peer Review", "Portfolio"],
   },
   {
+    type: "know-it",
     term: "Editing",
     year: 11,
     category: "Crafting Texts",
@@ -307,6 +334,7 @@ export const Y11_ENGLISH = [
     related: ["Drafting", "Peer Review", "Portfolio"],
   },
   {
+    type: "know-it",
     term: "Peer Review",
     year: 11,
     category: "Crafting Texts",
@@ -318,6 +346,7 @@ export const Y11_ENGLISH = [
     related: ["Drafting", "Editing", "Portfolio"],
   },
   {
+    type: "know-it",
     term: "Stylistic Appropriation",
     year: 11,
     category: "Crafting Texts",
@@ -329,6 +358,7 @@ export const Y11_ENGLISH = [
     related: ["Imaginative Response", "Narrative Voice", "Intertextuality"],
   },
   {
+    type: "know-it",
     term: "Portfolio",
     year: 11,
     category: "Crafting Texts",
@@ -343,6 +373,7 @@ export const Y11_ENGLISH = [
   // ── LITERARY TECHNIQUES (15 terms) ─────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Allegory",
     year: 11,
     category: "Literary Techniques",
@@ -354,6 +385,7 @@ export const Y11_ENGLISH = [
     related: ["Extended Metaphor", "Symbolism", "Satire"],
   },
   {
+    type: "know-it",
     term: "Extended Metaphor",
     year: 11,
     category: "Literary Techniques",
@@ -365,6 +397,7 @@ export const Y11_ENGLISH = [
     related: ["Symbolism", "Allegory", "Motif"],
   },
   {
+    type: "know-it",
     term: "Symbolism",
     year: 11,
     category: "Literary Techniques",
@@ -376,6 +409,7 @@ export const Y11_ENGLISH = [
     related: ["Motif", "Extended Metaphor", "Allegory"],
   },
   {
+    type: "know-it",
     term: "Motif",
     year: 11,
     category: "Literary Techniques",
@@ -387,6 +421,7 @@ export const Y11_ENGLISH = [
     related: ["Symbolism", "Extended Metaphor", "Juxtaposition"],
   },
   {
+    type: "know-it",
     term: "Irony",
     year: 11,
     category: "Literary Techniques",
@@ -398,6 +433,7 @@ export const Y11_ENGLISH = [
     related: ["Satire", "Juxtaposition", "Unreliable Narrator"],
   },
   {
+    type: "know-it",
     term: "Satire",
     year: 11,
     category: "Literary Techniques",
@@ -409,6 +445,7 @@ export const Y11_ENGLISH = [
     related: ["Irony", "Parody", "Allegory"],
   },
   {
+    type: "know-it",
     term: "Parody",
     year: 11,
     category: "Literary Techniques",
@@ -420,6 +457,7 @@ export const Y11_ENGLISH = [
     related: ["Satire", "Irony", "Intertextuality"],
   },
   {
+    type: "know-it",
     term: "Juxtaposition",
     year: 11,
     category: "Literary Techniques",
@@ -431,6 +469,7 @@ export const Y11_ENGLISH = [
     related: ["Contrast", "Irony", "Motif"],
   },
   {
+    type: "know-it",
     term: "Contrast",
     year: 11,
     category: "Literary Techniques",
@@ -442,6 +481,7 @@ export const Y11_ENGLISH = [
     related: ["Juxtaposition", "Characterisation", "Setting"],
   },
   {
+    type: "know-it",
     term: "Allusion",
     year: 11,
     category: "Literary Techniques",
@@ -453,6 +493,7 @@ export const Y11_ENGLISH = [
     related: ["Intertextuality", "Symbolism", "Extended Metaphor"],
   },
   {
+    type: "know-it",
     term: "Intertextuality",
     year: 11,
     category: "Literary Techniques",
@@ -464,6 +505,7 @@ export const Y11_ENGLISH = [
     related: ["Allusion", "Parody", "Stylistic Appropriation"],
   },
   {
+    type: "know-it",
     term: "Stream of Consciousness",
     year: 11,
     category: "Literary Techniques",
@@ -475,6 +517,7 @@ export const Y11_ENGLISH = [
     related: ["Free Indirect Discourse", "Narrative Perspective", "Unreliable Narrator"],
   },
   {
+    type: "know-it",
     term: "Free Indirect Discourse",
     year: 11,
     category: "Literary Techniques",
@@ -486,6 +529,7 @@ export const Y11_ENGLISH = [
     related: ["Stream of Consciousness", "Narrative Perspective", "Narrative Voice"],
   },
   {
+    type: "know-it",
     term: "Unreliable Narrator",
     year: 11,
     category: "Literary Techniques",
@@ -497,6 +541,7 @@ export const Y11_ENGLISH = [
     related: ["Narrative Perspective", "Irony", "Stream of Consciousness"],
   },
   {
+    type: "know-it",
     term: "Pathetic Fallacy",
     year: 11,
     category: "Literary Techniques",
@@ -511,6 +556,7 @@ export const Y11_ENGLISH = [
   // ── ANALYTICAL WRITING (15 terms) ──────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Thesis Statement",
     year: 11,
     category: "Analytical Writing",
@@ -522,6 +568,7 @@ export const Y11_ENGLISH = [
     related: ["Topic Sentence", "Sustained Argument", "Evaluative Language"],
   },
   {
+    type: "know-it",
     term: "Topic Sentence",
     year: 11,
     category: "Analytical Writing",
@@ -533,6 +580,7 @@ export const Y11_ENGLISH = [
     related: ["Thesis Statement", "Analysis Paragraph", "Cohesion"],
   },
   {
+    type: "know-it",
     term: "Textual Evidence",
     year: 11,
     category: "Analytical Writing",
@@ -544,6 +592,7 @@ export const Y11_ENGLISH = [
     related: ["Integrated Quotation", "Analysis Paragraph", "Metalanguage"],
   },
   {
+    type: "know-it",
     term: "Integrated Quotation",
     year: 11,
     category: "Analytical Writing",
@@ -555,6 +604,7 @@ export const Y11_ENGLISH = [
     related: ["Textual Evidence", "Analysis Paragraph", "Academic Register"],
   },
   {
+    type: "know-it",
     term: "Analysis Paragraph",
     year: 11,
     category: "Analytical Writing",
@@ -566,6 +616,7 @@ export const Y11_ENGLISH = [
     related: ["Topic Sentence", "Textual Evidence", "Cohesion"],
   },
   {
+    type: "know-it",
     term: "Evaluative Language",
     year: 11,
     category: "Analytical Writing",
@@ -577,6 +628,7 @@ export const Y11_ENGLISH = [
     related: ["Academic Register", "Modality", "Metalanguage"],
   },
   {
+    type: "know-it",
     term: "Modality",
     year: 11,
     category: "Analytical Writing",
@@ -588,6 +640,7 @@ export const Y11_ENGLISH = [
     related: ["Hedging", "Evaluative Language", "Academic Register"],
   },
   {
+    type: "know-it",
     term: "Hedging",
     year: 11,
     category: "Analytical Writing",
@@ -599,6 +652,7 @@ export const Y11_ENGLISH = [
     related: ["Modality", "Evaluative Language", "Academic Register"],
   },
   {
+    type: "know-it",
     term: "Academic Register",
     year: 11,
     category: "Analytical Writing",
@@ -610,6 +664,7 @@ export const Y11_ENGLISH = [
     related: ["Evaluative Language", "Metalanguage", "Cohesion"],
   },
   {
+    type: "know-it",
     term: "Cohesion",
     year: 11,
     category: "Analytical Writing",
@@ -621,6 +676,7 @@ export const Y11_ENGLISH = [
     related: ["Coherence", "Topic Sentence", "Analysis Paragraph"],
   },
   {
+    type: "know-it",
     term: "Coherence",
     year: 11,
     category: "Analytical Writing",
@@ -632,6 +688,7 @@ export const Y11_ENGLISH = [
     related: ["Cohesion", "Sustained Argument", "Thesis Statement"],
   },
   {
+    type: "know-it",
     term: "Discursive Writing",
     year: 11,
     category: "Analytical Writing",
@@ -643,6 +700,7 @@ export const Y11_ENGLISH = [
     related: ["Comparative Essay", "Sustained Argument", "Hedging"],
   },
   {
+    type: "know-it",
     term: "Comparative Essay",
     year: 11,
     category: "Analytical Writing",
@@ -654,6 +712,7 @@ export const Y11_ENGLISH = [
     related: ["Discursive Writing", "Thesis Statement", "Sustained Argument"],
   },
   {
+    type: "know-it",
     term: "Sustained Argument",
     year: 11,
     category: "Analytical Writing",
@@ -665,6 +724,7 @@ export const Y11_ENGLISH = [
     related: ["Thesis Statement", "Coherence", "Topic Sentence"],
   },
   {
+    type: "know-it",
     term: "Metalanguage",
     year: 11,
     category: "Analytical Writing",

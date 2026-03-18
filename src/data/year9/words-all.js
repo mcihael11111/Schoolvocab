@@ -10,6 +10,7 @@ export const Y9_WORDS = [
 
   // ── Reading & Comprehension (12) ────────────────────────────────────────
   {
+    type: "know-it",
     term: "Intertextuality",
     year: 9,
     category: "Reading & Comprehension",
@@ -21,6 +22,7 @@ export const Y9_WORDS = [
     related: ["Allusion", "Appropriation", "Context"],
   },
   {
+    type: "know-it",
     term: "Deconstruction",
     year: 9,
     category: "Reading & Comprehension",
@@ -32,6 +34,7 @@ export const Y9_WORDS = [
     related: ["Critical Literacy", "Ideology", "Positioning"],
   },
   {
+    type: "know-it",
     term: "Representation",
     year: 9,
     category: "Reading & Comprehension",
@@ -43,6 +46,7 @@ export const Y9_WORDS = [
     related: ["Stereotype", "Marginalisation", "Positioning"],
   },
   {
+    type: "know-it",
     term: "Ideology",
     year: 9,
     category: "Reading & Comprehension",
@@ -54,6 +58,7 @@ export const Y9_WORDS = [
     related: ["Values", "Hegemony", "Discourse"],
   },
   {
+    type: "know-it",
     term: "Positioning",
     year: 9,
     category: "Reading & Comprehension",
@@ -65,6 +70,7 @@ export const Y9_WORDS = [
     related: ["Representation", "Persuasion", "Modality"],
   },
   {
+    type: "know-it",
     term: "Discourse",
     year: 9,
     category: "Reading & Comprehension",
@@ -76,6 +82,7 @@ export const Y9_WORDS = [
     related: ["Ideology", "Register", "Context"],
   },
   {
+    type: "know-it",
     term: "Modality",
     year: 9,
     category: "Reading & Comprehension",
@@ -87,6 +94,7 @@ export const Y9_WORDS = [
     related: ["Persuasion", "Evaluative Language", "Hedging"],
   },
   {
+    type: "know-it",
     term: "Contextualisation",
     year: 9,
     category: "Reading & Comprehension",
@@ -98,6 +106,7 @@ export const Y9_WORDS = [
     related: ["Context", "Historical Context", "Social Context"],
   },
   {
+    type: "know-it",
     term: "Marginalisation",
     year: 9,
     category: "Reading & Comprehension",
@@ -109,6 +118,7 @@ export const Y9_WORDS = [
     related: ["Representation", "Hegemony", "Subversion"],
   },
   {
+    type: "know-it",
     term: "Subversion",
     year: 9,
     category: "Reading & Comprehension",
@@ -120,6 +130,7 @@ export const Y9_WORDS = [
     related: ["Convention", "Parody", "Satire"],
   },
   {
+    type: "know-it",
     term: "Hegemony",
     year: 9,
     category: "Reading & Comprehension",
@@ -131,6 +142,7 @@ export const Y9_WORDS = [
     related: ["Ideology", "Marginalisation", "Discourse"],
   },
   {
+    type: "know-it",
     term: "Authenticity",
     year: 9,
     category: "Reading & Comprehension",
@@ -144,6 +156,7 @@ export const Y9_WORDS = [
 
   // ── Writing & Composition (12) ──────────────────────────────────────────
   {
+    type: "know-it",
     term: "Discursive",
     year: 9,
     category: "Writing & Composition",
@@ -155,6 +168,7 @@ export const Y9_WORDS = [
     related: ["Argument", "Counterargument", "Balanced"],
   },
   {
+    type: "know-it",
     term: "Polemic",
     year: 9,
     category: "Writing & Composition",
@@ -166,6 +180,7 @@ export const Y9_WORDS = [
     related: ["Rhetoric", "Persuasion", "Bias"],
   },
   {
+    type: "know-it",
     term: "Synthesis",
     year: 9,
     category: "Writing & Composition",
@@ -177,6 +192,7 @@ export const Y9_WORDS = [
     related: ["Analysis", "Integration", "Critical Response"],
   },
   {
+    type: "know-it",
     term: "Attribution",
     year: 9,
     category: "Writing & Composition",
@@ -188,6 +204,7 @@ export const Y9_WORDS = [
     related: ["Referencing", "Citation", "Plagiarism"],
   },
   {
+    type: "know-it",
     term: "Academic Register",
     year: 9,
     category: "Writing & Composition",
@@ -199,6 +216,7 @@ export const Y9_WORDS = [
     related: ["Formal Language", "Tone", "Metalanguage"],
   },
   {
+    type: "know-it",
     term: "Critical Response",
     year: 9,
     category: "Writing & Composition",
@@ -210,6 +228,7 @@ export const Y9_WORDS = [
     related: ["Analysis", "Evaluation", "Thesis"],
   },
   {
+    type: "know-it",
     term: "Textual Integrity",
     year: 9,
     category: "Writing & Composition",
@@ -221,6 +240,7 @@ export const Y9_WORDS = [
     related: ["Coherence", "Structure", "Unity"],
   },
   {
+    type: "know-it",
     term: "Sustained Argument",
     year: 9,
     category: "Writing & Composition",
@@ -232,6 +252,7 @@ export const Y9_WORDS = [
     related: ["Thesis", "Topic Sentence", "Coherence"],
   },
   {
+    type: "know-it",
     term: "Evaluative Language",
     year: 9,
     category: "Writing & Composition",
@@ -243,6 +264,7 @@ export const Y9_WORDS = [
     related: ["Modality", "Academic Register", "Analysis"],
   },
   {
+    type: "know-it",
     term: "Qualifying Language",
     year: 9,
     category: "Writing & Composition",
@@ -254,6 +276,7 @@ export const Y9_WORDS = [
     related: ["Hedging", "Modality", "Nuance"],
   },
   {
+    type: "know-it",
     term: "Hedging",
     year: 9,
     category: "Writing & Composition",
@@ -265,6 +288,7 @@ export const Y9_WORDS = [
     related: ["Qualifying Language", "Modality", "Academic Register"],
   },
   {
+    type: "know-it",
     term: "Metalanguage",
     year: 9,
     category: "Writing & Composition",
@@ -278,6 +302,7 @@ export const Y9_WORDS = [
 
   // ── Language Features (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Allegory",
     year: 9,
     category: "Language Features",
@@ -289,6 +314,7 @@ export const Y9_WORDS = [
     related: ["Symbolism", "Fable", "Extended Metaphor"],
   },
   {
+    type: "know-it",
     term: "Paradox",
     year: 9,
     category: "Language Features",
@@ -300,6 +326,7 @@ export const Y9_WORDS = [
     related: ["Oxymoron", "Irony", "Contradiction"],
   },
   {
+    type: "know-it",
     term: "Anaphora",
     year: 9,
     category: "Language Features",
@@ -311,6 +338,7 @@ export const Y9_WORDS = [
     related: ["Repetition", "Epistrophe", "Rhetorical Device"],
   },
   {
+    type: "know-it",
     term: "Epistrophe",
     year: 9,
     category: "Language Features",
@@ -322,6 +350,7 @@ export const Y9_WORDS = [
     related: ["Anaphora", "Repetition", "Rhetorical Device"],
   },
   {
+    type: "know-it",
     term: "Synecdoche",
     year: 9,
     category: "Language Features",
@@ -333,6 +362,7 @@ export const Y9_WORDS = [
     related: ["Metonymy", "Figurative Language", "Symbolism"],
   },
   {
+    type: "know-it",
     term: "Metonymy",
     year: 9,
     category: "Language Features",
@@ -344,6 +374,7 @@ export const Y9_WORDS = [
     related: ["Synecdoche", "Figurative Language", "Symbolism"],
   },
   {
+    type: "know-it",
     term: "Catharsis",
     year: 9,
     category: "Language Features",
@@ -355,6 +386,7 @@ export const Y9_WORDS = [
     related: ["Tragedy", "Empathy", "Pathos"],
   },
   {
+    type: "know-it",
     term: "Dramatic Irony",
     year: 9,
     category: "Language Features",
@@ -366,6 +398,7 @@ export const Y9_WORDS = [
     related: ["Verbal Irony", "Situational Irony", "Suspense"],
   },
   {
+    type: "know-it",
     term: "Verbal Irony",
     year: 9,
     category: "Language Features",
@@ -377,6 +410,7 @@ export const Y9_WORDS = [
     related: ["Sarcasm", "Dramatic Irony", "Situational Irony"],
   },
   {
+    type: "know-it",
     term: "Situational Irony",
     year: 9,
     category: "Language Features",
@@ -388,6 +422,7 @@ export const Y9_WORDS = [
     related: ["Dramatic Irony", "Verbal Irony", "Twist"],
   },
   {
+    type: "know-it",
     term: "Bathos",
     year: 9,
     category: "Language Features",
@@ -399,6 +434,7 @@ export const Y9_WORDS = [
     related: ["Anticlimax", "Satire", "Irony"],
   },
   {
+    type: "know-it",
     term: "Litotes",
     year: 9,
     category: "Language Features",
@@ -416,6 +452,7 @@ export const Y9_WORDS = [
 
   // ── Number & Algebra (12) ───────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Quadratic Expression",
     year: 9,
     category: "Number & Algebra",
@@ -427,6 +464,7 @@ export const Y9_WORDS = [
     related: ["Factorisation", "Completing the Square", "Polynomial"],
   },
   {
+    type: "know-it",
     term: "Factorisation",
     year: 9,
     category: "Number & Algebra",
@@ -438,6 +476,7 @@ export const Y9_WORDS = [
     related: ["Expanding", "Quadratic Expression", "Common Factor"],
   },
   {
+    type: "know-it",
     term: "Completing the Square",
     year: 9,
     category: "Number & Algebra",
@@ -449,6 +488,7 @@ export const Y9_WORDS = [
     related: ["Quadratic Expression", "Factorisation", "Turning Point"],
   },
   {
+    type: "know-it",
     term: "Simultaneous Equations",
     year: 9,
     category: "Number & Algebra",
@@ -460,6 +500,7 @@ export const Y9_WORDS = [
     related: ["Substitution", "Elimination", "Linear Equation"],
   },
   {
+    type: "know-it",
     term: "Exponential Notation",
     year: 9,
     category: "Number & Algebra",
@@ -471,6 +512,7 @@ export const Y9_WORDS = [
     related: ["Index Laws", "Scientific Notation", "Base"],
   },
   {
+    type: "know-it",
     term: "Surds",
     year: 9,
     category: "Number & Algebra",
@@ -482,6 +524,7 @@ export const Y9_WORDS = [
     related: ["Irrational Number", "Simplification", "Square Root"],
   },
   {
+    type: "know-it",
     term: "Index Laws",
     year: 9,
     category: "Number & Algebra",
@@ -493,6 +536,7 @@ export const Y9_WORDS = [
     related: ["Exponential Notation", "Base", "Exponent"],
   },
   {
+    type: "know-it",
     term: "Polynomial",
     year: 9,
     category: "Number & Algebra",
@@ -504,6 +548,7 @@ export const Y9_WORDS = [
     related: ["Quadratic Expression", "Coefficient", "Degree"],
   },
   {
+    type: "know-it",
     term: "Expanding",
     year: 9,
     category: "Number & Algebra",
@@ -515,6 +560,7 @@ export const Y9_WORDS = [
     related: ["Factorisation", "Distributive Law", "Brackets"],
   },
   {
+    type: "know-it",
     term: "Coefficient",
     year: 9,
     category: "Number & Algebra",
@@ -526,6 +572,7 @@ export const Y9_WORDS = [
     related: ["Constant Term", "Variable", "Like Terms"],
   },
   {
+    type: "know-it",
     term: "Constant Term",
     year: 9,
     category: "Number & Algebra",
@@ -537,6 +584,7 @@ export const Y9_WORDS = [
     related: ["Coefficient", "Variable", "Expression"],
   },
   {
+    type: "know-it",
     term: "Subject of a Formula",
     year: 9,
     category: "Number & Algebra",
@@ -550,6 +598,7 @@ export const Y9_WORDS = [
 
   // ── Measurement & Geometry (12) ─────────────────────────────────────────
   {
+    type: "know-it",
     term: "Trigonometric Ratio",
     year: 9,
     category: "Measurement & Geometry",
@@ -561,6 +610,7 @@ export const Y9_WORDS = [
     related: ["Sine", "Cosine", "Tangent"],
   },
   {
+    type: "know-it",
     term: "Sine",
     year: 9,
     category: "Measurement & Geometry",
@@ -572,6 +622,7 @@ export const Y9_WORDS = [
     related: ["Cosine", "Tangent", "Trigonometric Ratio"],
   },
   {
+    type: "know-it",
     term: "Cosine",
     year: 9,
     category: "Measurement & Geometry",
@@ -583,6 +634,7 @@ export const Y9_WORDS = [
     related: ["Sine", "Tangent", "Trigonometric Ratio"],
   },
   {
+    type: "know-it",
     term: "Tangent",
     year: 9,
     category: "Measurement & Geometry",
@@ -594,6 +646,7 @@ export const Y9_WORDS = [
     related: ["Sine", "Cosine", "Trigonometric Ratio"],
   },
   {
+    type: "know-it",
     term: "Angle of Elevation",
     year: 9,
     category: "Measurement & Geometry",
@@ -605,6 +658,7 @@ export const Y9_WORDS = [
     related: ["Angle of Depression", "Trigonometric Ratio", "Tangent"],
   },
   {
+    type: "know-it",
     term: "Angle of Depression",
     year: 9,
     category: "Measurement & Geometry",
@@ -616,6 +670,7 @@ export const Y9_WORDS = [
     related: ["Angle of Elevation", "Trigonometric Ratio", "Alternate Angles"],
   },
   {
+    type: "know-it",
     term: "Composite Solid",
     year: 9,
     category: "Measurement & Geometry",
@@ -627,6 +682,7 @@ export const Y9_WORDS = [
     related: ["Volume", "Surface Area", "Prism"],
   },
   {
+    type: "know-it",
     term: "Capacity",
     year: 9,
     category: "Measurement & Geometry",
@@ -638,6 +694,7 @@ export const Y9_WORDS = [
     related: ["Volume", "Unit Conversion", "Litres"],
   },
   {
+    type: "know-it",
     term: "Unit Conversion",
     year: 9,
     category: "Measurement & Geometry",
@@ -649,6 +706,7 @@ export const Y9_WORDS = [
     related: ["Capacity", "Metric System", "Significant Figures"],
   },
   {
+    type: "know-it",
     term: "Similar Triangles",
     year: 9,
     category: "Measurement & Geometry",
@@ -660,6 +718,7 @@ export const Y9_WORDS = [
     related: ["Scale Factor", "Proportion", "Congruence"],
   },
   {
+    type: "know-it",
     term: "Scale Factor",
     year: 9,
     category: "Measurement & Geometry",
@@ -671,6 +730,7 @@ export const Y9_WORDS = [
     related: ["Similar Triangles", "Enlargement", "Proportion"],
   },
   {
+    type: "know-it",
     term: "Significant Figures",
     year: 9,
     category: "Measurement & Geometry",
@@ -684,6 +744,7 @@ export const Y9_WORDS = [
 
   // ── Statistics & Probability (12) ───────────────────────────────────────
   {
+    type: "know-it",
     term: "Stratified Sampling",
     year: 9,
     category: "Statistics & Probability",
@@ -695,6 +756,7 @@ export const Y9_WORDS = [
     related: ["Systematic Sampling", "Population", "Sample Size"],
   },
   {
+    type: "know-it",
     term: "Histogram",
     year: 9,
     category: "Statistics & Probability",
@@ -706,6 +768,7 @@ export const Y9_WORDS = [
     related: ["Frequency", "Distribution", "Bar Chart"],
   },
   {
+    type: "know-it",
     term: "Cumulative Frequency",
     year: 9,
     category: "Statistics & Probability",
@@ -717,6 +780,7 @@ export const Y9_WORDS = [
     related: ["Histogram", "Median", "Percentile"],
   },
   {
+    type: "know-it",
     term: "Standard Deviation",
     year: 9,
     category: "Statistics & Probability",
@@ -728,6 +792,7 @@ export const Y9_WORDS = [
     related: ["Mean", "Variance", "Spread"],
   },
   {
+    type: "know-it",
     term: "Normal Distribution",
     year: 9,
     category: "Statistics & Probability",
@@ -739,6 +804,7 @@ export const Y9_WORDS = [
     related: ["Standard Deviation", "Mean", "Bell Curve"],
   },
   {
+    type: "know-it",
     term: "Conditional Probability",
     year: 9,
     category: "Statistics & Probability",
@@ -750,6 +816,7 @@ export const Y9_WORDS = [
     related: ["Tree Diagram", "Dependent Events", "Probability"],
   },
   {
+    type: "know-it",
     term: "Tree Diagram",
     year: 9,
     category: "Statistics & Probability",
@@ -761,6 +828,7 @@ export const Y9_WORDS = [
     related: ["Conditional Probability", "Sample Space", "Outcome"],
   },
   {
+    type: "know-it",
     term: "Expected Value",
     year: 9,
     category: "Statistics & Probability",
@@ -772,6 +840,7 @@ export const Y9_WORDS = [
     related: ["Probability", "Mean", "Random Variable"],
   },
   {
+    type: "know-it",
     term: "Systematic Sampling",
     year: 9,
     category: "Statistics & Probability",
@@ -783,6 +852,7 @@ export const Y9_WORDS = [
     related: ["Stratified Sampling", "Random Sampling", "Population"],
   },
   {
+    type: "know-it",
     term: "Population",
     year: 9,
     category: "Statistics & Probability",
@@ -794,6 +864,7 @@ export const Y9_WORDS = [
     related: ["Sample Size", "Census", "Sampling"],
   },
   {
+    type: "know-it",
     term: "Sample Size",
     year: 9,
     category: "Statistics & Probability",
@@ -805,6 +876,7 @@ export const Y9_WORDS = [
     related: ["Population", "Reliability", "Bias"],
   },
   {
+    type: "know-it",
     term: "Misrepresentation",
     year: 9,
     category: "Statistics & Probability",
@@ -822,6 +894,7 @@ export const Y9_WORDS = [
 
   // ── Biological Sciences (12) ────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Homeostasis",
     year: 9,
     category: "Biological Sciences",
@@ -833,6 +906,7 @@ export const Y9_WORDS = [
     related: ["Feedback Loop", "Stimulus", "Response"],
   },
   {
+    type: "know-it",
     term: "Nervous System",
     year: 9,
     category: "Biological Sciences",
@@ -844,6 +918,7 @@ export const Y9_WORDS = [
     related: ["Stimulus", "Receptor", "Response"],
   },
   {
+    type: "know-it",
     term: "Endocrine System",
     year: 9,
     category: "Biological Sciences",
@@ -855,6 +930,7 @@ export const Y9_WORDS = [
     related: ["Hormone", "Homeostasis", "Gland"],
   },
   {
+    type: "know-it",
     term: "Hormone",
     year: 9,
     category: "Biological Sciences",
@@ -866,6 +942,7 @@ export const Y9_WORDS = [
     related: ["Endocrine System", "Gland", "Receptor"],
   },
   {
+    type: "know-it",
     term: "Receptor",
     year: 9,
     category: "Biological Sciences",
@@ -877,6 +954,7 @@ export const Y9_WORDS = [
     related: ["Stimulus", "Nervous System", "Response"],
   },
   {
+    type: "know-it",
     term: "Response",
     year: 9,
     category: "Biological Sciences",
@@ -888,6 +966,7 @@ export const Y9_WORDS = [
     related: ["Stimulus", "Receptor", "Effector"],
   },
   {
+    type: "know-it",
     term: "Stimulus",
     year: 9,
     category: "Biological Sciences",
@@ -899,6 +978,7 @@ export const Y9_WORDS = [
     related: ["Receptor", "Response", "Homeostasis"],
   },
   {
+    type: "know-it",
     term: "Feedback Loop",
     year: 9,
     category: "Biological Sciences",
@@ -910,6 +990,7 @@ export const Y9_WORDS = [
     related: ["Homeostasis", "Regulation", "Stimulus"],
   },
   {
+    type: "know-it",
     term: "Immune System",
     year: 9,
     category: "Biological Sciences",
@@ -921,6 +1002,7 @@ export const Y9_WORDS = [
     related: ["Pathogen", "Antibody", "Vaccination"],
   },
   {
+    type: "know-it",
     term: "Pathogen",
     year: 9,
     category: "Biological Sciences",
@@ -932,6 +1014,7 @@ export const Y9_WORDS = [
     related: ["Immune System", "Antibody", "Infection"],
   },
   {
+    type: "know-it",
     term: "Antibody",
     year: 9,
     category: "Biological Sciences",
@@ -943,6 +1026,7 @@ export const Y9_WORDS = [
     related: ["Antigen", "Immune System", "Vaccination"],
   },
   {
+    type: "know-it",
     term: "Vaccination",
     year: 9,
     category: "Biological Sciences",
@@ -956,6 +1040,7 @@ export const Y9_WORDS = [
 
   // ── Chemical & Physical Sciences (12) ───────────────────────────────────
   {
+    type: "know-it",
     term: "Atomic Number",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -967,6 +1052,7 @@ export const Y9_WORDS = [
     related: ["Mass Number", "Proton", "Element"],
   },
   {
+    type: "know-it",
     term: "Mass Number",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -978,6 +1064,7 @@ export const Y9_WORDS = [
     related: ["Atomic Number", "Isotope", "Neutron"],
   },
   {
+    type: "know-it",
     term: "Isotope",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -989,6 +1076,7 @@ export const Y9_WORDS = [
     related: ["Atomic Number", "Mass Number", "Radioactivity"],
   },
   {
+    type: "know-it",
     term: "Electron Configuration",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1000,6 +1088,7 @@ export const Y9_WORDS = [
     related: ["Valence Electron", "Shell", "Periodic Table"],
   },
   {
+    type: "know-it",
     term: "Valence Electron",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1011,6 +1100,7 @@ export const Y9_WORDS = [
     related: ["Electron Configuration", "Chemical Bond", "Reactivity"],
   },
   {
+    type: "know-it",
     term: "Electronegativity",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1022,6 +1112,7 @@ export const Y9_WORDS = [
     related: ["Chemical Bond", "Ionic Bond", "Covalent Bond"],
   },
   {
+    type: "know-it",
     term: "Chemical Bond",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1033,6 +1124,7 @@ export const Y9_WORDS = [
     related: ["Ionic Bond", "Covalent Bond", "Metallic Bond"],
   },
   {
+    type: "know-it",
     term: "Ionic Bond",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1044,6 +1136,7 @@ export const Y9_WORDS = [
     related: ["Covalent Bond", "Electron Transfer", "Ion"],
   },
   {
+    type: "know-it",
     term: "Covalent Bond",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1055,6 +1148,7 @@ export const Y9_WORDS = [
     related: ["Ionic Bond", "Electron Sharing", "Molecule"],
   },
   {
+    type: "know-it",
     term: "Metallic Bond",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1066,6 +1160,7 @@ export const Y9_WORDS = [
     related: ["Ionic Bond", "Covalent Bond", "Conductivity"],
   },
   {
+    type: "know-it",
     term: "Reaction Rate",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1077,6 +1172,7 @@ export const Y9_WORDS = [
     related: ["Catalyst", "Concentration", "Temperature"],
   },
   {
+    type: "know-it",
     term: "Catalyst",
     year: 9,
     category: "Chemical & Physical Sciences",
@@ -1090,6 +1186,7 @@ export const Y9_WORDS = [
 
   // ── Earth & Space Sciences (12) ─────────────────────────────────────────
   {
+    type: "know-it",
     term: "Global Warming",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1101,6 +1198,7 @@ export const Y9_WORDS = [
     related: ["Greenhouse Effect", "Climate Change", "Carbon Cycle"],
   },
   {
+    type: "know-it",
     term: "Greenhouse Effect",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1112,6 +1210,7 @@ export const Y9_WORDS = [
     related: ["Global Warming", "Carbon Cycle", "Radiation"],
   },
   {
+    type: "know-it",
     term: "Carbon Cycle",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1123,6 +1222,7 @@ export const Y9_WORDS = [
     related: ["Greenhouse Effect", "Photosynthesis", "Combustion"],
   },
   {
+    type: "know-it",
     term: "Ozone Layer",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1134,6 +1234,7 @@ export const Y9_WORDS = [
     related: ["Ultraviolet Radiation", "Atmosphere", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Climate Change",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1145,6 +1246,7 @@ export const Y9_WORDS = [
     related: ["Global Warming", "Greenhouse Effect", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Radiation",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1156,6 +1258,7 @@ export const Y9_WORDS = [
     related: ["Convection", "Electromagnetic Spectrum", "Albedo"],
   },
   {
+    type: "know-it",
     term: "Convection",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1167,6 +1270,7 @@ export const Y9_WORDS = [
     related: ["Radiation", "Conduction", "Atmosphere"],
   },
   {
+    type: "know-it",
     term: "Albedo",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1178,6 +1282,7 @@ export const Y9_WORDS = [
     related: ["Radiation", "Greenhouse Effect", "Climate Change"],
   },
   {
+    type: "know-it",
     term: "El Niño",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1189,6 +1294,7 @@ export const Y9_WORDS = [
     related: ["La Niña", "Climate Change", "Weather Pattern"],
   },
   {
+    type: "know-it",
     term: "La Niña",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1200,6 +1306,7 @@ export const Y9_WORDS = [
     related: ["El Niño", "Climate Change", "Weather Pattern"],
   },
   {
+    type: "know-it",
     term: "Sea Level Rise",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1211,6 +1318,7 @@ export const Y9_WORDS = [
     related: ["Global Warming", "Climate Change", "Glacier"],
   },
   {
+    type: "know-it",
     term: "Sustainability",
     year: 9,
     category: "Earth & Space Sciences",
@@ -1228,6 +1336,7 @@ export const Y9_WORDS = [
 
   // ── Historical Knowledge (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "World War I",
     year: 9,
     category: "Historical Knowledge",
@@ -1239,6 +1348,7 @@ export const Y9_WORDS = [
     related: ["Gallipoli", "ANZAC", "Treaty of Versailles"],
   },
   {
+    type: "know-it",
     term: "Trench Warfare",
     year: 9,
     category: "Historical Knowledge",
@@ -1250,6 +1360,7 @@ export const Y9_WORDS = [
     related: ["World War I", "Western Front", "No Man's Land"],
   },
   {
+    type: "know-it",
     term: "Armistice",
     year: 9,
     category: "Historical Knowledge",
@@ -1261,6 +1372,7 @@ export const Y9_WORDS = [
     related: ["Treaty of Versailles", "World War I", "Remembrance Day"],
   },
   {
+    type: "know-it",
     term: "Treaty of Versailles",
     year: 9,
     category: "Historical Knowledge",
@@ -1272,6 +1384,7 @@ export const Y9_WORDS = [
     related: ["Armistice", "World War I", "Reparations"],
   },
   {
+    type: "know-it",
     term: "Nationalism",
     year: 9,
     category: "Historical Knowledge",
@@ -1283,6 +1396,7 @@ export const Y9_WORDS = [
     related: ["Imperialism", "Propaganda", "Patriotism"],
   },
   {
+    type: "know-it",
     term: "Imperialism",
     year: 9,
     category: "Historical Knowledge",
@@ -1294,6 +1408,7 @@ export const Y9_WORDS = [
     related: ["Nationalism", "Colonisation", "Alliance"],
   },
   {
+    type: "know-it",
     term: "Alliance",
     year: 9,
     category: "Historical Knowledge",
@@ -1305,6 +1420,7 @@ export const Y9_WORDS = [
     related: ["World War I", "Nationalism", "Imperialism"],
   },
   {
+    type: "know-it",
     term: "Assassination",
     year: 9,
     category: "Historical Knowledge",
@@ -1316,6 +1432,7 @@ export const Y9_WORDS = [
     related: ["World War I", "Alliance", "Nationalism"],
   },
   {
+    type: "know-it",
     term: "Gallipoli",
     year: 9,
     category: "Historical Knowledge",
@@ -1327,6 +1444,7 @@ export const Y9_WORDS = [
     related: ["ANZAC", "World War I", "Conscription"],
   },
   {
+    type: "know-it",
     term: "ANZAC",
     year: 9,
     category: "Historical Knowledge",
@@ -1338,6 +1456,7 @@ export const Y9_WORDS = [
     related: ["Gallipoli", "World War I", "Remembrance"],
   },
   {
+    type: "know-it",
     term: "Conscription",
     year: 9,
     category: "Historical Knowledge",
@@ -1349,6 +1468,7 @@ export const Y9_WORDS = [
     related: ["World War I", "Propaganda", "Democracy"],
   },
   {
+    type: "know-it",
     term: "Propaganda",
     year: 9,
     category: "Historical Knowledge",
@@ -1362,6 +1482,7 @@ export const Y9_WORDS = [
 
   // ── Historical Skills (12) ──────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Historical Argument",
     year: 9,
     category: "Historical Skills",
@@ -1373,6 +1494,7 @@ export const Y9_WORDS = [
     related: ["Evidence", "Interpretation", "Thesis"],
   },
   {
+    type: "know-it",
     term: "Counterfactual",
     year: 9,
     category: "Historical Skills",
@@ -1384,6 +1506,7 @@ export const Y9_WORDS = [
     related: ["Significance", "Causation", "Turning Point"],
   },
   {
+    type: "know-it",
     term: "Periodisation",
     year: 9,
     category: "Historical Skills",
@@ -1395,6 +1518,7 @@ export const Y9_WORDS = [
     related: ["Turning Point", "Chronology", "Historical Consciousness"],
   },
   {
+    type: "know-it",
     term: "Turning Point",
     year: 9,
     category: "Historical Skills",
@@ -1406,6 +1530,7 @@ export const Y9_WORDS = [
     related: ["Significance", "Counterfactual", "Periodisation"],
   },
   {
+    type: "know-it",
     term: "Legacy",
     year: 9,
     category: "Historical Skills",
@@ -1417,6 +1542,7 @@ export const Y9_WORDS = [
     related: ["Significance", "Commemoration", "Impact"],
   },
   {
+    type: "know-it",
     term: "Collective Memory",
     year: 9,
     category: "Historical Skills",
@@ -1428,6 +1554,7 @@ export const Y9_WORDS = [
     related: ["Commemoration", "Legacy", "Historical Consciousness"],
   },
   {
+    type: "know-it",
     term: "Revisionism",
     year: 9,
     category: "Historical Skills",
@@ -1439,6 +1566,7 @@ export const Y9_WORDS = [
     related: ["Interpretation", "Perspective", "Historiography"],
   },
   {
+    type: "know-it",
     term: "Ethical Research",
     year: 9,
     category: "Historical Skills",
@@ -1450,6 +1578,7 @@ export const Y9_WORDS = [
     related: ["Acknowledgement of Country", "Respect", "Methodology"],
   },
   {
+    type: "know-it",
     term: "Acknowledgement of Country",
     year: 9,
     category: "Historical Skills",
@@ -1461,6 +1590,7 @@ export const Y9_WORDS = [
     related: ["First Nations", "Sovereignty", "Reconciliation"],
   },
   {
+    type: "know-it",
     term: "Historical Consciousness",
     year: 9,
     category: "Historical Skills",
@@ -1472,6 +1602,7 @@ export const Y9_WORDS = [
     related: ["Collective Memory", "Legacy", "Perspective"],
   },
   {
+    type: "know-it",
     term: "Agency",
     year: 9,
     category: "Historical Skills",
@@ -1483,6 +1614,7 @@ export const Y9_WORDS = [
     related: ["Resistance", "Empowerment", "Perspective"],
   },
   {
+    type: "know-it",
     term: "Resistance",
     year: 9,
     category: "Historical Skills",
@@ -1500,6 +1632,7 @@ export const Y9_WORDS = [
 
   // ── Geographical Knowledge (12) ─────────────────────────────────────────
   {
+    type: "know-it",
     term: "Globalisation",
     year: 9,
     category: "Geographical Knowledge",
@@ -1511,6 +1644,7 @@ export const Y9_WORDS = [
     related: ["Interconnection", "Transnational Corporation", "Trade"],
   },
   {
+    type: "know-it",
     term: "Interconnection",
     year: 9,
     category: "Geographical Knowledge",
@@ -1522,6 +1656,7 @@ export const Y9_WORDS = [
     related: ["Globalisation", "Sustainability", "Scale"],
   },
   {
+    type: "know-it",
     term: "Transnational Corporation",
     year: 9,
     category: "Geographical Knowledge",
@@ -1533,6 +1668,7 @@ export const Y9_WORDS = [
     related: ["Globalisation", "Trade", "Supply Chain"],
   },
   {
+    type: "know-it",
     term: "Trade",
     year: 9,
     category: "Geographical Knowledge",
@@ -1544,6 +1680,7 @@ export const Y9_WORDS = [
     related: ["Globalisation", "Fair Trade", "Supply and Demand"],
   },
   {
+    type: "know-it",
     term: "Fair Trade",
     year: 9,
     category: "Geographical Knowledge",
@@ -1555,6 +1692,7 @@ export const Y9_WORDS = [
     related: ["Trade", "Globalisation", "Ethical Consumption"],
   },
   {
+    type: "know-it",
     term: "Cultural Diffusion",
     year: 9,
     category: "Geographical Knowledge",
@@ -1566,6 +1704,7 @@ export const Y9_WORDS = [
     related: ["Globalisation", "Migration", "Multiculturalism"],
   },
   {
+    type: "know-it",
     term: "Geopolitics",
     year: 9,
     category: "Geographical Knowledge",
@@ -1577,6 +1716,7 @@ export const Y9_WORDS = [
     related: ["Sovereignty", "Globalisation", "Power"],
   },
   {
+    type: "know-it",
     term: "Sovereignty",
     year: 9,
     category: "Geographical Knowledge",
@@ -1588,6 +1728,7 @@ export const Y9_WORDS = [
     related: ["Geopolitics", "Self-Determination", "Territory"],
   },
   {
+    type: "know-it",
     term: "Refugee",
     year: 9,
     category: "Geographical Knowledge",
@@ -1599,6 +1740,7 @@ export const Y9_WORDS = [
     related: ["Asylum Seeker", "Diaspora", "Migration"],
   },
   {
+    type: "know-it",
     term: "Asylum Seeker",
     year: 9,
     category: "Geographical Knowledge",
@@ -1610,6 +1752,7 @@ export const Y9_WORDS = [
     related: ["Refugee", "Human Rights", "Migration"],
   },
   {
+    type: "know-it",
     term: "Diaspora",
     year: 9,
     category: "Geographical Knowledge",
@@ -1621,6 +1764,7 @@ export const Y9_WORDS = [
     related: ["Migration", "Cultural Diffusion", "Refugee"],
   },
   {
+    type: "know-it",
     term: "Aid",
     year: 9,
     category: "Geographical Knowledge",
@@ -1634,6 +1778,7 @@ export const Y9_WORDS = [
 
   // ── Geographical Skills (12) ────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Qualitative Data",
     year: 9,
     category: "Geographical Skills",
@@ -1645,6 +1790,7 @@ export const Y9_WORDS = [
     related: ["Quantitative Data", "Fieldwork Report", "Observation"],
   },
   {
+    type: "know-it",
     term: "Quantitative Data",
     year: 9,
     category: "Geographical Skills",
@@ -1656,6 +1802,7 @@ export const Y9_WORDS = [
     related: ["Qualitative Data", "Spatial Pattern", "Correlation"],
   },
   {
+    type: "know-it",
     term: "Spatial Pattern",
     year: 9,
     category: "Geographical Skills",
@@ -1667,6 +1814,7 @@ export const Y9_WORDS = [
     related: ["Distribution", "Correlation", "Geographic Information System"],
   },
   {
+    type: "know-it",
     term: "Correlation",
     year: 9,
     category: "Geographical Skills",
@@ -1678,6 +1826,7 @@ export const Y9_WORDS = [
     related: ["Spatial Pattern", "Quantitative Data", "Causation"],
   },
   {
+    type: "know-it",
     term: "Geographic Information System",
     year: 9,
     category: "Geographical Skills",
@@ -1689,6 +1838,7 @@ export const Y9_WORDS = [
     related: ["Satellite Imagery", "Spatial Pattern", "Digital Mapping"],
   },
   {
+    type: "know-it",
     term: "Satellite Imagery",
     year: 9,
     category: "Geographical Skills",
@@ -1700,6 +1850,7 @@ export const Y9_WORDS = [
     related: ["Geographic Information System", "Remote Sensing", "Aerial Photography"],
   },
   {
+    type: "know-it",
     term: "Demographic Data",
     year: 9,
     category: "Geographical Skills",
@@ -1711,6 +1862,7 @@ export const Y9_WORDS = [
     related: ["Quantitative Data", "Population", "Census"],
   },
   {
+    type: "know-it",
     term: "Infographic",
     year: 9,
     category: "Geographical Skills",
@@ -1722,6 +1874,7 @@ export const Y9_WORDS = [
     related: ["Data Presentation", "Visual Literacy", "Annotated Diagram"],
   },
   {
+    type: "know-it",
     term: "Annotated Diagram",
     year: 9,
     category: "Geographical Skills",
@@ -1733,6 +1886,7 @@ export const Y9_WORDS = [
     related: ["Infographic", "Fieldwork Report", "Sketch Map"],
   },
   {
+    type: "know-it",
     term: "Geographic Model",
     year: 9,
     category: "Geographical Skills",
@@ -1744,6 +1898,7 @@ export const Y9_WORDS = [
     related: ["Theory", "Spatial Pattern", "Prediction"],
   },
   {
+    type: "know-it",
     term: "Fieldwork Report",
     year: 9,
     category: "Geographical Skills",
@@ -1755,6 +1910,7 @@ export const Y9_WORDS = [
     related: ["Qualitative Data", "Quantitative Data", "Methodology"],
   },
   {
+    type: "know-it",
     term: "Ethical Research",
     year: 9,
     category: "Geographical Skills",
@@ -1772,6 +1928,7 @@ export const Y9_WORDS = [
 
   // ── Health & Wellbeing (12) ─────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Mental Illness",
     year: 9,
     category: "Health & Wellbeing",
@@ -1783,6 +1940,7 @@ export const Y9_WORDS = [
     related: ["Stigma", "Depression", "Anxiety"],
   },
   {
+    type: "know-it",
     term: "Stigma",
     year: 9,
     category: "Health & Wellbeing",
@@ -1794,6 +1952,7 @@ export const Y9_WORDS = [
     related: ["Mental Illness", "Discrimination", "Social Determinant"],
   },
   {
+    type: "know-it",
     term: "Depression",
     year: 9,
     category: "Health & Wellbeing",
@@ -1805,6 +1964,7 @@ export const Y9_WORDS = [
     related: ["Mental Illness", "Anxiety", "Help-Seeking"],
   },
   {
+    type: "know-it",
     term: "Anxiety",
     year: 9,
     category: "Health & Wellbeing",
@@ -1816,6 +1976,7 @@ export const Y9_WORDS = [
     related: ["Depression", "Mental Illness", "Stress"],
   },
   {
+    type: "know-it",
     term: "Respectful Relationship",
     year: 9,
     category: "Health & Wellbeing",
@@ -1827,6 +1988,7 @@ export const Y9_WORDS = [
     related: ["Consent", "Communication", "Boundaries"],
   },
   {
+    type: "know-it",
     term: "Consent",
     year: 9,
     category: "Health & Wellbeing",
@@ -1838,6 +2000,7 @@ export const Y9_WORDS = [
     related: ["Respectful Relationship", "Coercion", "Boundaries"],
   },
   {
+    type: "know-it",
     term: "Coercion",
     year: 9,
     category: "Health & Wellbeing",
@@ -1849,6 +2012,7 @@ export const Y9_WORDS = [
     related: ["Consent", "Manipulation", "Power"],
   },
   {
+    type: "know-it",
     term: "Digital Footprint",
     year: 9,
     category: "Health & Wellbeing",
@@ -1860,6 +2024,7 @@ export const Y9_WORDS = [
     related: ["Cyberbullying", "Privacy", "Online Safety"],
   },
   {
+    type: "know-it",
     term: "Cyberbullying",
     year: 9,
     category: "Health & Wellbeing",
@@ -1871,6 +2036,7 @@ export const Y9_WORDS = [
     related: ["Digital Footprint", "Mental Illness", "Bystander"],
   },
   {
+    type: "know-it",
     term: "Social Determinant",
     year: 9,
     category: "Health & Wellbeing",
@@ -1882,6 +2048,7 @@ export const Y9_WORDS = [
     related: ["Health Literacy", "Inequality", "Access"],
   },
   {
+    type: "know-it",
     term: "Health Literacy",
     year: 9,
     category: "Health & Wellbeing",
@@ -1893,6 +2060,7 @@ export const Y9_WORDS = [
     related: ["Social Determinant", "Critical Thinking", "Harm Minimisation"],
   },
   {
+    type: "know-it",
     term: "Harm Minimisation",
     year: 9,
     category: "Health & Wellbeing",
@@ -1906,6 +2074,7 @@ export const Y9_WORDS = [
 
   // ── Movement & Physical Activity (12) ───────────────────────────────────
   {
+    type: "know-it",
     term: "Biomechanics",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1917,6 +2086,7 @@ export const Y9_WORDS = [
     related: ["Force", "Lever", "Centre of Gravity"],
   },
   {
+    type: "know-it",
     term: "Lever",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1928,6 +2098,7 @@ export const Y9_WORDS = [
     related: ["Biomechanics", "Force", "Fulcrum"],
   },
   {
+    type: "know-it",
     term: "Force",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1939,6 +2110,7 @@ export const Y9_WORDS = [
     related: ["Biomechanics", "Lever", "Trajectory"],
   },
   {
+    type: "know-it",
     term: "Trajectory",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1950,6 +2122,7 @@ export const Y9_WORDS = [
     related: ["Force", "Angle of Release", "Projectile"],
   },
   {
+    type: "know-it",
     term: "Centre of Gravity",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1961,6 +2134,7 @@ export const Y9_WORDS = [
     related: ["Biomechanics", "Balance", "Stability"],
   },
   {
+    type: "know-it",
     term: "Energy Systems",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1972,6 +2146,7 @@ export const Y9_WORDS = [
     related: ["Aerobic System", "Anaerobic System", "ATP"],
   },
   {
+    type: "know-it",
     term: "Aerobic System",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1983,6 +2158,7 @@ export const Y9_WORDS = [
     related: ["Anaerobic System", "Energy Systems", "Endurance"],
   },
   {
+    type: "know-it",
     term: "Anaerobic System",
     year: 9,
     category: "Movement & Physical Activity",
@@ -1994,6 +2170,7 @@ export const Y9_WORDS = [
     related: ["Aerobic System", "Energy Systems", "Lactic Acid"],
   },
   {
+    type: "know-it",
     term: "Periodisation",
     year: 9,
     category: "Movement & Physical Activity",
@@ -2005,6 +2182,7 @@ export const Y9_WORDS = [
     related: ["Progressive Overload", "Specificity", "Reversibility"],
   },
   {
+    type: "know-it",
     term: "Specificity",
     year: 9,
     category: "Movement & Physical Activity",
@@ -2016,6 +2194,7 @@ export const Y9_WORDS = [
     related: ["Progressive Overload", "Reversibility", "Training Principle"],
   },
   {
+    type: "know-it",
     term: "Reversibility",
     year: 9,
     category: "Movement & Physical Activity",
@@ -2027,6 +2206,7 @@ export const Y9_WORDS = [
     related: ["Specificity", "Progressive Overload", "Detraining"],
   },
   {
+    type: "know-it",
     term: "Progressive Overload",
     year: 9,
     category: "Movement & Physical Activity",
@@ -2044,6 +2224,7 @@ export const Y9_WORDS = [
 
   // ── Consumer & Financial Literacy (12) ──────────────────────────────────
   {
+    type: "know-it",
     term: "Entrepreneur",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2055,6 +2236,7 @@ export const Y9_WORDS = [
     related: ["Business Plan", "Startup Costs", "Revenue"],
   },
   {
+    type: "know-it",
     term: "Business Plan",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2066,6 +2248,7 @@ export const Y9_WORDS = [
     related: ["Entrepreneur", "Revenue", "Marketing"],
   },
   {
+    type: "know-it",
     term: "Revenue",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2077,6 +2260,7 @@ export const Y9_WORDS = [
     related: ["Profit", "Loss", "Expenses"],
   },
   {
+    type: "know-it",
     term: "Profit",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2088,6 +2272,7 @@ export const Y9_WORDS = [
     related: ["Revenue", "Loss", "Expenses"],
   },
   {
+    type: "know-it",
     term: "Loss",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2099,6 +2284,7 @@ export const Y9_WORDS = [
     related: ["Profit", "Revenue", "Expenses"],
   },
   {
+    type: "know-it",
     term: "Marketing",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2110,6 +2296,7 @@ export const Y9_WORDS = [
     related: ["Target Market", "Brand", "Competition"],
   },
   {
+    type: "know-it",
     term: "Target Market",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2121,6 +2308,7 @@ export const Y9_WORDS = [
     related: ["Marketing", "Market Research", "Demographics"],
   },
   {
+    type: "know-it",
     term: "Supply and Demand",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2132,6 +2320,7 @@ export const Y9_WORDS = [
     related: ["Competition", "Price", "Market"],
   },
   {
+    type: "know-it",
     term: "Market Research",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2143,6 +2332,7 @@ export const Y9_WORDS = [
     related: ["Target Market", "Survey", "Competition"],
   },
   {
+    type: "know-it",
     term: "Competition",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2154,6 +2344,7 @@ export const Y9_WORDS = [
     related: ["Supply and Demand", "Marketing", "Market Share"],
   },
   {
+    type: "know-it",
     term: "Brand",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2165,6 +2356,7 @@ export const Y9_WORDS = [
     related: ["Marketing", "Target Market", "Reputation"],
   },
   {
+    type: "know-it",
     term: "Startup Costs",
     year: 9,
     category: "Consumer & Financial Literacy",
@@ -2178,6 +2370,7 @@ export const Y9_WORDS = [
 
   // ── Law & Society (12) ──────────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Rule of Law",
     year: 9,
     category: "Law & Society",
@@ -2189,6 +2382,7 @@ export const Y9_WORDS = [
     related: ["Separation of Powers", "Democracy", "Justice"],
   },
   {
+    type: "know-it",
     term: "Separation of Powers",
     year: 9,
     category: "Law & Society",
@@ -2200,6 +2394,7 @@ export const Y9_WORDS = [
     related: ["Rule of Law", "Judicial Review", "Federal System"],
   },
   {
+    type: "know-it",
     term: "Judicial Review",
     year: 9,
     category: "Law & Society",
@@ -2211,6 +2406,7 @@ export const Y9_WORDS = [
     related: ["Separation of Powers", "Constitution", "High Court"],
   },
   {
+    type: "know-it",
     term: "Referendum",
     year: 9,
     category: "Law & Society",
@@ -2222,6 +2418,7 @@ export const Y9_WORDS = [
     related: ["Constitution", "Democracy", "Federal System"],
   },
   {
+    type: "know-it",
     term: "Constitutional Monarchy",
     year: 9,
     category: "Law & Society",
@@ -2233,6 +2430,7 @@ export const Y9_WORDS = [
     related: ["Federal System", "Democracy", "Head of State"],
   },
   {
+    type: "know-it",
     term: "Federal System",
     year: 9,
     category: "Law & Society",
@@ -2244,6 +2442,7 @@ export const Y9_WORDS = [
     related: ["Constitutional Monarchy", "Separation of Powers", "Constitution"],
   },
   {
+    type: "know-it",
     term: "Electoral System",
     year: 9,
     category: "Law & Society",
@@ -2255,6 +2454,7 @@ export const Y9_WORDS = [
     related: ["Democracy", "Referendum", "Representation"],
   },
   {
+    type: "know-it",
     term: "Lobby Group",
     year: 9,
     category: "Law & Society",
@@ -2266,6 +2466,7 @@ export const Y9_WORDS = [
     related: ["Democracy", "Civil Liberties", "Advocacy"],
   },
   {
+    type: "know-it",
     term: "Civil Liberties",
     year: 9,
     category: "Law & Society",
@@ -2277,6 +2478,7 @@ export const Y9_WORDS = [
     related: ["Rule of Law", "Human Rights", "Discrimination"],
   },
   {
+    type: "know-it",
     term: "Discrimination",
     year: 9,
     category: "Law & Society",
@@ -2288,6 +2490,7 @@ export const Y9_WORDS = [
     related: ["Civil Liberties", "Equality", "Human Rights"],
   },
   {
+    type: "know-it",
     term: "Duty of Care",
     year: 9,
     category: "Law & Society",
@@ -2299,6 +2502,7 @@ export const Y9_WORDS = [
     related: ["Negligence", "Rule of Law", "Responsibility"],
   },
   {
+    type: "know-it",
     term: "Negligence",
     year: 9,
     category: "Law & Society",
@@ -2316,6 +2520,7 @@ export const Y9_WORDS = [
 
   // ── Design & Production (12) ────────────────────────────────────────────
   {
+    type: "know-it",
     term: "Systems Thinking",
     year: 9,
     category: "Design & Production",
@@ -2327,6 +2532,7 @@ export const Y9_WORDS = [
     related: ["Life Cycle Analysis", "Circular Economy", "Design Process"],
   },
   {
+    type: "know-it",
     term: "Life Cycle Analysis",
     year: 9,
     category: "Design & Production",
@@ -2338,6 +2544,7 @@ export const Y9_WORDS = [
     related: ["Sustainability", "Circular Economy", "Systems Thinking"],
   },
   {
+    type: "know-it",
     term: "Biomimicry",
     year: 9,
     category: "Design & Production",
@@ -2349,6 +2556,7 @@ export const Y9_WORDS = [
     related: ["Sustainable Design", "Innovation", "Nature"],
   },
   {
+    type: "know-it",
     term: "Rapid Prototyping",
     year: 9,
     category: "Design & Production",
@@ -2360,6 +2568,7 @@ export const Y9_WORDS = [
     related: ["User Testing", "Iteration", "3D Printing"],
   },
   {
+    type: "know-it",
     term: "User Testing",
     year: 9,
     category: "Design & Production",
@@ -2371,6 +2580,7 @@ export const Y9_WORDS = [
     related: ["Rapid Prototyping", "Inclusive Design", "Feedback"],
   },
   {
+    type: "know-it",
     term: "Inclusive Design",
     year: 9,
     category: "Design & Production",
@@ -2382,6 +2592,7 @@ export const Y9_WORDS = [
     related: ["User Testing", "Accessibility", "Ethical Production"],
   },
   {
+    type: "know-it",
     term: "Circular Economy",
     year: 9,
     category: "Design & Production",
@@ -2393,6 +2604,7 @@ export const Y9_WORDS = [
     related: ["Life Cycle Analysis", "Sustainability", "Planned Obsolescence"],
   },
   {
+    type: "know-it",
     term: "Planned Obsolescence",
     year: 9,
     category: "Design & Production",
@@ -2404,6 +2616,7 @@ export const Y9_WORDS = [
     related: ["Circular Economy", "Sustainability", "Ethical Production"],
   },
   {
+    type: "know-it",
     term: "Ethical Production",
     year: 9,
     category: "Design & Production",
@@ -2415,6 +2628,7 @@ export const Y9_WORDS = [
     related: ["Supply Chain", "Fair Trade", "Sustainability"],
   },
   {
+    type: "know-it",
     term: "Supply Chain",
     year: 9,
     category: "Design & Production",
@@ -2426,6 +2640,7 @@ export const Y9_WORDS = [
     related: ["Ethical Production", "Globalisation", "Transnational Corporation"],
   },
   {
+    type: "know-it",
     term: "Automation",
     year: 9,
     category: "Design & Production",
@@ -2437,6 +2652,7 @@ export const Y9_WORDS = [
     related: ["Quality Control", "Artificial Intelligence", "Industry"],
   },
   {
+    type: "know-it",
     term: "Quality Control",
     year: 9,
     category: "Design & Production",
@@ -2450,6 +2666,7 @@ export const Y9_WORDS = [
 
   // ── Digital Technologies (12) ───────────────────────────────────────────
   {
+    type: "know-it",
     term: "Object-Oriented Programming",
     year: 9,
     category: "Digital Technologies",
@@ -2461,6 +2678,7 @@ export const Y9_WORDS = [
     related: ["Class", "Method", "Inheritance"],
   },
   {
+    type: "know-it",
     term: "Class",
     year: 9,
     category: "Digital Technologies",
@@ -2472,6 +2690,7 @@ export const Y9_WORDS = [
     related: ["Object-Oriented Programming", "Method", "Inheritance"],
   },
   {
+    type: "know-it",
     term: "Method",
     year: 9,
     category: "Digital Technologies",
@@ -2483,6 +2702,7 @@ export const Y9_WORDS = [
     related: ["Class", "Object-Oriented Programming", "Function"],
   },
   {
+    type: "know-it",
     term: "Inheritance",
     year: 9,
     category: "Digital Technologies",
@@ -2494,6 +2714,7 @@ export const Y9_WORDS = [
     related: ["Class", "Object-Oriented Programming", "Polymorphism"],
   },
   {
+    type: "know-it",
     term: "API",
     year: 9,
     category: "Digital Technologies",
@@ -2505,6 +2726,7 @@ export const Y9_WORDS = [
     related: ["Data", "Software", "Integration"],
   },
   {
+    type: "know-it",
     term: "Version Control",
     year: 9,
     category: "Digital Technologies",
@@ -2516,6 +2738,7 @@ export const Y9_WORDS = [
     related: ["Collaboration", "Software Development", "Agile Development"],
   },
   {
+    type: "know-it",
     term: "Agile Development",
     year: 9,
     category: "Digital Technologies",
@@ -2527,6 +2750,7 @@ export const Y9_WORDS = [
     related: ["Version Control", "Iteration", "User Testing"],
   },
   {
+    type: "know-it",
     term: "Machine Learning",
     year: 9,
     category: "Digital Technologies",
@@ -2538,6 +2762,7 @@ export const Y9_WORDS = [
     related: ["Artificial Intelligence", "Big Data", "Algorithm"],
   },
   {
+    type: "know-it",
     term: "Artificial Intelligence",
     year: 9,
     category: "Digital Technologies",
@@ -2549,6 +2774,7 @@ export const Y9_WORDS = [
     related: ["Machine Learning", "Ethical AI", "Automation"],
   },
   {
+    type: "know-it",
     term: "Big Data",
     year: 9,
     category: "Digital Technologies",
@@ -2560,6 +2786,7 @@ export const Y9_WORDS = [
     related: ["Machine Learning", "Data", "Privacy"],
   },
   {
+    type: "know-it",
     term: "Internet of Things",
     year: 9,
     category: "Digital Technologies",
@@ -2571,6 +2798,7 @@ export const Y9_WORDS = [
     related: ["Big Data", "Sensors", "Connectivity"],
   },
   {
+    type: "know-it",
     term: "Ethical AI",
     year: 9,
     category: "Digital Technologies",

@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { Badge } from "../ui/Badge.jsx";
+import { ConceptTypeBadge } from "../ui/ConceptTypeBadge.jsx";
 import { RelatedChip } from "../ui/RelatedChip.jsx";
 import { ChevronBtn } from "../ui/ChevronBtn.jsx";
 import { CAT_MAP, findTermByName, isTermLocked } from "../../utils/termLookup.js";
@@ -187,7 +188,8 @@ export function FlashcardModal({ words, activeIndex, onClose, onPrev, onNext, on
               <span style={{ width: 34, height: 34, display: "flex", alignItems: "center", justifyContent: "center", background: cat.color, borderRadius: 8 }}><cat.icon size={16} color={cat.accent} strokeWidth={1.75} /></span>
               <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.07em", textTransform: "uppercase", color: cat.accent }}>{word.category}</span>
             </div>
-            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+              <ConceptTypeBadge type={word.type} />
               <Badge level={word.level}/>
               {/* Close button — 44×44px touch target (WCAG 2.5.5) */}
               <button

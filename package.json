@@ -1,11 +1,12 @@
 {
-  "name": "hscvocab",
-  "description": "HSC Year 12 vocabulary learning platform",
+  "name": "schoolvocab",
+  "description": "Key concepts learning platform for Years 7-12",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "build:content": "node scripts/build-content.js",
     "build": "node scripts/generate-sitemap.js && vite build",
     "sitemap": "node scripts/generate-sitemap.js",
     "preview": "vite preview",

@@ -7,6 +7,7 @@ export const Y11_ART = [
   // ── ART MAKING (15 terms) ──────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Medium",
     year: 11,
     category: "Art Making",
@@ -18,6 +19,7 @@ export const Y11_ART = [
     related: ["Technique", "Material Exploration", "Studio Practice"],
   },
   {
+    type: "know-it",
     term: "Technique",
     year: 11,
     category: "Art Making",
@@ -29,6 +31,7 @@ export const Y11_ART = [
     related: ["Medium", "Studio Practice", "Experimentation"],
   },
   {
+    type: "know-it",
     term: "Studio Practice",
     year: 11,
     category: "Art Making",
@@ -40,6 +43,7 @@ export const Y11_ART = [
     related: ["Visual Diary", "Experimentation", "Body of Work"],
   },
   {
+    type: "know-it",
     term: "Visual Diary",
     year: 11,
     category: "Art Making",
@@ -51,6 +55,7 @@ export const Y11_ART = [
     related: ["Studio Practice", "Artist Statement", "Experimentation"],
   },
   {
+    type: "know-it",
     term: "Artist Statement",
     year: 11,
     category: "Art Making",
@@ -62,6 +67,7 @@ export const Y11_ART = [
     related: ["Visual Diary", "Body of Work", "Intention"],
   },
   {
+    type: "know-it",
     term: "Experimentation",
     year: 11,
     category: "Art Making",
@@ -73,6 +79,7 @@ export const Y11_ART = [
     related: ["Material Exploration", "Studio Practice", "Visual Diary"],
   },
   {
+    type: "know-it",
     term: "Material Exploration",
     year: 11,
     category: "Art Making",
@@ -84,6 +91,7 @@ export const Y11_ART = [
     related: ["Experimentation", "Medium", "Technique"],
   },
   {
+    type: "know-it",
     term: "Composition",
     year: 11,
     category: "Art Making",
@@ -95,6 +103,7 @@ export const Y11_ART = [
     related: ["Colour Mixing", "Body of Work", "Studio Practice"],
   },
   {
+    type: "know-it",
     term: "Colour Mixing",
     year: 11,
     category: "Art Making",
@@ -106,6 +115,7 @@ export const Y11_ART = [
     related: ["Composition", "Medium", "Technique"],
   },
   {
+    type: "know-it",
     term: "Printmaking",
     year: 11,
     category: "Art Making",
@@ -117,6 +127,7 @@ export const Y11_ART = [
     related: ["Technique", "Medium", "Mixed Media"],
   },
   {
+    type: "know-it",
     term: "Sculpture",
     year: 11,
     category: "Art Making",
@@ -128,6 +139,7 @@ export const Y11_ART = [
     related: ["Installation", "Medium", "Material Exploration"],
   },
   {
+    type: "know-it",
     term: "Digital Media",
     year: 11,
     category: "Art Making",
@@ -139,6 +151,7 @@ export const Y11_ART = [
     related: ["Medium", "Installation", "Mixed Media"],
   },
   {
+    type: "know-it",
     term: "Installation",
     year: 11,
     category: "Art Making",
@@ -150,6 +163,7 @@ export const Y11_ART = [
     related: ["Sculpture", "Mixed Media", "Body of Work"],
   },
   {
+    type: "know-it",
     term: "Mixed Media",
     year: 11,
     category: "Art Making",
@@ -161,6 +175,7 @@ export const Y11_ART = [
     related: ["Medium", "Installation", "Technique"],
   },
   {
+    type: "know-it",
     term: "Body of Work",
     year: 11,
     category: "Art Making",
@@ -175,6 +190,7 @@ export const Y11_ART = [
   // ── ART CRITICISM & HISTORY (15 terms) ─────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Art Movement",
     year: 11,
     category: "Art Criticism & History",
@@ -186,6 +202,7 @@ export const Y11_ART = [
     related: ["Modernism", "Postmodernism", "Contemporary Art"],
   },
   {
+    type: "know-it",
     term: "Modernism",
     year: 11,
     category: "Art Criticism & History",
@@ -197,6 +214,7 @@ export const Y11_ART = [
     related: ["Postmodernism", "Art Movement", "Contemporary Art"],
   },
   {
+    type: "know-it",
     term: "Postmodernism",
     year: 11,
     category: "Art Criticism & History",
@@ -208,6 +226,7 @@ export const Y11_ART = [
     related: ["Modernism", "Contemporary Art", "Appropriation"],
   },
   {
+    type: "know-it",
     term: "Contemporary Art",
     year: 11,
     category: "Art Criticism & History",
@@ -219,6 +238,7 @@ export const Y11_ART = [
     related: ["Art Movement", "Modernism", "Postmodernism"],
   },
   {
+    type: "know-it",
     term: "Curation",
     year: 11,
     category: "Art Criticism & History",
@@ -230,6 +250,7 @@ export const Y11_ART = [
     related: ["Gallery", "Exhibition", "Art Criticism"],
   },
   {
+    type: "know-it",
     term: "Art Criticism",
     year: 11,
     category: "Art Criticism & History",
@@ -241,6 +262,7 @@ export const Y11_ART = [
     related: ["Review", "Conceptual Framework", "Cultural Significance"],
   },
   {
+    type: "know-it",
     term: "Review",
     year: 11,
     category: "Art Criticism & History",
@@ -252,6 +274,7 @@ export const Y11_ART = [
     related: ["Art Criticism", "Gallery", "Exhibition"],
   },
   {
+    type: "know-it",
     term: "Gallery",
     year: 11,
     category: "Art Criticism & History",
@@ -263,6 +286,7 @@ export const Y11_ART = [
     related: ["Exhibition", "Curation", "Public Art"],
   },
   {
+    type: "know-it",
     term: "Exhibition",
     year: 11,
     category: "Art Criticism & History",
@@ -274,6 +298,7 @@ export const Y11_ART = [
     related: ["Gallery", "Curation", "Public Art"],
   },
   {
+    type: "know-it",
     term: "Public Art",
     year: 11,
     category: "Art Criticism & History",
@@ -285,6 +310,7 @@ export const Y11_ART = [
     related: ["Commissioned Work", "Cultural Significance", "Gallery"],
   },
   {
+    type: "know-it",
     term: "Commissioned Work",
     year: 11,
     category: "Art Criticism & History",
@@ -296,6 +322,7 @@ export const Y11_ART = [
     related: ["Patronage", "Public Art", "Gallery"],
   },
   {
+    type: "know-it",
     term: "Patronage",
     year: 11,
     category: "Art Criticism & History",
@@ -307,6 +334,7 @@ export const Y11_ART = [
     related: ["Commissioned Work", "Cultural Significance", "Gallery"],
   },
   {
+    type: "know-it",
     term: "Cultural Significance",
     year: 11,
     category: "Art Criticism & History",
@@ -318,6 +346,7 @@ export const Y11_ART = [
     related: ["Indigenous Art", "Global Art", "Art Criticism"],
   },
   {
+    type: "know-it",
     term: "Indigenous Art",
     year: 11,
     category: "Art Criticism & History",
@@ -329,6 +358,7 @@ export const Y11_ART = [
     related: ["Cultural Significance", "Global Art", "Contemporary Art"],
   },
   {
+    type: "know-it",
     term: "Global Art",
     year: 11,
     category: "Art Criticism & History",
@@ -343,6 +373,7 @@ export const Y11_ART = [
   // ── CONCEPTUAL FRAMEWORK (15 terms) ────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Artist",
     year: 11,
     category: "Conceptual Framework",
@@ -354,6 +385,7 @@ export const Y11_ART = [
     related: ["Artwork", "World", "Audience"],
   },
   {
+    type: "know-it",
     term: "Artwork",
     year: 11,
     category: "Conceptual Framework",
@@ -365,6 +397,7 @@ export const Y11_ART = [
     related: ["Artist", "World", "Audience"],
   },
   {
+    type: "know-it",
     term: "World",
     year: 11,
     category: "Conceptual Framework",
@@ -376,6 +409,7 @@ export const Y11_ART = [
     related: ["Artist", "Artwork", "Audience"],
   },
   {
+    type: "know-it",
     term: "Audience",
     year: 11,
     category: "Conceptual Framework",
@@ -387,6 +421,7 @@ export const Y11_ART = [
     related: ["Artist", "Artwork", "World"],
   },
   {
+    type: "know-it",
     term: "Subjective Frame",
     year: 11,
     category: "Conceptual Framework",
@@ -398,6 +433,7 @@ export const Y11_ART = [
     related: ["Cultural Frame", "Structural Frame", "Postmodern Frame"],
   },
   {
+    type: "know-it",
     term: "Cultural Frame",
     year: 11,
     category: "Conceptual Framework",
@@ -409,6 +445,7 @@ export const Y11_ART = [
     related: ["Subjective Frame", "Structural Frame", "Postmodern Frame"],
   },
   {
+    type: "know-it",
     term: "Structural Frame",
     year: 11,
     category: "Conceptual Framework",
@@ -420,6 +457,7 @@ export const Y11_ART = [
     related: ["Subjective Frame", "Cultural Frame", "Postmodern Frame"],
   },
   {
+    type: "know-it",
     term: "Postmodern Frame",
     year: 11,
     category: "Conceptual Framework",
@@ -431,6 +469,7 @@ export const Y11_ART = [
     related: ["Subjective Frame", "Cultural Frame", "Structural Frame"],
   },
   {
+    type: "know-it",
     term: "Representation",
     year: 11,
     category: "Conceptual Framework",
@@ -442,6 +481,7 @@ export const Y11_ART = [
     related: ["Appropriation", "Meaning-Making", "Interpretation"],
   },
   {
+    type: "know-it",
     term: "Appropriation",
     year: 11,
     category: "Conceptual Framework",
@@ -453,6 +493,7 @@ export const Y11_ART = [
     related: ["Representation", "Postmodern Frame", "Meaning-Making"],
   },
   {
+    type: "know-it",
     term: "Meaning-Making",
     year: 11,
     category: "Conceptual Framework",
@@ -464,6 +505,7 @@ export const Y11_ART = [
     related: ["Interpretation", "Reception", "Audience"],
   },
   {
+    type: "know-it",
     term: "Intention",
     year: 11,
     category: "Conceptual Framework",
@@ -475,6 +517,7 @@ export const Y11_ART = [
     related: ["Reception", "Artist Statement", "Meaning-Making"],
   },
   {
+    type: "know-it",
     term: "Reception",
     year: 11,
     category: "Conceptual Framework",
@@ -486,6 +529,7 @@ export const Y11_ART = [
     related: ["Intention", "Audience", "Meaning-Making"],
   },
   {
+    type: "know-it",
     term: "Interpretation",
     year: 11,
     category: "Conceptual Framework",
@@ -497,6 +541,7 @@ export const Y11_ART = [
     related: ["Meaning-Making", "Reception", "Representation"],
   },
   {
+    type: "know-it",
     term: "Practice",
     year: 11,
     category: "Conceptual Framework",

@@ -7,6 +7,7 @@ export const CHEMISTRY_WORDS = [
   // ── CHEMICAL BONDING (15 terms) ───────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Ionic Bond",
     year: 12,
     category: "Chemical Bonding",
@@ -18,6 +19,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Covalent Bond", "Metallic Bond", "Electronegativity", "Lattice Structure", "Valence Electrons"],
   },
   {
+    type: "know-it",
     term: "Covalent Bond",
     year: 12,
     category: "Chemical Bonding",
@@ -29,6 +31,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Ionic Bond", "Electronegativity", "Polarity", "Lewis Structure", "VSEPR Theory"],
   },
   {
+    type: "know-it",
     term: "Metallic Bond",
     year: 12,
     category: "Chemical Bonding",
@@ -40,6 +43,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Ionic Bond", "Covalent Bond", "Electronegativity", "Lattice Structure", "Allotropy"],
   },
   {
+    type: "know-it",
     term: "Electronegativity",
     year: 12,
     category: "Chemical Bonding",
@@ -51,6 +55,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Covalent Bond", "Ionic Bond", "Polarity", "Hydrogen Bond", "Lewis Structure"],
   },
   {
+    type: "know-it",
     term: "Polarity",
     year: 12,
     category: "Chemical Bonding",
@@ -62,6 +67,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Electronegativity", "Covalent Bond", "Hydrogen Bond", "Intermolecular Forces", "VSEPR Theory"],
   },
   {
+    type: "know-it",
     term: "Intermolecular Forces",
     year: 12,
     category: "Chemical Bonding",
@@ -73,6 +79,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Hydrogen Bond", "Polarity", "Van der Waals Forces", "Covalent Bond", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "Hydrogen Bond",
     year: 12,
     category: "Chemical Bonding",
@@ -84,6 +91,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Intermolecular Forces", "Polarity", "Van der Waals Forces", "Electronegativity", "Covalent Bond"],
   },
   {
+    type: "know-it",
     term: "Van der Waals Forces",
     year: 12,
     category: "Chemical Bonding",
@@ -95,6 +103,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Intermolecular Forces", "Hydrogen Bond", "Polarity", "Covalent Bond", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "Lewis Structure",
     year: 12,
     category: "Chemical Bonding",
@@ -106,6 +115,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Covalent Bond", "VSEPR Theory", "Valence Electrons", "Polarity", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "VSEPR Theory",
     year: 12,
     category: "Chemical Bonding",
@@ -117,6 +127,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Lewis Structure", "Covalent Bond", "Polarity", "Valence Electrons", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "Lattice Structure",
     year: 12,
     category: "Chemical Bonding",
@@ -128,6 +139,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Ionic Bond", "Metallic Bond", "Covalent Bond", "Allotropy", "Valence Electrons"],
   },
   {
+    type: "know-it",
     term: "Allotropy",
     year: 12,
     category: "Chemical Bonding",
@@ -139,6 +151,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Lattice Structure", "Covalent Bond", "Metallic Bond", "Valence Electrons", "Ionic Bond"],
   },
   {
+    type: "know-it",
     term: "Valence Electrons",
     year: 12,
     category: "Chemical Bonding",
@@ -150,6 +163,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Covalent Bond", "Ionic Bond", "Lewis Structure", "Electron Configuration", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "Electron Configuration",
     year: 12,
     category: "Chemical Bonding",
@@ -161,6 +175,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Valence Electrons", "Atomic Radius", "Ionic Bond", "Covalent Bond", "Electronegativity"],
   },
   {
+    type: "know-it",
     term: "Atomic Radius",
     year: 12,
     category: "Chemical Bonding",
@@ -175,6 +190,7 @@ export const CHEMISTRY_WORDS = [
   // ── EQUILIBRIUM & ACID-BASE (15 terms) ───────────────────────────────────
 
   {
+    type: "know-it",
     term: "Chemical Equilibrium",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -186,6 +202,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Le Chatelier\'s Principle", "Equilibrium Constant", "Buffer", "Haber Process", "Acid"],
   },
   {
+    type: "know-it",
     term: "Le Chatelier's Principle",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -197,6 +214,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Chemical Equilibrium", "Equilibrium Constant", "Haber Process", "Contact Process", "Buffer"],
   },
   {
+    type: "know-it",
     term: "Equilibrium Constant",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -208,6 +226,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Chemical Equilibrium", "Le Chatelier\'s Principle", "Solubility Product", "Acid", "Buffer"],
   },
   {
+    type: "know-it",
     term: "Acid",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -219,6 +238,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Base", "pH", "Strong Acid", "Weak Acid", "Titration"],
   },
   {
+    type: "know-it",
     term: "Base",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -230,6 +250,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Acid", "pH", "Buffer", "Neutralisation", "Brønsted-Lowry Theory"],
   },
   {
+    type: "know-it",
     term: "pH",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -241,6 +262,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Acid", "Base", "Strong Acid", "Weak Acid", "Buffer"],
   },
   {
+    type: "know-it",
     term: "Buffer",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -252,6 +274,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Chemical Equilibrium", "Acid", "Base", "pH", "Conjugate Acid-Base Pair"],
   },
   {
+    type: "know-it",
     term: "Conjugate Acid-Base Pair",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -263,6 +286,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Acid", "Base", "Buffer", "Brønsted-Lowry Theory", "pH"],
   },
   {
+    type: "know-it",
     term: "Titration",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -274,6 +298,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Acid", "Base", "Indicator", "Neutralisation", "Volumetric Analysis"],
   },
   {
+    type: "know-it",
     term: "Indicator",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -285,6 +310,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Titration", "Acid", "Base", "pH", "Neutralisation"],
   },
   {
+    type: "know-it",
     term: "Brønsted-Lowry Theory",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -296,6 +322,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Conjugate Acid-Base Pair", "Acid", "Base", "Buffer", "pH"],
   },
   {
+    type: "know-it",
     term: "Strong Acid",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -307,6 +334,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Weak Acid", "Acid", "pH", "Titration", "Neutralisation"],
   },
   {
+    type: "know-it",
     term: "Weak Acid",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -318,6 +346,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Strong Acid", "Acid", "Buffer", "pH", "Equilibrium Constant"],
   },
   {
+    type: "know-it",
     term: "Neutralisation",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -329,6 +358,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Acid", "Base", "Titration", "pH", "Salt"],
   },
   {
+    type: "know-it",
     term: "Solubility Product",
     year: 12,
     category: "Equilibrium & Acid-Base",
@@ -343,6 +373,7 @@ export const CHEMISTRY_WORDS = [
   // ── ORGANIC CHEMISTRY (15 terms) ─────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Organic Compound",
     year: 12,
     category: "Organic Chemistry",
@@ -354,6 +385,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Hydrocarbon", "Functional Group", "Homologous Series", "Polymer", "Organic Chemistry"],
   },
   {
+    type: "know-it",
     term: "Hydrocarbon",
     year: 12,
     category: "Organic Chemistry",
@@ -365,6 +397,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Alkane", "Alkene", "Organic Compound", "Homologous Series", "Addition Reaction"],
   },
   {
+    type: "know-it",
     term: "Alkane",
     year: 12,
     category: "Organic Chemistry",
@@ -376,6 +409,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Alkene", "Hydrocarbon", "Homologous Series", "Functional Group", "Organic Compound"],
   },
   {
+    type: "know-it",
     term: "Alkene",
     year: 12,
     category: "Organic Chemistry",
@@ -387,6 +421,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Alkane", "Hydrocarbon", "Addition Reaction", "Polymer", "Homologous Series"],
   },
   {
+    type: "know-it",
     term: "Alcohol",
     year: 12,
     category: "Organic Chemistry",
@@ -398,6 +433,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Carboxylic Acid", "Ester", "Functional Group", "Alkene", "Condensation Reaction"],
   },
   {
+    type: "know-it",
     term: "Carboxylic Acid",
     year: 12,
     category: "Organic Chemistry",
@@ -409,6 +445,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Ester", "Alcohol", "Condensation Reaction", "Functional Group", "Homologous Series"],
   },
   {
+    type: "know-it",
     term: "Ester",
     year: 12,
     category: "Organic Chemistry",
@@ -420,6 +457,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Carboxylic Acid", "Alcohol", "Condensation Reaction", "Saponification", "Functional Group"],
   },
   {
+    type: "know-it",
     term: "Polymer",
     year: 12,
     category: "Organic Chemistry",
@@ -431,6 +469,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Addition Reaction", "Condensation Reaction", "Alkene", "Organic Compound", "Ester"],
   },
   {
+    type: "know-it",
     term: "Addition Reaction",
     year: 12,
     category: "Organic Chemistry",
@@ -442,6 +481,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Alkene", "Substitution Reaction", "Polymer", "Functional Group", "Hydrocarbon"],
   },
   {
+    type: "know-it",
     term: "Substitution Reaction",
     year: 12,
     category: "Organic Chemistry",
@@ -453,6 +493,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Addition Reaction", "Alkane", "Functional Group", "Organic Compound", "Condensation Reaction"],
   },
   {
+    type: "know-it",
     term: "Condensation Reaction",
     year: 12,
     category: "Organic Chemistry",
@@ -464,6 +505,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Ester", "Polymer", "Alcohol", "Carboxylic Acid", "Saponification"],
   },
   {
+    type: "know-it",
     term: "Functional Group",
     year: 12,
     category: "Organic Chemistry",
@@ -475,6 +517,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Alcohol", "Carboxylic Acid", "Ester", "Alkene", "Homologous Series"],
   },
   {
+    type: "know-it",
     term: "Isomer",
     year: 12,
     category: "Organic Chemistry",
@@ -486,6 +529,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Functional Group", "Alkane", "Alkene", "Organic Compound", "Homologous Series"],
   },
   {
+    type: "know-it",
     term: "Homologous Series",
     year: 12,
     category: "Organic Chemistry",
@@ -497,6 +541,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Alkane", "Alkene", "Alcohol", "Functional Group", "Organic Compound"],
   },
   {
+    type: "know-it",
     term: "Saponification",
     year: 12,
     category: "Organic Chemistry",
@@ -511,6 +556,7 @@ export const CHEMISTRY_WORDS = [
   // ── CHEMICAL MONITORING (15 terms) ───────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Qualitative Analysis",
     year: 12,
     category: "Chemical Monitoring",
@@ -522,6 +568,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Quantitative Analysis", "Flame Test", "Gravimetric Analysis", "Volumetric Analysis", "Accuracy"],
   },
   {
+    type: "know-it",
     term: "Quantitative Analysis",
     year: 12,
     category: "Chemical Monitoring",
@@ -533,6 +580,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Qualitative Analysis", "Gravimetric Analysis", "Volumetric Analysis", "Titration", "Accuracy"],
   },
   {
+    type: "know-it",
     term: "Gravimetric Analysis",
     year: 12,
     category: "Chemical Monitoring",
@@ -544,6 +592,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Quantitative Analysis", "Volumetric Analysis", "Qualitative Analysis", "Accuracy", "Precision"],
   },
   {
+    type: "know-it",
     term: "Volumetric Analysis",
     year: 12,
     category: "Chemical Monitoring",
@@ -555,6 +604,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Quantitative Analysis", "Titration", "Gravimetric Analysis", "Accuracy", "Precision"],
   },
   {
+    type: "know-it",
     term: "Spectroscopy",
     year: 12,
     category: "Chemical Monitoring",
@@ -566,6 +616,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Mass Spectrometry", "Chromatography", "Quantitative Analysis", "Calibration", "Accuracy"],
   },
   {
+    type: "know-it",
     term: "Mass Spectrometry",
     year: 12,
     category: "Chemical Monitoring",
@@ -577,6 +628,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Spectroscopy", "Chromatography", "Qualitative Analysis", "Quantitative Analysis", "Accuracy"],
   },
   {
+    type: "know-it",
     term: "Chromatography",
     year: 12,
     category: "Chemical Monitoring",
@@ -588,6 +640,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Spectroscopy", "Qualitative Analysis", "Quantitative Analysis", "Accuracy", "Reliability"],
   },
   {
+    type: "know-it",
     term: "Flame Test",
     year: 12,
     category: "Chemical Monitoring",
@@ -599,6 +652,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Qualitative Analysis", "Spectroscopy", "Emission Spectrum", "Quantitative Analysis", "Accuracy"],
   },
   {
+    type: "know-it",
     term: "Calibration",
     year: 12,
     category: "Chemical Monitoring",
@@ -610,6 +664,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Spectroscopy", "Quantitative Analysis", "Accuracy", "Precision", "Reliability"],
   },
   {
+    type: "know-it",
     term: "Accuracy",
     year: 12,
     category: "Chemical Monitoring",
@@ -621,6 +676,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Precision", "Reliability", "Validity", "Systematic Error", "Random Error"],
   },
   {
+    type: "know-it",
     term: "Precision",
     year: 12,
     category: "Chemical Monitoring",
@@ -632,6 +688,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Accuracy", "Reliability", "Random Error", "Systematic Error", "Validity"],
   },
   {
+    type: "know-it",
     term: "Reliability",
     year: 12,
     category: "Chemical Monitoring",
@@ -643,6 +700,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Accuracy", "Precision", "Validity", "Systematic Error", "Random Error"],
   },
   {
+    type: "know-it",
     term: "Validity",
     year: 12,
     category: "Chemical Monitoring",
@@ -654,6 +712,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Reliability", "Accuracy", "Precision", "Systematic Error", "Random Error"],
   },
   {
+    type: "know-it",
     term: "Systematic Error",
     year: 12,
     category: "Chemical Monitoring",
@@ -665,6 +724,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Random Error", "Accuracy", "Precision", "Reliability", "Validity"],
   },
   {
+    type: "know-it",
     term: "Random Error",
     year: 12,
     category: "Chemical Monitoring",
@@ -679,6 +739,7 @@ export const CHEMISTRY_WORDS = [
   // ── APPLYING CHEMISTRY (15 terms) ─────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Corrosion",
     year: 12,
     category: "Applying Chemistry",
@@ -690,6 +751,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Galvanic Cell", "Oxidation", "Reduction", "Sacrificial Anode", "Electrochemical Series"],
   },
   {
+    type: "know-it",
     term: "Galvanic Cell",
     year: 12,
     category: "Applying Chemistry",
@@ -701,6 +763,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Electrolysis", "Oxidation", "Reduction", "Corrosion", "Electrochemical Series"],
   },
   {
+    type: "know-it",
     term: "Electrolysis",
     year: 12,
     category: "Applying Chemistry",
@@ -712,6 +775,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Galvanic Cell", "Oxidation", "Reduction", "Redox Reaction", "Electrochemical Series"],
   },
   {
+    type: "know-it",
     term: "Oxidation",
     year: 12,
     category: "Applying Chemistry",
@@ -723,6 +787,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Reduction", "Redox Reaction", "Galvanic Cell", "Corrosion", "Electrochemical Series"],
   },
   {
+    type: "know-it",
     term: "Reduction",
     year: 12,
     category: "Applying Chemistry",
@@ -734,6 +799,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Oxidation", "Redox Reaction", "Galvanic Cell", "Electrolysis", "Electrochemical Series"],
   },
   {
+    type: "know-it",
     term: "Redox Reaction",
     year: 12,
     category: "Applying Chemistry",
@@ -745,6 +811,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Oxidation", "Reduction", "Galvanic Cell", "Electrolysis", "Electrochemical Series"],
   },
   {
+    type: "know-it",
     term: "Electrochemical Series",
     year: 12,
     category: "Applying Chemistry",
@@ -756,6 +823,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Redox Reaction", "Galvanic Cell", "Oxidation", "Reduction", "Sacrificial Anode"],
   },
   {
+    type: "know-it",
     term: "Sacrificial Anode",
     year: 12,
     category: "Applying Chemistry",
@@ -767,6 +835,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Corrosion", "Galvanic Cell", "Electrochemical Series", "Oxidation", "Redox Reaction"],
   },
   {
+    type: "know-it",
     term: "Fuel Cell",
     year: 12,
     category: "Applying Chemistry",
@@ -778,6 +847,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Galvanic Cell", "Redox Reaction", "Oxidation", "Reduction", "Electrolysis"],
   },
   {
+    type: "know-it",
     term: "Industrial Chemistry",
     year: 12,
     category: "Applying Chemistry",
@@ -789,6 +859,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Haber Process", "Contact Process", "Solvay Process", "Le Chatelier\'s Principle", "Green Chemistry"],
   },
   {
+    type: "know-it",
     term: "Haber Process",
     year: 12,
     category: "Applying Chemistry",
@@ -800,6 +871,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Le Chatelier\'s Principle", "Chemical Equilibrium", "Contact Process", "Industrial Chemistry", "Green Chemistry"],
   },
   {
+    type: "know-it",
     term: "Contact Process",
     year: 12,
     category: "Applying Chemistry",
@@ -811,6 +883,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Haber Process", "Le Chatelier\'s Principle", "Industrial Chemistry", "Chemical Equilibrium", "Green Chemistry"],
   },
   {
+    type: "know-it",
     term: "Solvay Process",
     year: 12,
     category: "Applying Chemistry",
@@ -822,6 +895,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Industrial Chemistry", "Haber Process", "Contact Process", "Green Chemistry", "Le Chatelier\'s Principle"],
   },
   {
+    type: "know-it",
     term: "Green Chemistry",
     year: 12,
     category: "Applying Chemistry",
@@ -833,6 +907,7 @@ export const CHEMISTRY_WORDS = [
     related: ["Industrial Chemistry", "Haber Process", "Contact Process", "Solvay Process", "Chemical Monitoring"],
   },
   {
+    type: "know-it",
     term: "Chemical Safety",
     year: 12,
     category: "Applying Chemistry",

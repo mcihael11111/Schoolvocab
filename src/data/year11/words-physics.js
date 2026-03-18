@@ -7,6 +7,7 @@ export const Y11_PHYSICS = [
   // ── KINEMATICS (15 terms) ──────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Scalar",
     year: 11,
     category: "Kinematics",
@@ -18,6 +19,7 @@ export const Y11_PHYSICS = [
     related: ["Vector", "Displacement", "Velocity"],
   },
   {
+    type: "know-it",
     term: "Vector",
     year: 11,
     category: "Kinematics",
@@ -29,6 +31,7 @@ export const Y11_PHYSICS = [
     related: ["Scalar", "Displacement", "Velocity"],
   },
   {
+    type: "know-it",
     term: "Displacement",
     year: 11,
     category: "Kinematics",
@@ -40,6 +43,7 @@ export const Y11_PHYSICS = [
     related: ["Velocity", "Vector", "Distance-Time Graph"],
   },
   {
+    type: "know-it",
     term: "Velocity",
     year: 11,
     category: "Kinematics",
@@ -51,6 +55,7 @@ export const Y11_PHYSICS = [
     related: ["Instantaneous Velocity", "Average Velocity", "Acceleration"],
   },
   {
+    type: "know-it",
     term: "Instantaneous Velocity",
     year: 11,
     category: "Kinematics",
@@ -62,6 +67,7 @@ export const Y11_PHYSICS = [
     related: ["Average Velocity", "Velocity", "Velocity-Time Graph"],
   },
   {
+    type: "know-it",
     term: "Average Velocity",
     year: 11,
     category: "Kinematics",
@@ -73,6 +79,7 @@ export const Y11_PHYSICS = [
     related: ["Instantaneous Velocity", "Displacement", "Velocity"],
   },
   {
+    type: "know-it",
     term: "Acceleration",
     year: 11,
     category: "Kinematics",
@@ -84,6 +91,7 @@ export const Y11_PHYSICS = [
     related: ["Uniform Acceleration", "Velocity", "Equations of Motion"],
   },
   {
+    type: "know-it",
     term: "Uniform Acceleration",
     year: 11,
     category: "Kinematics",
@@ -95,6 +103,7 @@ export const Y11_PHYSICS = [
     related: ["Acceleration", "Equations of Motion", "Free Fall"],
   },
   {
+    type: "know-it",
     term: "Equations of Motion",
     year: 11,
     category: "Kinematics",
@@ -106,6 +115,7 @@ export const Y11_PHYSICS = [
     related: ["Uniform Acceleration", "Free Fall", "Projectile"],
   },
   {
+    type: "know-it",
     term: "Free Fall",
     year: 11,
     category: "Kinematics",
@@ -117,6 +127,7 @@ export const Y11_PHYSICS = [
     related: ["Equations of Motion", "Uniform Acceleration", "Projectile"],
   },
   {
+    type: "know-it",
     term: "Projectile",
     year: 11,
     category: "Kinematics",
@@ -128,6 +139,7 @@ export const Y11_PHYSICS = [
     related: ["Free Fall", "Equations of Motion", "Vector"],
   },
   {
+    type: "know-it",
     term: "Relative Motion",
     year: 11,
     category: "Kinematics",
@@ -139,6 +151,7 @@ export const Y11_PHYSICS = [
     related: ["Reference Frame", "Vector", "Velocity"],
   },
   {
+    type: "know-it",
     term: "Reference Frame",
     year: 11,
     category: "Kinematics",
@@ -150,6 +163,7 @@ export const Y11_PHYSICS = [
     related: ["Relative Motion", "Displacement", "Velocity"],
   },
   {
+    type: "know-it",
     term: "Distance-Time Graph",
     year: 11,
     category: "Kinematics",
@@ -161,6 +175,7 @@ export const Y11_PHYSICS = [
     related: ["Velocity-Time Graph", "Displacement", "Velocity"],
   },
   {
+    type: "know-it",
     term: "Velocity-Time Graph",
     year: 11,
     category: "Kinematics",
@@ -175,6 +190,7 @@ export const Y11_PHYSICS = [
   // ── DYNAMICS (15 terms) ────────────────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Newton's First Law",
     year: 11,
     category: "Dynamics",
@@ -186,6 +202,7 @@ export const Y11_PHYSICS = [
     related: ["Newton's Second Law", "Net Force", "Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Newton's Second Law",
     year: 11,
     category: "Dynamics",
@@ -197,6 +214,7 @@ export const Y11_PHYSICS = [
     related: ["Newton's First Law", "Net Force", "Momentum"],
   },
   {
+    type: "know-it",
     term: "Newton's Third Law",
     year: 11,
     category: "Dynamics",
@@ -208,6 +226,7 @@ export const Y11_PHYSICS = [
     related: ["Newton's First Law", "Newton's Second Law", "Net Force"],
   },
   {
+    type: "know-it",
     term: "Net Force",
     year: 11,
     category: "Dynamics",
@@ -219,6 +238,7 @@ export const Y11_PHYSICS = [
     related: ["Newton's Second Law", "Friction", "Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Friction",
     year: 11,
     category: "Dynamics",
@@ -230,6 +250,7 @@ export const Y11_PHYSICS = [
     related: ["Normal Force", "Net Force", "Inclined Plane"],
   },
   {
+    type: "know-it",
     term: "Normal Force",
     year: 11,
     category: "Dynamics",
@@ -241,6 +262,7 @@ export const Y11_PHYSICS = [
     related: ["Weight", "Friction", "Inclined Plane"],
   },
   {
+    type: "know-it",
     term: "Weight",
     year: 11,
     category: "Dynamics",
@@ -252,6 +274,7 @@ export const Y11_PHYSICS = [
     related: ["Normal Force", "Net Force", "Newton's Second Law"],
   },
   {
+    type: "know-it",
     term: "Tension",
     year: 11,
     category: "Dynamics",
@@ -263,6 +286,7 @@ export const Y11_PHYSICS = [
     related: ["Normal Force", "Weight", "Equilibrium"],
   },
   {
+    type: "know-it",
     term: "Equilibrium",
     year: 11,
     category: "Dynamics",
@@ -274,6 +298,7 @@ export const Y11_PHYSICS = [
     related: ["Net Force", "Newton's First Law", "Tension"],
   },
   {
+    type: "know-it",
     term: "Inclined Plane",
     year: 11,
     category: "Dynamics",
@@ -285,6 +310,7 @@ export const Y11_PHYSICS = [
     related: ["Normal Force", "Friction", "Net Force"],
   },
   {
+    type: "know-it",
     term: "Momentum",
     year: 11,
     category: "Dynamics",
@@ -296,6 +322,7 @@ export const Y11_PHYSICS = [
     related: ["Impulse", "Conservation of Momentum", "Newton's Second Law"],
   },
   {
+    type: "know-it",
     term: "Impulse",
     year: 11,
     category: "Dynamics",
@@ -307,6 +334,7 @@ export const Y11_PHYSICS = [
     related: ["Momentum", "Conservation of Momentum", "Newton's Second Law"],
   },
   {
+    type: "know-it",
     term: "Conservation of Momentum",
     year: 11,
     category: "Dynamics",
@@ -318,6 +346,7 @@ export const Y11_PHYSICS = [
     related: ["Momentum", "Impulse", "Newton's Third Law"],
   },
   {
+    type: "know-it",
     term: "Work",
     year: 11,
     category: "Dynamics",
@@ -329,6 +358,7 @@ export const Y11_PHYSICS = [
     related: ["Power", "Net Force", "Momentum"],
   },
   {
+    type: "know-it",
     term: "Power",
     year: 11,
     category: "Dynamics",
@@ -343,6 +373,7 @@ export const Y11_PHYSICS = [
   // ── WAVES & THERMODYNAMICS (15 terms) ──────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Transverse Wave",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -354,6 +385,7 @@ export const Y11_PHYSICS = [
     related: ["Longitudinal Wave", "Wavelength", "Amplitude"],
   },
   {
+    type: "know-it",
     term: "Longitudinal Wave",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -365,6 +397,7 @@ export const Y11_PHYSICS = [
     related: ["Transverse Wave", "Frequency", "Wave Speed"],
   },
   {
+    type: "know-it",
     term: "Wavelength",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -376,6 +409,7 @@ export const Y11_PHYSICS = [
     related: ["Frequency", "Wave Speed", "Period"],
   },
   {
+    type: "know-it",
     term: "Frequency",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -387,6 +421,7 @@ export const Y11_PHYSICS = [
     related: ["Period", "Wavelength", "Wave Speed"],
   },
   {
+    type: "know-it",
     term: "Amplitude",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -398,6 +433,7 @@ export const Y11_PHYSICS = [
     related: ["Wavelength", "Frequency", "Wave Speed"],
   },
   {
+    type: "know-it",
     term: "Period",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -409,6 +445,7 @@ export const Y11_PHYSICS = [
     related: ["Frequency", "Wavelength", "Wave Speed"],
   },
   {
+    type: "know-it",
     term: "Wave Speed",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -420,6 +457,7 @@ export const Y11_PHYSICS = [
     related: ["Wavelength", "Frequency", "Refraction"],
   },
   {
+    type: "know-it",
     term: "Reflection",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -431,6 +469,7 @@ export const Y11_PHYSICS = [
     related: ["Refraction", "Diffraction", "Wave Speed"],
   },
   {
+    type: "know-it",
     term: "Refraction",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -442,6 +481,7 @@ export const Y11_PHYSICS = [
     related: ["Reflection", "Diffraction", "Wave Speed"],
   },
   {
+    type: "know-it",
     term: "Diffraction",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -453,6 +493,7 @@ export const Y11_PHYSICS = [
     related: ["Reflection", "Refraction", "Superposition"],
   },
   {
+    type: "know-it",
     term: "Superposition",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -464,6 +505,7 @@ export const Y11_PHYSICS = [
     related: ["Resonance", "Standing Wave", "Diffraction"],
   },
   {
+    type: "know-it",
     term: "Resonance",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -475,6 +517,7 @@ export const Y11_PHYSICS = [
     related: ["Standing Wave", "Superposition", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Standing Wave",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -486,6 +529,7 @@ export const Y11_PHYSICS = [
     related: ["Superposition", "Resonance", "Wavelength"],
   },
   {
+    type: "know-it",
     term: "Temperature",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -497,6 +541,7 @@ export const Y11_PHYSICS = [
     related: ["Thermal Equilibrium", "Wave Speed", "Frequency"],
   },
   {
+    type: "know-it",
     term: "Thermal Equilibrium",
     year: 11,
     category: "Waves & Thermodynamics",
@@ -511,6 +556,7 @@ export const Y11_PHYSICS = [
   // ── ELECTRICITY & MAGNETISM (15 terms) ─────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Electric Charge",
     year: 11,
     category: "Electricity & Magnetism",
@@ -522,6 +568,7 @@ export const Y11_PHYSICS = [
     related: ["Coulomb's Law", "Electric Field", "Current"],
   },
   {
+    type: "know-it",
     term: "Coulomb's Law",
     year: 11,
     category: "Electricity & Magnetism",
@@ -533,6 +580,7 @@ export const Y11_PHYSICS = [
     related: ["Electric Charge", "Electric Field", "Potential Difference"],
   },
   {
+    type: "know-it",
     term: "Electric Field",
     year: 11,
     category: "Electricity & Magnetism",
@@ -544,6 +592,7 @@ export const Y11_PHYSICS = [
     related: ["Electric Charge", "Coulomb's Law", "Potential Difference"],
   },
   {
+    type: "know-it",
     term: "Potential Difference",
     year: 11,
     category: "Electricity & Magnetism",
@@ -555,6 +604,7 @@ export const Y11_PHYSICS = [
     related: ["Current", "Resistance", "Ohm's Law"],
   },
   {
+    type: "know-it",
     term: "Current",
     year: 11,
     category: "Electricity & Magnetism",
@@ -566,6 +616,7 @@ export const Y11_PHYSICS = [
     related: ["Potential Difference", "Resistance", "Ohm's Law"],
   },
   {
+    type: "know-it",
     term: "Resistance",
     year: 11,
     category: "Electricity & Magnetism",
@@ -577,6 +628,7 @@ export const Y11_PHYSICS = [
     related: ["Current", "Ohm's Law", "Power Dissipation"],
   },
   {
+    type: "know-it",
     term: "Ohm's Law",
     year: 11,
     category: "Electricity & Magnetism",
@@ -588,6 +640,7 @@ export const Y11_PHYSICS = [
     related: ["Current", "Resistance", "Potential Difference"],
   },
   {
+    type: "know-it",
     term: "Series Circuit",
     year: 11,
     category: "Electricity & Magnetism",
@@ -599,6 +652,7 @@ export const Y11_PHYSICS = [
     related: ["Parallel Circuit", "Ohm's Law", "Resistance"],
   },
   {
+    type: "know-it",
     term: "Parallel Circuit",
     year: 11,
     category: "Electricity & Magnetism",
@@ -610,6 +664,7 @@ export const Y11_PHYSICS = [
     related: ["Series Circuit", "Ohm's Law", "Current"],
   },
   {
+    type: "know-it",
     term: "Power Dissipation",
     year: 11,
     category: "Electricity & Magnetism",
@@ -621,6 +676,7 @@ export const Y11_PHYSICS = [
     related: ["Resistance", "Ohm's Law", "Current"],
   },
   {
+    type: "know-it",
     term: "Magnetic Field",
     year: 11,
     category: "Electricity & Magnetism",
@@ -632,6 +688,7 @@ export const Y11_PHYSICS = [
     related: ["Electromagnetic Induction", "Solenoid", "Motor Effect"],
   },
   {
+    type: "know-it",
     term: "Electromagnetic Induction",
     year: 11,
     category: "Electricity & Magnetism",
@@ -643,6 +700,7 @@ export const Y11_PHYSICS = [
     related: ["Magnetic Field", "Lenz's Law", "Solenoid"],
   },
   {
+    type: "know-it",
     term: "Solenoid",
     year: 11,
     category: "Electricity & Magnetism",
@@ -654,6 +712,7 @@ export const Y11_PHYSICS = [
     related: ["Magnetic Field", "Electromagnetic Induction", "Motor Effect"],
   },
   {
+    type: "know-it",
     term: "Motor Effect",
     year: 11,
     category: "Electricity & Magnetism",
@@ -665,6 +724,7 @@ export const Y11_PHYSICS = [
     related: ["Magnetic Field", "Electromagnetic Induction", "Lenz's Law"],
   },
   {
+    type: "know-it",
     term: "Lenz's Law",
     year: 11,
     category: "Electricity & Magnetism",

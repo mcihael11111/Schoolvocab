@@ -7,6 +7,7 @@ export const Y11_BIOLOGY = [
   // ── CELLS AS THE BASIS OF LIFE (15 terms) ──────────────────────────────────
 
   {
+    type: "know-it",
     term: "Cell Membrane",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -18,6 +19,7 @@ export const Y11_BIOLOGY = [
     related: ["Fluid Mosaic Model", "Active Transport", "Passive Transport"],
   },
   {
+    type: "know-it",
     term: "Organelle",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -29,6 +31,7 @@ export const Y11_BIOLOGY = [
     related: ["Cell Membrane", "Cell Cycle", "Cell Specialisation"],
   },
   {
+    type: "know-it",
     term: "Prokaryote & Eukaryote",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -40,6 +43,7 @@ export const Y11_BIOLOGY = [
     related: ["Organelle", "Cell Membrane", "Mitosis"],
   },
   {
+    type: "know-it",
     term: "Endocytosis",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -51,6 +55,7 @@ export const Y11_BIOLOGY = [
     related: ["Exocytosis", "Cell Membrane", "Active Transport"],
   },
   {
+    type: "know-it",
     term: "Exocytosis",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -62,6 +67,7 @@ export const Y11_BIOLOGY = [
     related: ["Endocytosis", "Cell Membrane", "Active Transport"],
   },
   {
+    type: "know-it",
     term: "Fluid Mosaic Model",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -73,6 +79,7 @@ export const Y11_BIOLOGY = [
     related: ["Cell Membrane", "Active Transport", "Passive Transport"],
   },
   {
+    type: "know-it",
     term: "Active Transport",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -84,6 +91,7 @@ export const Y11_BIOLOGY = [
     related: ["Passive Transport", "Cell Membrane", "Osmosis"],
   },
   {
+    type: "know-it",
     term: "Passive Transport",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -95,6 +103,7 @@ export const Y11_BIOLOGY = [
     related: ["Active Transport", "Diffusion", "Osmosis"],
   },
   {
+    type: "know-it",
     term: "Osmosis",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -106,6 +115,7 @@ export const Y11_BIOLOGY = [
     related: ["Diffusion", "Passive Transport", "Cell Membrane"],
   },
   {
+    type: "know-it",
     term: "Diffusion",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -117,6 +127,7 @@ export const Y11_BIOLOGY = [
     related: ["Osmosis", "Passive Transport", "Cell Membrane"],
   },
   {
+    type: "know-it",
     term: "Mitosis",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -128,6 +139,7 @@ export const Y11_BIOLOGY = [
     related: ["Cell Cycle", "Stem Cells", "Apoptosis"],
   },
   {
+    type: "know-it",
     term: "Cell Cycle",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -139,6 +151,7 @@ export const Y11_BIOLOGY = [
     related: ["Mitosis", "Apoptosis", "Stem Cells"],
   },
   {
+    type: "know-it",
     term: "Stem Cells",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -150,6 +163,7 @@ export const Y11_BIOLOGY = [
     related: ["Cell Specialisation", "Mitosis", "Cell Cycle"],
   },
   {
+    type: "know-it",
     term: "Apoptosis",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -161,6 +175,7 @@ export const Y11_BIOLOGY = [
     related: ["Cell Cycle", "Mitosis", "Cell Specialisation"],
   },
   {
+    type: "know-it",
     term: "Cell Specialisation",
     year: 11,
     category: "Cells as the Basis of Life",
@@ -175,6 +190,7 @@ export const Y11_BIOLOGY = [
   // ── ORGANISATION OF LIVING THINGS (15 terms) ───────────────────────────────
 
   {
+    type: "know-it",
     term: "Levels of Organisation",
     year: 11,
     category: "Organisation of Living Things",
@@ -186,6 +202,7 @@ export const Y11_BIOLOGY = [
     related: ["Tissue Types", "Homeostasis", "Enzymes"],
   },
   {
+    type: "know-it",
     term: "Tissue Types",
     year: 11,
     category: "Organisation of Living Things",
@@ -197,6 +214,7 @@ export const Y11_BIOLOGY = [
     related: ["Levels of Organisation", "Gas Exchange", "Digestive System"],
   },
   {
+    type: "know-it",
     term: "Transport in Plants (Xylem & Phloem)",
     year: 11,
     category: "Organisation of Living Things",
@@ -208,6 +226,7 @@ export const Y11_BIOLOGY = [
     related: ["Surface Area to Volume Ratio", "Autotroph", "Nutrition"],
   },
   {
+    type: "know-it",
     term: "Gas Exchange",
     year: 11,
     category: "Organisation of Living Things",
@@ -219,6 +238,7 @@ export const Y11_BIOLOGY = [
     related: ["Respiratory System", "Surface Area to Volume Ratio", "Diffusion"],
   },
   {
+    type: "know-it",
     term: "Circulatory System",
     year: 11,
     category: "Organisation of Living Things",
@@ -230,6 +250,7 @@ export const Y11_BIOLOGY = [
     related: ["Gas Exchange", "Respiratory System", "Homeostasis"],
   },
   {
+    type: "know-it",
     term: "Digestive System",
     year: 11,
     category: "Organisation of Living Things",
@@ -241,6 +262,7 @@ export const Y11_BIOLOGY = [
     related: ["Enzymes", "Nutrition", "Levels of Organisation"],
   },
   {
+    type: "know-it",
     term: "Excretory System",
     year: 11,
     category: "Organisation of Living Things",
@@ -252,6 +274,7 @@ export const Y11_BIOLOGY = [
     related: ["Homeostasis", "Respiratory System", "Circulatory System"],
   },
   {
+    type: "know-it",
     term: "Respiratory System",
     year: 11,
     category: "Organisation of Living Things",
@@ -263,6 +286,7 @@ export const Y11_BIOLOGY = [
     related: ["Gas Exchange", "Circulatory System", "Surface Area to Volume Ratio"],
   },
   {
+    type: "know-it",
     term: "Surface Area to Volume Ratio",
     year: 11,
     category: "Organisation of Living Things",
@@ -274,6 +298,7 @@ export const Y11_BIOLOGY = [
     related: ["Gas Exchange", "Diffusion", "Levels of Organisation"],
   },
   {
+    type: "know-it",
     term: "Homeostasis",
     year: 11,
     category: "Organisation of Living Things",
@@ -285,6 +310,7 @@ export const Y11_BIOLOGY = [
     related: ["Enzymes", "Excretory System", "Circulatory System"],
   },
   {
+    type: "know-it",
     term: "Enzymes",
     year: 11,
     category: "Organisation of Living Things",
@@ -296,6 +322,7 @@ export const Y11_BIOLOGY = [
     related: ["Homeostasis", "Digestive System", "Nutrition"],
   },
   {
+    type: "know-it",
     term: "Nutrition",
     year: 11,
     category: "Organisation of Living Things",
@@ -307,6 +334,7 @@ export const Y11_BIOLOGY = [
     related: ["Autotroph", "Heterotroph", "Enzymes"],
   },
   {
+    type: "know-it",
     term: "Autotroph",
     year: 11,
     category: "Organisation of Living Things",
@@ -318,6 +346,7 @@ export const Y11_BIOLOGY = [
     related: ["Heterotroph", "Decomposer", "Nutrition"],
   },
   {
+    type: "know-it",
     term: "Heterotroph",
     year: 11,
     category: "Organisation of Living Things",
@@ -329,6 +358,7 @@ export const Y11_BIOLOGY = [
     related: ["Autotroph", "Decomposer", "Nutrition"],
   },
   {
+    type: "know-it",
     term: "Decomposer",
     year: 11,
     category: "Organisation of Living Things",
@@ -343,6 +373,7 @@ export const Y11_BIOLOGY = [
   // ── BIOLOGICAL DIVERSITY (15 terms) ────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Taxonomy",
     year: 11,
     category: "Biological Diversity",
@@ -354,6 +385,7 @@ export const Y11_BIOLOGY = [
     related: ["Binomial Nomenclature", "Phylogenetic Tree", "Kingdom"],
   },
   {
+    type: "know-it",
     term: "Binomial Nomenclature",
     year: 11,
     category: "Biological Diversity",
@@ -365,6 +397,7 @@ export const Y11_BIOLOGY = [
     related: ["Taxonomy", "Phylogenetic Tree", "Domain"],
   },
   {
+    type: "know-it",
     term: "Phylogenetic Tree",
     year: 11,
     category: "Biological Diversity",
@@ -376,6 +409,7 @@ export const Y11_BIOLOGY = [
     related: ["Cladistics", "Taxonomy", "Molecular Phylogenetics"],
   },
   {
+    type: "know-it",
     term: "Dichotomous Key",
     year: 11,
     category: "Biological Diversity",
@@ -387,6 +421,7 @@ export const Y11_BIOLOGY = [
     related: ["Taxonomy", "Binomial Nomenclature", "Phylum"],
   },
   {
+    type: "know-it",
     term: "Cladistics",
     year: 11,
     category: "Biological Diversity",
@@ -398,6 +433,7 @@ export const Y11_BIOLOGY = [
     related: ["Phylogenetic Tree", "Homologous Structures", "Molecular Phylogenetics"],
   },
   {
+    type: "know-it",
     term: "Domain",
     year: 11,
     category: "Biological Diversity",
@@ -409,6 +445,7 @@ export const Y11_BIOLOGY = [
     related: ["Kingdom", "Taxonomy", "Molecular Phylogenetics"],
   },
   {
+    type: "know-it",
     term: "Kingdom",
     year: 11,
     category: "Biological Diversity",
@@ -420,6 +457,7 @@ export const Y11_BIOLOGY = [
     related: ["Domain", "Phylum", "Taxonomy"],
   },
   {
+    type: "know-it",
     term: "Phylum",
     year: 11,
     category: "Biological Diversity",
@@ -431,6 +469,7 @@ export const Y11_BIOLOGY = [
     related: ["Kingdom", "Taxonomy", "Homologous Structures"],
   },
   {
+    type: "know-it",
     term: "Homologous Structures",
     year: 11,
     category: "Biological Diversity",
@@ -442,6 +481,7 @@ export const Y11_BIOLOGY = [
     related: ["Analogous Structures", "Divergent Evolution", "Cladistics"],
   },
   {
+    type: "know-it",
     term: "Analogous Structures",
     year: 11,
     category: "Biological Diversity",
@@ -453,6 +493,7 @@ export const Y11_BIOLOGY = [
     related: ["Homologous Structures", "Convergent Evolution", "Adaptive Radiation"],
   },
   {
+    type: "know-it",
     term: "Convergent Evolution",
     year: 11,
     category: "Biological Diversity",
@@ -464,6 +505,7 @@ export const Y11_BIOLOGY = [
     related: ["Divergent Evolution", "Analogous Structures", "Adaptive Radiation"],
   },
   {
+    type: "know-it",
     term: "Divergent Evolution",
     year: 11,
     category: "Biological Diversity",
@@ -475,6 +517,7 @@ export const Y11_BIOLOGY = [
     related: ["Convergent Evolution", "Homologous Structures", "Adaptive Radiation"],
   },
   {
+    type: "know-it",
     term: "Adaptive Radiation",
     year: 11,
     category: "Biological Diversity",
@@ -486,6 +529,7 @@ export const Y11_BIOLOGY = [
     related: ["Divergent Evolution", "Convergent Evolution", "Biogeography"],
   },
   {
+    type: "know-it",
     term: "Biogeography",
     year: 11,
     category: "Biological Diversity",
@@ -497,6 +541,7 @@ export const Y11_BIOLOGY = [
     related: ["Adaptive Radiation", "Convergent Evolution", "Phylogenetic Tree"],
   },
   {
+    type: "know-it",
     term: "Molecular Phylogenetics",
     year: 11,
     category: "Biological Diversity",
@@ -511,6 +556,7 @@ export const Y11_BIOLOGY = [
   // ── ECOSYSTEM DYNAMICS (15 terms) ──────────────────────────────────────────
 
   {
+    type: "know-it",
     term: "Biotic Factor",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -522,6 +568,7 @@ export const Y11_BIOLOGY = [
     related: ["Abiotic Factor", "Ecological Niche", "Trophic Level"],
   },
   {
+    type: "know-it",
     term: "Abiotic Factor",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -533,6 +580,7 @@ export const Y11_BIOLOGY = [
     related: ["Biotic Factor", "Ecological Niche", "Biodiversity"],
   },
   {
+    type: "know-it",
     term: "Trophic Level",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -544,6 +592,7 @@ export const Y11_BIOLOGY = [
     related: ["Biomass", "Ecological Niche", "Biodiversity"],
   },
   {
+    type: "know-it",
     term: "Biomass",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -555,6 +604,7 @@ export const Y11_BIOLOGY = [
     related: ["Trophic Level", "Ecological Niche", "Biodiversity"],
   },
   {
+    type: "know-it",
     term: "Ecological Niche",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -566,6 +616,7 @@ export const Y11_BIOLOGY = [
     related: ["Keystone Species", "Biodiversity", "Carrying Capacity"],
   },
   {
+    type: "know-it",
     term: "Keystone Species",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -577,6 +628,7 @@ export const Y11_BIOLOGY = [
     related: ["Ecological Niche", "Biodiversity", "Conservation Biology"],
   },
   {
+    type: "know-it",
     term: "Succession",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -588,6 +640,7 @@ export const Y11_BIOLOGY = [
     related: ["Biodiversity", "Carrying Capacity", "Population Dynamics"],
   },
   {
+    type: "know-it",
     term: "Carrying Capacity",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -599,6 +652,7 @@ export const Y11_BIOLOGY = [
     related: ["Population Dynamics", "Ecological Niche", "Biodiversity"],
   },
   {
+    type: "know-it",
     term: "Population Dynamics",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -610,6 +664,7 @@ export const Y11_BIOLOGY = [
     related: ["Carrying Capacity", "Biodiversity", "Introduced Species"],
   },
   {
+    type: "know-it",
     term: "Biodiversity",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -621,6 +676,7 @@ export const Y11_BIOLOGY = [
     related: ["Conservation Biology", "Habitat Fragmentation", "Ecological Footprint"],
   },
   {
+    type: "know-it",
     term: "Conservation Biology",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -632,6 +688,7 @@ export const Y11_BIOLOGY = [
     related: ["Biodiversity", "Habitat Fragmentation", "Introduced Species"],
   },
   {
+    type: "know-it",
     term: "Habitat Fragmentation",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -643,6 +700,7 @@ export const Y11_BIOLOGY = [
     related: ["Conservation Biology", "Biodiversity", "Ecological Footprint"],
   },
   {
+    type: "know-it",
     term: "Introduced Species",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -654,6 +712,7 @@ export const Y11_BIOLOGY = [
     related: ["Biodiversity", "Population Dynamics", "Conservation Biology"],
   },
   {
+    type: "know-it",
     term: "Bioaccumulation",
     year: 11,
     category: "Ecosystem Dynamics",
@@ -665,6 +724,7 @@ export const Y11_BIOLOGY = [
     related: ["Trophic Level", "Biodiversity", "Ecological Footprint"],
   },
   {
+    type: "know-it",
     term: "Ecological Footprint",
     year: 11,
     category: "Ecosystem Dynamics",

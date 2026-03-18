@@ -92,7 +92,7 @@ export default function App() {
       const words = getWordsForCategory(cat);
       if (words.length === 0) continue;
       if (words.every(w => completedTerms.has(w.term)) && !words.every(w => prev.has(w.term))) {
-        showToast({ message: `${cat.name} mastered! All terms complete.` });
+        showToast({ message: `${cat.name} mastered! All concepts complete.` });
       }
     }
     prevCompletedRef.current = completedTerms;
@@ -148,7 +148,7 @@ export default function App() {
         {/* Home */}
         <Route path="/" element={
           <>
-            <SEOHead title={null} description="Master school vocabulary from Year 7 to Year 12 — across every subject, one term at a time." />
+            <SEOHead title={null} description="Master key concepts from Year 7 to Year 12 — across every subject, one concept at a time." />
             <HeroSection/>
             <TermOfTheDay completedTerms={completedTerms} onOpen={openModal}/>
             {user && (

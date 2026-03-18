@@ -23,7 +23,7 @@ export function YearPage({ completedTerms = new Set(), user }) {
     <div style={{ maxWidth: 1200, margin: "0 auto", padding: "32px 24px 96px" }}>
       <SEOHead
         title={`Year ${yearNum} Subjects`}
-        description={`Browse ${subjects.length} subjects and ${yearWords.length} vocabulary terms for Year ${yearNum}.`}
+        description={`Browse ${subjects.length} subjects and ${yearWords.length} key concepts for Year ${yearNum}.`}
       />
 
       <Breadcrumbs items={[

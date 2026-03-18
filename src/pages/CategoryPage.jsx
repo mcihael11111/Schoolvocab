@@ -73,7 +73,7 @@ export function CategoryPage({ completedTerms = new Set(), user, onOpenDrawer })
 
       {words.length === 0 && (
         <div style={{ textAlign: "center", padding: "60px 0", color: "#94A3B8" }}>
-          <p style={{ fontSize: 16, fontWeight: 500 }}>More terms coming soon</p>
+          <p style={{ fontSize: 16, fontWeight: 500 }}>More concepts coming soon</p>
         </div>
       )}
     </div>
