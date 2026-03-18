@@ -19,6 +19,30 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://schoolvocab.com.au/year/7</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://schoolvocab.com.au/year/11</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,31 +61,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/biology/heredity</loc>
+    <loc>https://schoolvocab.com.au/year/12/biology/y12-heredity</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/biology/genetic-change</loc>
+    <loc>https://schoolvocab.com.au/year/12/biology/y12-genetic-change</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/biology/infectious-disease</loc>
+    <loc>https://schoolvocab.com.au/year/12/biology/y12-infectious-disease</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/biology/non-infectious-disease</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://schoolvocab.com.au/year/12/biology/evolution</loc>
+    <loc>https://schoolvocab.com.au/year/12/biology/y12-non-infectious</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -73,31 +91,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/physics/kinematics</loc>
+    <loc>https://schoolvocab.com.au/year/12/physics/y12-adv-mechanics</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/physics/dynamics</loc>
+    <loc>https://schoolvocab.com.au/year/12/physics/y12-electromagnetism</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/physics/waves-thermodynamics</loc>
+    <loc>https://schoolvocab.com.au/year/12/physics/y12-nature-of-light</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/physics/electricity-magnetism</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://schoolvocab.com.au/year/12/physics/quantum-nuclear</loc>
+    <loc>https://schoolvocab.com.au/year/12/physics/y12-origins-universe</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -109,31 +121,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/chemistry/chemical-bonding</loc>
+    <loc>https://schoolvocab.com.au/year/12/chemistry/y12-equilibrium</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/chemistry/equilibrium-acid-base</loc>
+    <loc>https://schoolvocab.com.au/year/12/chemistry/y12-acid-base</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/chemistry/organic-chemistry</loc>
+    <loc>https://schoolvocab.com.au/year/12/chemistry/y12-organic-chem</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/chemistry/chemical-monitoring</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://schoolvocab.com.au/year/12/chemistry/applying-chemistry</loc>
+    <loc>https://schoolvocab.com.au/year/12/chemistry/y12-applying-chem</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -145,31 +151,31 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/mathematics/functions-graphs</loc>
+    <loc>https://schoolvocab.com.au/year/12/mathematics/y12-functions</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/mathematics/calculus</loc>
+    <loc>https://schoolvocab.com.au/year/12/mathematics/y12-differentiation</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/mathematics/probability-statistics</loc>
+    <loc>https://schoolvocab.com.au/year/12/mathematics/y12-integration</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/mathematics/trigonometry</loc>
+    <loc>https://schoolvocab.com.au/year/12/mathematics/y12-trig-functions</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/mathematics/proof-vectors</loc>
+    <loc>https://schoolvocab.com.au/year/12/mathematics/y12-stats-prob</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -181,31 +187,31 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/english/textual-concepts</loc>
+    <loc>https://schoolvocab.com.au/year/12/english/y12-textual-analysis</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/english/narrative-poetry</loc>
+    <loc>https://schoolvocab.com.au/year/12/english/y12-essay-writing</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/english/essay-composition</loc>
+    <loc>https://schoolvocab.com.au/year/12/english/y12-literary-techniques</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/english/language-techniques</loc>
+    <loc>https://schoolvocab.com.au/year/12/english/y12-creative-writing</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/english/critical-analysis</loc>
+    <loc>https://schoolvocab.com.au/year/12/english/y12-comparative</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -217,25 +223,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/visual-arts/art-criticism-history</loc>
+    <loc>https://schoolvocab.com.au/year/12/visual-arts/y12-four-frames</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/visual-arts/conceptual-framework</loc>
+    <loc>https://schoolvocab.com.au/year/12/visual-arts/y12-art-history</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/visual-arts/structural-frame</loc>
+    <loc>https://schoolvocab.com.au/year/12/visual-arts/y12-art-making</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/12/visual-arts/art-making</loc>
+    <loc>https://schoolvocab.com.au/year/12/visual-arts/y12-art-criticism</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -265,7 +271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/biology/y11-ecosystem-dynamics</loc>
+    <loc>https://schoolvocab.com.au/year/11/biology/y11-ecosystem</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -307,7 +313,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/chemistry/y11-properties-matter</loc>
+    <loc>https://schoolvocab.com.au/year/11/chemistry/y11-matter</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -319,13 +325,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/chemistry/y11-reactive-chem</loc>
+    <loc>https://schoolvocab.com.au/year/11/chemistry/y11-reactive</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/chemistry/y11-drivers-reactions</loc>
+    <loc>https://schoolvocab.com.au/year/11/chemistry/y11-drivers</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -349,7 +355,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/mathematics/y11-calculus</loc>
+    <loc>https://schoolvocab.com.au/year/11/mathematics/y11-intro-calculus</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -373,13 +379,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/english/y11-reading-texts</loc>
+    <loc>https://schoolvocab.com.au/year/11/english/y11-reading</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/english/y11-crafting-texts</loc>
+    <loc>https://schoolvocab.com.au/year/11/english/y11-crafting</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -391,7 +397,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://schoolvocab.com.au/year/11/english/y11-analytical-writing</loc>
+    <loc>https://schoolvocab.com.au/year/11/english/y11-analytical</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -416,6 +422,342 @@
   </url>
   <url>
     <loc>https://schoolvocab.com.au/year/11/visual-arts/y11-conceptual</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/english</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/english/y7-poetry-verse</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/english/y7-narrative</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/english/y7-lang-features</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/english</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/english/y8-drama</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/english/y8-media-persuasion</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/english/y8-lang-features</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/english</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/english/y9-aus-literature</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/english/y9-classic-lit</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/english/y9-lang-features</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/english</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/english/y10-text-analysis</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/english/y10-contemporary</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/english/y10-lang-features</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/mathematics</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/mathematics/y7-observing-universe</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/mathematics/y7-forces</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/mathematics/y7-cells-classification</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/science</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/science/y8-solutions-mixtures</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/science/y8-living-systems</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/science/y8-periodic-table</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/science</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/science/y9-energy</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/science/y9-disease</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/science/y9-chemical-reactions</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/science</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/science/y10-genetics</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/science/y10-motion-waves</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/science/y10-sustainability</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/science</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/science/y7-ancient-past</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/science/y7-historical-skills</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/science/y8-medieval-world</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/history</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/history/y8-colonisation</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/history</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/history/y9-making-modern</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/history/y9-rights-freedoms</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/history</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/history/y10-modern-world</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/history/y10-australia-world</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/history</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/history/y7-landscapes</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/7/history/y7-liveability</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/history/y8-water-world</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/geography</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/8/geography/y8-interconnections</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/geography</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/geography/y9-biomes</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/9/geography/y9-changing-places</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/geography</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/geography/y10-env-change</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://schoolvocab.com.au/year/10/geography/y10-human-wellbeing</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
