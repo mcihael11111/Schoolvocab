@@ -59,8 +59,8 @@ const CATEGORIES = [
   // ── Year 12 Visual Arts ────────────────────────────────────────────────
   { id: "y12-four-frames", name: "The Four Frames", domain: "Visual Arts", year: 12, count: 15, color: "#EFF6FF", accent: "#2563EB", icon: Frame, description: "Subjective, cultural, structural, and postmodern frames of analysis." },
   { id: "y12-art-history", name: "Art Movements & History", domain: "Visual Arts", year: 12, count: 15, color: "#FFFBEB", accent: "#D97706", icon: Landmark, description: "Modernism, postmodernism, contemporary art, and historical context." },
-  { id: "y12-art-making", name: "Art Making & Practice", domain: "Visual Arts", year: 12, count: 15, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "Media, techniques, Body of Work, studio practice, and material exploration." },
-  { id: "y12-art-criticism", name: "Art Criticism & Writing", domain: "Visual Arts", year: 12, count: 15, color: "#F0FDF4", accent: "#16A34A", icon: FileText, description: "Critical writing, case studies, gallery analysis, and exhibition review." },
+  { id: "y12-art-making", name: "Body of Work", domain: "Visual Arts", year: 12, count: 15, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "Media, techniques, Body of Work, studio practice, and material exploration." },
+  { id: "y12-art-criticism", name: "Art History & Criticism", domain: "Visual Arts", year: 12, count: 15, color: "#F0FDF4", accent: "#16A34A", icon: FileText, description: "Critical writing, case studies, gallery analysis, and exhibition review." },
 
   // ═══════════════════════════════════════════════════════════════════════════
   // YEAR 11 — Preliminary HSC (NESA Module-aligned)
@@ -98,7 +98,7 @@ const CATEGORIES = [
   { id: "y11-analytical", name: "Analytical Writing", domain: "English", year: 11, count: 15, color: "#FFF1F2", accent: "#E11D48", icon: FileText, description: "Essay structure, thesis, evidence integration, and sustained argument." },
 
   // ── Year 11 Visual Arts ────────────────────────────────────────────────
-  { id: "y11-artmaking", name: "Art Making", domain: "Visual Arts", year: 11, count: 15, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "Materials, techniques, studio practice, and experimentation." },
+  { id: "y11-artmaking", name: "Art-Making & Practice", domain: "Visual Arts", year: 11, count: 15, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "Materials, techniques, studio practice, and experimentation." },
   { id: "y11-art-study", name: "Art Criticism & History", domain: "Visual Arts", year: 11, count: 15, color: "#FFFBEB", accent: "#D97706", icon: Landmark, description: "Art movements, critical analysis, and the frames of interpretation." },
   { id: "y11-conceptual", name: "Conceptual Framework", domain: "Visual Arts", year: 11, count: 15, color: "#EFF6FF", accent: "#2563EB", icon: Frame, description: "Artist, artwork, world, audience — meaning-making in art." },
 
@@ -175,11 +175,47 @@ const CATEGORIES = [
     { id: `y${y}-law-society`, name: "Law & Society", domain: "Commerce", year: y, count: 12, color: "#F8FAFC", accent: "#475569", icon: Gavel, description: `Year ${y} legal system, rights and responsibilities, and employment law.` },
   ]),
 
-  // ── Technology (Years 7-10, by NESA domain) ─────────────────────────────
-  ...[7,8,9,10].flatMap(y => [
-    { id: `y${y}-design-production`, name: "Design & Production", domain: "Technology", year: y, count: 12, color: "#F8FAFC", accent: "#475569", icon: Cog, description: `Year ${y} design process, materials, tools, and project management.` },
-    { id: `y${y}-digital-tech`, name: "Digital Technologies", domain: "Technology", year: y, count: 12, color: "#EFF6FF", accent: "#3B82F6", icon: Cpu, description: `Year ${y} computational thinking, coding, data, and digital systems.` },
-  ]),
+  // ── Technology (Years 7-8, Mandatory Technology — NESA expanded) ─────────
+  { id: "y7-design-process", name: "Design Process & Development", domain: "Technology", year: 7, count: 15, color: "#F0FDF4", accent: "#22C55E", icon: Cog, description: "Design briefs, ideation, sketching, prototyping, and evaluation." },
+  { id: "y7-materials-tech", name: "Materials & Their Properties", domain: "Technology", year: 7, count: 14, color: "#FFF7ED", accent: "#EA580C", icon: Hammer, description: "Timber, metals, plastics, textiles — properties, tools, and techniques." },
+  { id: "y7-digital-tech", name: "Digital & Computing Technology", domain: "Technology", year: 7, count: 16, color: "#EFF6FF", accent: "#3B82F6", icon: Cpu, description: "Programming, algorithms, data representation, and digital systems." },
+  { id: "y8-engineered-systems", name: "Engineered Systems & Mechanics", domain: "Technology", year: 8, count: 14, color: "#ECFEFF", accent: "#06B6D4", icon: Cog, description: "Mechanisms, electronics, pneumatics, and systems thinking." },
+  { id: "y8-food-tech", name: "Food Technology & Nutrition", domain: "Technology", year: 8, count: 15, color: "#FEF2F2", accent: "#EF4444", icon: Utensils, description: "Food science, nutrition, safety, preparation, and preservation." },
+  { id: "y8-sustainability", name: "Sustainability & Environmental Impact", domain: "Technology", year: 8, count: 11, color: "#F0FDF4", accent: "#22C55E", icon: Leaf, description: "Environmental impact, lifecycle analysis, ethical production, and e-waste." },
+
+  // ── Technology (Years 9-10, Design Innovation Technology) ───────────────
+  { id: "y9-adv-design", name: "Advanced Design Thinking & Innovation", domain: "Technology", year: 9, count: 12, color: "#F0FDF4", accent: "#22C55E", icon: Cog, description: "Human-centred design, systems thinking, innovation methodologies." },
+  { id: "y9-electronics", name: "Electronics & Automation Systems", domain: "Technology", year: 9, count: 12, color: "#FEFCE8", accent: "#EAB308", icon: Cpu, description: "Circuits, microcontrollers, sensors, robotics, and automation." },
+  { id: "y10-construction", name: "Construction & Built Environment", domain: "Technology", year: 10, count: 12, color: "#F8FAFC", accent: "#475569", icon: Building, description: "Architecture, structural principles, building materials, and sustainability." },
+  { id: "y10-adv-materials", name: "Advanced Materials & Manufacturing", domain: "Technology", year: 10, count: 12, color: "#FFF7ED", accent: "#EA580C", icon: Hammer, description: "Smart materials, CNC, 3D printing, composites, and Industry 4.0." },
+
+  // ── Visual Arts (Years 7-8, Stage 4) ────────────────────────────────────
+  { id: "y7-art-elements", name: "Elements and Principles", domain: "Visual Arts", year: 7, count: 15, color: "#FDF4FF", accent: "#A855F7", icon: Paintbrush, description: "Line, shape, form, colour, texture, space, balance, and contrast." },
+  { id: "y7-art-making", name: "Making Techniques", domain: "Visual Arts", year: 7, count: 13, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "Drawing, painting, printmaking, sculpture, and mixed media skills." },
+  { id: "y8-art-appreciation", name: "Appreciation Basics", domain: "Visual Arts", year: 8, count: 10, color: "#FFFBEB", accent: "#D97706", icon: Eye, description: "Looking at art, describing artworks, understanding artist intentions." },
+  { id: "y8-art-context", name: "Art in Context", domain: "Visual Arts", year: 8, count: 9, color: "#EEF2FF", accent: "#4F46E5", icon: Landmark, description: "Art and culture, Indigenous art, art across time and place." },
+
+  // ── Visual Arts (Years 9-10, Stage 5) ───────────────────────────────────
+  { id: "y9-conceptual-intro", name: "Conceptual Framework", domain: "Visual Arts", year: 9, count: 11, color: "#EFF6FF", accent: "#2563EB", icon: Frame, description: "Artist, artwork, world, audience — introducing frames of meaning." },
+  { id: "y9-body-of-work", name: "Body of Work", domain: "Visual Arts", year: 9, count: 10, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "Sustained practice, visual diary, experimentation, and reflection." },
+  { id: "y10-art-movements", name: "Movements and Styles", domain: "Visual Arts", year: 10, count: 12, color: "#FFFBEB", accent: "#D97706", icon: Landmark, description: "Impressionism, modernism, pop art, contemporary, and Indigenous art." },
+  { id: "y10-critical-analysis", name: "Critical Analysis", domain: "Visual Arts", year: 10, count: 10, color: "#F8FAFC", accent: "#475569", icon: Search, description: "Formal analysis, contextual analysis, comparative study, and writing." },
+
+  // ── Design & Technology HSC (Year 11 Preliminary) ──────────────────────
+  { id: "y11-dt-theory", name: "Design Theory & Practice", domain: "Design & Technology", year: 11, count: 18, color: "#F0FDF4", accent: "#22C55E", icon: Ruler, description: "Design principles, processes, innovation, and design movements." },
+  { id: "y11-dt-materials", name: "Materials & Technologies", domain: "Design & Technology", year: 11, count: 13, color: "#FFF7ED", accent: "#EA580C", icon: Hammer, description: "Material properties, selection, testing, and manufacturing processes." },
+  { id: "y11-dt-production", name: "Production & Manufacturing", domain: "Design & Technology", year: 11, count: 14, color: "#ECFEFF", accent: "#06B6D4", icon: Factory, description: "Manufacturing systems, quality control, WHS, and production planning." },
+  { id: "y11-dt-communication", name: "Communication & Research", domain: "Design & Technology", year: 11, count: 13, color: "#EEF2FF", accent: "#4F46E5", icon: FileText, description: "Technical drawing, research methods, design folio, and presentation." },
+
+  // ── Design & Technology HSC (Year 12) ──────────────────────────────────
+  { id: "y12-dt-major-project", name: "Major Design Project", domain: "Design & Technology", year: 12, count: 15, color: "#F0FDF4", accent: "#22C55E", icon: Ruler, description: "Project proposal, folio, production, testing, and evaluation." },
+  { id: "y12-dt-innovation", name: "Innovation & Emerging Technologies", domain: "Design & Technology", year: 12, count: 12, color: "#F5F3FF", accent: "#8B5CF6", icon: Cpu, description: "Emerging tech, smart materials, sustainability, and future design." },
+  { id: "y12-dt-society", name: "Design & Society", domain: "Design & Technology", year: 12, count: 10, color: "#FFFBEB", accent: "#D97706", icon: Globe2, description: "Ethical design, cultural influence, environmental responsibility." },
+  { id: "y12-dt-exam", name: "HSC Exam Preparation", domain: "Design & Technology", year: 12, count: 10, color: "#FEF2F2", accent: "#EF4444", icon: FileText, description: "Exam structure, extended response, case studies, and revision strategies." },
+
+  // ── Visual Arts HSC (Year 12 — expanded) ───────────────────────────────
+  { id: "y12-va-body-of-work", name: "Body of Work", domain: "Visual Arts", year: 12, count: 12, color: "#FFF1F2", accent: "#E11D48", icon: Paintbrush, description: "HSC Body of Work development, documentation, and submission." },
+  { id: "y12-va-written-exam", name: "HSC Written Exam Skills", domain: "Visual Arts", year: 12, count: 10, color: "#F8FAFC", accent: "#475569", icon: FileText, description: "Extended response, case study analysis, and exam technique." },
 ];
 
 export { CATEGORIES };

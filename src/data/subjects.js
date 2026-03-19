@@ -3,7 +3,7 @@
 
 import {
   BookOpen, LineChart, FlaskConical, Landmark, Globe2,
-  HeartPulse, DollarSign, Cpu, Dna, Atom, Paintbrush,
+  HeartPulse, DollarSign, Cpu, Dna, Atom, Paintbrush, Ruler,
 } from "lucide-react";
 
 const SUBJECTS = [
@@ -19,11 +19,14 @@ const SUBJECTS = [
   { id: "commerce",     name: "Commerce",       slug: "commerce",     years: [7,8,9,10],       color: "#F5F3FF", accent: "#7C3AED", icon: DollarSign },
   { id: "technology",   name: "Technology",     slug: "technology",   years: [7,8,9,10],       color: "#F8FAFC", accent: "#475569", icon: Cpu },
 
-  // Years 11-12 only (HSC electives that replace general Science)
+  // Years 7-12 (expanded)
+  { id: "visual-arts",  name: "Visual Arts",    slug: "visual-arts",  years: [7,8,9,10,11,12], color: "#FFFBEB", accent: "#D97706", icon: Paintbrush },
+
+  // Years 11-12 only (HSC electives)
   { id: "biology",      name: "Biology",        slug: "biology",      years: [11,12],          color: "#F0FDF4", accent: "#22C55E", icon: Dna },
   { id: "physics",      name: "Physics",        slug: "physics",      years: [11,12],          color: "#EFF6FF", accent: "#3B82F6", icon: Atom },
   { id: "chemistry",    name: "Chemistry",      slug: "chemistry",    years: [11,12],          color: "#ECFDF5", accent: "#059669", icon: FlaskConical },
-  { id: "visual-arts",  name: "Visual Arts",    slug: "visual-arts",  years: [11,12],          color: "#FFFBEB", accent: "#D97706", icon: Paintbrush },
+  { id: "design-tech",  name: "Design & Technology", slug: "design-technology", years: [11,12], color: "#F0FDF4", accent: "#22C55E", icon: Ruler },
 ];
 
 const YEARS = [7, 8, 9, 10, 11, 12];
